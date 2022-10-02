@@ -1,6 +1,0 @@
-{
-    "question": "第95回 午前83問\n22歳の女性。四肢のしびれと胸部絞扼感とを訴えている。胸部聴診所見は正常、呼吸数35/分、脈拍数88/分、整、血圧118/72mmHgであった。\n\nこの患者の動脈血ガス分析で最も考えられるのはどれか。",
-    "choices": "1.　pH 7.30、PaO2 66mmHg、PaCO2 49mmHg\n2.　pH 7.37、PaO2 97mmHg、PaCO2 41mmHg\n3.　pH 7.43、PaO2 75mmHg、PaCO2 37mmHg\n4.　pH 7.53、PaO2 112mmHg、PaCO2 28mmHg",
-    "answers": "× 1.　pH 7.30、PaO2 66mmHg、PaCO2 49mmHg\nアルカリ性に傾いていない。\n× 2.　pH 7.37、PaO2 97mmHg、PaCO2 41mmHg\nアルカリ性に傾いていない。\n× 3.　pH 7.43、PaO2 75mmHg、PaCO2 37mmHg\nアルカリ性に傾いていない。\n○ 4.　pH 7.53、PaO2 112mmHg、PaCO2 28mmHg\nPaCO2が低くなり、pHが高くなってアルカリ性に傾いており、この選択肢が正しい。\n",
-    "detail": "患者は過換気症候群の過呼吸状態であり、呼吸数、脈拍数が多くなっている。四肢のしびれや胸部絞扼感の症状は、血液中のPaCO2（二酸化炭素分圧） が下がり、血液がアルカリ性に傾くことで引き起こされる。"
-}

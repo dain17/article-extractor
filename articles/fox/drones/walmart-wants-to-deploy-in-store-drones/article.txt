@@ -1,9 +1,0 @@
-Tired of searching far-flung corners of a big box retail store for that item you want? Walmart may have a high-tech solution  – the retail giant has filed a patent to use drones within its stores.
-
-The patent application describes “dispatching an airborne drone to an item located within a retail shopping facility, securing that item of inventory to the airborne drone, and then directing the airborne drone to carry the item of inventory to a delivery area located within the retail shopping area.”
-
-As for the safety of customers when drones are buzzing around a busy store, the patent explains that the flying robots’ flightpath will not include any open space.
-
-Sensors and 3D map technology will be used to ensure that drones keep to their designated space, according to the patent, which adds that the flightpath could be configured to largely avoid aisles between product display shelving.
-
-While it is not clear whether delivery drones will ever make it into Walmart stores, the patent filing comes at a time when the Bentonville, Arkansas-based company is looking to increase its level automation. Last year the retailer was even granted a patent for self-driving shopping carts.

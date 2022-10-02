@@ -1,6 +1,0 @@
-{
-    "question": "第99回 午前18問\nOpen-ended question＜開かれた質問＞はどれか。",
-    "choices": "1.　「夕べは眠れましたか」\n2.　「薬はもう飲みましたか」\n3.　「傷は痛みませんでしたか」\n4.　「退院後は何をしたいですか」",
-    "answers": "× 1.　「夕べは眠れましたか」\n回答範囲が限られた、はい/いいえで答えられる質問なのでClosed-ended question（閉じた質問）である。\n× 2.　「薬はもう飲みましたか」\n回答範囲が限られた、はい/いいえで答えられる質問なのでClosed-ended question（閉じた質問）である。\n× 3.　「傷は痛みませんでしたか」\n回答範囲が限られた、はい/いいえで答えられる質問なのでClosed-ended question（閉じた質問）である。\n○ 4.　「退院後は何をしたいですか」\n自由度が高く制約の少ない答えができる質問なのでOpen-ended question（開かれた質問）である。\n",
-    "detail": "Open-ended question（開かれた質問）とClosed-ended question（閉じた質問）を区別できるようにしておく。"
-}
