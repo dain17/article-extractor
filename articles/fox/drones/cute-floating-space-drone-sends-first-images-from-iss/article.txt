@@ -1,0 +1,9 @@
+The JEM Internal Ball Camera looks like a cool high-tech toy but is fulfilling an important role for astronauts on the International Space Station.
+
+Last week, the Japan Aerospace Exploration Agency (JAXA) released images and movies taken by the adorable camera. Nicknamed “Int-Ball,” the camera, which could pass for a cousin of “Star Wars” robot BB-8, is a camera-drone with space-age capabilities.
+
+The first of its kind, Int-Ball’s inner and exterior structures were manufactured using 3-D printing. It can record video and capture images while moving under direction from a remote control on the ground. While in space, Int-Ball is controlled by a team on the ground at Japan’s Tsukuba Space Center. Images and videos captured by the drone camera are checked in real-time by the team working on the ground and then sent back to the crew aboard the space station, according to JAXA.
+
+Int-Ball was delivered to the space station’s Japanese Experiment Module “Kibo” by U.S. Dragon Spacecraft on June 4. Its images provide insight to ground crews by allowing them to observe the day-to-day and inner workings aboard the “Kibo” spacecraft in real time.
+
+Going forward, among its goals, JAXA expects the camera to eliminate the amount of time crew spend taking images, which currently takes up 10 percent of their working hours. The camera will also allow ground crews to check the work being done by crews aboard the “Kibo” spacecraft. The teams will also continue to improve Int-Ball’s performance and enhance its functions, according to JAXA.

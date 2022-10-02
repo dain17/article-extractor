@@ -1,0 +1,65 @@
+[
+    {
+        "user_name": "the*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/ajD8mQuMYnVwiy8Y.1czGyk-/comments",
+        "time": null,
+        "context": ">自分に見える色すら相手には違うように見えている可能性ある、という今回の話は多くの人にとって実に驚くべきことであると予想します。\n\nちょっと考えた事がある人にとっては驚く事ではなく想定される事で、まったく考えた事がない人にとっては驚く事っていう感じじゃないでしょうか？色覚検査で発覚するのは知覚出来る色の種類が不足している状態なので、明らかに見えている色が違う事は間違いないと思います。ですが、色覚検査で正常と判断される場合は、現実として他人の目で見る事が出来ないので、同じ色で見えているか、違う色で見ているかどうか確かめる術がないですけどね。",
+        "good": 2,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "eio*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/1qlnpRCdY39M5MHbgzLu3sxL/comments",
+        "time": null,
+        "context": "今回大腸がん検診で要検査になり、本日大腸の内視鏡検査を受けてきました。\n内視鏡検査は今回はじめてなので、少し心配でしたがカメラを大腸に入れて30分弱で終了しました。\n後ろからカメラを入れるので若干抵抗がありましたが、終わってしまえばこんなものかと思いました。\n7ミリ程のポリープが見つかりその場で切除してくれました。\n1センチ以上のポリープは癌の可能性があるそうです。\n今回は7ミリなので癌の可能性は低いとの事ですが、この後ポリープの検査を\nして2週間後に結果報告を受けます。\n今後は年に一度は受診してみようかと思いました。",
+        "good": 22,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "aum*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/Ss_CMsCZf30Iw2dRv6D85zLhoA--/comments",
+        "time": null,
+        "context": "私も色弱です。服選びなど家族に協力してもらっています(グレーとピンク、濃い赤と黒を間違えるので)。テレビの野球中継のoutの数は識別出来ませんね。\n色覚異常がある人がいるっていうことをもっと皆さんに知って欲しいです。",
+        "good": 8,
+        "bad": 0,
+        "replies": [
+            {
+                "user_name": "txu*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/8cxp5K6McmVRIBbSBEgC3nU-/comments",
+                "time": null,
+                "context": "私も色覚異常です。\n野球中継のアウトカウントはホント分かりづらいです(とくに日テレ中継)なんとかならんでしょうか。(全て黄色にしてもらうとか)\nただ、運転免許も取れましたし、５０年間信号の見間違いはありません。ただし私が赤と認識している色が正常な方にどの様に見えているか分かりません。この辺が正常な人もなかなか理解が難しそうです。私、赤ってどんな色？正常な人、血の色だよって、それはそうだけど私が見ている血の色とあなたが見ている血の色がどう違うが知りたいけどその術がない。",
+                "good": 0,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "dtf*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/KOHK.W2cfnZ3o6QXv0doANjZow--/comments",
+        "time": null,
+        "context": "胃腸の弱い私。一度、大腸がんの検査を受けた事がありますが、検査前の下剤をのむのが、きつかった。量もですが、飲み飽きるし。でも、安心ですね。",
+        "good": 10,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "rbn",
+        "user_url": "https://news.yahoo.co.jp/profile/id/IrUrn5aWY3nROybMtI2clmBj/comments",
+        "time": null,
+        "context": "若いころ便に鮮血が混じっていてビックリし\n病院に行ったら、痔ですと診断された\n先生（医者）は黒い便の方が危険だとおっしゃってた",
+        "good": 19,
+        "bad": 0,
+        "replies": [
+            {
+                "user_name": "kat*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/N6SE4xGTa2QELzpLjsLXTggUx_I-/comments",
+                "time": null,
+                "context": "黒い便は胃や腸の上方の方に出来たガンの場合であって、直腸や肛門付近に出来たガンは赤い鮮血が出るようなので、赤くても危険はあるよ。",
+                "good": 2,
+                "bad": 0
+            }
+        ]
+    }
+]

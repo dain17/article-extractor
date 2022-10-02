@@ -1,0 +1,33 @@
+NASA and SpaceX are once again joining forces, signing an agreement on Thursday with the aim of improving spaceflight safety.
+
+The 13-page agreement focuses on conjunction avoidance and launch collision avoidance between NASA spacecraft, SpaceX's constellation of Starlink Internet satellites, and any related rideshare mission. 
+
+In a release detailing the agreement, NASA noted that conjunction is defined as a close approach between two objects in space at a high speed. 
+
+Starlink's satellites -- of which there are now more than 1,200 in orbit -- are equipped with global navigation service receivers used to estimate orbital parameters, an ion propulsion system and an autonomous maneuvering capability that provides data.
+
+The company plans to launch tens of thousands more satellites to build out coverage, network capacity and speed.
+
+SpaceX, which was founded by billionaire Elon Musk, has agreed its Starlink satellites will either autonomously or manually maneuver out of the path of any NASA science satellites and other agency ventures "from a collision avoidance perspective."
+
+In turn, NASA has agreed to not maneuver its assets at all in the event of a potential conjunction.
+
+The agreement also requires SpaceX to notify NASA at least a week before each Starlink launch in order to determine if their mission could potentially create any problems, and SpaceX agreed to launch Starlink satellites that do not come within five kilometers of the International Space Station or any other NASA spacecraft.
+
+Notably, and as reported in TechCrunch, NASA already has set of guidelines around "Conjunction Assessment" which are used to determine any risks of a conjunction.
+
+A "conjunction" in astronomical terms occurs when any two astronomical objects appear to be close together according to the UK's Royal Museums Greenwich. 
+
+"Effective mitigation relies on inter-operator coordination, accurate data, a sound technical basis for risk analysis, as well as proactive processes for appropriate actions to mitigate risks," the release states. "By working together through this agreement, the approach to collision avoidance can be improved for all users."
+
+Additionally, NASA says it has worked to support continued growth in the U.S. commercial space sector through their December release of the "Spacecraft Conjunction Assessment and Collision Avoidance Best Practices Handbook."
+
+The handbook was issued in an effort to both improve global awareness of space activity as well as share NASA lessons learned about close approach coordination and mitigation, according to the agency.
+
+"Society depends on space-based capabilities for global communications, navigation, weather forecasting, and much more," acting NASA Administrator Steve Jurczyk said in the release. "With commercial companies launching more and more satellites, it’s critical we increase communications, exchange data, and establish best practices to ensure we all maintain a safe space environment."
+
+NASA spokesperson J.D. Harrington told Fox News on Friday that the agreement "can serve as a model for how information can be shared between the U.S. government and other commercial satellite operators."
+
+Harrington said the agreement could help to "improve and advance the practices outlined in the handbook."
+
+SpaceX did not immediately respond to a request for comment.

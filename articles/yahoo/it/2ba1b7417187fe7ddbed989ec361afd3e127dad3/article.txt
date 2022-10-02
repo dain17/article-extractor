@@ -1,0 +1,24 @@
+Intelのサポートページ
+Intelは7月28日（現地時間）、同社の第6～10世代CPUが内蔵GPUについて、7月25日から「レガシー・ソフトウェア・サポート・モデル」に移行すると発表した。
+
+【写真】対象となるCPUの開発コード名一覧
+
+　今後、該当モデルのドライバは、重大な不具合とセキュリティに関する脆弱（ぜいじゃく）性にのみ対応（四半期単位）する形になる。また、新作ゲーム向けのDay 0ドライバの提供などもなくなる。
+
+　なお、第11世代以降のプロセッサを対象にしたGPUドライバについては、毎月アップデートが行われ、Day 0 ゲームサポートが継続される。
+
+　今回、レガシー・ソフトウェア・サポート・モデルとなったCPU（Core／Pentium／Celeron／Atom）の開発コード名は以下の通りだ。
+
+・Skylake
+・Apollo Lake
+・Kaby Lake
+・Amber Lake
+・Coffee Lake
+・Whiskey Lake
+・Comet Lake
+・Gemini Lake
+・Ice Lake
+・Lakefield
+・Jasper Lake
+・Elkhart Lake
+ITmedia PC USER

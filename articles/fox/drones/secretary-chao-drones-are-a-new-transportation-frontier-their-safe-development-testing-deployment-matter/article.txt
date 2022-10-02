@@ -1,0 +1,21 @@
+Throughout history, innovation has resulted in new industries and new jobs and has changed and benefited societies in ways previously unimagined.
+
+A century ago, the Wright Brothers and others were still perfecting the biplane. Today, satellites enable global navigation, communication and weather forecasting systems and so much more. U.S. commercial air carriers transported about 880 million passengers and 42 billion ton-miles of freight in 2018. Nearer the Earth’s surface, unmanned aircraft systems (a.k.a. drones) are a rapidly evolving new frontier in transportation.
+
+Nearly 1.3 million drones in the U.S. are registered with the Federal Aviation Administration (FAA). There are more than 116,000 FAA-registered drone operators – a new job opportunity that hardly existed just a few years ago. With unique abilities in aerial agility and rapid deployment, the vast potential of drones came into sharp focus during the devastating 2017 hurricane season and western wildfires. Drones now are widely used in search and rescue operations and disaster recovery.
+
+To further advance safe testing and deployment of drones, the U.S. Department of Transportation (DOT) is announcing three new initiatives to expand allowable drone operations.
+
+The first would, under certain conditions, permit drones to fly at night and over people without advance waivers. Presently, FAA regulations require a waiver to operate at night. Under the proposal, if the drone operator has been trained and tested, and if the drone has been equipped with anti-collision lighting, a waiver would not be required.
+
+This initiative would also allow, under certain conditions, drones to make routine flights over people without a waiver or an exemption. Current FAA regulations prohibit drone flights over people. The conditions under which such drone operations would be allowed will depend upon the level of risk and are outlined in the proposal.
+
+The Department’s second initiative addresses drone safety and national security. The Department is keenly aware of the safety, security and privacy issues associated with drones. This initiative would identify major drone safety and security issues that may threaten other aircraft, people on the ground or national security. Recommendations will be solicited to reduce these risks as drone usage increases.
+
+The third announcement is the selection of commercial service entities to develop technology to manage the airspace for the Department’s drone pilot projects, which were announced in 2018. At the direction of President Trump, the Department launched a program to facilitate testing of drone capabilities for an array of uses and in a variety of conditions, helping ensure that the U.S. remains a leader in drone technology.
+
+Ten pilot projects – consisting of close partnerships between public authorities and private entities – were selected last year. Displaying the diversity of drone use cases, the projects range from drone assistance in agriculture operations and pipeline inspections to medical device delivery in rural areas, and in support of commerce and public health and safety.
+
+Three contracts have now been awarded to commercial service entities to develop technology to provide flight planning, communications, separation and weather services for these drones, which will operate under 400 feet elevation. This unmanned (drone) aircraft traffic management system will be separate from, but complementary to, the traditional FAA air traffic management system. You can find out more about all three new initiatives at www.faa.gov.
+
+Together, these three initiatives take a major step forward in enabling the safe development, testing and deployment of drones. Our commitment to integrating drones into the airspace – in a thoughtful and careful, but nevertheless determined manner – will unlock profound advances in public health, safety, mobility, productivity and economic growth. And it will help to ensure that America remains a global leader in transportation innovation.

@@ -1,0 +1,6 @@
+{
+    "question": "第108回 午後79問\nBarthel〈バーセル〉インデックスで評価するのはどれか。",
+    "choices": "1.　栄養状態\n2.　疼痛の強さ\n3.　褥瘡の深さ\n4.　日常生活動作\n5.　呼吸困難の程度",
+    "answers": "× 1.　栄養状態\n栄養アセスメントにはSGA（subjective global assessment）があり、体重変化や食物摂取の変化、消化器症状、生理機能疾患と栄養必要量の関係を評価できる。また高齢者用には簡易栄養状態評価表（mini nutritional assessment-Short Form：MINA-SF）がある。\n× 2.　疼痛の強さ\n一般的に痛みの強さを評価する尺度には、NRS（Numerical Rating Scale）、VAS（Visual Analogue Scale）、FPS（Faces Pain Scale）などがある。\n× 3.　褥瘡の深さ\n褥瘡の深さは、一般的にはNPUAP（米国褥瘡諮問員会）の分類があり、ステージⅣまでの評価ができる。また、日本では日本褥瘡学会が開発したDESIGN-Rがある。深さ（Depth）、浸出液（Exudate）、大きさ（Size）、炎症/感染（Inflammation/Infection）、肉芽組織（Granulation）、壊死組織（Necrotic tissue）、ポケット（Pocket）の7項目で構成される。\n○ 4.　日常生活動作\nバーセルインデックスは日常生活動作を評価する。\n× 5.　呼吸困難の程度\n呼吸困難の程度の評価には、ボルグスケール（modified Borg Scale） や、呼吸器疾患患者の運動機能と呼吸困難からみた重症度（I～V段階）評価基準にヒュー・ジョーンズ分類がある。\n",
+    "detail": "バーセルインデックスとは、日常生活活動度を評価する尺度である。"
+}

@@ -1,0 +1,29 @@
+The attacks on Saudi Arabia's oil fields will drive a massive increase in the need for perimeter security gear, according to a new report.
+
+The report, released by IHS Markit earlier this week, says that knowing where drones are at all times is a new reality. While benign drones must be tracked, it is the malicious ones that must be stopped.
+
+“Drone attacks are relatively cheap and easy to initiate but can inflict major damage,” IHS Markit analyst Oliver Philippou wrote in the note.
+
+“An effective perimeter security system that ignores the potential threat of nefarious drones is missing more than half of the equation,” Philippou added.
+
+The recent attack on the world’s largest oil-processing plant in Saudi Arabia shows how vulnerable any large facility is to malicious drones.
+
+The Saudi Arabian oil facilities are in an area that was not adequately protected by Saudi air defense systems, Fox News has previously reported. And the U.S. Patriot missile defense system does not have 360-degree coverage, the report added.
+
+Iranian cruise missiles and drones were both used in the attack, according to IHS' report.
+
+High-profile attacks like the one in Saudi Arabia will drive an increase of more than $700 million in global demand for counter-drone perimeter security equipment such as counter-unmanned aerial systems (C-UAS), IHS Markit said.
+
+Modern security systems require a layered approach that keeps up with the evolution of drone technology, according to Dedrone, which builds systems to defend against malicious drones.
+
+Dedrone, for example, provides systems that collect sensor information for classifying drones. A web-based interface shows live threats, real-time drone flight paths, and records forensic details such as video evidence.
+
+Other high-profile defense companies have been announcing anti-drone systems. Raytheon and Black Sage have partnered to provide an integrated drone detection and mitigation system for both civil and military organizations.
+
+Though Raytheon has developed counter-drone systems including missiles, lasers, and high-powered microwaves, “authorities also need a system that can safely stop and land a drone where it may not be safe to shoot them down,” Raytheon said in a statement, adding that they are working with Black Sage on a solution.
+
+Perimeter systems should have a variety of technologies including thermal, sensors, ground-based radar, and drone detection technology, according to IHS Markit.
+
+One of the challenges is that legislation and regulations are currently hindering the growth of the market for unmanned security systems, IHS Markit said.
+
+“However, it shouldn’t be forgotten that the security industry is an event-driven market — and incidents like this can have an enormous impact,” IHS’ Philippou said.

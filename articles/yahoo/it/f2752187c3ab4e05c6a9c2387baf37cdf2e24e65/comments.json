@@ -1,0 +1,46 @@
+[
+    {
+        "user_name": "gkt*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/62sRTD2fYWRwd0qvYy8-/comments",
+        "time": null,
+        "context": "日々の進歩に感心する。\n複数の研究結果が同時に盛り込めることができらばなお良い。\n\n気になる点はアモルファスの微細成型が安定して商品化できる技術に結びつくかかな。",
+        "good": 2,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "ななしかかし",
+        "user_url": "https://news.yahoo.co.jp/profile/id/ceHvUSeMZX35Qgsm_V0P/comments",
+        "time": null,
+        "context": "投資無くして成長なし。\n投資しなかった・できなかった日本。",
+        "good": 31,
+        "bad": 4,
+        "replies": [
+            {
+                "user_name": "cak",
+                "user_url": "https://news.yahoo.co.jp/profile/id/lZ00NPqba3uxPpidrWSHF1GgkRs-/comments",
+                "time": null,
+                "context": "国から資金投入されてもリストラ費であっさり使ってしまって研究投資しなかったでしょ。",
+                "good": 5,
+                "bad": 0
+            },
+            {
+                "user_name": "犬太郎",
+                "user_url": "https://news.yahoo.co.jp/profile/id/usKu8jiVeGTN5fVkqGJWlQ--/comments",
+                "time": null,
+                "context": "事業を売却して、賃金をしぶって内部留保の使い道が分からないらしい。",
+                "good": 4,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "",
+        "user_url": "https://news.yahoo.co.jp/profile/id/TD7eVxmNaXtQDgMmMxOMW8EhgA--/comments",
+        "time": null,
+        "context": "なんでまた放出？\n発熱多めで遅れ気味かつ真っ赤な東芝でも押し付けられそうになった？",
+        "good": 1,
+        "bad": 4,
+        "replies": []
+    }
+]

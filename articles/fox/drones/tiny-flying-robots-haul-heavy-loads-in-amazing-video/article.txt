@@ -1,0 +1,21 @@
+A remarkable video released by Stanford University shows tiny flying robots that have been modified to move loads up to 40 times their weight.
+
+By perching and using powerful winches, the robots, dubbed “FlyCroTugs,” can move much larger objects. The video, for example, shows two FlyCroTugs working together to open a door. A flying robot is also shown winching a water bottle.
+
+The FlyCroTugs use a specially designed adhesive to grip different surfaces. Inspired by geckos, the “gecko grippers” were developed by Stanford to grip objects without applying excessing pressure.
+
+Experts from Stanford and the École Polytechnique Fédérale de Lausanne in Switzerland have been working on the FlyCroTugs, which are themselves inspired by wasps.
+
+A paper on the flying robots was published Thursday in the journal Science Robotics.
+
+Experts say that the FlyCroTugs could be useful for navigating small spaces in search and rescue missions. The robots could, for example, transport water bottles or cameras. “Holding tightly to surfaces as they tug, the tiny robots could potentially move pieces of debris or position a camera to evaluate a treacherous area,” according to Stanford’s statement.
+
+Researchers have already used a FlyCroTug to fly a camera to the top of a crumbling structure and look inside.
+
+"When you're a small robot, the world is full of large obstacles," said Matthew Estrada, a graduate student at Stanford and the paper’s lead author, in a statement. "Combining the aerodynamic forces of our aerial vehicle along with interaction forces that we generate with the attachment mechanisms resulted in something that was very mobile, very forceful and micro as well."
+
+Emergency services are already using drone technology. Earlier this year, for example, a drone was used to rescue two swimmers in Australia. Lifeguards used the device to drop a rescue pod to the two teens, in what has been described as the world’s first rescue mission by unmanned aircraft.
+
+Fox News’ Katherine Lam contributed to this article.
+
+Follow James Rogers on Twitter @jamesjrogers

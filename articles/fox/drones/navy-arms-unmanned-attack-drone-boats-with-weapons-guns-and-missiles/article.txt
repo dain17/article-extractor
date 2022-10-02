@@ -1,0 +1,37 @@
+The U.S. Navy is beginning to arm surface drone boats with guns, rockets and mobile missiles to overwhelm enemies with swarming attacks, protect sailors at farther stand-off ranges and coordinate maritime strikes across dispersed areas of ocean.
+
+The concept is to call upon newer levels of autonomy enabling weapons systems to search for enemies, track their movements and then target them -- all while humans perform command and control at safer ranges.
+
+“We will be incorporating direct and indirect fire. We will be participating in a force protection exercise for the US Navy,” Wayne Prender, Senior Vice President of Applied Technology and Advanced Programs, Textron Systems, told Warrior Maven in an interview.
+
+The testing and demonstrations are evolving through a Cooperative Research and Development Agreement between Textron and the Navy, intended to explore, prototype and ultimately deploy the armed Unmanned Surface Vehicles.
+
+Arming USVs fits within the scope of broader Navy strategies focused on leveraging the latest advances in autonomy and artificial intelligence.
+
+“We want to be able to adapt and upgrade platforms to integrate technology as it develops. This prevents getting the sensors, payloads and platforms too intertwined so that when we do make breakthroughs in machine learning and AI, we will be able to incorporate them into a while portfolio of platforms and systems,” Capt. Pete Small, Program Executive Officer, said at the Surface Naval Association.
+
+Small described an ongoing initiative to engineer common interface control documents exploring different levels of autonomy. He cited emerging AI-enabled procedural functions such as turning on an engine, operating mechanical and electrical equipment and automating elements of command and control. The program, call Unmanned Maritime Autonomy Architecture, is the technical foundation through which armed surface drones will evolve. Common technical standards are the process through which different form factors can both integrate and upgrade without needing major restructuring or new-build platforms.
+
+The Navy and Textron are planning an upcoming demonstration to refine requirements for arming surface drones, assess the technology, perform force protection exercises and replicate mock combat scenarios.
+
+“We are going to demonstrate a proof of concept and showcase what sort of things could be done,” Prender added. “If we get this in the hands of sailors, they will find new and innovative ways to employ the systems.”
+
+The exact weapons being assessed by Textron and the Navy are not available for security reasons, but they are being integrated to perform a range of mission sets, developers said. These missions include things like perimeter security, wherein unmanned armed surface vessels are forward deployed to identify and attack approaching targets, all while protecting larger ships such as a Littoral Combat Ships or even Carrier Strike Groups and Amphibious Ready Groups.
+
+Armed surface drones, it seems self-evident, could bring a substantial force protection element to surface warfare. Networked drone boats could spread across large swaths of open ocean to, potentially in coordination with aerial drones, and fire upon approaching enemy ships, boat swarms and even incoming missiles. The Navy does have layered suite of ship-launched interceptor missiles, to include SeaRAM, Rolling Airframe Missile, Evolved Sea Sparrow Missile Block II - and even the phalanx-firing Close-in Weapons System for the closest approaching enemy attacks. It certainly seems conceivable, should there be a way to network sensors, radar and fire control, that some of these interceptor weapons might be able to arm forward stationed unmanned ships. Primarily, however, the nearest term applications might likely involve smaller, mobile attack weapons such as .50-cal machine guns, 57mm guns or other standard deck-fired weapons or even MANPAD types of heat-seeking anti-air and surface warfare attack weapons.
+
+This kind of weapons range, to include the possibility of interceptors, various gun systems and some small remotely-fired missiles, could target enemy drones, lower-flying aircraft, attacking small boats and enemy ships at ranges otherwise more difficult to reach with shipboard sensors and weapons.
+
+Defensive uses for swarm boats could introduce a substantial increase in ship protection; should an enemy seek to overwhelm ship defenses with a speeding swarm of small boat attacks or a barrage of incoming weapons, layered ship defenses could, at very least, be challenged, according to a 2017 article from the Journal of the Bulletin of Atomic Scientists.
+
+The essay, titled “The Upside and Downside of Swarming Drones,” by Irving Lachow, highlights the defensive uses of swarming drone boats. “The Navy is currently doing research on using defensive swarms to halt attackers. Swarm boats may be an effective way to protect oneself from a swarm of drones: drone against drone,” the essay states.
+
+Given that securing the international waterways forms a large basis of the Navy’s missions, armed drone boats, it seems clear, would be positioned to provide both persistent surveillance and security missions.
+
+Disaggregated armed drone boats could also form the basis of safer offensive operations, as they could spread out and search for areas to penetrate, test enemy defenses and approach enemy targets in much closer proximity because, as unmanned vessels, there would not be risk of immediate death to on-boards sailors.
+
+The Navy is also working with Northrop Grumman on possibly automating the kill chain when it comes to countermine weapons. If the targeting and weapons technology for something like the Airborne Laser Mine Detection System were adapted into a smaller form factor driven by an “automated kill chain,” it might have a wider and more effective scope when it comes to mine detection, Kevin Knowles, Director of Business Development for LCS Mission Packages, Northrop Grumman, told Warrior Maven in an interview.
+
+“We are working with ONR (Office of Naval Research) on automating the kill chain for Mine Countermeasures. Right now the ALMDS flies on an MH-60. If we can get that on a smaller form factor, we can put it on a Fire Scout drone, for example,” Knowles said.
+
+“We would still always want a man in the loop to actually say ‘yes, that is a mine” and push the button,” Knowles added.

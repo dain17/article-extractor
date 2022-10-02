@@ -1,0 +1,38 @@
+[
+    {
+        "user_name": "XY*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/htxrCXeUZXcAtOUB7q7tZwNmc24-/comments",
+        "time": null,
+        "context": "従来契約で１回線契約するよりも\n格安プランで２回線契約する方が\n金額的にもリスク的にも正解？",
+        "good": 1,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "tak*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/LF6JCTyMa3sFI5pdHiRPwoFFv8gGbO8-/comments",
+        "time": null,
+        "context": "全く責任を感じていないことだけは良く分かった。",
+        "good": 0,
+        "bad": 4,
+        "replies": []
+    },
+    {
+        "user_name": "tad*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/wRspP9OMa3S7FoOrEoY-/comments",
+        "time": null,
+        "context": "内容理解しました。返金はいらんとです。",
+        "good": 1,
+        "bad": 2,
+        "replies": []
+    },
+    {
+        "user_name": "minmin＊＊＊",
+        "user_url": "https://news.yahoo.co.jp/profile/id/5hheQwmZf3JCCqxG1TY7Wygk/comments",
+        "time": null,
+        "context": "こういう記事だと知識皆無のかす新聞社は出てこないな。せいぜい補償についてのしつこい説明と謝罪についてだけだったろう。障害中の会見でも朝日とNHK以外は原因を問い、朝日とNHKは責任だけを問うてたからな。今回の記事で作業手順書の新旧間違いルーターの誤設定で確定か。原因がはっきりしてれば同じ事は起きないだろうと思う事にしよ。グーグルも何年か前に誤設定でこんな事があったような？",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    }
+]

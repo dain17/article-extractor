@@ -1,0 +1,21 @@
+Aerones' super-sized drone appears to have come a long way since we last saw it lifting a skydiver high into the air for a jump almost a year ago.
+
+The Latvia-based drone developer has been busy refining the design and equipping the flying machine with various tools that allow it to perform a variety of tasks.
+
+These include wind turbine maintenance where the drone can wash and de-ice a turbine’s blades using high-pressure hoses. Such work is currently carried out by humans and takes much time and effort to complete, but Aerones believes its drone can revolutionize the process, lowering costs by improving efficiency.
+
+As you can see from the image below, this is more than just a large drone with a hose attached. Aerones’ machine includes multiple sensors for precise angle determination, safety mechanisms such as constant monitoring of motor and battery temperature, ultra-HD and thermal cameras to pinpoint hotspots and aid pilot control, built-in radar technology to avoid obstacles even if shrouded in fog or smoke, and several parachutes in case the drone malfunctions while in the air. In addition, Aerones describes its drone as “rock steady” in strong winds thanks to its unique stabilization system.
+
+The all-important hose runs between the drone and a water supply from down below, which could be supplied via a truck or a ship. Power is supplied via a cable linked to a power source from the same truck or ship and allows the machine to fly for as long as required. It also has an internal battery that enables it to stay airborne for up to 20 minutes.
+
+Depending on the size of turbine’s blades and the wind conditions, Aerones says its system could clean or de-ice 30 blades (10 turbines) in the space of a single day.
+
+The machine can also use its cameras to inspect the blades before and after a clean to identify areas where maintenance may be required. Aerones says a pre-wash inspection flight “gives information on the kind of dirt on the blade, which allows you to estimate the cleaning time, let you see any damage, imperfection, crack or hole in the blade.”
+
+Meanwhile, a post-wash flight lets you confirm the cleanliness of the blade after washing, and could expose damage that was unclear when the blade was dirty.
+
+Aerones is also working on other applications for its drone. These include cleaning the outside of tall buildings, fighting fires in high places, and, with the drone able to lift up to 400 pounds (180 kg), carrying humans to safety in search and rescue efforts in locations where ground-based vehicles and helicopters can’t reach.
+
+The three-year-old company is continuing with efforts to attract funding while developing and testing its technology in a number of countries around the world. The short-term plan is to offer drone services to customers instead of selling the system as a kit, though that approach could change as its work progresses.
+
+A growing number of companies are developing drone platforms aimed at improving efficiency across a range of industries, with a Goldman Sachs report describing it as “a $100 billion business opportunity” over the next five years.

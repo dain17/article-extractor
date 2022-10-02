@@ -1,0 +1,61 @@
+The Navy is moving fast to build new medium- and large-sized armed surface attack drones able to hunt submarines, surveil the air and sea and launch offensive attacks across air, surface and undersea domains.
+
+Called the Medium Unmanned Surface Vehicle (MUSV) and Large Unmanned Surface Vehicle (LUSV) - the new platforms are described by Navy developers as “anti-surface and strike warfare” vessels.
+
+While the new surface drones are being engineered for a range of missions, to include anti-submarine sonar applications, large drone fleet command-and-control and sweeping ISR (Intelligence, Reconnaissance, Surveillance) -- Navy Unmanned Systems Program Manager Capt. Pete Small said that the drones will “bring in Navy program of record weapons systems to incorporate into commercially-derived modular craft.”
+
+The Navy is already asking industry for specific configurations through a formal Request for Proposal this year and plans new steps with the LUSV next year.
+
+“We plan to deploy them in numbers,” Small said recently at the Navy League’s Sea Air Space Symposium.
+
+While preparing to arm the maritime drones with weapons, Small explained that the initial focus for the new, larger surface drones will be autonomy, endurance, precision navigation and command-and-control. Of greatest significance, Small explained, is that the prospect of large numbers of interwoven, armed surface drones introduced an entirely new sphere of Tactics, Techniques and Procedures. These surface drones, operating in tandem with surface ships, undersea drones, aerial drones and submarines, promise to change the character of maritime warfare.
+
+“Over the next several years we are working through those TTPs on how we are going to employ them,” Small said.
+
+Small added that the fast-emerging MUSVs and LUSVs are expected to figure prominently in the Navy’s ongoing “analysis of alternatives” regarding how best to create its “Future Combatant Force” -- a concept articulated in the services’ “Maintaining Maritime Superiority 2.0.”
+
+The Navy has partnered with Textron Systems to plan demonstrations aimed at refining requirements for arming surface drones, assess the technology, perform force protection exercises and replicate mock combat scenarios.
+
+The exact weapons being assessed by Textron and the Navy are not available for security reasons, but they are being integrated to perform a range of mission sets, developers said. These missions include things like perimeter security, wherein unmanned armed surface vessels are forward-deployed to identify and attack approaching targets, all while protecting larger ships such as Littoral Combat Ships or even Carrier Strike Groups and Amphibious Ready Groups.
+
+Armed surface drones, it seems self-evident, could bring a substantial force protection element to surface warfare. Networked drone boats could spread across large swaths of open ocean to, potentially in coordination with aerial drones, fire upon approaching enemy ships, boat swarms and even incoming missiles. The Navy does have a layered suite of ship-launched interceptor missiles, to include SeaRAM, Rolling Airframe Missile, Evolved Sea Sparrow Missile Block II - and even the phalanx-firing Close-in Weapons System for the closest approaching enemy attacks. It certainly seems conceivable, should there be a way to network sensors, radar and fire control, that some of these interceptor weapons might be able to arm forward stationed unmanned ships. Primarily, however, the nearest-term applications might likely involve smaller, mobile attack weapons such as .50-cal machine guns, 57mm guns or other standard deck-fired weapons or even MANPAD types of heat-seeking anti-air and surface warfare attack weapons.
+
+While an unmanned ship is certainly less likely to have Vertical Launch Systems for large interceptor missiles, it seems possible that smaller weapons and various deck-mounted systems could easily integrate onto a medium- or large-sized surface drone. However, configuring a large surface drone to fire torpedoes might fall within the realm of the possible.
+
+​This kind of weapons range, to include the possibility of interceptors, various gun systems and some small remotely-fired missiles, could target enemy drones, lower-flying aircraft, attacking small boats and enemy ships at ranges otherwise more difficult to reach with shipboard sensors and weapons.
+
+Defensive uses for swarm boats could introduce a substantial increase in ship protection; should an enemy seek to overwhelm ship defenses with a speeding swarm of small boat attacks or a barrage of incoming weapons, layered ship defenses could, at very least, be challenged, according to a 2017 article from the Journal of the Bulletin of Atomic Scientists.
+
+The essay, titled “The Upside and Downside of Swarming Drones,” by Irving Lachow, highlights the defensive uses of swarming drone boats. “The Navy is currently doing research on using defensive swarms to halt attackers. Swarm boats may be an effective way to protect oneself from a swarm of drones: drone against drone,” the essay states.
+
+This assessment is further reinforced by a 2013 RAND study called “US Navy Employment Options for Unmanned Surface Vehicles.” As part of a detailed analysis of surface drone warfare, the RAND report seems to foreshadow what has emerged over the last five years. Among other things, the report sites Navy UVSs as having an autonomous ability to “counter fast attack craft.” The RAND study also specifies a number of specific combat advantages potentially provided by USVs, when compared to Unmanned Undersea Vehicles (UUVs) and aerial drones.
+
+-- "USVs have greater potential payload capacity and endurance than comparably sized unmanned systems in other domains. They are able to use higher-density energy sources than UUVs (hydrocarbons instead of batteries), and, unlike UAVs, they do not need to burn fuel merely to maintain their vertical position; if desired, they can move relatively slowly for days or weeks without refueling." -- from the RAND study.
+
+Since the time of this study, the Navy has made substantial progress engineering large undersea drones capable of substantial endurance, such as the now-under-construction Orca. However, not only do USVs bring the advantages cited by the RAND study, but they also have fewer technical hurdles when it comes to networking, command-and-control and sharing intelligence in real-time.
+
+USVs could also potentially bring unprecedented electronic warfare possibilities; one of the key drawbacks when it comes to electronic attack is the risk of an attacker giving their location away by virtue of emitting a broad, detectable signal. For this reason, the military services have been working with industry to engineer more narrowly configured electronic attack signals. Given this challenge, having an unmanned system conduct EW missions lowers risks to sailors who might be endangered should a signal be located by an enemy.
+
+Disaggregated armed drone boats could also form the basis of safer offensive operations, as they could spread out and search for areas to penetrate, test enemy defenses and approach enemy targets in much closer proximity because, as unmanned vessels, there would not be a risk of immediate death to on-board sailors.
+
+Larger USVs, it would appear, could bring the promise of greater forward-deployed command and control, along with an increased ability to integrate a range of otherwise separated functions. For instance, it seems entirely plausible that a new LUSV could combine submarine hunting with mine-countermeasures, command-and-control and surface attack.
+
+As a forward positioned vessel, it could enable deeper draft manned ships to operate at safer standoff ranges. Also, by pushing the limits of technology, larger surface drones could potentially bring unprecedented amounts of endurance. Not only would they not need to constrain mission dwell time by a need to return human crews, but larger drones could potentially carry more fuel, supplies and ammunition.
+
+Navy developers have been clear that the new MUSV and LUSV will harvest lessons learned and promising technologies built into the well-known DARPA-Navy SeaHunter 132-foot sub-hunting surface drone. The SeaHunter, in development for several years, uses advanced hydro-acoustics, pattern recognition and algorithms for unmanned navigation to locate and shadow diesel-electric enemy submarines.
+
+Development of the new drones is woven into an existing Navy program called Unmanned Maritime Autonomy Architecture, a coordinated technology push to advance autonomy and create new interface control documents, Small said.
+
+In order to capitalize upon a built-in ability to house larger, more complex payloads, the new LUSV and MUSV are, by design, being engineered with a set of common standards and defined interfaces to accommodate new weapons, software and technologies as they emerge. The strategy, using interoperable protocol and hardware architecture, can not only reduce the hardware footprint but help create the technical infrastructure necessary for continued modernization.
+
+Widening the aperture for new and emerging payloads aligns with the Navy’s broader strategy with USVs which uses different payloads to sweep, hunt and destroy enemy mines. This concept, it seems clear, could also be applied more broadly to envision a large surface drone which not only performs countermine missions but also attacks submarines, networks with aerial drones, undersea systems, larger ships or even land-based combat assets.
+
+Autonomy and human-led command-and-control systems form the basis of the Navy’s rapidly-evolving, multi-year “Ghost Fleet” project to engineer a fleet of coordinated, interoperable surface drones able to share time-sensitive combat information in real-time across the force. In development now for many years by the Office of Naval Research and Naval Sea Systems Command, Ghost Fleet is engineered to leverage the most advanced AI and machine-learning technologies available. The intent is to enable swarms of synchronized drones to capture, organize and disseminate key targeting and sensor data, such as the location of mines, submarines, surface vessels or incoming enemy attacks.
+
+“Ghost Fleet” represents a Navy strategy to surveil, counter, overwhelm and attack enemies in a coordinated fashion - all while keeping sailors on host ships at safer distances.
+
+In fact, Small explained that the emerging LUSV and MUSV drone boats are being designed specifically with Ghost Fleet in mind, as they are expected to draw upon and incorporate advances in autonomy. The new ships will operate in tandem with the Navy’s now-in-development fleet of small boat USVs to include the Unmanned Influence Sweep Systems and the emerging Mine Countermeasures USV - among others.
+
+​Given that securing the international waterways forms a large basis of the Navy’s missions, armed drone boats, it seems clear, would also be positioned to provide both persistent surveillance and security missions.
+
+Interestingly, one larger result of large-scale surface drone construction could be a Navy fleet well above 355 ships - including USVs.

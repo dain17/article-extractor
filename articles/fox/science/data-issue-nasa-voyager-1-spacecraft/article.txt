@@ -1,0 +1,23 @@
+NASA's Voyager 1 has a strange system data issue. 
+
+According to the agency, while the spacecraft is continuing to return science data, readouts from the probe’s attitude articulation and control system (AACS) don't reflect what's actually happening onboard the interstellar explorer. 
+
+NASA's Jet Propulsion Laboratory (JPL), which built both Voyager 1 and its twin Voyager 2, said in a release that Voyager 1 is otherwise operating normally and receiving and executing commands from Earth.
+
+The AACS controls the orientation of Voyager 1 and keeps its high-gain antenna pointed directly at Earth.
+
+According to JPL, "all signs" indicate the AACS is still working, but the telemetry data it's returning is "invalid." 
+
+Furthermore, the problem has not triggered any onboard fault protection systems and Voyager 1's signal has not weakened. 
+
+The engineers will continue to monitor the signal and work to better understand the nature of the issue. 
+
+"A mystery like this is sort of par for the course at this stage of the Voyager mission," Suzanne Dodd, project manager for Voyager 1 and 2, said. "The spacecraft are both almost 45 years old, which is far beyond what the mission planners anticipated. We’re also in interstellar space – a high-radiation environment that no spacecraft have flown in before. So there are some big challenges for the engineering team. But I think if there’s a way to solve this issue with the AACS, our team will find it."
+
+Dodd noted that it's possible her team may not find the source of the anomaly and would adapt to it instead. 
+
+Although, if they do find the source, she noted they could fix it using software changes or potentially one of the spacecraft’s redundant hardware systems.
+
+Voyager 1 and Voyager 2 were launched in 1977 and are the only spacecraft to collect data in interstellar space. 
+
+Voyager 1 is currently 14.5 billion miles from Earth and Voyager is 12.1 billion miles away. 

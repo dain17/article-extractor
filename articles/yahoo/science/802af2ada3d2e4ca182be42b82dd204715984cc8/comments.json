@@ -1,0 +1,47 @@
+[
+    {
+        "user_name": "GAIJI",
+        "user_url": "https://news.yahoo.co.jp/profile/id/Vowexf2eYWfOeID50MnJja8-/comments",
+        "time": null,
+        "context": "凄い綺麗だ。プレイステーション5みたいだ。",
+        "good": 1,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "dai*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/iJSCzpica3llYWDR1kpS45qBsLe7/comments",
+        "time": null,
+        "context": "悲しいかな、こんなに美しい星の上で歪みあってるのは人間だけ。",
+        "good": 1,
+        "bad": 2,
+        "replies": [
+            {
+                "user_name": "wa_*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/0updyKaPa0_7f.jQzQ.R/comments",
+                "time": null,
+                "context": "全ての生物は自らの生存をかけて、日夜命のやり取りをやってます。\n感傷的なのが、人間だけということ。",
+                "good": 1,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "bea*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/wTgZENeab3F6HLnk2UQT9_m_5qgZpXfz/comments",
+        "time": null,
+        "context": "宇宙というより、上空から見た。\nだよね",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "sum*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/acAQvw.Lf30vkIjY51umsXAHA9CdV0PPHst4/comments",
+        "time": null,
+        "context": "なんか案外地上が間近に見えるのね。",
+        "good": 1,
+        "bad": 0,
+        "replies": []
+    }
+]

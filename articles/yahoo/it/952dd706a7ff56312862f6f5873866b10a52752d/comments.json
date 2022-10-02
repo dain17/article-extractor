@@ -1,0 +1,47 @@
+[
+    {
+        "user_name": "pok*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/FrHusAWIZXudhkay6nyZUg--/comments",
+        "time": null,
+        "context": "これは巧妙。\n\n利用間隔が長期間になるユーザー宛を装っていることから、使った覚えがなくても、自分が該当者だと錯覚しやすい。\n\n交通系のネットサービスを使ったことのある人は多いだろう。金融機関のようにはっきりと事業者名を把握していないこともあるだろうし、似たような名称のサービスも多い。",
+        "good": 1,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "***bud***",
+        "user_url": "https://news.yahoo.co.jp/profile/id/jiRWMVmKa3lLHNV3wQ1xhjYvovD_ZKo-/comments",
+        "time": null,
+        "context": "ある意味ね。\n使われる名目ひとつひとつに注意喚起してもフィッシング詐欺に引っかかるのはどう言うこと？\nたぶん、引っかからない人は名称の違う同様のやり方にも引っかかってないとおもうんだけど。",
+        "good": 1,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "kok*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/iXLxvbqTZXsaLzVgVly4JixG58EvJAiNMBUTfYgDxeisFRcyhvE-/comments",
+        "time": null,
+        "context": "えきねっとリニューアルってリニューアルしたの去年の7月かそれくらいの時期でしょうに",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "kub*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/zPXzTDWTf3LPGyxpmoaud0U.Z5UoBA--/comments",
+        "time": null,
+        "context": "何度か目にするフィッシングメール。送りつけてくるメールアドレスやフィッシング先のＵＲＬはわかるので公的機関等から集中的に偽返信攻撃して犯罪者のアカウントやサーバーをパンクさせることは出来ないのか？",
+        "good": 2,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "おじさん",
+        "user_url": "https://news.yahoo.co.jp/profile/id/TZdy9NmBa3l.KPzufBk-/comments",
+        "time": null,
+        "context": "これ、毎日来る。鬱陶しいたらありゃしない。",
+        "good": 4,
+        "bad": 0,
+        "replies": []
+    }
+]

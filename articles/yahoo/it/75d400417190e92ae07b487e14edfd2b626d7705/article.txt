@@ -1,0 +1,13 @@
+「AMD Software：Adrenalin Edition v22.7.1」がリリースされた
+AMDは7月26日（現地時間）、Radeon向けのドライバソフト「AMD Software：Adrenalin Edition v22.7.1」をリリースした。なお、本バージョンは、WHQL（Windows Hardware Quality Labs）未通過のOptional版で、新機能の搭載や複数の改善が行われている。
+
+【写真】Mincraftの4K表示ではフレームレートが最大1.92倍になったという
+
+　新機能としては、GPUで音声ノイズの低減を行う「AMD Noise Suppression」が追加された。対応環境はRyzen 6000シリーズ以降のAPU、およびRadeon Rx 6000シリーズ以降となる。
+
+　NVIDIAも同社のGPUを利用してノイズキャンセリングを行う「NVIDIA Broadcast」をリリースしているが、AMD Noise Suppressionも同様にAI処理により、マイクなどのオーディオ入力が拾うバックグラウンドノイズを低減し、オンライン会議やゲームに集中できるようにするというものだ。
+
+　もう1つの注目機能としては、OpenGLへの最適化も行われている。OpenGLを利用するゲームにおいて、前バージョン（22.6.1）と比較した場合に大幅にパフォーマンスが上がっている。AMDのブログによると、Minecraftの場合は、4Kで表示した場合のフレームレートが最大92％向上しているという。
+
+　この他、ゲームタイトルの関わらず利用できるドライバレベルの超解像技術「Radeon Super Resolution（RSR）」がRadeon RX 5000／6000シリーズのディスクリートGPUに対応した。また、ボーダーレス・フルスクリーンモードでもRSRが利用可能となった。
+ITmedia PC USER

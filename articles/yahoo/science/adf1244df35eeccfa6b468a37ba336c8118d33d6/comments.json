@@ -1,0 +1,29 @@
+[
+    {
+        "user_name": "ais*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/I87wKL2ZY2MYw16Eesy1q0zJbg--/comments",
+        "time": null,
+        "context": "福島市の元教育長が理事の館。いじめも認められない(ニュースになってます)人物がやりたい放題という話し。900万の給料の為に入館料払いたくないよね。",
+        "good": 4,
+        "bad": 0,
+        "replies": [
+            {
+                "user_name": "ple*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/9NcrNf.IZnUJe3uVCfeBtpaCCQ--/comments",
+                "time": null,
+                "context": "結局天下り",
+                "good": 0,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "s_m*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/pQ.jCiaLVX0na9uraAgEGWSGnkA-/comments",
+        "time": null,
+        "context": "一度は訪れてみたい。",
+        "good": 4,
+        "bad": 2,
+        "replies": []
+    }
+]

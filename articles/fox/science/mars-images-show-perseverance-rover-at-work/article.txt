@@ -1,0 +1,25 @@
+New images from NASA show the Perseverance Mars rover hard at work as it searches the Red Planet for signs of ancient microbial life. 
+
+Since "Percy" landed in Mars' Jezero Crater in February, the agency said the rocks there are beginning to reveal a picture of its history billions of years ago.
+
+In a Thursday release, NASA credited Perseverance's seven science cameras for the team's progress
+
+"The imaging cameras are a huge piece of everything," Vivian Sun, the co-lead for Perseverance’s first science campaign at NASA’s Jet Propulsion Laboratory (JPL) in Southern California, said in a statement. "We use a lot of them every single day for science. They’re absolutely mission-critical."
+
+NASA shared a photo from Perseverance's navigation cameras on the rover's longest autonomous drive to date, an enhanced-color panorama from the mast's Mastcam-Z camera system, a shot of the crater's "Delta Scarp" taken by Perseverance’s Remote Microscopic Imager (RMI) camera and a close-up of a rock target nicknamed "Foux" taken using its WATSON (the Wide Angle Topographic Sensor for Operations and eNgineering) camera.
+
+After receiving Mastcam-Z images of the scarp and SuperCam RMI to provide a more detailed view of the scarp, SuperCam principal investigator Roger Wiens said the images showed there had been a large flash flooding event that occurred, washing boulders down into the delta formation. 
+
+"These large boulders are partway down the delta formation," Wiens, of New Mexico's Los Alamos National Laboratory, said. "If the lakebed was full, you would find these at the very top. So the lake wasn’t full at the time the flash flood happened. Overall, it may be indicating an unstable climate. Perhaps we didn’t always have this very placid, calm, habitable place that we might have liked for raising some micro-organisms."
+
+Scientists working on Perseverance have also found signs of igneous rock that formed from lava or magma on the crater floor – once the site of a lake – during that same timeframe, hinting at the presence of not only flowing water, but flowing lava.
+
+Those discoveries have guided the researchers, both in their larger astrobiological mission and with their task of collecting samples of Martian rock and regolith.
+
+WATSON, at the end of Percy's robotic arm, has provided the team with extremely close shots of their targets, aided engineers in positioning the rover's drill for extracting rock core samples and produced images of where the sample was taken from. It's also taken selfies.
+
+In concert with Perseverance's SHERLOC (Scanning Habitable Environments with Raman & Luminescence for Organics & Chemicals) and PIXL (Planetary Instrument for X-ray Lithochemistry) instruments, WATSON has helped to find signs of that igneous rock on the crater floor.
+
+"We’re getting really cool spectra of materials formed in aqueous [watery] environments – for example sulfate and carbonate," Luther Beegle, SHERLOC’s principal investigator at JPL, said in the release.
+
+"Once we get over closer to the delta, where there should be really good preservation potential for signs of life, we’ve got a really good chance of seeing something if it’s there," he added.

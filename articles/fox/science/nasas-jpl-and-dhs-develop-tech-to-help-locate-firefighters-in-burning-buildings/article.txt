@@ -1,0 +1,29 @@
+NASA's Jet Propulsion Laboratory (JPL) and the U.S. Department of Homeland Security Science and Technology Directorate (S&T) have teamed up to create technology that will help locate firefighters inside buildings. 
+
+On Tuesday, the agencies announced the development of the Precision Outdoor and Indoor Navigation and Tracking for Emergency Responders (POINTER) system, which was devised to help locate and track firefighters inside structures where other positioning technologies are ineffective.
+
+The idea was conceptualized in 2014 and the technology is now being matured for use around the country, according to a NASA release. 
+
+Notably, POINTER uses magnetoquasistatic (MQS) fields instead of radio waves.
+
+Radiolocation, radio-frequency identification, acoustic sensors and GPS often lose signal in line-of-sight denied environments, according to S&T.
+
+"This presents a significant difference to how remote wave-based position sensing works and performs," JPL senior research technologist Darmindra Arumugam said. "Whereas radio waves become blocked, reflected, and attenuated by the metal, cement, and brick materials in buildings, magnetoquasistatic fields do not. They pass straight through walls, creating a means to navigate and communicate when direct line of sight is not available."
+
+MQS fields are electromagnetic fields that, while normally disregarded due to rapid drop-off as a function of distance, were able to be practically harnessed using lower frequencies.
+
+They say that MQS fields will also have uses off of Earth, including long-range technology used to operate NASA space robot projects.
+
+The system is made of three parts including a receiver, transmitter and base station.
+
+The firefighter would wear the receiver and a transmitter that generates the MQS fields would be attached to emergency vehicles outside of the building and track any receivers located inside a building at a range of 230 feet or more.
+
+The data that comes back is then sent to a base station, like a computer, and 3D visualization software shows where the firefighter is, within an accuracy of centimeters.
+
+POINTER can also determine whether a firefighter is standing up or lying down, still moving and in which direction they face.
+
+S&T, JPL and industry partner Balboa Geolocation Inc. have worked with firefighters at Massachusetts' Worcester Fire Department to test the system, and the team plans to conduct further demonstrations and a live stream of a test later this year.
+
+A commercial version of POINTER will be made available to fire departments by next year.
+
+"This groundbreaking technology will allow downed, disoriented and trapped firefighters to be quickly located and extracted from dangerous and potentially fatal environments they work in," he said. "Bottom line, POINTER will save lives as it gets deployed and used by departments and agencies across the country."

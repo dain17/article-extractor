@@ -1,0 +1,29 @@
+[
+    {
+        "user_name": "*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/F7T3FqiAf2kUNacrPhf2r4XS7w--/comments",
+        "time": null,
+        "context": "Googleがユーザに自分のサービスを必死に使わせていますね。\n本当に良いサービスなら、使ってもいいけど、他社のアプリよりもっといいの？　そうではないね。\n例え、Google　MeetはZOOMより通話、画質が良くないです。",
+        "good": 3,
+        "bad": 9,
+        "replies": []
+    },
+    {
+        "user_name": "wxq*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/kJlL2AWPcmGiDuAATflj4SjQ/comments",
+        "time": null,
+        "context": "UIが変わると慣れるまで時間がかかるし、\n正直言いますと、迷惑だと思ってる\nメールだけで十分です\nチャットはLine\nミーティングはZoomでいい",
+        "good": 6,
+        "bad": 4,
+        "replies": []
+    },
+    {
+        "user_name": "rvu*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/KrpC9O2KfGUHgwSCz4FNqxjU4Q--/comments",
+        "time": null,
+        "context": "統合UIは良いけれど、Googleのチャットと通話サービスはコロコロ変わるから選んで使いたいとは思わないな。この会社は継続が苦手すぎる。",
+        "good": 5,
+        "bad": 2,
+        "replies": []
+    }
+]

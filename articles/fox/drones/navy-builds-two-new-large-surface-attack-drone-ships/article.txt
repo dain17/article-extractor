@@ -1,0 +1,33 @@
+The Navy is building two new large drone ships to coordinate synchronized attacks, perform command and control across fleets of Unmanned Surface Vessels and conduct high-risk maritime missions such as anti-submarine operations, mine countermeasures, surface warfare, and forward-deployed surveillance.
+
+The new vessels, now in early stages of conceptual development, are intended to perform both manned and unmanned operations while networked to a smaller fleet of multi-mission USVs, Capt. Pete Small, Program Manager, Unmanned Maritime Systems, Naval Sea Systems Command, told reporters at the Surface Naval Association Symposium.
+
+“We are integrating Large USVs (LUSV) and Medium USVs (MUSV) into the architecture, as a large part of a future surface combatant force. We are developing a single integrated combat system shared across the entire combat portfolio,” Small said.
+
+While the Navy is now exploring arming maritime drones with weapons, Small explained that the initial focus for the new larger surface drones will be autonomy, endurance, precision navigation, and command and control.
+
+Autonomy and human-led command and control systems form the basis of the Navy’s rapidly evolving, multi-year “Ghost Fleet” project to engineer a fleet of coordinated, interoperable surface drones able to share time-sensitive combat information in real time across the force. In development now for many years by the Office of Naval Research and Naval Sea Systems Command, Ghost Fleet is engineered to leverage the most advanced AI and machine-learning technologies available. The intent is to enable swarms of synchronized drones to capture, organize and disseminate key targeting and sensor data, such as the location of mines, submarines, surface vessels or incoming enemy attacks.
+
+There are not yet hull designs under construction or specific configurations, but the Navy has begun a dialogue with industry to explore technical options and requirements for the new vessels. The service has released a formal RFI - request for information - to industry for the MUSV.
+
+“Ghost Fleet” represents a Navy strategy to surveil, counter, overwhelm and attack enemies in a coordinated fashion - all while keeping sailors on host ships at safer distances.
+
+In fact, Small explained that the emerging LUSV and MUSV drone boats are being designed specifically with Ghost Fleet in mind, as they are expected to draw upon and incorporate advances in autonomy.
+
+“Ghost Fleet is helping us in a number of ways one of the big ways it is helping us is in the command and control communications arena. Integrating military-ready and military capable interoperable and command and control. All of that learning will go right into our medium and large USV programs -- and how we interact with medium and large USV and how we talk to them and command and control them,” Small told Warrior Maven.
+
+The new ships will operate in tandem with the Navy’s now-in-development fleet of small boat USVs to include the Unmanned Influence Sweep Systems and the emerging Mine Countermeasures USV - among others.
+
+Larger USVs, it would appear, could bring the promise of greater forward-deployed command and control, along with an increased ability to integrate a range of otherwise separated functions. For instance, it seems entirely plausible that a new LUSV could combine submarine hunting with mine-countermeasures, command and control and surface attack. As a forwardly positioned vessel, it could enable deeper draft manned ships to operate at safer standoff ranges. Also, by pushing the limits of technology, larger surface drones could potentially bring unprecedented amounts of endurance. Not only would they not need to constrain mission dwell time by a need to return human crews, but larger drones could potentially carry more fuel, supplies, and ammunition.
+
+Development of the new drones is woven into an existing Navy program called Unmanned Maritime Autonomy Architecture, a coordinated technology push to advance autonomy and create new interface control documents, Small said.
+
+“In an autonomous vehicle, you have different layers of autonomy. You need autonomy to turn the engine on and off, operate mechanical and electrical equipment and perform automated command and control,” he added.
+
+In order to capitalize upon a built-in ability to house larger, more complex payloads, the new LUSV and MUSV are, by design, being engineered with a set of common standards and defined interfaces to accommodate new weapons, software and technologies as they emerge. The strategy, using interoperable protocol and hardware architecture, can not only reduce the hardware footprint but help create the technical infrastructure necessary for continued modernization.
+
+“What I want to do in a program manager is be able to adapt and upgrade platforms to bring new technology to bear as it develops. This will prevent getting the sensors, payloads and platforms and that autonomy so intertwined -- so that when we do make those breakthroughs in machine learning and AI we will be able to incorporate it into a whole portfolio of platforms and systems,” Small said.
+
+Widening the aperture for new and emerging payloads aligns with the Navy’s broader strategy with USVs which uses different payloads to sweep, hunt and destroy enemy mines. This concept, it seems clear, could also be applied more broadly to envision a large surface drone which not only performs countermine missions but also attacks submarines, networks with aerial drones, undersea systems, larger ships or even land-based combat assets.
+
+“There can be a single software solution across all domains … ashore, afloat on the surface and undersea,” Small said.

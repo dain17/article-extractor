@@ -1,0 +1,46 @@
+[
+    {
+        "user_name": "wtx*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/3VPK9myPfmjsBhUW8rbioQG6nQ--/comments",
+        "time": null,
+        "context": "光は質量0だがベクトルなので曲げる事により反作用で推進力となる訳だが、解説図を見ると普通の透過型回折格子（U字溝で拡散）ではなく一方向（と言っても分光はする）に曲げるタイプの様だ。同じ理屈で重力波も曲げる事が出来れば推進力となるはずだが波長が長すぎてこの方法は使えないと思う。",
+        "good": 3,
+        "bad": 4,
+        "replies": []
+    },
+    {
+        "user_name": "ぺっと",
+        "user_url": "https://news.yahoo.co.jp/profile/id/Vd.BPHeIb2S1g2jBiP0UJw--/comments",
+        "time": null,
+        "context": "実際には反射式と回折式を組み合わせるんでしょうかね。さらに回折の方向の異なるものを組み合わせれば、帆自体を動かさなくても縦横自由に制御できそう。実用化が楽しみです。",
+        "good": 9,
+        "bad": 0,
+        "replies": [
+            {
+                "user_name": "ttq*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/VaACP7WMfmG_vwTidF_IHg--/comments",
+                "time": null,
+                "context": "更に、帆とエンジンを組み合わせた気帆船が登場したように、宇宙帆船とエンジンをどういう風に組み合わせて進化するか。\n\n　それも、楽しみですね！",
+                "good": 1,
+                "bad": 0
+            },
+            {
+                "user_name": "kar*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/sN1Sk0CTa2JmNSvx61j5JzWKEZI-/comments",
+                "time": null,
+                "context": "昔の大航海時代の帆船も縦帆と横帆をくみあわせていましたから、今後は宇宙帆船もそういう風に進化するかもしれないですね",
+                "good": 5,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "ちょっと一言",
+        "user_url": "https://news.yahoo.co.jp/profile/id/9h9LfMuQa3xItbZaUATsVe8-/comments",
+        "time": null,
+        "context": "なるほど、回折で光の向きを変えるのか。\nでも、一般的な回折格子では、光を両方向に曲げてしまうね。\n複数を組み合わせるとか工夫するんだろうけど、回折格子って高いよ。",
+        "good": 4,
+        "bad": 0,
+        "replies": []
+    }
+]

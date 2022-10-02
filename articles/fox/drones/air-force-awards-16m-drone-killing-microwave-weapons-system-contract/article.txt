@@ -1,0 +1,25 @@
+The Pentagon has awarded a contract worth nearly $16.3 million to Raytheon for a prototype high-power microwave weapons system, officials announced this week.
+
+The system is the first direct energy weapon said to be able to destroy certain types of drones, Popular Mechanics reported Tuesday. The system uses microwaves that emit "radio frequencies in a conical beam," destroying a drone's circuit with "a burst of overwhelming energy," the publication said.
+
+“It's not a thermal effect, it's an electric-field effect that is basically imposed on the electronics to either upset or permanently damage them. And the effect is essentially instantaneous,"  Raytheon's missile systems' chief technologist for directed energy, Don Sullivan told the outlet.
+
+"If you could see the microwaves, it would look very much like a strobe light,” he explained.
+
+The microwave weapons system is able to target drones that are "less than 55 pounds and fly at altitudes of 1,200 to 3,500 feet at speeds between 100 and 200 knots," or about 115 to 230 mph, such as the RQ-11 Raven, Popular Mechanics said.
+
+While the move appears timely, given the recent drone attack on Saudi Arabian oil facilities, officials say the project has been in the works for some time.
+
+“It is a remarkable coincidence because this has been in the works between the Air Force and Raytheon essentially since an experiment at White Sands [Missile Range] late last year,” Sullivan said. "Those who sell drone-killing weapons keep a sharp eye on the warning signs, and there were many that preceded the attack in Saudi Arabia."
+
+Iran-backed Houthi rebels in Yemen claimed responsibility for the Sept. 14 attack on the world's largest oil processing plant and a major oil field, but the U.S. and Saudi Arabia blamed Iran directly. Iran has denied involvement in the attack.
+
+But there were other incidents before Saudi Arabia that prompted officials to take action.
+
+“There are fairly recent incidents, for example in Yemen, where a very large drone with a high explosive payload killed about 40 people, at a prayer ground of all places. And that was on YouTube,” Sullivan said. “It was a real eye-opener. What happened in Saudi over the weekend was kind of that raised to the nth degree."
+
+The Air Force contract provides for experimentation and field assessment outside the continental United States that includes "but is not limited to 12 months of in-field operation by Air Force personnel against unmanned aerial systems threats," the Defense Department said in its notification to Congress.
+
+It could also test "operator training, in-theater maintenance of systems while collecting availability [...], reliability, maintainability and supportability data, and system operation against real-world or simulated hostile vignettes without disrupting other necessary installation operations," according to the Pentagon.
+
+Experiments are slated for completion by Dec. 20, 2020. The $16.3 million in funds are for research, development, testing and evaluation, the DOD said, and the Air Force Research Laboratory at Wright Patterson Air Force Base in Ohio is the contracting authority.

@@ -1,0 +1,31 @@
+From crop dusting to package delivery, commercial drones are about to become a part of everyday life.
+
+“Just in the last 18 months, we’ve registered twice as many unmanned aircraft (as) we registered all aircraft from the previous 100 years,” said Earl Lawrence, director of the Federal Aviation Administration's Unmanned Aircraft Systems Integration Office.
+
+To safely integrate the vast numbers of new unmanned aircraft systems (UAS) into the nation’s airspace, the FAA is relying on a group of 23 research institutions led by Mississippi State University. The Alliance for System Safety of UAS through Research Excellence (ASSURE) is conducting in-depth studies on virtually every aspect of drone operations, including air traffic control, pilot certification and crash avoidance.
+
+“What happens when a drone hits a wing or a windshield or any other part of the aircraft is (one) of our key questions,” Lawrence said.
+
+In addition to studying drone strikes on aircraft, ASSURE researchers have been using crash test dummies to study the potential hazards of drones flying into, or falling on, people. According to Marty Rogers, ASSURE’s executive director, drone makers have expressed interest in design changes to their aircraft to reduce the risk of collisions.
+
+“That’s pretty significant when manufacturers step up and say: ‘We really need your data because we’re willing to make changes on our side,’” Rogers said.
+
+Although, many commercial drones provide live video feeds of their flights, the FAA generally requires operators to fly their drones within eyesight. But the commercial drone industry is actively preparing for a day this requirement is lifted.
+
+“Whether it’s package delivery, whether it’s Arctic operations, regardless of what it is, almost every truly useful application of unmanned technology is beyond visual line of sight,” Rogers said.
+
+Integrating commercial drones into the National Airspace System (NAS) will have an economic impact of $82.1 billion and create 103,776 U.S. jobs by the year 2025, according to research by the Association for Unmanned Vehicle Systems international (AUVSI), a trade group.
+
+While drone manufacturers and companies investing in unmanned flight are eager to reap the economic benefits, industry leaders and regulators agree the advance safety research is crucial to prevent crowded skies from turning into the Wild West.
+
+“We’ve had a very long history of incremental development of the national airspace and policies and rules and regulations that govern it,” said David Shaw, vice president for research and economic development at Mississippi State University. “So, you introduce something that is a complete game changer and all of a sudden we have to rethink about everything.”
+
+Once the drone industry can overcome these hurdles, Robert Moorhead, director of MSU’s Geosystems Research Institute, predicts huge benefits for agriculture. On his desktop computer, Moorhead points to an image from an unmanned aerial vehicle (UAV) showing weed infestations in a cotton field.
+
+“What the UAVs allow us to do is to allow the farmer to go out there and apply herbicide only where he really needs to apply it,” Moorhead said. “So, it saves money and it reduces the load on the environment.”
+
+Researchers hope their ongoing studies will help the regulatory side of the drone industry catch up with the technology. Lawrence of the FAA agrees.
+
+“The FAA is working mightily to work at the speed of Silicon Valley,” Lawrence said. “Obviously, when you are developing public policy, we can’t move at that same speed.”
+
+Fox News’ Chip Bell contributed to this report.

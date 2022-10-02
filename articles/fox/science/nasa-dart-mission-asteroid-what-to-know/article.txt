@@ -1,0 +1,29 @@
+NASA's Double Asteroid Redirection Test (DART) mission, the world's first planetary defense test mission, is scheduled to launch early Wednesday morning. 
+
+The agency said the mission will help determine if intentionally crashing a spacecraft into an asteroid is an effective way to change the asteroid's course.
+
+DART, which is targeting an asteroid that is not a threat to Earth, is set to launch no earlier than 1:20 a.m. EST on a SpaceX Falcon 9 rocket from Vandenberg Space Force Base in California.
+
+The spacecraft – traveling at a speed of roughly 6.6 kilometers per second – is headed for the small moonlet asteroid Dimorphos, which orbits a larger companion asteroid called Didymos.
+
+The intentional crash will slightly change the asteroid's orbit within the Didymos binary asteroid system in late September 2022, when the Didymos system is within 11 million kilometers of Earth.
+
+"The Didymos system is the ideal candidate for DART because it poses no actual impact threat to Earth, and scientists can measure the change in Dimorphos’ orbit with ground-based telescopes," NASA said in a media advisory. 
+
+Although no known asteroid larger than 140 meters in size has a significant chance to hit Earth for the next 100 years, only about 40% of those asteroids have been found as of October 2021.
+
+"DART will be the first demonstration of the ‘kinetic impactor’ technique in which a spacecraft deliberately collides with a known asteroid at high speed to change the asteroid’s motion in space," Lindley Johnson, NASA’s Planetary Defense Officer, said in a statement. "This technique is thought to be the most technologically mature approach for mitigating a potentially hazardous asteroid, and it will help planetary defense experts refine asteroid kinetic impactor computer models, giving insight into how we could deflect potentially dangerous near-Earth objects in the future."
+
+According to the agency, the kinetic impact will prove that a spacecraft can autonomously navigate to a target asteroid and kinetically impact it. The scientists will use Earth-based telescopes to measure the effects of the impact on the asteroid system, leading to enhanced modeling and predictive capabilities. 
+
+The DART spacecraft is aided by an onboard camera named DRACO and autonomous navigation software.
+
+Engineers also outfitted the spacecraft with NASA's NEXT-C ion propulsion system, designed to enhance performance and fuel efficiency for deep-space missions, and a flat, slotted high-gain antenna for efficient communication between Earth and the spacecraft. 
+
+Its two Roll Out Solar Arrays (ROSA) will provide the solar power needed for the electric propulsion system when launched and the Italian Space Agency’s miniature satellite LICIACube is designed to capture images of DART’s kinetic impact and its immediate aftereffects.
+
+The DART mission is led by the Johns Hopkins Applied Physics Laboratory (APL) and managed under NASA'S Solar System Exploration Program and the Science Mission Directorate’s Planetary Science Division.
+
+If weather or other issues prevent a launch on the first night, the team will have another opportunity on the next day, and subsequent launch attempts can take place through February 2022. 
+
+"I’m both amazed and grateful that DART has gone from a twinkle in the eye to a spacecraft in final preparation for launch within 11 years," said Andy Cheng, DART investigation team lead at APL and the man who came up with the idea of DART. "What made it possible was a great team that overcame all the challenges of building a spacecraft to do something never done before."

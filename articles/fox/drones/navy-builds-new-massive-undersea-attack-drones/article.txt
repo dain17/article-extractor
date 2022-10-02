@@ -1,0 +1,33 @@
+The Navy has taken several new steps in its development of several large underwater drones designed to conduct undersea reconnaissance, share combat essential data with submarine “motherships,” search for and destroy mines and - in some cases - launch attacks on enemy surface and undersea vessels
+
+The two new undersea drones, to be configured with advanced sensors and weapons, are called the Orca Extra Large Unmanned Undersea Vehicle (XLUUV) and the Large Diameter Unmanned Undersea Vehicle (LDUUV).
+
+“These will help consolidate Navy vision to bring UUVs (Unmanned Underwater Vehicles) and USVs (Unmanned Surface Vessels) to the fleet, and integrate them with surface vessels and submarines,” Capt. Pete Small, Program Manager for Unmanned Systems, said recently at the Surface Navy Association.
+
+The construction strategy, according to developers, is to engineer a new “upgradeable,” multi-mission drone able to quickly integrate new technology and payloads as they emerge. This technical platform could, in key instances, obviate the need for the Navy to build new undersea drones in the future. The concept, when it comes to application, could involve newer, upgraded sonar, networking systems and new weapon and countermine technologies.
+
+The Orca XLUUV, Small said, has finished critical design reviews and is moving to “fabrication."
+
+“The Orca XLUUV is a multi-phased, accelerated acquisition program featuring a full and open competition for industry to design, fabricate, test and deliver systems to the Fleet,” Alan Baribeau, spokesman for Naval Sea Systems Command, told Warrior.
+
+On Feb. 13, Boeing was recently awarded a $43 million deal to build four Orcas. Boeing's XLUUV Orca is based upon its Echo Voyager and Echo Ranger undersea drones. The Echo Ranger is an 84-foot long, 50-ton massive underwater drone able to reach depths of 11,000 feet and hit ranges up to 6,500 nautical miles, according to Boeing data. The drone has obstacle avoidance, payload capacity up to 34-feet, autonomous buoyancy and Synthetic Aperture Sonar, Boeing data states.
+
+Meanwhile, the Navy is now prototyping the LDUUV. “Next year we deliver a prototype (LDUUV) for integration with submarines,” Small said. Production of the LDUUV is currently slated for 2020 and 2021.
+
+The LDUUV mission, according to a 2015 essay from the “International Journal of Advanced Research in Artificial Intelligence,” is to “conduct missions longer than 70-days in open ocean and littoral seas, being fully autonomous, long-endurance, land-launched with advanced sensing for littoral environments,” a paper called “Military Robotics: Latest Trends and Spatial Grasp Solutions” from the National Academy of Sciences. (Peter Simon Sapaty)
+
+Boeing's XLUUV's long endurance is consistent with what the essay states for the LDUUV. A Boeing data sheet on its Echo Ranger writes "the vehicle’s advanced autonomy allows it to operate for months at a time without physical human contact and in congested waters."
+
+The National Academy of Sciences’ essay, among other things, points out the merits of “long-endurance” and “autonomy” associated with the LDUUV and XLUUV. As an unmanned platform, it is of course self-evident that will bring longer mission time by virtue of not transporting people or needing to return after a fixed period of time. Furthermore, a larger form factor will likely increase the technical capacity of propulsion systems, thereby enabling longer missions and dwell time on station.
+
+Strategies, missions and applications of the new drones continue to evolve, yet there is widespread consensus across the service that these new undersea craft are expected to greatly inform tactics, techniques and procedures for underwater attack.
+
+Initial applications include land-launched drones as a key step toward moving toward undersea launches, Small said. The service is working on both launched and recovered drones; both options involve the important priority of pairing with undersea or surface “mother ships” able to coordinate command and control, receive information and, in some cases, direct mission activity for the drones. The Navy plan is to one day soon have forward positioned undersea drones able to fire weapons.
+
+Autonomous or self-navigating undersea drones can also extend and improve mission possibilities. The concept aligns with the Navy’s now-under-development Unmanned Maritime Autonomy Architecture (UMAS) program, which is currently engineering and testing “different layers of autonomy,” according to Small.
+
+“In a more mature state we are going to use more autonomy. We are still in development of interface documents,” Small said.
+
+Autonomy can enable mission scopes previously not possible, such as longer-range undersea attack and surveillance. A forward positioned undersea drone could of course operate in much higher threat areas filled with mines, enemy submarines or other threats in both deep water and coastal areas. Being unmanned, they can also enable submarines to hit undersea, surface or land targets with greater standoff distance and improved targeting. At the moment, undersea drones predominantly gather data and then return to a host ship before downloading data. The service is now working to evolve and refine a handful of new ways to communicate undersea in real time, in some cases using video-guided autonomous undersea attack drones. Advanced autonomy and command and control can enable more seamless, real-time connectivity between UUVs and motherships. DARPA and BAE Systems are now developing an undersea "GPS-like" connectivity.
+
+“Developers have built highly autonomous systems that can navigate, maneuver, and carry out surprisingly complex tasks. Operating above or near the surface simplifies the power and control, but compromises stealth,” the National Academy of Sciences essay states.

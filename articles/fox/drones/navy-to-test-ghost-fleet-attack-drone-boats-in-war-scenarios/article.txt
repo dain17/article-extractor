@@ -1,0 +1,49 @@
+The U.S. Navy will launch a swarm of interconnected small attack drone boats on mock-combat missions to refine command and control technology and prepare its “Ghost Fleet” of autonomous, yet networked surface craft for war.
+
+Developed by the Office of Naval Research and Naval Sea Systems Command, “Ghost Fleet” represents a Navy strategy to surveil, counter, overwhelm and attack enemies in a coordinated fashion - all while keeping sailors on host ships at safer distances.
+
+The small boats, many of them called Unmanned Surface Vessels, are designed to conduct ISR missions, find and destroy mines and launch a range of attacks including electronic warfare and even mounted guns. The concept is to use advanced computer algorithms bringing new levels of autonomy to surface warfare, enabling ships to coordinate information exchange, operate in tandem without colliding and launch combined assaults.
+
+“Ghost Fleet is really helping us in the Command and Control and coms arena. The demonstration will allow us to learn lessons about integrated payloads with USVs,” Capt. Pete Small, Program Manager, Unmanned Maritime Systems, PEO Unmanned and Small Surface Combatants, told Warrior Maven.
+
+As communications and networking technologies continue to evolve rapidly, drones will increasingly be able to function in a cross-domain capacity, meaning across air, sea, land and undersea operations. A human at a control station, using a low bandwidth connection, can perform command and control functions without needing to actually drive the vessels.
+
+The Navy and ONR are already immersed in the development of a variety of USVs, including a sonar-equipped, mine-detecting Unmanned Influence Sweep System, or UISS, for the Littoral Combat Ship and other vessels. The UISS is carried by a Textron-developed Common Unmanned Surface Vehicle or CUSV.
+
+The CUSV, in development since before 2009, can travel for more than 20-hours carrying up to 4,000-pounds at speeds of up to 20-knots, Textron information states. Also, it is engineered to withstand waves up to 20-feet.
+
+Other applications include the possible use of aerial swarms, for instance, designed to detect an enemy surface target and relay information to unmanned surface vessels or undersea drones. All of this would be designed to operate in a combat circumstance while needing little or no human intervention.
+
+Algorithms governing autonomous maritime navigation have progressed to the point where USVs can more effectively “perceive” and respond to their surrounding environment while in transit, program managers with the Office of Naval Research have explained. Small, high-tech autonomy kits can be integrated onto the unmanned surface vessels.
+
+The USVs are programmed with sensors linked to an established database of known threats such as enemy boats; they are also linked to one another with an ability to detect, track and trail “unknown” boats, ONR officials said.
+
+One area of exploration, explained to Warrior by DoD researchers, is the exploration of a biologically-based approach to swarming technology. Pentagon scientists have been examining “bird swarms” or “bee swarms” in an effort to learn more about how swarms can move quickly in unison, without running into each other. Called “Bio-Memetics,” this scientific approach includes studying the behavior of birds and bees as a way to develop and refine new algorithms for drone swarming.
+
+While ocean drones are rapidly gaining advanced levels of autonomy through new computer algorithms, Navy strategy emphasizes that humans will of course still be needed to fire weapons, perform command and control and make many combat-relevant decisions.
+
+While unmanned surface ships are not yet operating with weapons on board, industry and Navy developers are looking at ways to integrate guns, lasers, enemy fire interceptors or even small missiles with surface drones - to of course be controlled by human operators. Current Pentagon doctrine specifies that, when it comes to the prospect of using lethal force, a human must always be "in the loop" making the decision - regardless of how quickly autonomy is progressing.
+
+Maj. Gen. David Coffman, Director of Expeditionary Warfare for the Navy expressed significant concerns that the services’ countermine initiatives are extremely challenged at the moment. He recently told an audience at the Surface Naval Association Symposium that he envisions unmanned, yet networked small boats as something which, among other things, can limit risk to Marines from a range of enemy attacks such as deep-water mines.
+
+“We have significant gaps in our capability to defeat 100,000 Russian and Chinese mines which will not be laid in shallow water,” Coffman said.
+
+The abundance and sheer variety of mine threats, as cited by Coffman, can also make detection more challenging. Some so-called “bottom mines” can be buried or shallow-water mines easily triggered by surface ships or submarines. Moored mines, however, often tethered to the ocean floor, can be found in deeper parts of the water column. They can linger below the surface or possibly operate at much greater depths to target deeper draft ships, according to a 2014 NATO essay called “Naval Mines and Countermeasures.”
+
+While deep-water mines, identified as an under-recognized threat by Coffman, represent a newer concern, shallow water “choke points” have been a long-standing threat. They often pertain to current, highly visible hotspots known to present mine threats – such as coastal areas surrounding the South China Sea and the much-discussed Strait of Hormuz in the Middle East. This waterway is recognized as a potential area for Iranian threats, such as swarming small boat attacks and sea mines. Many raise the question as to whether tensions with Iran could motivate a desire on their part to try to close or threaten the strategically vital and highly-trafficked “choke point."
+
+Small also addressed how Naval Sea Systems Command is working with industry to develop, assess and analyze mine-neutralization technologies for its emerging Mine Countermeasures Unmanned Surface Vehicle (MCM USV) -- a multi-mission surface drone countermine platform slated to be operational with the LCS.
+
+The MCM USV takes a large technical step beyond the mine-detecting Unmanned Influence Sweep System (UISS) which went through testing and builders’ trials, Navy developers said. Building upon these efforts, the Navy is planning for the MCM USV to incorporate an ability to "destroy" mines from USVs as well. Neutralizing mines, once they are found, is the aim of this longer-term Navy effort, service developers explained.
+
+The current exploration of mine-neutralization technology is happening alongside the ongoing integration of advanced sonar mine-hunting payloads onto the USV -- the AQS-20 and AQS-24, officials said.
+
+Countermine warfare has taken on much greater urgency in recent years, given the proliferation of inexpensive sea mine technology and the range of potential adversaries who could employ them, according to a National Research Council and Naval Studies Board published text from 2001 - “Naval Mine Warfare, Operational and Technical Challenges for Naval Forces.”
+
+Tracing the origins of Navy’s massively stepped-up mine warfare emphasis as far back as the Gulf War, “Naval Mine Warfare” cites a “growing realization that sea mines are readily available to potential US opponents.” The essay specifically cites Russia as a major supplier of modern mine weapons and states that more than 50 countries possess sea mining capability.
+
+Interestingly, while written almost two decades ago, “Naval Mine Warfare” succeeds in anticipating several pressing strategic considerations now inspiring Navy thinking about modern countermine technology. For instance, the Navy’s growing emphasis on disaggregated operations, which of course underscores the importance of countermine missions, is specifically cited in the essay.
+
+“In the future, surface warships and submarines may be dispersed throughout the theater doing key task unit operations – strike, fire support, theater air defense – as opposed to operating primarily in close proximity to a battle group. Warships so employed will have to provide much of their own self-protection against various threats, including mines,” the Naval Mine Warfare paper says.
+
+(Stay tuned for upcoming Warrior Maven reports on a new Navy Medium Unmanned Surface Vehicle & Large Unmanned Surface Vehicle - for Ghost Fleet)

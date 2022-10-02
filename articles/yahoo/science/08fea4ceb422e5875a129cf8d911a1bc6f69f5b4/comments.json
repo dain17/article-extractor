@@ -1,0 +1,74 @@
+[
+    {
+        "user_name": "w27*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/fCJFLTCPOCf_u3IsBxip/comments",
+        "time": null,
+        "context": "地方の国立大学でも10年前には既にアイデアとして存在したのは知っているし、更にその先行研究も色々とあったはず。\n\nその中で、 後発にも関わらずこれだけの評価が付いたのは、開発したモノの価値を示していると思う。",
+        "good": 25,
+        "bad": 3,
+        "replies": []
+    },
+    {
+        "user_name": "str*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/f62LIEWIZ2dmj_IoHibo9Q--/comments",
+        "time": null,
+        "context": "みんなの発想が大きな金になる\nそういう事例をどんどん紹介すれば、社会が活気付く気がする",
+        "good": 49,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "hir*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/.1TXLS.QY2KeRMbtAvCD7rjHMoYn/comments",
+        "time": null,
+        "context": "若い子らがこういう新しい発想で技術開発が出来る事がすばらしい。\n期待しています！",
+        "good": 28,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "g_m*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/ES0GV6afVX0wOpgd01VwvIwC/comments",
+        "time": null,
+        "context": "これ、はやく起業したほうがいいな。",
+        "good": 7,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "don*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/Vc43f.ScZX6L4iSx4d6gFA--/comments",
+        "time": null,
+        "context": "認知症の兆候ありと診断された高齢者は「AIなんぞにボケ老人扱いされたくないわ！」ってキレそうだけど。",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "zqx*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/pP.GWHWCe2hOCNP6Lq_ao5olDQ--/comments",
+        "time": null,
+        "context": "認知症に特有の歩行なんてあるのでしょうか?\nそもそも、認知症の定義が怪しいのに。\n無理のありすぎるものに見受けられます。",
+        "good": 4,
+        "bad": 35,
+        "replies": [
+            {
+                "user_name": "yui*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/8nEocZaBf3mYzfhVciLIEA--/comments",
+                "time": null,
+                "context": "脳の機能低下をどこで予測するかという話だから、別に認知症かどうかを判別する装置ではないぞ",
+                "good": 3,
+                "bad": 1
+            }
+        ]
+    },
+    {
+        "user_name": "vyp*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/qGK7qeGOc2DEe5VsyrxfJn_23Q--/comments",
+        "time": null,
+        "context": "やばい、私すり足でよくつまずく。認知予兆？",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    }
+]

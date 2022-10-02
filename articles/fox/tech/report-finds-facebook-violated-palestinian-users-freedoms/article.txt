@@ -1,0 +1,33 @@
+Actions by Facebook and its parent Meta during last year's Gaza war violated the rights of Palestinian users to freedom of expression, freedom of assembly, political participation and non-discrimination, a report commissioned by the social media company has found.
+
+The report Thursday from independent consulting firm Business for Social Responsibility confirmed long-standing criticisms of Meta's policies and their uneven enforcement as it relates to the Israeli-Palestinian conflict: It found the company over-enforced rules when it came to Arabic content and under-enforced content in Hebrew.
+
+It, however, did not find intentional bias at Meta, either by the company as a whole or among individual employees. The report’s authors said they found "no evidence of racial, ethnic, nationality or religious animus in governing teams" and noted Meta has "employees representing different viewpoints, nationalities, races, ethnicities, and religions relevant to this conflict."
+
+Rather, it found numerous instances of unintended bias that harmed the rights of Palestinian and Arabic-speaking users.
+
+In response, Meta said it plans to implement some of the report's recommendations, including improving its Hebrew-language "classifiers," which help remove violating posts automatically using artificial intelligence.
+
+"There are no quick, overnight fixes to many of these recommendations, as BSR makes clear," the company based in Menlo Park, California, said in a blog post Thursday. "While we have made significant changes as a result of this exercise already, this process will take time — including time to understand how some of these recommendations can best be addressed, and whether they are technically feasible."
+
+Meta, the report confirmed, also made serious errors in enforcement. For instance, as the Gaza war raged last May, Instagram briefly banned the hashtag #AlAqsa, a reference to the Al-Aqsa Mosque in Jerusalem’s Old City, a flash point in the conflict.
+
+Meta, which owns Instagram, later apologized, explaining its algorithms had mistaken the third-holiest site in Islam for the militant group Al-Aqsa Martyrs Brigade, an armed offshoot of the secular Fatah party.
+
+The report echoed issues raised in internal documents from Facebook whistleblower Frances Haugen last fall, showing that the company's problems are systemic and have long been known inside Meta.
+
+A key failing is the lack of moderators in languages other than English, including Arabic — among the most common languages on Meta's platforms.
+
+For users in the Gaza, Syria and other Middle East regions marred by conflict, the issues raised in the report are nothing new.
+
+Israeli security agencies and watchdogs, for instance, have monitored Facebook and bombarded it with thousands of orders to take down Palestinian accounts and posts as they try to crack down on incitement.
+
+"They flood our system, completely overpowering it," Ashraf Zeitoon, Facebook’s former head of policy for the Middle East and North Africa region, who left in 2017, told The Associated Press last year. "That forces the system to make mistakes in Israel’s favor."
+
+Israel experienced an intense spasm of violence in May 2021 — with weeks of tensions in east Jerusalem escalating into an 11-day war with Hamas militants in the Gaza Strip. The violence spread into Israel itself, with the country experiencing the worst communal violence between Jewish and Arab citizens in years.
+
+In an interview this week, Israel’s national police chief, Kobi Shabtai, told the Yediot Ahronot daily that he believed social media had fueled the communal fighting. He called for shutting down social media if similar violence occurs again and said he had suggested blocking social media to lower the flames last year.
+
+"I’m talking about fully shutting down the networks, calming the situation on the ground, and when it’s calm reactivating them," he was quoted as saying. "We’re a democratic country, but there’s a limit."
+
+The comments caused an uproar and the police issued a clarification saying that his proposal was only meant for extreme cases. Omer Barlev, the Cabinet minister who oversees police, also said that Shabtai has no authority to impose such a ban.

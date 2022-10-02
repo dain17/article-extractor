@@ -1,0 +1,46 @@
+[
+    {
+        "user_name": "nrj*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/nnTt0pqWeHpJyLqKaS9SMg82Ow--/comments",
+        "time": null,
+        "context": "銀ではもっと時間が短くなるのかな、酸化銅は食べると毒に為るけど！",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "par*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/zh4ttXeIa2LiI1MGURBvkNM_/comments",
+        "time": null,
+        "context": "抗菌は良いのですが、銅ナノワイヤーの環境に対する影響が気になりました。",
+        "good": 2,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "r_k*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/xUqu6haKVXsj5XAVBGF8M1w-/comments",
+        "time": null,
+        "context": "銅って人間に害があるんじゃない?\n吸い込んだりしても平気なのかねぇ?\n銀にも抗菌作用はあったはずだけど、銀だと高いから?",
+        "good": 5,
+        "bad": 3,
+        "replies": [
+            {
+                "user_name": "pb",
+                "user_url": "https://news.yahoo.co.jp/profile/id/iP3rtDWIaCYe9.Kuv7s-/comments",
+                "time": null,
+                "context": "銅は中毒になります。\n昔、銅にメッキしてた水筒の頃、繰り返しの洗いでメッキに傷がついたところに、スポーツドリンクなんかを入れると銅が溶け出して中毒になる事象が多発しました。\nなので今の水筒はステンレス製で、同じような銅鍋なんかは直接触れないように錫メッキされてます。\n\nちなみに亜鉛にも抗菌作用がありまして、風邪薬のカイゲンでお馴染みの堺化学工業も酸化亜鉛でコロナウイルスにも有効だと、だいぶ前に研究結果を報告してます。",
+                "good": 2,
+                "bad": 0
+            },
+            {
+                "user_name": "ひとこと",
+                "user_url": "https://news.yahoo.co.jp/profile/id/GtEZw46WZWIHVHHl5Z2q8w--/comments",
+                "time": null,
+                "context": "危険な新型コロナウイルスを消失させるためなんだから、人への害なんて気にしていられるか！",
+                "good": 0,
+                "bad": 5
+            }
+        ]
+    }
+]

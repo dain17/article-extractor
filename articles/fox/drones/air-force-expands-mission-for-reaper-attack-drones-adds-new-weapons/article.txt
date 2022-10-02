@@ -1,0 +1,39 @@
+The Air Force is advancing plans to retire its Predator drone by transitioning pilots to the larger Reaper drone – and widening the mission scope of Reapers to include more weapons integration, attack options and ISR possibilities.
+
+The retirement and transition from the Predator to expanded Reaper use will finish by the end of this year, Air Force officials said.
+
+“The MQ-1 Predator paved the way through 24 years of service and adaptation leading to expanded capabilities of the MQ-9 Reaper. The mission set doesn’t change. The capabilities to fulfill those multi-role missions are expanded by the MQ-9 Reaper,” Maj. Ken Scholz, Air Force Spokesman, told Warrior Maven.
+
+The Air Force is adding new weapons to the Reaper, in part by leveraging an emerging “universal weapons interface.” This would allow the Reaper to more quickly integrate new weapons technology as it emerges and efficiently swap or replace bombs on the drone without much difficulty, Air Force weapons developers explain.
+
+This is something brought to fruition by common standards and IP protocol engineered with adjustable software and hardware configurations. This enables faster integration or a more seamless addition of new weapons on the Reaper platform.
+
+The Reaper currently fires the AGM-114 Hellfire missile, a 500-pound laser-guided weapon called the GBU-12 Paveway II, and Joint Direct Attack Munitions or JDAMs which are free-fall bombs engineered with a GPS and Inertial Navigation Systems guidance kit.
+
+There are many potential advantages to adding to the arsenal of weapons able to fire from the Reaper. These include an ability to strike smaller targets, mobile targets or terrorists, such as groups of enemy fighters on-the-move in pick-up trucks as well as enemies at further ranges, among other things.
+
+Drone attacks from further ranges could reduce risk to the platform and help strikes against Al Qaeda or ISIS targets to better achieve an element of surprise. Furthermore, an ability to hit smaller and mobile targets could enable the Reaper drone to have more success with attacks against groups of ISIS or other enemy fighters that reduce the risk of hurting nearby civilians. Both ISIS and Al Qaeda are known for deliberately seeking to blend in with civilian populations to better protect themselves from U.S. drone strikes.
+
+Further arming the Reaper is also something of great relevance should the Air Force find itself in a major-power air war; an ability to conduct ISR missions, test enemy air defenses and deliver weapons at greater standoff ranges would doubtless be significant in any kind of major air warfare.
+
+Also, at some point in the future it may not be beyond the realm of possibility to arm the Reaper for air-to-air engagements as well, service developers have said.
+
+Furthermore, the rapid pace of technical progress when it comes to autonomy and advanced algorithms is quickly bringing the Air Force an ability for more airborne manned-unmanned teaming. F-22s or F-35s, for instance, will soon be able to control drones from the cockpit, directing strike and reconnaissance missions.
+
+One new possibility for the Reaper drone could be the addition of the GBU-39B or Small Diameter Bomb, senior Air Force weapons developers told Warrior in a prior interview.
+
+The Small Diameter Bomb uses a smart weapons carrier able to include four 250-pound bombs with a range of 40 nautical miles. The bomb’s small size reduces collateral damage and would allow the Reaper to achieve more kills or attack strikes per mission, Air Force officials said.
+
+The Small Diameter Bomb, which can strike single or multiple targets, uses GPS precision. It is currently fired from the F-15E, F-16, F-117, B-1, B-2, F-22 and F-35, Air Force officials stated.
+
+The Air Force currently operates more than 100 Reaper drones and has, in recent years, begun configuring the platform with additional fuel tanks to increase range. The Reaper Extended Range, or ER as it’s called, is intended to substantially increase and build upon the current 4,000-pound fuel capacity of the drone with a range of 1,150 miles.
+
+The upgrades to Reaper are designed to add two 1,350-pound fuel tanks engineered to increase the drone’s endurance from 16 hours to more than 22 hours, service officials said.
+
+This trajectory for the Reaper is evolving alongside a separate effort to harness increasingly smaller, lighter-weight sensors, transmitters and receivers.
+
+In addition, as technology continues to progress and lead to the miniaturization of sensors, receivers and transmitter and lighter materials, smaller drones are increasingly expected to perform those larger missions currently reserved to large drone platforms.
+
+However, this developmental phenomenon is not likely to lead to a replacement for the larger, weaponized Reaper anytime soon – given its importance to strike and reconnaissance missions.
+
+More Weapons and Technology - WARRIOR MAVEN (CLICK HERE)

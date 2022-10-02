@@ -1,0 +1,2512 @@
+[
+    {
+        "user_name": "kyo*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/mU0Dd7yTc3.1i423mG_seZEsRTZ6WQ--/comments",
+        "time": null,
+        "context": "Windowsの歴史を見てみると、成功したと言われるOSの後継期は失敗と言われてるのが多いから、なかなかWindows11にアップデート出来ないのもある。\n\nVistaや8は操作性が変わって使いづらかったし、11も同じく、特にスタートの位置を変えてる部分があるから、また同じ歴史を繰り返してるのではという不安がある。\n\nその過渡期が終わった後継OSは使いやすくなってるのがこれまでのパターンだから、10のサポートが切れるギリギリで12を出してくれるのを期待してる。",
+        "good": 558,
+        "bad": 84,
+        "replies": [
+            {
+                "user_name": "hevri***",
+                "user_url": "https://news.yahoo.co.jp/profile/id/s1g.OPGRZHNR9zW.EWKT300-/comments",
+                "time": null,
+                "context": "Win11を数ヶ月使ってみた感想\nメニューボタンの位置は移動できるし問題ない。\n右クリックメニューは後からソフトから追加した項目(圧縮、解凍など)は全部「その他」に入って二段階クリックになるのが非常に面倒。\nコピー、切り取り、貼り付け、削除、などアイコン化されたのは未だ慣れない（別途Win10も使い続けてるから）\nWin10メニューではタイルをグループ化して目的のアプリをすぐ起動できるように配置してたがそれができなくなった。\nWin11だとサイズ変更不可でいちいちスクロール必要＋グループ化できない。個人的にはこれが一番の改悪だと思う。不本意ながらWin10式メニューに変更できる有料ソフトを入れた。\nそれ以外はWin10と変わらないかな。Win8ほどの失敗作でも無いかと。現状に不満が無いのならWin10のままでもなんの問題もないとも思うけどね。",
+                "good": 71,
+                "bad": 3
+            },
+            {
+                "user_name": "",
+                "user_url": "https://news.yahoo.co.jp/profile/id/j5C4WcyLY332zGbF4HPZma8AK4fIg1KM/comments",
+                "time": null,
+                "context": "Vistaはスペックさえ足りていれば別に問題なかったと思う、自分はサポートギリギリまでずっと使っていた。\n公式発表の最低スペックが低くしすぎていて、それでは全く動かなかっただけ。見ている限りでは、ユーザーの指示よりも自分(OS)を守ろうとする動作を優先させていたので、スペックの低いPCではそれが終わるまですごく重くなってた印象。\n8(8.1)はマウス操作でなければ使いやすいのかな？まともに使ってないから分からない。",
+                "good": 9,
+                "bad": 5
+            },
+            {
+                "user_name": "t*****s",
+                "user_url": "https://news.yahoo.co.jp/profile/id/FT3h_NmQcCGbJWbXT.DsHW3Z/comments",
+                "time": null,
+                "context": "日常使いで一番不便なのは右クリック。あと、タスクバー周りのメニュー関係がだいぶ省略されたのが面倒。とにかくタブレット・スマホに似せてきたイメージ。\n一方で、タブレット型にもなるパソコンだと、大変使いやすい。（Windows 10のタブレットモードのようなUIの変更はなく、しかしボタンなどは大きくなって使いやすい）\nあと、ノートPCで外部モニターを接続して使う人にとってはかなり便利だと思う。接続する固有の条件によってすべて記憶していて、オフィスでモニターを繋げた瞬間に以前の設定が正確に復元される。\nデスクトップPCだとWindows 10のほうが使いやすいが、ノートPCだとWindows 11のほうがいい点もあり、タブレットだとWindows 11の方が良いという印象ですね。",
+                "good": 30,
+                "bad": 1
+            },
+            {
+                "user_name": "*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/GtPTAe6cVWT1WuO3Lj_0QA--/comments",
+                "time": null,
+                "context": "Windows11へアップデートが進まない最大の理由は、アップデートできるハードウェアに制限があるからでは？TPM 2.0対応が必須で、これは直近5年くらい（インテルCPUなら第八世代以降）のパソコンなら搭載されていますが、それ以前だと厳しいでしょう。",
+                "good": 6,
+                "bad": 0
+            },
+            {
+                "user_name": "*****kt",
+                "user_url": "https://news.yahoo.co.jp/profile/id/gj2MiGaIb3Iih_Khpl3FMTXxvfkfwg--/comments",
+                "time": null,
+                "context": "最期のOS…誰が言ったんだろうね。\n何度も大型アップデートした訳だが、以前のようなサービスパックよりも頻繁に大型アップデートを繰り返した「最後の『未完成を繰り返した』OS」だったのかもしれないなぁ。\n\n\n未完成OSで言えば、8.0がそうだったね。すぐに8.1に切り替わった。考えてみれば、8.1から10に上がる時も短期間だったっけ？\n\nってことは、8.0～10は、未完成を幾度となく繰り返した気がする。\n\n今思い出したが、Win10のある時期に気づいたのだが、再起動時のブルー画面メッセージが、「軌道」という文言だったことがあった。\n2019年頃だったかなぁ？\n\nき、軌道？？\n\nまさか起動の誤字ではないよなぁ？\n意図して「軌道」なのか？いやぁ、どう見ても「起動」の意味だよなぁ。\nって思ったことがあった。",
+                "good": 23,
+                "bad": 43
+            },
+            {
+                "user_name": "ybc*******",
+                "user_url": "https://news.yahoo.co.jp/profile/id/p2MH6jSQMmORQgt5Z5s32b7vO.EL/comments",
+                "time": null,
+                "context": ">Vistaはスペックさえ足りていれば別に問題なかったと思う\n\nVistaは8GBぐらいのメモリーを積んで64ビットで走らせれば速かった。\nでも、殆どのユーザーは32bitのXPを走らせていた1GB程度のパソコンに32bitのVistaを入れてバグらせていた。\nそのせいでパソコンオタクは今でも「最悪のOS」と言って譲らないよ。\n\nただ、複数のパソコンやServer2008R2と連携させるとマイナーアップデートのタイミングで大事件になる様な事故を起こす。\nWindowsではあまり使われないパイプやネットワークはデータレートを自主規制しないとクラッシュした。\nこれはプログラマー泣かせだった。\n\n多分、ファイルシステムのバッファに致命的な欠陥があったのだと思う。",
+                "good": 1,
+                "bad": 0
+            },
+            {
+                "user_name": "fc3*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/w_.ow2meaSNlA.hXWel3qg--/comments",
+                "time": null,
+                "context": "評価用にインストールしていますが、ところどころ10との違いでイラっとさせられる部分がありますね。\nスタート位置は戻せるのでまだかわいい方で、使用頻度がところでは右クリックメニューを元に仕様に戻せるようにしてほしいですね。",
+                "good": 44,
+                "bad": 4
+            },
+            {
+                "user_name": "ryu*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/ttDKGzyKc2XC57B5LYqBGVfahqII/comments",
+                "time": null,
+                "context": "＞黒歴史と言われてるvistaやmeは一般人からの評価は低いけど\n＞パソコンに詳しい人ほど絶賛されてたOSなんだよね\n\nVISTAについては同意するけど、MEについてはパソコン詳しい人でも絶賛する人なんか見たことない。あれは被害者の会を立ち上げてもいいレベルだったと思う。\nVISTAは実は十分なスペックのパソコンに入れるとかなり快適と聞いたことあります。自分で使ったわけじゃないけど…",
+                "good": 4,
+                "bad": 0
+            },
+            {
+                "user_name": "********",
+                "user_url": "https://news.yahoo.co.jp/profile/id/UdMSSPOZeGNfH7oMznXe13oJ/comments",
+                "time": null,
+                "context": "スタートの位置がセンター寄せになっているのはアンドロイドOSとの統合を見据えているから。いずれ吸収されるのだろうけどデスクトップに最適化された環境が無くなるのは辛い。",
+                "good": 0,
+                "bad": 0
+            },
+            {
+                "user_name": "ybc*******",
+                "user_url": "https://news.yahoo.co.jp/profile/id/p2MH6jSQMmORQgt5Z5s32b7vO.EL/comments",
+                "time": null,
+                "context": "自宅のパソコンは今もVista。\nハードも15年前に買い揃えた物だけど、ゲームさえやらなきゃ今のパソコンより速い。\n\nOSとOfficeがどんどん遅くなるのでこうなった。\n未だに捨てられないんだ。",
+                "good": 0,
+                "bad": 0
+            },
+            {
+                "user_name": "don*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/e0VUqx2cZX6ubXgUojqoYaCd/comments",
+                "time": null,
+                "context": "Windowsは10が最後で言って、\nWindows11を出し、\n必ずWindows12も出してきます。\nそれよりも次のQSの開発に着手する前にもっとMicrosoftはWindows10を完全な完成品したOSに着手して欲しかった。",
+                "good": 14,
+                "bad": 11
+            },
+            {
+                "user_name": "oys*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/OHtOcoKXc2MbJq.IFViKZDLCmw--/comments",
+                "time": null,
+                "context": "とはいえ、Win11は元々はWin10の機能更新として作られたものだから、もし当初の路線通り進んでたら、どうなってたんかなあ。",
+                "good": 9,
+                "bad": 1
+            },
+            {
+                "user_name": "quk*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/.aoDz86Jf3tjq9kWP616/comments",
+                "time": null,
+                "context": "そもそもコンピューターの性能なんてものすごい速度で上昇しているんだから最後のOSなんてあり得ないなんて分かり切ってるじゃん",
+                "good": 3,
+                "bad": 7
+            },
+            {
+                "user_name": "sas*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/v2P.fd.La2PaSc6HN8w6s1VEgey1/comments",
+                "time": null,
+                "context": "黒歴史と言われてるvistaやmeは一般人からの評価は低いけど\nパソコンに詳しい人ほど絶賛されてたOSなんだよね",
+                "good": 11,
+                "bad": 89
+            },
+            {
+                "user_name": "bro*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/tO7WlNqaeH_Uzvwla7TzHU0-/comments",
+                "time": null,
+                "context": "社内PCを11にしましたが、スタートは左下、右クリックメニューもレジストリ操作で10と同じにしました。",
+                "good": 22,
+                "bad": 2
+            },
+            {
+                "user_name": "Dj",
+                "user_url": "https://news.yahoo.co.jp/profile/id/iYsLXvOMfSErxN8tfQVw/comments",
+                "time": null,
+                "context": "アプリケーションのライセンスがOSに依存するものがあるので、それが俺の中で一番の問題。",
+                "good": 9,
+                "bad": 0
+            },
+            {
+                "user_name": "qzg*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/kFOhX7CJcHd_Cd7R073Frg--/comments",
+                "time": null,
+                "context": "windowsもvistaとMeは忘れたい黒歴史なんだろうけとな。\nで、このままメジャーアップデートつづけると、１００年後くらいにはwindowe95とか出るんかい？\nそのころにはpcも今とは別物なんだろうけどさ。",
+                "good": 23,
+                "bad": 5
+            },
+            {
+                "user_name": "sk3*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/1kJcBkiLYSM0vYI9D1YiqQcS/comments",
+                "time": null,
+                "context": "11で今のところ特に違和感はないが、その昔のXPが好きだったなあ。",
+                "good": 12,
+                "bad": 3
+            },
+            {
+                "user_name": "b31*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/ZxqFR2qaOSG40Ely7VR0kehEzg--/comments",
+                "time": null,
+                "context": "車やバイクがレトロブームになっているので、OSもXPとか流行ったりして・・・\n（そもそも、あの頃に使ってたアプリで未だ事足りる）",
+                "good": 2,
+                "bad": 0
+            },
+            {
+                "user_name": "his*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/b6Bi4iOQY2Mnpi0GeHvj9vfHMQ--/comments",
+                "time": null,
+                "context": "windows11は右クリック一発でDefenderが出るようにしてほしい。\n手順一つ踏むのは結構イラつくんですよ。",
+                "good": 5,
+                "bad": 6
+            },
+            {
+                "user_name": "yas*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/tthYvDmBa2NfIGOnnsM-/comments",
+                "time": null,
+                "context": "事務機で使うぶんには11にする意味はほぼない。\n単に重くなるだけ。",
+                "good": 3,
+                "bad": 3
+            },
+            {
+                "user_name": "ペタ",
+                "user_url": "https://news.yahoo.co.jp/profile/id/7SwUd7uUZ2FnfNW3ySCf7_xyyA--/comments",
+                "time": null,
+                "context": "スタートの位置は左に変更できますがね。",
+                "good": 16,
+                "bad": 3
+            },
+            {
+                "user_name": "ctk*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/EPJuAzSbfnunWMxGqWyF6mDDmg--/comments",
+                "time": null,
+                "context": "CPU開発にも手を出してるから11以降のナンバーも出てくるのは必至なんじゃね？",
+                "good": 1,
+                "bad": 0
+            },
+            {
+                "user_name": "aaa",
+                "user_url": "https://news.yahoo.co.jp/profile/id/R9mbaSGMb30MOl4dYFYiokc-/comments",
+                "time": null,
+                "context": "＞Windowsジンクスだと偶数番が失敗作なんだけどね\n\n98SEや2000はいいものだ！\nでもXPがいまだに一番好き。",
+                "good": 0,
+                "bad": 0
+            },
+            {
+                "user_name": "min*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/WPdzpIWfZXtzUMXeCjn1/comments",
+                "time": null,
+                "context": "Windowsジンクスだと偶数番が失敗作なんだけどね",
+                "good": 1,
+                "bad": 11
+            },
+            {
+                "user_name": "yos*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/7MQH4fOBZWN48CuM_wo0EYvcHw--/comments",
+                "time": null,
+                "context": "不満ばっかりよく出てくるな…\n普通に対応してます。",
+                "good": 3,
+                "bad": 14
+            },
+            {
+                "user_name": "it*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/nixciiiRfn9qFe3oqmSdH6pVM31y/comments",
+                "time": null,
+                "context": ">10とそんなに変わらんよ。\n\nusb認識周りが変わった。xp,Vistaソフトでも10なら認識したからね",
+                "good": 6,
+                "bad": 1
+            },
+            {
+                "user_name": "be_*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/CU6tLv2ab0_Ptjkp89OUjRM-/comments",
+                "time": null,
+                "context": "不安？使ってから言えば？",
+                "good": 0,
+                "bad": 14
+            },
+            {
+                "user_name": "Don't think! Feel!",
+                "user_url": "https://news.yahoo.co.jp/profile/id/fEexZ2mda2LHpjwV8vritQynvkVL/comments",
+                "time": null,
+                "context": "10とそんなに変わらんよ。",
+                "good": 34,
+                "bad": 8
+            },
+            {
+                "user_name": "moo*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/0FzG3HKVZX9GUu_qXzi_TMM3wOqH/comments",
+                "time": null,
+                "context": "素直にお気に入りのエロゲが動かないって言えばいいのに",
+                "good": 0,
+                "bad": 4
+            }
+        ]
+    },
+    {
+        "user_name": "nan7",
+        "user_url": "https://news.yahoo.co.jp/profile/id/KQsNnQeWa34tDSqEvZjQMpZFTxw-/comments",
+        "time": null,
+        "context": "Win11は本当はWin10のアップデート21H2としての配布と言われていました。\nUIは変わりましたが、根幹は10のままという事のようです。\n当方はあえて11にはアップデートしていません。\n21H1でやっと少し安定したかなと思えるバージョンが来たので、しばらくは様子見します。\n他の方も書いていましたが、Winは良いバージョンと悪いバージョンが繰り返されているので、安定するまでは10のままで良いかなと。",
+        "good": 91,
+        "bad": 6,
+        "replies": []
+    },
+    {
+        "user_name": "sei*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/L0ZmFqeLb3mUuE5RxXe_Qbwn/comments",
+        "time": null,
+        "context": "11で普通に快適に使ってる\nスタートボタンの位置も変えれるし、今のところ不具合もない\nハードのアップデートが必要になったのはちょっと不満もあったけど、新世代のCPUが11に最適化されてたりもする\nvistaの時はハードがそもそも追いついてなかったから重いとか問題になってたけど、今ってオーバースペックずっと続いてるし、OS本質というより毎回やけど、慣れた物から移ることへの拒否感とかを感じてる人が多い気がする\nでも結構すぐ慣れるし角が取れたUIとかも個人的には結構気に入ってる",
+        "good": 91,
+        "bad": 259,
+        "replies": [
+            {
+                "user_name": "ken*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/dorlRA6Tb368ufSCefPlY3U-/comments",
+                "time": null,
+                "context": "クリーンインストールを機に、家の３台のPC全部を11に更新しました。未対応機も公式の裏技を使って更新。\n結果、古いPCですら7に10を重ねていた頃より遥かに高速化きて快適に。安定度も変わらず。\n特に不満ないし、セキュリティ的にもまだまだ大丈夫となればこんな嬉しいバージョンアップはないかなってところです。\n１０年以上前のi5でも十分快適なんですよね。",
+                "good": 11,
+                "bad": 13
+            },
+            {
+                "user_name": "nun*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/T_qwNYuWf37Hw227HjDi28e7O5Gmc1JNYYg-/comments",
+                "time": null,
+                "context": "Win11は実質Win10.6みたいなものだからなー\nハードウェアの更新要件もフルでオンライン接続するOSとしてセキュリティを確保するためだし納得できる",
+                "good": 31,
+                "bad": 5
+            },
+            {
+                "user_name": "nan*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/DEfYg6CWa35bHqPtRNPNkDICI9LGH2u8PYRFp.8m/comments",
+                "time": null,
+                "context": "各種ソフトウェアがWindows11に対応してからかな～\nあとはWindowsUpdateの月例パッチの不安定状況もマイナス査定かな\n実際のところ、あと1年くらいかかるのかな",
+                "good": 16,
+                "bad": 1
+            },
+            {
+                "user_name": "kant****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/j_nxsZWTZXLGCBrIDj.pZD0CHAybeg--/comments",
+                "time": null,
+                "context": "OS更新ごとに各媒体で新バージョンのステマが激しくなるのは取り締まれないもんかね。",
+                "good": 9,
+                "bad": 2
+            },
+            {
+                "user_name": "zzz*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/gWi9vfGCcGq1rdV2kz4v/comments",
+                "time": null,
+                "context": "Win98のuiでいい\n使うのはuiじゃなく各種アプリケーション\n重く使いにくくなるuiなんていらん\n不変でいい",
+                "good": 13,
+                "bad": 4
+            },
+            {
+                "user_name": "sas*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/_e5cBrqLa2Nz3z9Z_m.T/comments",
+                "time": null,
+                "context": "11は多少カスタマイズが必要だが快適に使えるね",
+                "good": 4,
+                "bad": 2
+            },
+            {
+                "user_name": "yur仮）",
+                "user_url": "https://news.yahoo.co.jp/profile/id/FAjPG5mBf2I32GGClJRt2HQpar8-/comments",
+                "time": null,
+                "context": "11はドライバ周りが早く解決すればな",
+                "good": 22,
+                "bad": 1
+            },
+            {
+                "user_name": "o_s*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/DYh1.DaXVWOHltI65Q--/comments",
+                "time": null,
+                "context": "もう少し先に12の噂が",
+                "good": 8,
+                "bad": 0
+            },
+            {
+                "user_name": "key*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/8Rqz13qTb2nkjbgC3fMj6no-/comments",
+                "time": null,
+                "context": "Mac風になりましたね",
+                "good": 5,
+                "bad": 12
+            },
+            {
+                "user_name": "tet*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/ucB8nUCMb2T1yxnFC_9t1m6x/comments",
+                "time": null,
+                "context": "＞新しいものを否定しかしない人は、お願いだから世の中から消えてください。\n\n君が消えた方がラクだよ。お前さんは、何でもかんでも新しいものを常に使い続けるのか。凄いな。\n\n絶対無理だけど",
+                "good": 0,
+                "bad": 1
+            },
+            {
+                "user_name": "yur仮）",
+                "user_url": "https://news.yahoo.co.jp/profile/id/FAjPG5mBf2I32GGClJRt2HQpar8-/comments",
+                "time": null,
+                "context": ">ken*****\n\nそれはじゃっかんクリーンインストール最強説がw",
+                "good": 19,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "y_r*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/PmlYmJGBVWJ.zN_j0BGeCg--/comments",
+        "time": null,
+        "context": "Windows11に移行して半年ほどだが、以前のWindows10とそれほど操作性に問題を感じていないと思っていたが、よく考えたらファイラーを「秀丸ファイラーClassic」というシェアウェアを使っているからだった。WindowsXPの頃から使っているが、Windowsのバージョンが変わってもファイル操作は同じでできるし、デザインはシンプルではあるが使いやすさは抜群の上、ソフトウェア自体も頻繁にバージョンアップするのでストレスなく利用できている。Windows標準のファイラーも毎回変更せずにある程度定番化すればよいのだろうが、全体のデザインに合わせたり、斬新さを求めているせいなのか、慣れるまで戸惑う人も多いのだろうと思う。",
+        "good": 85,
+        "bad": 12,
+        "replies": [
+            {
+                "user_name": "ふぁんり＝あーぶる",
+                "user_url": "https://news.yahoo.co.jp/profile/id/763w_WmMa3O4cSStqimgHU01cZVV/comments",
+                "time": null,
+                "context": "まだ１１なんて触ってないが…10までは、いらん改悪をしたり、わけわからんアニメーションを標準にしたり…誰を向いているのかと思う。ゲームをする人向けなのか？\nもちろんよくなってるところはあるけど。\nとりあえず動きを軽くしろ。",
+                "good": 5,
+                "bad": 1
+            },
+            {
+                "user_name": "key*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/8Rqz13qTb2nkjbgC3fMj6no-/comments",
+                "time": null,
+                "context": "Windowsが使いにくいって事ね",
+                "good": 1,
+                "bad": 7
+            },
+            {
+                "user_name": "hoge2200",
+                "user_url": "https://news.yahoo.co.jp/profile/id/qmGhlfySYCIFBLdDIQQ-/comments",
+                "time": null,
+                "context": "自分はWin10でTablacus Explorer使ってます。\nWin10のExplorerは使いにくくゴミです。\nClassic-shellも使用、やっぱこのスタイルが使いやすい。",
+                "good": 4,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "清行",
+        "user_url": "https://news.yahoo.co.jp/profile/id/AWaanlGLf2NsNQf2Nuy1fqUbYzIJ/comments",
+        "time": null,
+        "context": "Windows11の最大の欠陥はタスクバーが下部に固定された点、わずか一行の差でも差は大きく、とくにノートパソコンで縦書きの一太郎・テキストエディタ・PDFを表示するには文字が有意に小さくなる。\n　Win9X時代はウインドウの枠の幅や色、その他細かくデザインを個人で変えられたのも今ではできないなど、文化の多様性・個人の多様性を無視して横文字文化圏・Microsof側のお仕着せをしてくる今のWindows、いやな時代になったものだと思う。\n　基本的には一部の専門家やパソコンマニアから一般大衆の道具になったせいだろうが、タブレット優先的な操作性も気になることが多い。せめて設定の多様性を増やして、一人一人の使い方にあった方向性を回復してほしい。",
+        "good": 208,
+        "bad": 20,
+        "replies": [
+            {
+                "user_name": "Sct*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/DtMujsWQc3SXr9Ry.CKCJRcbFZ2HPA--/comments",
+                "time": null,
+                "context": "どうにも１個飛ばしで失敗作と成功作をだしてるOSっていうイメージ。win11もそこらのバグがなくなったらアップデートしたいですね。win12に期待です。しばらくはwin10でいけるところまで行こうと思ってます。",
+                "good": 1,
+                "bad": 1
+            },
+            {
+                "user_name": "kix",
+                "user_url": "https://news.yahoo.co.jp/profile/id/lQVehoKIYXGQXlwCeTdGLKAMrw--/comments",
+                "time": null,
+                "context": "> Windows11の最大の欠陥はタスクバーが下部に固定された点、わずか一行の差でも差は大きく、とくにノートパソコンで縦書きの一太郎・テキストエディタ・PDFを表示するには文字が有意に小さくなる。\n\nタスクバーを「自動的に隠す」設定を有効にすればいいだけでは?",
+                "good": 1,
+                "bad": 4
+            },
+            {
+                "user_name": "nao*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/waoYE_yWa39x7zp1jNbPgWYD/comments",
+                "time": null,
+                "context": "導入後の最初は万人向けお仕着せモードであっていいかと思いますが、簡易にカスタムできる余地は残して欲しいですね。",
+                "good": 11,
+                "bad": 0
+            },
+            {
+                "user_name": "test.txt",
+                "user_url": "https://news.yahoo.co.jp/profile/id/NcDmz5aCY2BY33plNbD7lW4-/comments",
+                "time": null,
+                "context": "スタートボタンをゴールボタンにしたり結構遊んでましたね。",
+                "good": 1,
+                "bad": 0
+            },
+            {
+                "user_name": "清行",
+                "user_url": "https://news.yahoo.co.jp/profile/id/AWaanlGLf2NsNQf2Nuy1fqUbYzIJ/comments",
+                "time": null,
+                "context": "「信者」ですか。。。Apple系の方かな。。\n「WindowsとハードディテスクとChatの男は信用するな」が90年代の持論だったのですが。。。\nWindows信者と思われているなら断交、抗議したくなりますね（苦笑）。",
+                "good": 0,
+                "bad": 0
+            },
+            {
+                "user_name": "key*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/8Rqz13qTb2nkjbgC3fMj6no-/comments",
+                "time": null,
+                "context": "信者なのだから文句を言わない事",
+                "good": 1,
+                "bad": 15
+            }
+        ]
+    },
+    {
+        "user_name": "cho*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/fS5.uhCbYn8Q61aVCzqD9bI-/comments",
+        "time": null,
+        "context": "一日中デスクトップの前にいる\n\nタブレット用に固定サイズで作られた横のびしない画面にいらっとくる。\nなぜかというと、六桁の注文番号が五桁しか表示されず確認に苦労するからで、表示を「コントロールマイナス」で六桁表示させると数字が小さくて読めない。などなど幅サイズ固定はストレスだ\n\nタスクバー固定、スタートボタン中央はタブレット用だろう\n\nモニターを使う人にとってタブレット用の仕掛けは迷惑というものだ、といつもおもう。\nタブレット用にｗ１１なら　デスク用にｗ１２を。\n自由度のが高くてノートやデスクでモニターを使うユーザーのための開発をしてほしい。\n\n最近ｗはデスクトップをゲーム機と思っているんじゃないかな？と思うことがある。ゲームはデスクトップで、はわかるが、デスクトップはゲームのためではない。",
+        "good": 193,
+        "bad": 28,
+        "replies": [
+            {
+                "user_name": "moo*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/GZrGxGCVZX8c6WGhz.E-/comments",
+                "time": null,
+                "context": "Windows11はタブレット専用ではありません。\n高解像度のタブレットか液晶モニターを買えば自由に細かい表示ができます。\n半角／全角についてはご利用のアプリケーションに問い合わせてください。\n基本は簡単に切り替えできます。",
+                "good": 5,
+                "bad": 20
+            },
+            {
+                "user_name": "hevri***",
+                "user_url": "https://news.yahoo.co.jp/profile/id/s1g.OPGRZHNR9zW.EWKT300-/comments",
+                "time": null,
+                "context": "＞六桁の注文番号が五桁しか表示されず確認に苦労するから\nそれはそのソフトが高DPIに対応してないからであってOSの問題ではないと思うが。",
+                "good": 40,
+                "bad": 7
+            },
+            {
+                "user_name": "jjj*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/i6VCow6NYGVhgnwrwyE-/comments",
+                "time": null,
+                "context": "デスクトップの最大のメリットは画面の大きさだろうよ。\n\n小さい画面で見えにくいから５桁表示にしか出来ないんだよ。\n貴社に業務改善命令を申し渡すｗ",
+                "good": 23,
+                "bad": 7
+            },
+            {
+                "user_name": "通りすがり",
+                "user_url": "https://news.yahoo.co.jp/profile/id/UeUS2amSaX3jAnBM1jhjvQ--/comments",
+                "time": null,
+                "context": "＞自分は半角と全角の使い分けができない爺さんにイラッとします。\n\n使い分けの仕方教えて下さい！どういうケースで全角？どういうケースで半角なのでしょうか？",
+                "good": 7,
+                "bad": 7
+            },
+            {
+                "user_name": "dai*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/Uk19V9.ca3k4KAfvzaaF3GvECA--/comments",
+                "time": null,
+                "context": ">タブレット用に固定サイズで作られた横のびしない画面にいらっとくる。\nこれはwindowsのせいじゃないと思う。",
+                "good": 4,
+                "bad": 0
+            },
+            {
+                "user_name": "tru*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/JDxS7tqMeGU_lOy.f7WiEkw.XfQ-/comments",
+                "time": null,
+                "context": "自分は半角と全角の使い分けができない爺さんにイラッとします。",
+                "good": 11,
+                "bad": 6
+            },
+            {
+                "user_name": "yuk*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/fm2MpEqBf3tHe.QnU_6rkkijXBk-/comments",
+                "time": null,
+                "context": ">タスクバー固定、スタートボタン中央はタブレット用だろう\n\n設定で変更できますよ",
+                "good": 4,
+                "bad": 3
+            },
+            {
+                "user_name": "pon_de_lion",
+                "user_url": "https://news.yahoo.co.jp/profile/id/vNae2FqZYXkYFV8vOb7U/comments",
+                "time": null,
+                "context": "画面設定間違ってない？",
+                "good": 19,
+                "bad": 4
+            },
+            {
+                "user_name": "key*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/8Rqz13qTb2nkjbgC3fMj6no-/comments",
+                "time": null,
+                "context": "信者なんだから、文句を言わない",
+                "good": 0,
+                "bad": 11
+            }
+        ]
+    },
+    {
+        "user_name": "ora*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/pKzqnD6XeHHVjdihmjbdNo8ZagkeI9AX2bThHQ--/comments",
+        "time": null,
+        "context": "結局のところ、CPUのセキュリティーホール問題がWindows11投入の最大の要員なのかなと。動く動かないは横に置いておいて、マイクロソフトとしての公式サポートは第７世代Coreシリーズ以降になっていて、セキュリティチップが載っていないといけないわけだし。\nCPUのセキュリティホールをOS側でカバーすることはできたのだろうけど、それには開発コストが必要なわけだし、対応するアプリの検証も必要、新しい技術を投入しようにも、その部分が足かせに・・・というところから、ハードの刷新と合わせてWindows11に移行してもらう、そう考えたのではないかと思います。\nとはいえ、Windows１１と言ってもWindows10のマイナーチェンジ版、というイメージしかないですけど。",
+        "good": 31,
+        "bad": 9,
+        "replies": [
+            {
+                "user_name": "ヤフ米は言●統制",
+                "user_url": "https://news.yahoo.co.jp/profile/id/xjODA9SdZncqY6qbzvfxu8U-/comments",
+                "time": null,
+                "context": "別にそれならそれで仕方がないと思うけど、ごみみたいな\n不完全GUIを乗っける必要はなかった。\nスマホを意識したらしいけど、スマホで当然できるアイコンのグループ化や\nガジェット配置もできない。Windows10が10年くらい後退した\nスタートメニューになったんだよ",
+                "good": 6,
+                "bad": 1
+            },
+            {
+                "user_name": "key*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/8Rqz13qTb2nkjbgC3fMj6no-/comments",
+                "time": null,
+                "context": "Intelのリコールしないから、ユーザーは買い換えろって事ね\n宗教やんけ",
+                "good": 3,
+                "bad": 11
+            }
+        ]
+    },
+    {
+        "user_name": "dis*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/4FXxJIecY2P_OvocEvK6BdM-/comments",
+        "time": null,
+        "context": "一昔前のCPUには脆弱性があって、それを切り捨てる為にハード条件が設けられた。\nかつ、古臭いUIや記事機ある様なつまらない更新のために、メジャーバージョンアップとなった。\nその他のベースは10と何ら変わらない。\nただ、新しいCPUや技術に最適化される為、今後はOS自体の高速化軽量化は望める。\n(10はレガシーに合わせる為に色々無理している)\nただ、2025の期限により多くのPCがゴミと化すのだけど、それはどう考えてるのかな。",
+        "good": 38,
+        "bad": 7,
+        "replies": [
+            {
+                "user_name": "kmc*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/7RjDFVWTZ3OfHOdxjXUkdQ--/comments",
+                "time": null,
+                "context": "2025年の期限が来たら、Chrome OSのシェアが高くなるのでしょうね…。",
+                "good": 5,
+                "bad": 4
+            },
+            {
+                "user_name": "key*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/8Rqz13qTb2nkjbgC3fMj6no-/comments",
+                "time": null,
+                "context": "Windowsを使い続けてるの信者だけでは？",
+                "good": 1,
+                "bad": 14
+            }
+        ]
+    },
+    {
+        "user_name": "iph*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/ZllTNW.Renhcoe84CUTLuUiZAE6u/comments",
+        "time": null,
+        "context": "アメリカ発のIT系商品では、9がないとされる（WindowsのみならずiPhoneも）が、理由は「7が9を食ってしまった（7，8，9＝Seven ate nine)」というアメリカンジョークにあるという……\nそんな遊び心も面白いんだが、\n\nWindows１１もだいぶ使い慣れてしまうと使いやすくなっているというのが正直なところ。特に複数ウィンドウを1画面でピッタリ分割する機能は、１１からなので重宝する。。\n\n今回が最後！とかいいながら、後継がポンと出てくるのは、もはやネタなのかどうなのか……\nどちらにしろユーザーに使いやすければ、とは思う。",
+        "good": 8,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "law*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/i7KqLrCUa2euOOoNKPRCP8Fd/comments",
+        "time": null,
+        "context": "Vistaが操作しづらいとかエアプですよね。\nあれは当時普及していたコンピュータに対して要求スペックが高すぎたことが不評の主な原因で、操作性はXPにほぼ準拠していて、操作自体は非常にしやすかったです。\nまた、視覚効果やアンチウイルスなどの一部昨日は現在までも受け継がれるようになった、わかる人にはわかる良いOSです。",
+        "good": 40,
+        "bad": 120,
+        "replies": [
+            {
+                "user_name": "add*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/AHXtfraZbnQquVZfEpDcN_A-/comments",
+                "time": null,
+                "context": "Vistaが貢献した部分といえば、当時市場に登場してさほど経っていなかったマルチコアCPUとSSDの普及を後押ししたこと。これらの要因が関係しているかはともかく、徐々にBTOでのパソコンの購入も個人ベースでの購入比率が上がっていったような気もする。",
+                "good": 10,
+                "bad": 2
+            },
+            {
+                "user_name": "dai*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/Uk19V9.ca3k4KAfvzaaF3GvECA--/comments",
+                "time": null,
+                "context": "VistaはMSが野心的過ぎて、当時のハードウエアに対して重すぎたね。SP2の時期にはハードが進化して、動作に何の問題もなかった。",
+                "good": 7,
+                "bad": 0
+            },
+            {
+                "user_name": "",
+                "user_url": "https://news.yahoo.co.jp/profile/id/j5C4WcyLY332zGbF4HPZma8AK4fIg1KM/comments",
+                "time": null,
+                "context": "Vista時代にSSDっってすごく高額だったんじゃない？多分当時外付けHDDが250GB10,000円くらいとか、USBフラッシュメモリが1GBあたり1,000円なら安い方だった記憶が。\n自分は2.5インチ3.5インチのS-ATAのSSDとか存在すら知らなかった自信がある。",
+                "good": 8,
+                "bad": 1
+            },
+            {
+                "user_name": "vwq*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/0.exDaCOfWE29uKs5jcqmmblcA--/comments",
+                "time": null,
+                "context": "そうなんですよね。操作系は7もほぼ同じでしたし何も不満は無かった印象です。\nただ、やたらめったらモッサリしている上に駄目押しのヴィジェット等があったので、量販店の低スペPCでは地獄でしたわw",
+                "good": 20,
+                "bad": 2
+            },
+            {
+                "user_name": "Sct*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/DtMujsWQc3SXr9Ry.CKCJRcbFZ2HPA--/comments",
+                "time": null,
+                "context": "親父のパソコン（ハイスペック）がvistaだったが、俺の型落ち（ミドル・ロースペック）のXPの素晴らしさが際立ってた。タスクマネージャー見たらOSでハードの性能が食われてて驚いた。",
+                "good": 4,
+                "bad": 0
+            },
+            {
+                "user_name": "wkg*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/rItSNPmPYXdol5EjNC1AEg--/comments",
+                "time": null,
+                "context": "今のOSでもPCがセレロンHDDだったら同じだよね。\nうちはクアッドコアSSDメモリ8Gでサクサク使えてましたよ。",
+                "good": 10,
+                "bad": 2
+            },
+            {
+                "user_name": "hal*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/lzaCmASQa3zu1AAoZ6Wn/comments",
+                "time": null,
+                "context": "確かにSP2のVistaはまともだったな。無印とSP1まではネットワークとファイル操作のバグが酷くて論外だったけど（笑）",
+                "good": 8,
+                "bad": 0
+            },
+            {
+                "user_name": "key*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/8Rqz13qTb2nkjbgC3fMj6no-/comments",
+                "time": null,
+                "context": "信者はVistaも使いやすいと感じます",
+                "good": 10,
+                "bad": 20
+            },
+            {
+                "user_name": "nao*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/waoYE_yWa39x7zp1jNbPgWYD/comments",
+                "time": null,
+                "context": "結局当時普及してたコンピュータで使いづらいのであればそれはダメじゃないですかw",
+                "good": 34,
+                "bad": 1
+            }
+        ]
+    },
+    {
+        "user_name": "Sct*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/DtMujsWQc3SXr9Ry.CKCJRcbFZ2HPA--/comments",
+        "time": null,
+        "context": "それでも、無料でアップデートできるのはいいことだと思う。今回は（現状では）強制アップデートというわけでもなさそうだし。\n以前の強制アップデートは、それこそ公式からのウィルスだと思ってました。あの時は、強制アップデートさせられ、自分で再インストールする羽目になったし。",
+        "good": 2,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "t*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/tItcCfOMZX1UDx8kpWdn7dmj/comments",
+        "time": null,
+        "context": "Windowsは95、XP、7、10がよかったかな。\n10は8.1でもよかったんだけど、正直、もうこれでええやん、と思ったところでアップデートがかかってサポートが終了する。\n11はハードに高コストなものを強いるので、こういうアップデートはよろしくないだろう。\nむしろ低スペックのPCをある程度のスピードで動かせるようなOSを開発して欲しい。",
+        "good": 180,
+        "bad": 14,
+        "replies": [
+            {
+                "user_name": "dzy*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/t_W4IkSccGlL81c4ND2k8TtLYA--/comments",
+                "time": null,
+                "context": "Chrome OS（Chrome OSもアンドロイドもリナックス系ＯＳだけどＧｏｏｇｌｅ系スマホＯＳなので）とiPadOSはどちらかいうとスマホＯＳを大画面で物理キーボードで使うみたいな感じですね。\nパソコン用ＯＳだとwindowsと異なるＯＳはＢＳＤ系のＭａｃＯＳかPC用LunixはＲｅｄＨａｔ系かＵｂｕｎｔｕ系が多いですね。\nＵｂｕｎｔｕ系のLunixMintのＬＭＤＥはユーザー数多くて軽くてwindowsからの移行にお勧めですよ。windows寄りだとZorinOSか南アフリカのMakululuLinDos、Mac寄りだとpearOS やVoyager Linux。\nUbuntu.Debian系では日本製のKonaLunixとKLUE（音質良い）。\nRedHat系は日本製のMIRACLE LINUX 。\nArch Linux系だと日本製Alter Linuxなども選択肢としてある。",
+                "good": 2,
+                "bad": 6
+            },
+            {
+                "user_name": "t*****s",
+                "user_url": "https://news.yahoo.co.jp/profile/id/FT3h_NmQcCGbJWbXT.DsHW3Z/comments",
+                "time": null,
+                "context": "低スペPCをまともに動かそうとしたらChrome OSですかね。\nWindows 11が異常に要求スペックが高いのは、Spectre, meltdownの脆弱性対策に依るものなので、ある意味仕方がないかなと思っています。（そもそもCPUの脆弱性を、OS側でカバーしてあげないといけなかった）",
+                "good": 21,
+                "bad": 3
+            },
+            {
+                "user_name": "kix",
+                "user_url": "https://news.yahoo.co.jp/profile/id/lQVehoKIYXGQXlwCeTdGLKAMrw--/comments",
+                "time": null,
+                "context": "IT系のコメントで、英数字の全角半角混在、大文字小文字の間違い、単語間のスペース入れ忘れ、あたりを見ると、一気に説得力がなくなる気がする。",
+                "good": 3,
+                "bad": 0
+            },
+            {
+                "user_name": "key*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/8Rqz13qTb2nkjbgC3fMj6no-/comments",
+                "time": null,
+                "context": "Androidを使うならWindowsではなくChromeOSだよ\n連携の使いやすさが別次元",
+                "good": 4,
+                "bad": 7
+            }
+        ]
+    },
+    {
+        "user_name": "kat*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/cRFx_f6Ta2TJvm4uZMlnpHASyFw-/comments",
+        "time": null,
+        "context": "3年前の1月にノートPC買替えました。 W8のサポートが終了するためです。まさかの話ですが、 W10購入して2、3日後にウイルス侵入され、起動の度に英語で99ドルでアップデートがどうのとか支払いを促す画面が立ち上がる度に画面表示されました。英語がわからない当方はスマホで調べたら、その2年ほど前から出回っているウイルスとのこと。年8千円のノートンアンチウイルスソフト契約してるのに…\n\nスマホで検索したら、ウイルスソフトでは削除できず、また、ウイルスソフトがインストールされていても侵入してくるウイルスでした。スマホ記事のとおり、PC内のバカファイルの格納場所とバカファイルを削除して直りました。PCとスマホ両方もってれば、どちらかでどちらかの不具合解決策が検索できるので助かりました。\n\nWindowsは断然XPが使いやすかったです。 W95から使い始め、98、SE、2000と使い、XP最強でした",
+        "good": 37,
+        "bad": 72,
+        "replies": [
+            {
+                "user_name": "wkg*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/rItSNPmPYXdol5EjNC1AEg--/comments",
+                "time": null,
+                "context": "購入して２，３日なら初期化しちゃうなぁ。\n初期化が嫌ならシステムの復元。\nだいたいバックアップ取っといてるからあんまり他の方法検索とかしたことない。",
+                "good": 11,
+                "bad": 0
+            },
+            {
+                "user_name": "old*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/6cEDUvuXZnSEI0sB5e5FrFa0KQ--/comments",
+                "time": null,
+                "context": "XPは最高傑作だと思います。",
+                "good": 6,
+                "bad": 9
+            },
+            {
+                "user_name": "pho*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/f6ebXhSIYn_xJNWsuEakQ34nFMyosUw-/comments",
+                "time": null,
+                "context": "ウィルスじゃなくて設定（レジストリか何か）をいじられただけじゃないの？",
+                "good": 8,
+                "bad": 1
+            },
+            {
+                "user_name": "key*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/8Rqz13qTb2nkjbgC3fMj6no-/comments",
+                "time": null,
+                "context": "Windowsを卒業しましょう\nセキュリティが低すぎる",
+                "good": 0,
+                "bad": 11
+            }
+        ]
+    },
+    {
+        "user_name": "obuefg",
+        "user_url": "https://news.yahoo.co.jp/profile/id/_y3AJgqVb2JRxfqykLHcPvI-/comments",
+        "time": null,
+        "context": "前に使ってたPCで8.1から10にアップデート後、使いにくく感じてダウングレードしたことがある。ところがおかしなことに、現在買い換えた新しいPCは初めから11がインストールされてるのだが、まったく問題なく普通に使えてる。10と11がまるっきり別物に感じられるぐらいで、あの10の違和感は何だったのか不思議でしかたがない。",
+        "good": 0,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "xqd*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/Ml0o91KAe3SfWQRjB0fOS2M-/comments",
+        "time": null,
+        "context": "記事数増やしたいからと言って、\nそんなにほじくり返さなくても良いんじゃないの?\n利用者からしたらその時代にあったOSが存在してくれればいいのであって、バージョンは大した問題じゃない。\n\nマイクロソフトで問題があるとすれば、Windows8時代に利用者を無視したUI作ったこと。あれは酷かった。",
+        "good": 81,
+        "bad": 138,
+        "replies": [
+            {
+                "user_name": "his*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/b6Bi4iOQY2Mnpi0GeHvj9vfHMQ--/comments",
+                "time": null,
+                "context": "VISTAも酷かった。\ncore2duo+4GBのノートだったがいつまでたってもcpuファンが止まらず\n終始反応が遅く安定しなかった。\nwindows10をインストールした今は起動後数分でファンも安定するので\nサブ機として余生を過ごしてもらっている。",
+                "good": 7,
+                "bad": 8
+            },
+            {
+                "user_name": "ido*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/6NhxgUiRbn8zjBB4/comments",
+                "time": null,
+                "context": "企業だとPCはリース品が多いから、そろそろ更新ってところも多い。そうなるとWin10のPCをWin11にするか、ダウングレードWin10にするか、そしてPC自体が不足してて選択肢がないとかいろいろホットなところなのよ。",
+                "good": 17,
+                "bad": 0
+            },
+            {
+                "user_name": "*****kt",
+                "user_url": "https://news.yahoo.co.jp/profile/id/gj2MiGaIb3Iih_Khpl3FMTXxvfkfwg--/comments",
+                "time": null,
+                "context": "＞そんなにほじくり返さなくても良いんじゃないの?\n事実として、アップデートしてる企業はまだ少ない気がする。\nなので比較的タイムリーな記事だと思うよ。\n\n＞Windows8時代に利用者を無視したUI作ったこと。あれは酷かった。\n\nマーケティングもしていない、ただ単に他のOSへの対抗心だけが見えた時期だったかもな。\n個人的には、XPのおもちゃチックなカラーも好きになれなかったなぁ。\n\n＞Windows8時代に利用者を無視したUI\nサーバーOSにも採用したのも酷かったなぁ。Win2012と2016？だっけ？",
+                "good": 27,
+                "bad": 3
+            },
+            {
+                "user_name": "kin*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/EOwGVJKTY344E4H4TqgePQ5l.g--/comments",
+                "time": null,
+                "context": "デバイスやアプリが動くの動かないのって話はついて回るから、バージョンの話は大したことあるはずなんですが。",
+                "good": 36,
+                "bad": 1
+            },
+            {
+                "user_name": "lom*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/z3kCS7qUZX7eU92uh7CiCzc-/comments",
+                "time": null,
+                "context": "単に記念日だってことを書きたいだけでしょ。",
+                "good": 34,
+                "bad": 0
+            },
+            {
+                "user_name": "nao*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/waoYE_yWa39x7zp1jNbPgWYD/comments",
+                "time": null,
+                "context": "記念日ネタであって記事内容は後付けですかねw",
+                "good": 1,
+                "bad": 0
+            },
+            {
+                "user_name": "key*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/8Rqz13qTb2nkjbgC3fMj6no-/comments",
+                "time": null,
+                "context": "酷かったのに使い続けてるの信者だからでは",
+                "good": 0,
+                "bad": 6
+            }
+        ]
+    },
+    {
+        "user_name": "wbi*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/FJ8OMLKPaHl5dgt73lAlYMc-/comments",
+        "time": null,
+        "context": "ビルゲーツはシアトルの自宅ガレージから始めて世界一の富豪になった。\nIBMマシンのOSに使ってもらえたのが大飛躍になった。\n\n元々、ゲーツはお金儲けを狙っていたのだから、会社の体質もこれを受け継いでいる。\nPCおたくだったスティーブジョブズとは根本的に考えが違う。\n\nだからOSのアップデートはアップルのように無償ではしない。\n何かにつけお金をとるのだ。\n\nWindows10まではハードのグレードアップは求めなかったが、１１からはＣPUとマザーボードの必要条件が加わった。\n\n最新のハードウエアじゃなきゃ動かないよ、というわけだ。\nということは、インテルや台湾のマザーボードメーカーにとっては福音だが、ユーザーには負担になる条件を刃のように突き付けてきたわけだ。\n\nこれぞ、本性をあらわにしてきたわけで、１０で特に不具合がない以上、１１にアップグレードする必然性はない。\n\nMS終焉の幕開け。",
+        "good": 75,
+        "bad": 97,
+        "replies": [
+            {
+                "user_name": "nss*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/AHhrMuOWeWMrdHczfEoQ/comments",
+                "time": null,
+                "context": "マイクロソフトは自社開発したものが少ないです、\nBASIC言語にしてもどこかの大学から権利を買い付けたものだし\nMSフライトシミュレーターにしてもそんな話。\n経営力はあっても開発力はあまり期待できない。",
+                "good": 4,
+                "bad": 22
+            },
+            {
+                "user_name": "wjc*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/6iV1o6KPYHNZuDQwCju6jQ--/comments",
+                "time": null,
+                "context": "＞OSのアップデートはアップルのように無償ではしない。\n＞１１からはＣPUとマザーボードの必要条件が加わった。\n\nイヤマテ\nマイクロソフトは、Windows10の発売から1年間、Windows7/8.1→10への無償アップグレードを行っていたし、今でも 10→11への無償アップグレードが可能です。\n\nまた、Winodws11からは「TPM2.0」などハードスペックに条件が設けられましたが、同時に、自己責任の範囲でこの制限を回避する手順も公開されてます。（レジストリ編集など少々テクニックは必要）\n\nやはり、自社製ハードで動かすのが前提のOSか、広く互換パソコン向けか、というターゲットの違いがあるので、WinとMacは一律に比較できない部分が多いですよ。\n終焉の幕開け、とか言って殊更ディスるような話でもないと思うけどなぁ..",
+                "good": 13,
+                "bad": 0
+            },
+            {
+                "user_name": "Based On Evidence",
+                "user_url": "https://news.yahoo.co.jp/profile/id/xbajh1SXZ2Xx5ztkKc70REEFSqY-/comments",
+                "time": null,
+                "context": "仕事で日頃Office365やTeamsを使っているが、\nプラットフォーム戦略の成果は上々という印象。\n（つい最近世界的不具合やらかしちゃったが）\n\n20年前はMS終焉かとも思ったが、\nむしろ昨今MS躍進の兆しを感じる。",
+                "good": 13,
+                "bad": 2
+            },
+            {
+                "user_name": "nin*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/aKZTFLmWY36S8I1WWtQ8BGMi/comments",
+                "time": null,
+                "context": "なんでMS時代終焉になるんだよ　コメ主個人は金を惜しんでアップグレードしないのかもしれんが、10のサポートが切れたら会社関係は次のOS入れるし、個人使用でもセキュリティ考える人はアップグレードするだろ",
+                "good": 18,
+                "bad": 7
+            },
+            {
+                "user_name": "kix",
+                "user_url": "https://news.yahoo.co.jp/profile/id/lQVehoKIYXGQXlwCeTdGLKAMrw--/comments",
+                "time": null,
+                "context": "> マイクロソフトは自社開発したものが少ないです、\n> BASIC言語にしてもどこかの大学から権利を買い付けたものだし\n> MSフライトシミュレーターにしてもそんな話。\n\nたった2つの例を挙げただけで、「自社開発したものが少ない」と断言できるのかな?\n\nWindows, Office, Windows Server, Azure上の100以上のサービスなど、自社開発したものを挙げれば切りがないと思うけど。",
+                "good": 3,
+                "bad": 1
+            },
+            {
+                "user_name": "h_a*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/ddyY9eSQVXEV3tdL4g4kwY8fidY9mK4s/comments",
+                "time": null,
+                "context": "古いハード由来のセキュリティをOSでカバーできない/したくないからWindows11でレガシーなハードを切った、と言うふうに考えてる。",
+                "good": 21,
+                "bad": 0
+            },
+            {
+                "user_name": "秋楽",
+                "user_url": "https://news.yahoo.co.jp/profile/id/xueVMMaTZXqNB_t3pY4y4p_7sVw-/comments",
+                "time": null,
+                "context": "コメ主の言われる通りです。MS終焉の幕開け。",
+                "good": 11,
+                "bad": 27
+            },
+            {
+                "user_name": "key*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/8Rqz13qTb2nkjbgC3fMj6no-/comments",
+                "time": null,
+                "context": "MS-DOSってApple-DOSより後に出てるものって知らない人が多い",
+                "good": 1,
+                "bad": 6
+            }
+        ]
+    },
+    {
+        "user_name": "mkt*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/I5NTFHuVYWRbOT9RLsR5ges-/comments",
+        "time": null,
+        "context": "Windows11にアップデートできないです。標準的なスペックのPCを購入したのに、調べてみるとCPUが対象の世代ではないというだけの理由。パフォーマンス的には問題なさそうなのに、Microsoftとしていかがなものかと思いました。",
+        "good": 8,
+        "bad": 18,
+        "replies": [
+            {
+                "user_name": "jun*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/j5qkUk2Sf35OItb.JUgoYonYBB_qCEKKRSeH/comments",
+                "time": null,
+                "context": "私もCPUが第6世代の為アップグレード出来ませんでした。\nスペック的には余裕なんですが・・・",
+                "good": 4,
+                "bad": 0
+            },
+            {
+                "user_name": "key*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/8Rqz13qTb2nkjbgC3fMj6no-/comments",
+                "time": null,
+                "context": "信者なら使い続ける\n違うならChromeOSに乗り換え",
+                "good": 3,
+                "bad": 12
+            },
+            {
+                "user_name": "sek*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/Ec7D.bCLb3ua9OTvi7C.A08cppBK/comments",
+                "time": null,
+                "context": "ゲーミングPC入れてて\n正解だった",
+                "good": 2,
+                "bad": 3
+            }
+        ]
+    },
+    {
+        "user_name": "ang*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/RszhEU.ZZHcKBXVmZDdYHQeP6l9z9vg-/comments",
+        "time": null,
+        "context": "結果から言うと家中のPCを全て11にアップグレードした。\n\n円安を憂慮して急遽購入したノートPCにはwindows11が入っていたが、少し使ってすぐに10と比べてかなり使いやすい事がわかった。\n一か月毎日使用してるが、不具合もなく安定して動作している。\nここで否定してる人が多々いるけど、ただの食わず嫌いだと思う。",
+        "good": 15,
+        "bad": 88,
+        "replies": [
+            {
+                "user_name": "dkh*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/MLKD7D6cYXh.FJcguiJy3Q--/comments",
+                "time": null,
+                "context": "11にしたいのはやまやまなんですが、11の対応構成外の世代のＰＣなので10のサポート切れるまではこのまま使う予定です。\n切れたら自己責任で11入れるか、それで問題出るようならPC買い替えかなと思っています。\n買い替えになるとＰＣスペック的には、今現在全然不満ないのでちょっともやっとしますが、仕方ないですね。\nWindowsでしか出てないソフトつかってるので他ＯＳの選択は無理そうです。\n10になってから忘れられてるけど、アップデートに金取られなくなっただけでも大変革だったと思ってます(笑)",
+                "good": 5,
+                "bad": 0
+            },
+            {
+                "user_name": "shi*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/P7PzeGGLYnkBv4jd40njSAXZ_DtWp2.iFQ--/comments",
+                "time": null,
+                "context": "パソコンは道具、道具がコロコロ変わっては本来のやりたいことが出来なくなったり、覚えることが増えたりと、ただただストレスでしかないし、金もかかる。",
+                "good": 21,
+                "bad": 2
+            },
+            {
+                "user_name": "nao*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/waoYE_yWa39x7zp1jNbPgWYD/comments",
+                "time": null,
+                "context": "使いたいアプリケーションの都合で1台はWindowsPCは必要なんだけど、その他はChrome等でいいかなぁ。",
+                "good": 1,
+                "bad": 3
+            },
+            {
+                "user_name": "秋楽",
+                "user_url": "https://news.yahoo.co.jp/profile/id/xueVMMaTZXqNB_t3pY4y4p_7sVw-/comments",
+                "time": null,
+                "context": "MSに振り回されるPC時代を終焉させるべきです。",
+                "good": 15,
+                "bad": 7
+            },
+            {
+                "user_name": "key*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/8Rqz13qTb2nkjbgC3fMj6no-/comments",
+                "time": null,
+                "context": "ChromeOSを使わないのも食わず嫌い",
+                "good": 1,
+                "bad": 7
+            },
+            {
+                "user_name": "ang*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/RszhEU.ZZHcKBXVmZDdYHQeP6l9z9vg-/comments",
+                "time": null,
+                "context": ">shi*****\n11非対応機種を使ってるからとか11を使うという発想がなかったなら理解できますが、数年後には11に切り替えなくてはならないのに覚えるのがストレスとか私には理解できません。\n\nあと10からは11に無料アップグレードできるのに、金がかかるとか息をするように嘘をいうのはやめましょう。",
+                "good": 0,
+                "bad": 0
+            },
+            {
+                "user_name": "min*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/WPdzpIWfZXtzUMXeCjn1/comments",
+                "time": null,
+                "context": "食わず嫌いというより、脳からして他人のコピペなんだろうよ\n今でこそ10擁護な意見が多いけど、11が発表される前は10にしたら動かないだの、使えない周辺機器があるだのの大合唱だったよ\nなのに、具体的にどのソフトが動かないという情報は一切無しw",
+                "good": 5,
+                "bad": 19
+            }
+        ]
+    },
+    {
+        "user_name": "dbf*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/ieCG1sCcaHbZCcIIoKno0w--/comments",
+        "time": null,
+        "context": "ビルド番号からしても、Windows10の延長のようなので、性能がでないなどの致命的な不具合はほぼないのでは？見た目を変えたりするのは販売上のテコ入れ、マーケティング上の理由かと思います。サポート期限切らないと、PCの買換需要も喚起できないですし、、、。ハードウェアと連携したセキュリティ対策も売り文句ではありますが。",
+        "good": 14,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "CAS",
+        "user_url": "https://news.yahoo.co.jp/profile/id/Q_U7HZGba2Nftz1IXftXf7g1VfJ7OW7b5aPp79qS6A--/comments",
+        "time": null,
+        "context": "多くの人が考えるOSのアップデートって、新機能の追加やバグの修正、性能の上昇を求めているのであって「斬新で新しい見た目」を求めてるわけではない。\nWindowsボタンを中央にするとか、メニューの出し方を変えるとか、設定画面を出すまでの経路を変えるとかしなくていい。\nWindows8/8.1が不評だったことを考えてくれ。",
+        "good": 25,
+        "bad": 0,
+        "replies": [
+            {
+                "user_name": "key*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/8Rqz13qTb2nkjbgC3fMj6no-/comments",
+                "time": null,
+                "context": "マックに合わせたいのでしょ",
+                "good": 0,
+                "bad": 8
+            }
+        ]
+    },
+    {
+        "user_name": "sun*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/81w2jtmZeWkqC3CmkO1Zrn4-/comments",
+        "time": null,
+        "context": "10を出す時にこれが最後だとMSがドヤ顔で言うたました。\nが、そんなんはずねーよという声は少なくありませんでした。\nぜったい翻すと予言していた人もいました。\n\n仕事で大手PCメーカーの担当が社内見学をと声をかけてくれたので行ってみました。\nその際にも同様にOSはもう入れ替わらないと説明が含まれていて、古い機器は安心して交換してくれと言うたました。\n到底信じる事はできませんでしたが（笑）\n\n11なぁ。\n入れ替え面倒くさいから、12が出る頃に考えますわ。\nあと3年はあるだろうし。\nどうせ、10サポート切れる頃に12発表するだろ？とか思っていたりするわけで。\n\n嫌なら使うなとは言う人もいるが、こんなん日本の99%ぐらいの企業がWindows導入している中で、自社だけLinuxやら独自OSで業務展開なんてできるわけないしなぁ。\nまあ技術もないけど。\nしかし足元見られちゃってるよなぁ。",
+        "good": 72,
+        "bad": 5,
+        "replies": [
+            {
+                "user_name": "jjj*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/i6VCow6NYGVhgnwrwyE-/comments",
+                "time": null,
+                "context": "足元を見られるのも仕方ないよ。\n\nいまだに世界経済の重要なファクターを締めてるWindowsが\n主導するコンテンツが無いと全てに置いて混乱が生じる。\ngoogleもappleももちろん影響力は言うまでもないが\nまだまだマイクロソフトが根付いてる。\n２０年後くらいには脱Winになってるかな？",
+                "good": 7,
+                "bad": 2
+            },
+            {
+                "user_name": "key*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/8Rqz13qTb2nkjbgC3fMj6no-/comments",
+                "time": null,
+                "context": "Windows信者ってだけでしょ\nChromeOSで十分なのに",
+                "good": 0,
+                "bad": 12
+            }
+        ]
+    },
+    {
+        "user_name": "cri*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/b2ldyTaMZXroueZxFgM-/comments",
+        "time": null,
+        "context": "ＯＳが新しくなってもそれに応じてＰＣを買い替えないので10年使用してましたが、今回はお陀仏になりかけタイミングとWindows11が出た時期がほぼ同じでもちろん例の条件には程遠いＰＣでしたので、メーカーセール期間を狙って円安になる前に第11世代のＰＣを購入しましたので、Windows10にはほとんど興味がないです。",
+        "good": 1,
+        "bad": 5,
+        "replies": []
+    },
+    {
+        "user_name": "bid*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/E_YgoFKaY3R2wy.Bygvmmhgl/comments",
+        "time": null,
+        "context": "AppleのMacintoshに対抗したMicrosoftの最初のWindows1は、未だタイリング型のウインドウシステムだったような記憶がある。今時、若い人にタイリング型と言っても通じないであろうが、それから40年近くたったと思うと感慨深い。",
+        "good": 8,
+        "bad": 3,
+        "replies": [
+            {
+                "user_name": "key*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/8Rqz13qTb2nkjbgC3fMj6no-/comments",
+                "time": null,
+                "context": "タイリングなのでWindowsの名前になったんですよ\nマイクロソフトはタイリングの方が使いやすいと\n\n結局Mac方式に切り替えるんですけどw\n名前はそのままWindows（タイリング）",
+                "good": 1,
+                "bad": 7
+            }
+        ]
+    },
+    {
+        "user_name": "おじいです・・",
+        "user_url": "https://news.yahoo.co.jp/profile/id/_uu0CL6Va355IiWOXih4rXH6qQ--/comments",
+        "time": null,
+        "context": "暗号化キーの TPM 2.0を備えていなければWin11にupdate出来ないので\n第7世代CPUまでのPCは買い替えざるを得なくなるので、壊れてもいない\nPCが何故使えないんだと言う不満は有りますが、ハッキング、クラッキング\nの危険を考えたら仕方がないかな～。\n本当は、毎日なん十通も送られてくる如何わしいメールの方が大問題だと思ってる\nんだが。見出しがアマゾンや銀行名を使った如何わしい「ドメイン名」の\nメールは絶対にクリックしないように。",
+        "good": 87,
+        "bad": 15,
+        "replies": [
+            {
+                "user_name": "hod*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/azNb04eQZXT_pYY7cwMtlFOF/comments",
+                "time": null,
+                "context": "＞Windowsって過去の機種を切り捨てすぎ\n\nMacBook Pro 2016はたったの6年落ちなのに早くもOSのサポート外だが、林檎信者はスルー\n\nWindows 10は10年間だったが、10は8が動くマシンならOKだから、8から数えれば13年もサポートし続けたことになる\n\nMacよりはるかにマシだな",
+                "good": 5,
+                "bad": 1
+            },
+            {
+                "user_name": "alc*holic",
+                "user_url": "https://news.yahoo.co.jp/profile/id/W4WGjVaZZnMOPIPilHCMxtsokdMmmQ--/comments",
+                "time": null,
+                "context": "裏技（というには周知されずぎだけど）で\nSSD、TPM、メモリ、CPUなど各種の縛りは全て回避してインストールできます。\n\nとはいえSSDは必須で\nメモリは４Gでも動くけど８Gは欲しい",
+                "good": 6,
+                "bad": 4
+            },
+            {
+                "user_name": "s_h*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/JMs0CBWLVXjL7ixFjsSRvo9l52gIHvA-/comments",
+                "time": null,
+                "context": "WindowsってSDGｓには反抗しているように見える",
+                "good": 15,
+                "bad": 8
+            },
+            {
+                "user_name": "key*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/8Rqz13qTb2nkjbgC3fMj6no-/comments",
+                "time": null,
+                "context": "Windowsって過去の機種を切り捨てすぎ\n\n信者なのでなんの文句を言わない",
+                "good": 0,
+                "bad": 15
+            }
+        ]
+    },
+    {
+        "user_name": "kbr***",
+        "user_url": "https://news.yahoo.co.jp/profile/id/G49bTv.aeCl9D7NZyD64NQ--/comments",
+        "time": null,
+        "context": "1990年初頭からMacが台頭しだし、Mac同様のGUIをMS-DOSのソフトとしてWindows3.1が普及したのを覚えています。\n世界でインターネットが始まり、プラウザはアメリカの大学生が開発したモザイクというプラウザをニフティーサーブから一晩かけてダウンロードし、日本唯一のプロバイダであるIIJに1分30円でダイヤルアップ接続していました。\nこんな早くにインターネットに注目していたにもかかわらず、今はただの凡人のおっさんです。才能と先見の目があれば今頃ソフトバンクや楽天などの事業を立ち上げれ高野しれないのに、凡人は寂しい。",
+        "good": 8,
+        "bad": 8,
+        "replies": [
+            {
+                "user_name": "nss*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/AHhrMuOWeWMrdHczfEoQ/comments",
+                "time": null,
+                "context": "カセットテープからロード、セーブ時代から\nBASIC/FORTRAN言語から勉強して\nメモリマップ、I/Oマップとにらめっこして\nマシン語でプログラミングしたりしていたのに\n今やスマホもよく分かりません。",
+                "good": 12,
+                "bad": 0
+            },
+            {
+                "user_name": "key*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/8Rqz13qTb2nkjbgC3fMj6no-/comments",
+                "time": null,
+                "context": "その前にApple-DOSで世界初のパソコンが仕事に使われて大流行（表計算）\n\nその後、IBM PCが出ることになる",
+                "good": 0,
+                "bad": 7
+            },
+            {
+                "user_name": "hod*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/azNb04eQZXT_pYY7cwMtlFOF/comments",
+                "time": null,
+                "context": "＞その前にApple-DOSで世界初のパソコンが仕事に使われて大流行（表計算）\n\nしかし今ではシェア10%ほどしかないけど",
+                "good": 4,
+                "bad": 0
+            },
+            {
+                "user_name": "pca*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/bSkLv0CIaXHth8ZPc8ME5j6Ndw--/comments",
+                "time": null,
+                "context": "FORTLAN の パンチカードに 1枚ずつ 穴開けてました",
+                "good": 1,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "tat*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/WiN2NYuMa2T_67mW1m9Q7OWZzL0-/comments",
+        "time": null,
+        "context": "Windowsに限った話ではないけど新しい機能を機能を追加するのはいいが、使い慣れた既存の機能や表示方法を変えるのはやめてくれ",
+        "good": 70,
+        "bad": 2,
+        "replies": []
+    },
+    {
+        "user_name": "num*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/_44IJhKWf31SDvNfzDLqAw--/comments",
+        "time": null,
+        "context": "便利さゆえにマイクロソフトの支配が浸透していくのが怖いね。 AU事件で痛い目にあった様な事がなければ良いが ・・・何んせ全方向マイクロソフトには都合の良いライセンス商品である事を忘れてはいけない。パクリではない日本のos開発力を期待したいものだ。",
+        "good": 18,
+        "bad": 3,
+        "replies": []
+    },
+    {
+        "user_name": "e*******",
+        "user_url": "https://news.yahoo.co.jp/profile/id/rHyyUR6dY3qSFXpCrODu/comments",
+        "time": null,
+        "context": "そうそう。当初最後のWindowsって話だったんで、もう家のPC買い替えなくていいやーって思い、WindowsXP以来となるOS購入に踏み切ったんですけどね。。。\n# 収益どうするんだろうっていう疑問はありましたが。\n\n結局11、12、13、、、とまた5～7年毎に更改しなきゃいかんのは面倒この上ないです。OSも安くないですしね。",
+        "good": 2,
+        "bad": 3,
+        "replies": []
+    },
+    {
+        "user_name": "liz*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/RndZz.KUY2qDzXR1U7G0.i3RKA--/comments",
+        "time": null,
+        "context": "使いやすいWINの次は使い勝手の悪い新WINを市場に出して、\nその次に出たWINが凄くいいOSに感じるように、これの繰り返し。\n意図的にやってる？\n不具合がばんばん出るのに半強制的にアップデートさせるスタイルは\n感心しない。この間なんか突然文字が打てない、打った文字が消えた。\n直近のアップデートをアンインストールしたら解消したけど。",
+        "good": 12,
+        "bad": 2,
+        "replies": []
+    },
+    {
+        "user_name": "pcd*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/CyXB7sWIaXRLufW3TKRudw--/comments",
+        "time": null,
+        "context": "2024年に、windows10のサポート終了まで１年残して windows12がリリースされるとの噂がある。基本ソフトは道具に徹するべきなのに、なぜ新作リリース毎に使い勝手まで一新させるのか？\n新しもの好きのユーザーはもとより、windowsをバンドルして販売するPCメーカーでさえ期待していないよ。ばかばかしい。",
+        "good": 2,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "ews*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/BVFDPFuPcnHrfNkjGfNSOqDOhg--/comments",
+        "time": null,
+        "context": "個人でも会社でも新OSを導入するのは数年待ったほうがいいと思う。\nマイクロソフトは最初は駄作を出して、バグ・不具合報告を受けて後から更新・改良していくスタイル。",
+        "good": 37,
+        "bad": 6,
+        "replies": []
+    },
+    {
+        "user_name": "e09*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/ijsI1QmdOintF7Ke2PkK/comments",
+        "time": null,
+        "context": "古いハードが強制的に使えなくなるのは、SDGsにそぐわないのではないでしょうか。古いハードでも動くOSを一つでもサポート残して欲しい。Linuxなら動くとかそういう事ではなく。",
+        "good": 69,
+        "bad": 22,
+        "replies": [
+            {
+                "user_name": "ok******",
+                "user_url": "https://news.yahoo.co.jp/profile/id/jFcZe9iXYWkJ_CORBqc-/comments",
+                "time": null,
+                "context": "まだWindows10を強制的にサポート打ち切る訳ではないのだから古いハードはWindows10で使えばよろしい。\n歴史上、ハードが進化すればそれに合わせてソフトの作りも変わってきた。\n\nそして、サポートを提供するにはそれなりの手間と時間がかかる。\n自分で対応できないなら、その手間と時間に対して対価を払わなければ。",
+                "good": 15,
+                "bad": 1
+            },
+            {
+                "user_name": "Steve Jobs*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/ke1x9GGfZXSUvyU61Ud4U0TaZZw-/comments",
+                "time": null,
+                "context": "では、いつまでも使えるハードをあなたが開発してください。\n無理でしょうけど、やってみればあなたの脳みそでも、自分の発言がいかに馬鹿げているか理解でき、そして、自分の発言を恥じることでしょう。余程の馬鹿でない限り。",
+                "good": 15,
+                "bad": 23
+            }
+        ]
+    },
+    {
+        "user_name": "SL",
+        "user_url": "https://news.yahoo.co.jp/profile/id/moJZt6SLY335CAPR1nvlyYNbPiAUyKUe/comments",
+        "time": null,
+        "context": "Microsoftは操作性をコロコロ変えるところが良くない。デザインに一貫性がなくユーザーは振り回されるばかり、macのように基本操作は変える必要がないほど洗練した操作性にして欲しい。\n11の良いところはエクスプローラのGUIが徹底的に使いやすくなったことかな。リボンデザインは昔から嫌いだった。",
+        "good": 100,
+        "bad": 15,
+        "replies": [
+            {
+                "user_name": "*****kt",
+                "user_url": "https://news.yahoo.co.jp/profile/id/gj2MiGaIb3Iih_Khpl3FMTXxvfkfwg--/comments",
+                "time": null,
+                "context": "バグが頻繁に垂れ流されている点も加味すると、ただただオゴリなんでしょうね。\n\nリボンUIは、評価が分かれるみたいだね。個人的にも嫌いだが、人によっては使いやすくなったと感じる人もいるらしい。\n未だに「あの機能、どこにあったっけ？この辺にあったよなぁ。あ、ウインドウサイズを広げないと隠れちゃうのかぁ…」みたいなこともある。",
+                "good": 8,
+                "bad": 1
+            }
+        ]
+    },
+    {
+        "user_name": "lxe*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/AX7KkN2UcnVrUWVLsx5D5aeOSg--/comments",
+        "time": null,
+        "context": "Windowsは安定期が連続したことが無かった。と記憶している。\n3.1はクソ重かったし落ちまくった。\n95は軽くて安定していた。\n98SEもクソ重く落ちまくった。\n2000は爆速で安定していた。\nXPでクソ重くなって落ちまくった。\n7は軽くて安定していた。\nスマホライクな8は買わなかった。\n現在の10は比較的安定しているようだ。\n11は？　リリース直後から酷評されているから手を出す気になれない。",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "s_h*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/JMs0CBWLVXjL7ixFjsSRvo9l52gIHvA-/comments",
+        "time": null,
+        "context": "１０ってホント使いにくい　メモリを食うし。新しいものを買わせる口実のOSとしての出来は極上です　それだけ。不具合も多いし安全なようでいて結構感染や問題を起こすのはご愛嬌でしょうか？",
+        "good": 10,
+        "bad": 46,
+        "replies": [
+            {
+                "user_name": "a00*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/0wHKh1CZOiCPIGpFR4zb1uPPxxoXdQ--/comments",
+                "time": null,
+                "context": "10使ってますが、そんなにメモリ食わないけど？\nおまかんだけで言われてもね〜\n実装しているメインメモリがそもそも足りてないんじゃないの？\n1日中ライブ配信見ててもスタックしたことないよ",
+                "good": 9,
+                "bad": 0
+            },
+            {
+                "user_name": "Steve Jobs*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/ke1x9GGfZXSUvyU61Ud4U0TaZZw-/comments",
+                "time": null,
+                "context": ">不具合も多いし\n\nmacOSやLinuxに比べて特別多いというわけではないよ。\nむしろ、それらと比べて安定しているし使いやすい。\n\n>安全なようでいて結構感染や問題を起こすのはご愛嬌でしょうか？\n\n感染するのはあなたがよほどの情弱であるか、変なサイトを開いているからですよ。",
+                "good": 24,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "t02*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/t5802o.MOiJqcx1tpvDE/comments",
+        "time": null,
+        "context": "windows10が最後のwindowsになるって聞いたとき、マイクロソフトは「windows」の名前を終わらせて次のOSは別にの名前で発表するつもりなのかと思ってました。OSなんて継続的にアップデートを繰り返し続けるものだからwindows10のままそれをやるのは無理があると思ったし無理やりやるなら「windows10 ver.〇〇」みたいになって余計にわかりにくくなるってわかりきってた事だし。結局「最後の・・・」というフレーズはマイクロソフトの迷走だったのかなと。",
+        "good": 12,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "njb*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/wFwU2pSWYHJAPT3Z79fcJcqneA--/comments",
+        "time": null,
+        "context": "Win11は、1台あるけど、結果的にUI(良し悪しあるけど)への馴れだね…\n開発コストが嵩むけど、別にUIをタブレットと共通化する必要ないのになぁ～と思うよ。",
+        "good": 8,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "mas*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/8TB.N66Va2NQw6d8tCRgF5M-/comments",
+        "time": null,
+        "context": "セキュリティ性能は落ちるけどある程度の古いマシンでも動くWindows11Liteみたいなの出してくれないかな。セキュリティ性能を上げたければ要件満たしたマシンにしてWindows11（Home or Pro）使ってねって感じにすればいいかと。まだまだ使えるマシンが産廃にならずに済むのだが・・。MicrosoftとしてはサポートしなければならないOSが増えるのは嫌だろうけど。",
+        "good": 3,
+        "bad": 2,
+        "replies": [
+            {
+                "user_name": "Steve Jobs*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/ke1x9GGfZXSUvyU61Ud4U0TaZZw-/comments",
+                "time": null,
+                "context": "その場合、セキュリティ性能や操作性は落ちるけど、ある程度古いマシンでも動くLinux系OSを使えばよいと思います。\n\nUbuntuとか、お勧めですよ。",
+                "good": 2,
+                "bad": 1
+            }
+        ]
+    },
+    {
+        "user_name": "bisuco",
+        "user_url": "https://news.yahoo.co.jp/profile/id/UnYoV9SIZWeaYg9OpLfKcCOAcT74/comments",
+        "time": null,
+        "context": "今までの経験を学べばこんなことにはならないのだが、やはり何かの戦略はたまた学習能力がないのかと思えてしまう。たいしたことにPCを使ってないから私は１０で充分です。10が終わるころに新しいOSがまた出てくるでしょう。",
+        "good": 2,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "mio*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/lcC__auVY3_30Vj_N_9H0yiuQg--/comments",
+        "time": null,
+        "context": "業務では、やむおえずWindowsだが、\n家庭では、Macに乗り換えて、ナチュラル・スッキリ・サクサク。\nセキュリティ確保のため、会社と家庭でデータを共有出来なくなった事で、Windowsから離れられたのは幸運だった。\nしかし世の中は、Windows無しでは成り立たないので、最低限の使い方は身に付けておきたい。",
+        "good": 2,
+        "bad": 9,
+        "replies": [
+            {
+                "user_name": "mio*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/lcC__auVY3_30Vj_N_9H0yiuQg--/comments",
+                "time": null,
+                "context": ">Macをほめたたえる信者の知能…\n\n知能が足りない、もしくは低くても使えるのがMacの良いところかも。\nスティーブ・ジョブズに感謝(^^)",
+                "good": 0,
+                "bad": 4
+            },
+            {
+                "user_name": "Steve Jobs*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/ke1x9GGfZXSUvyU61Ud4U0TaZZw-/comments",
+                "time": null,
+                "context": ">mio*****\n>やむおえず\n\nMacをほめたたえる信者の知能…",
+                "good": 5,
+                "bad": 2
+            }
+        ]
+    },
+    {
+        "user_name": "nun*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/T_qwNYuWf37Hw227HjDi28e7O5Gmc1JNYYg-/comments",
+        "time": null,
+        "context": "Windowsはコア機能改善とUI刷新を交互にやっていてそのたびに良OS・クソOSを繰り返してると思うんだけど、win11はVistaやWin8と比べると驚くほどうまく行ってると思う",
+        "good": 2,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "かたこり",
+        "user_url": "https://news.yahoo.co.jp/profile/id/weaEjgqcf2SdgJcJhf6X/comments",
+        "time": null,
+        "context": "Windows 11 になって最も困っているのは「タスクバーボタンを結合しない」という設定項目が無くなってしまったこと。\n\nこの機能、削除する意味無いと思うのですけどねえ。結合されたボタン経由でウィンドウ選択するのはとてもストレス。",
+        "good": 40,
+        "bad": 3,
+        "replies": [
+            {
+                "user_name": "ヤフ米は言●統制",
+                "user_url": "https://news.yahoo.co.jp/profile/id/xjODA9SdZncqY6qbzvfxu8U-/comments",
+                "time": null,
+                "context": "１便利にするために１０不便にするのがWindowsですね。\nそのほかタスクバーの右クリックでいろんなことができたのに\n何もできなくなったし、UIが劣化しかしていない",
+                "good": 4,
+                "bad": 5
+            }
+        ]
+    },
+    {
+        "user_name": "gun*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/1r_DcY.ff35oJkNl66wqrB28fxY-/comments",
+        "time": null,
+        "context": "サポート事業が大変すぎるからでは？OSのナンバリングを上げて古いハードを足切りすると。他のOSでもやってることだけどね。\n\n　あ、OSが無償っぽく見せているメーカーもあるけど、ちゃんとチャージされてるからね。",
+        "good": 4,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "loc*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/ahfSW_eUZXO_DAtn4zOZsQ--/comments",
+        "time": null,
+        "context": "Windows11になって右クリックメニューが階層式になって\n全部表示されなくなったのをこまで通りに全部出るように戻すのに\n調べないと絶対に分からないような文字列の項目を\nレジストリに追加しないと駄目というふざけた仕様だからな。\nそんなの設定の所に用意しとけよって感じ。",
+        "good": 8,
+        "bad": 2,
+        "replies": []
+    },
+    {
+        "user_name": "web*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/xp7zCISPb3JzuvBzJ9HeHGM-/comments",
+        "time": null,
+        "context": "Windows11に進めるのは別に構わないが\n前代未聞なのは、比較的新しい第7世代以前のCPUを更新対象外としたこと\n\n４，5年前に買ったPCが、ＯＳの１０年より短い期間で切られてしまいました。",
+        "good": 106,
+        "bad": 13,
+        "replies": [
+            {
+                "user_name": "ヤフ米は言●統制",
+                "user_url": "https://news.yahoo.co.jp/profile/id/xjODA9SdZncqY6qbzvfxu8U-/comments",
+                "time": null,
+                "context": "インテル第七世代のパソコンを2017～2018年に買った人が\n多いでしょうね。\nWindows10だし、SSDも普通につんでいるので\n2025年まで使ってもなんら困ることはないでしょう。\n\nこれらの１１に選ばれなかったパソコンは10のサポートが終了すると\n中古パソコンでも売れなくなり、大量廃棄となります。\n\nMSの方針一つで本当に地球環境レベルでの環境破壊になります。\n全く大げさな話ではありません。何億台ものパソコンが一斉廃棄に\nなる恐ろしい事態です。",
+                "good": 28,
+                "bad": 8
+            },
+            {
+                "user_name": "Steve Jobs*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/ke1x9GGfZXSUvyU61Ud4U0TaZZw-/comments",
+                "time": null,
+                "context": ">これらの１１に選ばれなかったパソコンは10のサポートが終了すると中古パソコンでも売れなくなり、大量廃棄となります。\n\nそんなのは、多かれ少なかれWindowsを搭載していないPCでも起こることだし、PC買い替えが一挙に起こるか、少しずつ起こるかの違いだけ。\niPhoneやMacPCだって同じ。",
+                "good": 3,
+                "bad": 3
+            },
+            {
+                "user_name": "iwashi_no_shippo",
+                "user_url": "https://news.yahoo.co.jp/profile/id/g35d.zyVa3OsXPCK2YrA1oc-/comments",
+                "time": null,
+                "context": "マイクロソフト自身が、対象外のPCでもWindows11に出来る裏技を言ってなかったかな。セキュリティアップデートはされないけど、まだ新しいPCで勿体ないと思う人はそっちへ走るのもアリという事で。",
+                "good": 5,
+                "bad": 10
+            },
+            {
+                "user_name": "Steve Jobs*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/ke1x9GGfZXSUvyU61Ud4U0TaZZw-/comments",
+                "time": null,
+                "context": ">４，5年前に買ったPCが、ＯＳの１０年より短い期間で切られてしまいました。\n\n今から４、5年前に買ったPCなら、OSサポートが終了する2025年10月まで使えれば十分だろ。",
+                "good": 10,
+                "bad": 11
+            },
+            {
+                "user_name": "kix",
+                "user_url": "https://news.yahoo.co.jp/profile/id/lQVehoKIYXGQXlwCeTdGLKAMrw--/comments",
+                "time": null,
+                "context": "> 前代未聞なのは、比較的新しい第7世代以前のCPUを更新対象外としたこと\n\nCPUに前代未聞の脆弱性があったからね。",
+                "good": 3,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "gur*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/.U6LQ4Wff2KLj30eAUW_4w--/comments",
+        "time": null,
+        "context": "Microsoft社は、民間の営利企業。\nそこに、何ら公共性や公益性はない。\n\n最後のWindowsと謳っていて、それを反故にするのも何ら不思議ではない。\nMacOSだって、10,xxから脱して、11、12、13となっているわけだし。\n\nむしろ、Windows10のままだと2040年になる前に、Windows10という名称自体古臭い名称になるでしょう。\nそして、Windows10と言っても、1507〜40H2と範囲が広すぎます。",
+        "good": 30,
+        "bad": 74,
+        "replies": []
+    },
+    {
+        "user_name": "ABC*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/yHYG6e2ZemI_5nFDoKKw8IYQYi0-/comments",
+        "time": null,
+        "context": "Windowsで今まで一番使いやすかったOSはXPかな\nあの使いやすさのまま、時代に合わせた仕様に出来ないのだろうか\n究極のOS　XPFinalなんていうOSが出ないか？\n知り合いの爺さんはXP以外覚えれないから不便らしい\n新しいOSは、人間離れしすぎて使いづらい。\nWindowsPCのOSは一度Appleに作ってもらったらいい。",
+        "good": 4,
+        "bad": 14,
+        "replies": []
+    },
+    {
+        "user_name": "dun*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/3DJfjGWcf36GOB3kVSZGFikw/comments",
+        "time": null,
+        "context": "Windows11は早く縦タスクバー時の画面最大化がタスクバー分ちゃんとズレる制御だけでもどうにかしてください。\nexplorer patcher使わないと縦タスクバーにセットできないという隠し仕様のままでもいいですから。",
+        "good": 0,
+        "bad": 2,
+        "replies": []
+    },
+    {
+        "user_name": "yaa*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/pVvaPnSBa3EdIkFR6VIfgLo-/comments",
+        "time": null,
+        "context": "ファイルの名前を変更するのに、今までは右クリック１つで項目が出てきたのに新しくなって1クリックで出てこなくなった。\nショートカットキーでいけるとか覚えなきゃいけないのは要らない。",
+        "good": 23,
+        "bad": 4,
+        "replies": []
+    },
+    {
+        "user_name": "ixz*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/mIVaGd2Rcmr6ehJO5PgNZJJ8/comments",
+        "time": null,
+        "context": "Windows11はだいぶ不便になった\nタスクバーの移動もできなくなったし、ファイルを右クリックした時のメニューが使いづらくなった\n使いやすく改造できないか調べたら有料でありますよってあってふざけんなってなった\n正直改悪としか言いようがない部分が多々ある",
+        "good": 4,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "fji*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/t.uL7QSeYHnu0S51.2Le7ygL5A--/comments",
+        "time": null,
+        "context": "内部構造が変わっても、操作方法やボタン位置は変わってほしくない。\n感覚で覚えている事なので、慣れるまで非常にストレス。\n特に設定関係は探すのと理解するのが大変。",
+        "good": 4,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "q************",
+        "user_url": "https://news.yahoo.co.jp/profile/id/VkpcbSKJf3H0cxg_aL12Mc_YXHkEpA--/comments",
+        "time": null,
+        "context": "先日、ビジネスPCをDELLで買おうとしたら、ほとんどがwin11仕様で、win10が良いな〜と探してたら高くなってたので仕方なくwin11で注文しました。\nまぁ、win10のサポートは2025年迄なので、あと3年あるのに…と思ったけど。\n3年後には買い替えてるだろうし。\n\n何だろな〜って感じです。",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "zka*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/QjQ_dIaCYXFcLEhW8LGFSjIYDw--/comments",
+        "time": null,
+        "context": "タスクバーは左にして使ってる。\n\n下だとアプリ起動毎に、\nタスクバー上のアイコンの位置が\nズレていくので仕事にならない。\n占める横幅も動的に変わるし、\nやってられん。",
+        "good": 1,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "tor*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/rm_abeuMZWLgovI2ld7riNTU4KQ-/comments",
+        "time": null,
+        "context": "大きな改善は無く、（コピペ等）逆に使いにくくなった。\n利益を増やすための無理やりのバージョンアップ（ダウン）としか言えない。\nとにかく、Microsoftは信用できない。\nしかし、そのWindowsを使っていることが情けない。",
+        "good": 6,
+        "bad": 4,
+        "replies": []
+    },
+    {
+        "user_name": "don*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/e0VUqx2cZX6ubXgUojqoYaCd/comments",
+        "time": null,
+        "context": "以前はMacを使っていましたが日本の社会的にはWindowsですからMacからWindows7に変えました。\nWindowsのOSの変更は騙し舟、\nこれから最後だと言って次から次へとOS変更これでは長期に渡ってWindowsを使えない。",
+        "good": 5,
+        "bad": 3,
+        "replies": []
+    },
+    {
+        "user_name": "tai*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/.w6mnVKMa3kUvVqoVV4a39IbxQ--/comments",
+        "time": null,
+        "context": "個人的にWindows11になった理由は\nライバルであるmacOSが20年続いてきた10.xから\n2020年に11、2021年に12にバージョンナンバーの数え方が変わったのも理由のひとつではと思ってしまう。",
+        "good": 2,
+        "bad": 3,
+        "replies": []
+    },
+    {
+        "user_name": "nao*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/waoYE_yWa39x7zp1jNbPgWYD/comments",
+        "time": null,
+        "context": "アップデートが無料なら数字がなんだろうが別にいいかなw\nメジャーなバージョン番号があるほうがサポートの有無もわかりやすいしこれはこれでアリなのかなとは思います。\nOfficeやWindows95,98,2000の様に西暦とかね。",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "観光鳥",
+        "user_url": "https://news.yahoo.co.jp/profile/id/evWH09SQY2IFAVc3PA4AsTlDkPRGXnsfGQ--/comments",
+        "time": null,
+        "context": "パソコンは必要だけど\nエクセルとワードぐらいで、十分なんだよなぁ。\nOSはXPレベルで充分満足できていた。\n古くなっても、使えるようにしてほしいな。",
+        "good": 2,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "tsu*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/FD5L4HKMeWU7dNoBizEBZJo-/comments",
+        "time": null,
+        "context": "Microsoftのエバンジェリストがイベントでポロッと言ってしまった発言が広がってしまったんですよね。Microsoft広報は否定しなかったけど肯定もしなかったようです。",
+        "good": 13,
+        "bad": 3,
+        "replies": [
+            {
+                "user_name": "rvu*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/KrpC9O2KfGUHgwSCz4FNqxjU4Q--/comments",
+                "time": null,
+                "context": "それもWindows 10はSaaSになるから今も改良を続けていて〜というニュアンスの発言だったのに「最後のWindows」の部分だけが一人歩きしてしまった感じですよね。彼もまさか7年経っても言われ続けるとは思いもしなかったでしょう。",
+                "good": 4,
+                "bad": 2
+            }
+        ]
+    },
+    {
+        "user_name": "luc*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/.o_8Ie2Uf3MgGbjOkQkuy9GYNIyOoZQ-/comments",
+        "time": null,
+        "context": "＞しかし、のちに発言の撤回があり、2021年6月には時期OSとして「Windows 11」が発表されたのです。\n\nでは「Windows 11」のアナウンスも再度撤回してくれ。金払うからWIN10は継続して欲しい。WIN11どうしても出したいなら、WIN10と併売して、ユーザにどちらかを選べせればいいだけだろ。",
+        "good": 0,
+        "bad": 4,
+        "replies": []
+    },
+    {
+        "user_name": "jim*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/6FlgMsCSY30bEXNIvctJuC4-/comments",
+        "time": null,
+        "context": "私「この車、最初は色々トラブったけど、最近は調子ええわ」\nＭＳ「皆さ～ん、これからは航空機の時代ですよ、大空を目指しましょう！！」\n私「別にそんなもの要らんわ、車で地面を走るので十分や」\nMS「そうですか？でも弊社での道路整備が終了しますよ。自分で整備するんですか？」\n私「くそっ、どうしたらえんんや？」\nＭＳ「今なら無料且つ安全に、車を航空機に改造できますよ」\n私「ほんまか？だったらしゃーないな、改造したろ」\nその後、トラブル続出\n私「ほら見てみぃ！！どないしてくれんねん！！」\nＭＳ「お客様の車の重要な部品が上手く対応していませんね。航空機の購入をお勧めします。」\n私「ぐぬぬ・・・」\n\n数年して\nＭＳ「皆さ～ん、これからは宇宙の時代ですよ。間もなく地球は消滅しますので、宇宙を目指してください！！」\n\n最初に戻る、以下、永久ループ。",
+        "good": 3,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "tyu*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/5Jq_ANuMc2VNGR7uOAj.ss6b/comments",
+        "time": null,
+        "context": "UIの変更ばかりで覚えるのがとてもめんどくさい。\niOSやAndroidで機能追加はあってもここまで使いにくくなることはない。\n本当にOfficeが無ければとっくに切ってる。",
+        "good": 5,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "wecbjh",
+        "user_url": "https://news.yahoo.co.jp/profile/id/E6aXdWmTa35eFEpRCPd2EBnPQH4-/comments",
+        "time": null,
+        "context": "嘘くさいとは思っていたが思った通り大ウソだった。\nどうせ今のPCには11入らないし、現機種と運命を共にするよ。\n\nＰCいらない時代になったしね。\n会社の若いのもＰＣ持ってないらしい。\n自分も年賀状を義理で作ってるだけ。\n年賀状も早く滅べばいいのに。",
+        "good": 7,
+        "bad": 22,
+        "replies": []
+    },
+    {
+        "user_name": "non*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/mupqm5KWZX7y2sJTo1So/comments",
+        "time": null,
+        "context": "勝手にアップデートしてファイルサーバーにアクセスできなくなるとかブラウザの仕様が変わってエクスプローラモードでないと閲覧出来ないサイトが出てくるとかマジで止めてほしい。\n\n普段はMac使いなのでWindowsでないとアクセスできないところに限ってそうなるんでほんとに辛い。",
+        "good": 3,
+        "bad": 7,
+        "replies": []
+    },
+    {
+        "user_name": "mym*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/uhFG3FuVc30VpuJ5x4lbvw--/comments",
+        "time": null,
+        "context": "どのOSも使ったことありますが最後のOSになるはずだっただけあってwin10が最も使いやすいですね",
+        "good": 4,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "car*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/UCHvT8yMa3tdECHt5lJFyfvn/comments",
+        "time": null,
+        "context": "Windows11と10の違いはレイアウトくらいしかないのかも。\nきっと見えないところにはあるのだろうけど。\n名前にこだわりはないがWindows10ではいけなかったの？レイアウトもカスタマイズ出来て選択できるようには出来なかったのか？",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "nim*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/rwmYLAyIZHciGsldIQ--/comments",
+        "time": null,
+        "context": "win11使いにくそうだし今使ってるryzen第1世代はアプデ非対応みたいなので、win12（仮）を待ってる。\n8→8.1程度の改善を期待して。",
+        "good": 15,
+        "bad": 15,
+        "replies": [
+            {
+                "user_name": "nim*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/rwmYLAyIZHciGsldIQ--/comments",
+                "time": null,
+                "context": "dad***** さん\n使いにくそうで諦めてるのではなく、そもそも現在使用しているPCは動作対象外なのです。\n現在win10で全く問題ないですし（むしろ仕事環境的にwin10じゃないとダメ）、win11の評判もよろしくないから、替える気が全く起きない。\n多少改善してくれているであろうwin12（仮）が出たら替えると思いますよ。",
+                "good": 5,
+                "bad": 2
+            },
+            {
+                "user_name": "dad*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/r05Jypyca3TwYP0L48aHKi9q6g--/comments",
+                "time": null,
+                "context": "普通に使うなら問題ないです\n使いにくそうで諦めるのではなく\n使ってみては如何ですか？",
+                "good": 6,
+                "bad": 22
+            }
+        ]
+    },
+    {
+        "user_name": "hat*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/4_vAO8WQa2Q182q5Rv9ebOR8/comments",
+        "time": null,
+        "context": "昨年買ったガレリアのデスクトップPCがWindows11に必要な条件を満たしてなくてアップデートに出来ないようです。\n新しいPCなのに残念。",
+        "good": 27,
+        "bad": 8,
+        "replies": [
+            {
+                "user_name": "aks*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/tlipswuZYWPDGk9sbIP2_Dyr_w--/comments",
+                "time": null,
+                "context": "たぶんそれTPM2.0がオフになってるだけだと思うよ。\n自分の自作PCも動作環境は満たして得るけどアップグレードできなかった覚えがある。\nBISOからオンにすればできる。\nあと、他の方がアップデートは不可って言ってるけどTPMチェックをしなくするレジストリがあるからそれをいじれば動作対象外でもアップグレードできる",
+                "good": 5,
+                "bad": 0
+            },
+            {
+                "user_name": "alc*holic",
+                "user_url": "https://news.yahoo.co.jp/profile/id/W4WGjVaZZnMOPIPilHCMxtsokdMmmQ--/comments",
+                "time": null,
+                "context": "アップデートは不可ですが、\n新規インストールなら制限の回避方法はありますので調べてみてください。\n\n１０年前のPCでも動いてます。",
+                "good": 3,
+                "bad": 2
+            }
+        ]
+    },
+    {
+        "user_name": "ycn*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/S32STiiBaX48BhJiP4TuidUZEQ--/comments",
+        "time": null,
+        "context": "今使ってるPCを購入する時\nwin10で終わり\nと言う告知を信用して\n仕事で必要なスペックギリギリの\nPCを購入した。\n\nwin11が発表され\n無償アプデの期間にアプデを試みるも\nスペック不足でアプデはできないと…\n\n10のサポート終了前には\n買い換えるつもりだけど\n若干\n嘘つき!!金返せ!!\nという心情が片隅に残っている。",
+        "good": 6,
+        "bad": 5,
+        "replies": []
+    },
+    {
+        "user_name": "あああああ",
+        "user_url": "https://news.yahoo.co.jp/profile/id/L4DviriXYCVnf8q00Q--/comments",
+        "time": null,
+        "context": "ようやくマトモに使えるOSになってきた感じ。とくに不満は感じないからまだまだ使い続けるけど、メーカーはそれじゃ商売にならんのだろうな…",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "GEOGIA",
+        "user_url": "https://news.yahoo.co.jp/profile/id/rXR81NOTa3mvn8fNBUZQoPoN/comments",
+        "time": null,
+        "context": "使い慣れたUIを残しつつ、新しいUIを選べるようにしてくれれば不満の声も上がらないのにね。",
+        "good": 10,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "株式会社ヤハウェ",
+        "user_url": "https://news.yahoo.co.jp/profile/id/6Ww0mLSVf2OK8b446gvMWifh94wYCRU3_A--/comments",
+        "time": null,
+        "context": "ライセンス的には裏技でアップグレードしても問題にはならんからな。\n一概に古PC切り捨てとも言えない。\n一応MSの良心なのかもな。",
+        "good": 10,
+        "bad": 18,
+        "replies": []
+    },
+    {
+        "user_name": "ke1*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/LNUmHfeTbyGN6L45XnjT/comments",
+        "time": null,
+        "context": "自宅PCは購入時は7で10にアップしたがHDDのため、起動してからしばらくアクセスしたまま\n１０年使えた初めてのPC",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "てぇへんだ",
+        "user_url": "https://news.yahoo.co.jp/profile/id/8sXJFRicfWJkfuBqBjH8jw--/comments",
+        "time": null,
+        "context": "使いにくくなっているのか、慣れることに抵抗が大きくなってきたのか、どっちにしても新しくなって面食らう。",
+        "good": 14,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "boo*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/XZeCWyqaZX_8eKxIlKGSIztZ5kA5/comments",
+        "time": null,
+        "context": "iphoneもそうだけど自分が今いくつを使ってるのか知らないし気にならない。\n１０も１１も１２も大きくは違わない気がする。",
+        "good": 1,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "小次郎 DX078",
+        "user_url": "https://news.yahoo.co.jp/profile/id/ZvckOaiVfyKvae_S.cB_6LulJA--/comments",
+        "time": null,
+        "context": "古い64のPCでも動くOSなら，Win11に即座にするけれどさ，どう考えても非持続型な開発だよな．",
+        "good": 0,
+        "bad": 3,
+        "replies": []
+    },
+    {
+        "user_name": "jjj*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/i6VCow6NYGVhgnwrwyE-/comments",
+        "time": null,
+        "context": "OSがリニューアルされるたびに置いてけぼりの外部端末。\n特にシンプルな物ほど淘汰される。\n日本の物作りの一部はWinXPから脱却出来ないものもまだ多い。",
+        "good": 4,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "kbhdc",
+        "user_url": "https://news.yahoo.co.jp/profile/id/ZYZLLAieaHOQplcsY2NFwg--/comments",
+        "time": null,
+        "context": "Windowsセキュリティーが開けないまま。\n問題なしと出てるから機能はしてるみたいだけど\nネットのコミュニティの色々試してもダメだった",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "匿名",
+        "user_url": "https://news.yahoo.co.jp/profile/id/PRI2Go2SY2CGrzSfGRu1cIU-/comments",
+        "time": null,
+        "context": "Windows11は、すこぶる評判が悪い。\nWindows10のサポートを2025年以降も継続すべきだと思う。",
+        "good": 21,
+        "bad": 10,
+        "replies": [
+            {
+                "user_name": "kaz*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/sSwPx72Ta2q.p88f96Wk/comments",
+                "time": null,
+                "context": "どのように評判悪いの？\n8に比べればなんともないけど。",
+                "good": 6,
+                "bad": 4
+            }
+        ]
+    },
+    {
+        "user_name": "xxx*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/ffK5NQqAcmhnBuQ92v_lp9PMrI6D/comments",
+        "time": null,
+        "context": "このスタートボタンの位置を真ん中にってやつ大抵の人は左下の元の位置にわざわざ変えて使ってる。つまりわざわざ真ん中にする必要はないってこと",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "pet*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/OaHlblqIb2Tv0jKyvqqPjb5azqRCLZ8-/comments",
+        "time": null,
+        "context": "Windows10から11にアプデしたら\n写真がオレンジのファイルになって中が全く見えなくなったー。\n前はチラッと何の写真がわかったのにー。\n何なんあれ。\n良くなった点ないよー。",
+        "good": 2,
+        "bad": 2,
+        "replies": []
+    },
+    {
+        "user_name": "jps*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/m_msdMWSemP4IvH.ROUUvAArQqs-/comments",
+        "time": null,
+        "context": "利益を出し続けるには新しいの出すしかないでしょう。出来栄えはともかくとして。",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "wgo*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/RQT2VACPbX93KICAQg4FoxoSpQ--/comments",
+        "time": null,
+        "context": "最後と言っておきながらしれっと新しくし、手持ちのPCをジャンクにする方針まで立てやがったのでLinuxに乗り換えてWindowsとは完全におサラバしました。",
+        "good": 8,
+        "bad": 2,
+        "replies": []
+    },
+    {
+        "user_name": "rin*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/i404akCeZmlWP23kTm5RC1iAxt3hyg--/comments",
+        "time": null,
+        "context": "11はCPUとマザボが対応してないから入れることができない\nXPのときからずっと使ってる、Opteron3280というロマンCPUだというのに\nオプテロンを使っている、それだけで私は満足です",
+        "good": 0,
+        "bad": 0,
+        "replies": [
+            {
+                "user_name": "おしどりなまま",
+                "user_url": "https://news.yahoo.co.jp/profile/id/mpWcs0WIb3ivDgT_qAXYbQ--/comments",
+                "time": null,
+                "context": "対応してなくてもググればやり方わかりますよ\n実際10年以上の前のも入れて今使ってます\nちゃんとアプデもあたります(今の所ですが)",
+                "good": 0,
+                "bad": 0
+            },
+            {
+                "user_name": "rin*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/i404akCeZmlWP23kTm5RC1iAxt3hyg--/comments",
+                "time": null,
+                "context": "そうなんですね、メインのほうはやめておいて\nメモリ2GでAM2+の4850eでようつべ専用で10動かしてるのでそっちでやってみようかな",
+                "good": 0,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "ok******",
+        "user_url": "https://news.yahoo.co.jp/profile/id/jFcZe9iXYWkJ_CORBqc-/comments",
+        "time": null,
+        "context": "Windows98で標準搭載されたActive Desktopは、今思えばウィジェットのはしりだったのだろうか。",
+        "good": 4,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "i_a*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/pLoLdSSRVXGs5Y5L6mGH77niAQ--/comments",
+        "time": null,
+        "context": "Windows11を買った当日に速攻でスタートボタンを左に寄せました。毎度のことだが、MSはいらんことをするんじゃない。",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "pad*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/WQIYeYuIa3SoByCOmVNTYT4bjA--/comments",
+        "time": null,
+        "context": "マイクロソフトのいうことなんて信用出来ないというのがよく分かった\n今はWindowsを捨てる事も考えてる",
+        "good": 12,
+        "bad": 7,
+        "replies": []
+    },
+    {
+        "user_name": "wa ka chi ga ki",
+        "user_url": "https://news.yahoo.co.jp/profile/id/Mm_dfOqBa30LamRI5MbsswOaGbM-/comments",
+        "time": null,
+        "context": "Ｗｉｎｄｏｗｓ１０起動直後に\n『Ｍｉｃｒｏｓｏｆｔは、お使いのデバイスにＷｉｎｄｏｗｓ１１をお勧めします』\nの画面が　最近は　出なくなったようです\n（理由は分かりませんが）",
+        "good": 0,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "rec***",
+        "user_url": "https://news.yahoo.co.jp/profile/id/fdHHm82Wa36qoOCf5JjMOdM-/comments",
+        "time": null,
+        "context": "Corei7の3770もskylakeの6700のマシンも11にアップグレードできない。\nハードの買い替えを強要されている感がある。",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "miz*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/Hk8zyZ6VY2rHGdbRZs2q/comments",
+        "time": null,
+        "context": "11あってもいいから、10もあと3年と言わずもっと長くサポしてくれ。\n使える機器はゴミにせず長く使おうよ。",
+        "good": 9,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "mad*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/N1WLvGyVa3TxyIL34BSG8TfS7aDow4AzKAM-/comments",
+        "time": null,
+        "context": "これはマジでやられた。\n買い替えありきではなくアップデートするからちょい高めのPC買ったのに。",
+        "good": 2,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "Xan*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/KhODcxCZeH_0Ed9EHtck/comments",
+        "time": null,
+        "context": "Windows11が発表されたとき、会社のPC管理担当者が「マジか。最後って言ってたから、それを見込んで社内システムの計画してたのに。ぜんぶ考え直しだー！ウソつき！」って怒ってたな。",
+        "good": 8,
+        "bad": 3,
+        "replies": []
+    },
+    {
+        "user_name": "ken*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/Ab45fzWTb34Yndlbz8Q9Rzh7/comments",
+        "time": null,
+        "context": "Windows10はWindowsUpdateがバックグラウンドで入ると更新かけるまで動作がおかしくなるのは欠陥としか言いようがない。\nわざと？",
+        "good": 11,
+        "bad": 2,
+        "replies": []
+    },
+    {
+        "user_name": "nsa*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/C.XBT9OVeXEihMHDObhR0BVX6g--/comments",
+        "time": null,
+        "context": "windowsは１バージョンおきに成功・失敗を繰り返している。\n成功は２０００、ｘｐ、７、１０\nこの法則でいうと１１は失敗。\nどうもVISTAと８の二の舞の予感。",
+        "good": 43,
+        "bad": 9,
+        "replies": []
+    },
+    {
+        "user_name": "ねこすまいる",
+        "user_url": "https://news.yahoo.co.jp/profile/id/OmuswoaRbXGBwjl98Wz7NmMgWxPu/comments",
+        "time": null,
+        "context": "右クリックのメニューが最悪です。\nとにかく、細かいところは触らせない余計な配慮が本当に余計。",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "tam*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/hqLIOpiMa31hA_zcMq_a/comments",
+        "time": null,
+        "context": "あれが最後のWindowsとは思えない、microsoftが有る限り第２第３のWindowsが人類の前に立ちはだかるだろう",
+        "good": 5,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "(:o*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/kpQB1fCVa2M8okkOGTxKCWokb69a/comments",
+        "time": null,
+        "context": "10が最後のOSだと言ったじゃないか\n11は要求スペックが高すぎて更新できない人多いだろう",
+        "good": 2,
+        "bad": 0,
+        "replies": [
+            {
+                "user_name": "bab*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/S5NWb.uaa3Jf1XsQp2sm1Bbm8WtbaPqZYg--/comments",
+                "time": null,
+                "context": "2年前に買った私のノートPC、第10世代インテルCore i5なのにWindows11にはできない。てことは通算5年しか使えないってことになるのだろうか？？それとも、セキュリティアップデートだけはもう少し続くのだろうか？？\n\nとりあえず、あと2万課金してCore i7にしてなかったのがせめてもの救いなのかもしれない。",
+                "good": 1,
+                "bad": 0
+            },
+            {
+                "user_name": "osh*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/9hXwLf2XeXiFRKkws.2nflV.EusfSP0-/comments",
+                "time": null,
+                "context": "本当に10世代コアならイレブン入るはずです。10世代というのはWindowsテンまでしか入らないという意味ではありません。\n設定ミスか、それとも何かの見間違いで実は古い世代のコアが入っていると思います。ご確認を。",
+                "good": 0,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "sec*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/9PMxL7CLb3MkTbdsHqmm9jfAb8o-/comments",
+        "time": null,
+        "context": "ヤフコメ民は11はどうなんでしょうか？\n新しいpc作るのに、11をベースにしたいなと。\nMacより、楽しそうだよね。",
+        "good": 0,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "おしどりなまま",
+        "user_url": "https://news.yahoo.co.jp/profile/id/mpWcs0WIb3ivDgT_qAXYbQ--/comments",
+        "time": null,
+        "context": "なんとなくだが10より11の方が軽い気がする\nアプデも重くならないし",
+        "good": 1,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "あらにし蘭",
+        "user_url": "https://news.yahoo.co.jp/profile/id/7HfQa0.MZX2_X4RBu3U-/comments",
+        "time": null,
+        "context": "いろんな事やらした挙げ句に「このヘルプでは問題を解決できません」で済ませる点は全く進化してない。",
+        "good": 10,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "我妻♡善逸",
+        "user_url": "https://news.yahoo.co.jp/profile/id/9Zg9kViVZWRf4XPHNYFYHqDMbpCW/comments",
+        "time": null,
+        "context": "Windowsはマッキントッシュの模倣ではじまり、最近はiosとandroidのマネばかり。マイクロソフトはいつも真似",
+        "good": 19,
+        "bad": 4,
+        "replies": [
+            {
+                "user_name": "tsu*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/FD5L4HKMeWU7dNoBizEBZJo-/comments",
+                "time": null,
+                "context": "マッキントッシュはXerox ALTOの模倣ではじまったのも有名な話です。知財は尊重する必要はありますが技術革新の歴史は模倣と改良の繰り返しですね。",
+                "good": 8,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "ksa*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/AG.T2qGTeXFw1mGorIEdma4-/comments",
+        "time": null,
+        "context": "タイトルだけ読むと支離滅裂。\n「過去の出来事の振り返りだよ」というのが分かるタイトルにしたほうが良かったんじゃ。",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/pLWAzk2ca36VBYnW8wYaUP4hKZKwVQ--/comments",
+        "time": null,
+        "context": "記事のタイトルの付け方をもう少し考えるべきだと思います。",
+        "good": 11,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "amk*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/o3LMpCGZZ3u9Si5quE8-/comments",
+        "time": null,
+        "context": "注目すべきOSにWindows95が入っていないのはどうかと。",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "jhakishaki_roony",
+        "user_url": "https://news.yahoo.co.jp/profile/id/FMi5tNaLf3Je5PAT1yo1q2Q2QcLnDmIPzmwRKxXtSDxZjWf4eqY-/comments",
+        "time": null,
+        "context": "今更なんの話かと。紛らわしいタイトル。Windowsの歴史とか、副題つけようや。",
+        "good": 1,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "",
+        "user_url": "https://news.yahoo.co.jp/profile/id/j5C4WcyLY332zGbF4HPZma8AK4fIg1KM/comments",
+        "time": null,
+        "context": "最後のOSって言ったんだから最期まで面倒見て欲しかった",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "xyz*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/3JLeAMKAc2pX1mz1vcAAGwSh/comments",
+        "time": null,
+        "context": "11にしたら、めっちゃ使いづらい。なかなか慣れない。",
+        "good": 8,
+        "bad": 13,
+        "replies": [
+            {
+                "user_name": "kaz*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/sSwPx72Ta2q.p88f96Wk/comments",
+                "time": null,
+                "context": "それはアタマが固いだけ",
+                "good": 5,
+                "bad": 2
+            }
+        ]
+    },
+    {
+        "user_name": "mok*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/XEthVyGVZXtQ2EW5gfHPDwDWSg--/comments",
+        "time": null,
+        "context": "Windowsも良くわからない新人さんの練習記事ですね。",
+        "good": 4,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "hdb*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/PxdBC6SQbnINcJjGyHH3SQ--/comments",
+        "time": null,
+        "context": "日本のWindows元年は、3.1が出た1993年です。",
+        "good": 2,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "tir*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/Wqp_u_KMY2K7j5ze4msxr1n38u86/comments",
+        "time": null,
+        "context": "１０がwindowsの最後になるなんてマイクロソフトは言ってないらしいんだけど、真相やいかに・・・・",
+        "good": 3,
+        "bad": 2,
+        "replies": [
+            {
+                "user_name": "kix",
+                "user_url": "https://news.yahoo.co.jp/profile/id/lQVehoKIYXGQXlwCeTdGLKAMrw--/comments",
+                "time": null,
+                "context": "ちょっと調べればすぐわかるけど、「Windows 10が最後のバージョン」という公式な発表は一度もされてない。Windows 10では、定期的な機能アップデート (Windows as a Service) を提供する、と発表しただけ。",
+                "good": 1,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "m*******",
+        "user_url": "https://news.yahoo.co.jp/profile/id/7.DcMxWVY2cw3F.zEJeSrcQdxw--/comments",
+        "time": null,
+        "context": "そういえばWindowsPhoneのOSは10で最後になったね、違う意味で。",
+        "good": 1,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "pho*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/f6ebXhSIYn_xJNWsuEakQ34nFMyosUw-/comments",
+        "time": null,
+        "context": "記事を読んでも「11にしなきゃいけない理由」が分からないのだが…",
+        "good": 2,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "sak*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/vtjZxRmLa3sQ2JHlo7xCO8I-/comments",
+        "time": null,
+        "context": "surface proXユーザーはwindows11の恩恵大きいですね。\nwindows10のままだと64bitアプリ動かない糞デバイスなので。",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "man*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/rF0apc.Va34BfzCUddmBjG7FkSlthvjE/comments",
+        "time": null,
+        "context": "5年後くらいには、きっとWindows12がでてるでしょう。",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "sai*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/B8PQ7Y6La3mMIJecYbGVOeGF5Q--/comments",
+        "time": null,
+        "context": "i5、8GBメモリでも対象から外される11って、なんかすごいですね。",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "rea*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/8nKw5.KKb3FgyE3x0I8Oe2keYg--/comments",
+        "time": null,
+        "context": "Edgeは、かなり改善されて良くなってるよ。",
+        "good": 7,
+        "bad": 9,
+        "replies": []
+    },
+    {
+        "user_name": "aya*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/YgIbr7mZc3FdAUXs1MAgg2z2RTWAXdXVl4jA_w--/comments",
+        "time": null,
+        "context": "XPという神が居たな\n7も中々良かった",
+        "good": 2,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "おほほ(^O^)",
+        "user_url": "https://news.yahoo.co.jp/profile/id/4saXE_.TYnyCVAHWdkM9qXg-/comments",
+        "time": null,
+        "context": "１１にアップグレード不可能なユーザーはどうするのですかな？\nうちのは出来ないらしいです。",
+        "good": 0,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "cwc*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/wT8qJGCbfXPGPrJV_UXX_a.o9w--/comments",
+        "time": null,
+        "context": "Macに変えてから快適。\nもうWindowsには戻れない。",
+        "good": 2,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "mi*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/Ybt.WQyVYyJHUj1mFC0-/comments",
+        "time": null,
+        "context": "最後のWindowsって、Microsoft自身は言ってないんじゃなかったっけ？",
+        "good": 16,
+        "bad": 28,
+        "replies": []
+    },
+    {
+        "user_name": "doa*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/_.S1LG6cZXEWEbNVjHe7bKHOSg--/comments",
+        "time": null,
+        "context": "間違いなく、Win11はVistaや8.1のような運命だなｗ",
+        "good": 3,
+        "bad": 3,
+        "replies": []
+    },
+    {
+        "user_name": "yoc*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/kehPKn6BZXObFgUfxJRX99GdKQ--/comments",
+        "time": null,
+        "context": "11にしたのは別の理由でしょうね",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "yumi_1994",
+        "user_url": "https://news.yahoo.co.jp/profile/id/1MLExMWAYnNVm.DmCKPbig--/comments",
+        "time": null,
+        "context": "このニュースの題名。何言ってるのかさっぱりわからない。7/29にwindows10が提供開始？何を？",
+        "good": 2,
+        "bad": 2,
+        "replies": []
+    },
+    {
+        "user_name": "*******?",
+        "user_url": "https://news.yahoo.co.jp/profile/id/ctvpuP2OY3vvhF7oGjo8_TJ07J0A3w--/comments",
+        "time": null,
+        "context": "タイトル見てまたWindows 10が提供開始を7月29日からすることにでもなったんかとおもたわ・・・",
+        "good": 1,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "gin*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/TbTfgPSfY36HlrweKBdowms-/comments",
+        "time": null,
+        "context": "題名が煩わしい。",
+        "good": 2,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "test.txt",
+        "user_url": "https://news.yahoo.co.jp/profile/id/NcDmz5aCY2BY33plNbD7lW4-/comments",
+        "time": null,
+        "context": "スタートボタンを真ん中で使ってる人います？\n左に設定し直せるとはいえありゃねーわ。",
+        "good": 1,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "********",
+        "user_url": "https://news.yahoo.co.jp/profile/id/EQrarBGZaHEHepuMFh7yreizqIk-/comments",
+        "time": null,
+        "context": "ひとつおきに普及OSと失敗OSあるから11は失敗",
+        "good": 1,
+        "bad": 2,
+        "replies": []
+    },
+    {
+        "user_name": "バイソン匠",
+        "user_url": "https://news.yahoo.co.jp/profile/id/EqEIDyOeYnpTl9M26jTlGg--/comments",
+        "time": null,
+        "context": "ハードディスク（HDD）を除外対象にするからタチが悪い",
+        "good": 1,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "y_t*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/r949.umBVWSAbllQDDc-/comments",
+        "time": null,
+        "context": "どうしてこんな煩わしい記事が出るんだろうか・\n記事の意図がわからない。",
+        "good": 2,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "dr_*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/_iq_VKuceE96T681NvK52ZE-/comments",
+        "time": null,
+        "context": "11はいらない子。\n7が一番安定だったなぁ…",
+        "good": 1,
+        "bad": 3,
+        "replies": []
+    },
+    {
+        "user_name": "mas*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/sMWP2IKVa2NRhtenDBY5_wsCYpk_/comments",
+        "time": null,
+        "context": "Windows2000が1番良かった。。",
+        "good": 1,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "har*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/k8jY39mQa2LZ3EJuzPdCyAn3/comments",
+        "time": null,
+        "context": "Win7でいいよ",
+        "good": 3,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "nan*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/5AMwKJCWa37S3p.pk75bwtZcLA--/comments",
+        "time": null,
+        "context": "最後のOSに騙されました。",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "tyo*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/.bzzpS2Mc3_4cFWY6nwwAGY-/comments",
+        "time": null,
+        "context": "Windows ME　ですが何か？",
+        "good": 1,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "gar*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/xUBF5wqfa2LuN3MxUsiSpsNsSLLYUA--/comments",
+        "time": null,
+        "context": "vista meって最低だった",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "gum*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/ujeJmhaff338IC5YdZP5w3ugrA--/comments",
+        "time": null,
+        "context": "最後のって誰が信じたんだ？\nそんな奴いるか？",
+        "good": 0,
+        "bad": 2,
+        "replies": []
+    },
+    {
+        "user_name": "ヤフ米は言●統制",
+        "user_url": "https://news.yahoo.co.jp/profile/id/xjODA9SdZncqY6qbzvfxu8U-/comments",
+        "time": null,
+        "context": "まるでWindows10が名OSのように語っている人がいるけど、\nWindows10の出来も散々で、不具合アップデートを繰り返し\nようやく使えるようになったのは2019年くらいなんだよね。\n特に2018アップデートとか他社製ブラウザがフリーズするなど出来が散々だった。\n数々の犠牲でようやく安定した10をバッサリ切りすてていきなり１１っていう\nMS社は正気の沙汰じゃないね。\n案の定UIが全く定まっておらず突貫工事なのが丸見え。\n\n今度は真ん中にスタート置いたらアイコン列の右側が切れてしまう\nようになったので切れたら2段表示にするみたいですよ\nそんなことするなら最初から左側に置いとけあほ",
+        "good": 28,
+        "bad": 3,
+        "replies": [
+            {
+                "user_name": "aks*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/tlipswuZYWPDGk9sbIP2_Dyr_w--/comments",
+                "time": null,
+                "context": "俺は忘れない!!\nアプデしたらゲームのキャプチャファイルが軽く(消滅)なってることに",
+                "good": 0,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "milkyway_philosophy",
+        "user_url": "https://news.yahoo.co.jp/profile/id/lqMjsJCVY3y_NgcKa4Kc8L4lfIqlsgS1AlME/comments",
+        "time": null,
+        "context": "Windows11を営業目的で作戦として変えたって言ってるけど大丈夫か？\n本当にそうならさすがに詐欺やで。\n\nその詐欺まがいのおかげで日本の民主党って政党は与党から引きづり下ろされただけじゃなく解党にまで追いやられ、元民主党の多くで結党したような党は一度も与党になれてない。\n\n詐欺まがいの行為はやめましょうねー。\n\nっていうか多分この記事もデタラメじゃねーかな。\n11を動かすのにマザーボードとかに必須なパーツが2015年当初のパソコンには無いやつがあって全てのWindows10がアップデートで11に出来なくなるからじゃなかったか？\n\nどっちにせよ先見の明が甘いのは事実だけど営業の為ってのはさすがにMicrosoftに怒られるぞ。",
+        "good": 1,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "Steve Jobs*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/ke1x9GGfZXSUvyU61Ud4U0TaZZw-/comments",
+        "time": null,
+        "context": ">最後のWindowsになるはずだったOS Windows 10\n\nまだそんなこと言っている奴がいるのか。\n脳みそが世の中の変化について行けていないのだろうね。\n\n>発売直後のWindows 10は最後のWindowsとされ、これまでのような数年に一度のOSのメジャーアップデートはされず、半期に一度のアップデートを繰り返す方式へと転換するという触れ込みでした。\n\n公式は一度もそんな発言をしていない。",
+        "good": 4,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "r*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/Dm4NUVWKY3_uJOLXVm5yP9Pk/comments",
+        "time": null,
+        "context": "Windowsはある意味、詐欺商売、売った物を一生使えない、定期的に買い続けないといけなくなる、いい商売だと思う",
+        "good": 4,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "gle*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/84nGzZyfZnXjrXRKtSylWVt2/comments",
+        "time": null,
+        "context": "マイクロソフトもウソついちゃったんだね。\n最後と言ったら意地でも最後にしなくちゃねぇ。",
+        "good": 3,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "com*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/m3UkVi2PYnlJs3jKbn8QhZaPoh8d1CBR5Q--/comments",
+        "time": null,
+        "context": "おっと！\nWindows8&8.1の悪口は、そこまでだ！",
+        "good": 1,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "got*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/UpFJu_GfZWR7u4TvXOotsg--/comments",
+        "time": null,
+        "context": "Windowsも金だす価値ないよ、トラブルにわざわざ金出さなくても、ハッキリ言ってゴミに近い",
+        "good": 1,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "jal*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/EgmcBGKSa3yoJT58GY7ANlbl3g--/comments",
+        "time": null,
+        "context": "windows おなかいっぱい",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "key*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/8Rqz13qTb2nkjbgC3fMj6no-/comments",
+        "time": null,
+        "context": "Windows詐欺",
+        "good": 2,
+        "bad": 3,
+        "replies": []
+    },
+    {
+        "user_name": "kill",
+        "user_url": "https://news.yahoo.co.jp/profile/id/FZwwMzWUY3aef8amB9kwuA--/comments",
+        "time": null,
+        "context": "マイソフは嘘つきだな。",
+        "good": 5,
+        "bad": 2,
+        "replies": []
+    }
+]

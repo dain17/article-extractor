@@ -1,0 +1,13 @@
+A new drone prototype has the ability to not only take off and land vertically, but it can also land against a wall, similar to a bird.
+
+The Multimodal Autonomous Drone (S-MAD) was created by researchers at Canada's University of Sherbrooke, utilizing microspineso to allow it to attach itself to these kinds of surfaces.
+
+"Microspines are used to cling to rough walls, while strictly onboard sensing is used for control," a paper on the drone reads. "The effect of thrust on the suspension’s landing envelope is analyzed and a simple vertical velocity controller is proposed to create smooth and robust descents towards a wall."
+
+The prototype was first spotted by the tech website TechCrunch.
+
+The study's authors are Dino Mehanovic, John Bass, Thomas Courteau, David Rancourt and Alexis Lussier Desbiens.
+
+Below is a video of the drone in action:
+
+The S-MAD is a proof-of-concept creation and the team is working on additional features, including sensors to deal with wall contact and re-positioning itself.

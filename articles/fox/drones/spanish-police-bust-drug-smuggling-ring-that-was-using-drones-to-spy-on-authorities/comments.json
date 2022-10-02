@@ -1,0 +1,53 @@
+[
+    {
+        "user_name": "lakesurfer",
+        "time": "29 January, 2019",
+        "context": "I hate pot but love light brown hash. It is mild and doesn't make you paranoid. Looks like a  brownie. \nimpossible to find in the US now but was available in the 70's.  Drug dealers found they could make more money with coke so stopped bringing it in.  I believe you can buy and smoke it legally in Amsterdam.",
+        "good": "0",
+        "bad": "0",
+        "replies": [
+            {
+                "user_name": "itrabbithole",
+                "time": "29 January, 2019",
+                "context": "In Colorado you can buy extract that is about as concentrated as it can get unless you spend big bucks to produce what is called isolate. Using it is called dabbing, because just a dab will send you to the moon. Despite knowing this, I wasn't clear on what hashish was, lol.",
+                "good": "0",
+                "bad": "0",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "user_name": "cb1882",
+        "time": "29 January, 2019",
+        "context": "“Some of those who were arrested were highly trained in the use of unmanned drones..\" Worked at a toy store?",
+        "good": "8",
+        "bad": "0",
+        "replies": []
+    },
+    {
+        "user_name": "itrabbithole",
+        "time": "29 January, 2019",
+        "context": "What the hell is hashish? Sorry, not up to date on my drugs it appears.",
+        "good": "0",
+        "bad": "0",
+        "replies": [
+            {
+                "user_name": "itrabbithole",
+                "time": "29 January, 2019",
+                "context": "never mind. its weed, got it.",
+                "good": "1",
+                "bad": "0",
+                "replies": [
+                    {
+                        "user_name": "Iamokay",
+                        "time": "29 January, 2019",
+                        "context": "Very bad. \nWorse than standard weed.\nDon't do drugs, kids.",
+                        "good": "0",
+                        "bad": "0",
+                        "replies": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,19 @@
+A revolutionary prototype vessel that could traverse thousands of miles of open sea without a single crew member on board has been handed over to U.S. Navy researchers.
+
+The 132-foot demonstration ship, christened Sea Hunter, has been transferred from the Defense Advanced Research Projects Agency (DARPA) to the Office of Naval Research (ONR).
+
+Sea Hunter, the first of a new class of unmanned vessel that could remain at sea for months at a time, is the result of DARPA’s Anti-Submarine Warfare (ASW) Continuous Trail Unmanned Vessel (ACTUV) program. Eventually, the new class of ship will be deployed by the U.S. Navy as the Medium Displacement Unmanned Surface Vessel (MDUSV).
+
+“As ACTUV transfers from DARPA to ONR, ONR is looking forward to continuing and capitalizing on the science and technology work. In particular, we are already working on autonomous control, a challenging area that is key to maturing MDUSV and delivering it to the fleet,” explained Robert Brizzolara, ONR program officer for MDUSV, in a statement.
+
+DARPA and ONR began sea tests of the ship’s sensing and autonomy technologies in October 2016, Last year, Sea Hunter passed a series of technology integration tests, which relate to the International Regulations for Preventing Collisions at Sea (COLREGS).
+
+“ACTUV represents a new vision of naval surface warfare that trades small numbers of very capable, high-value assets for large numbers of commoditized, simpler platforms that are more capable in the aggregate,” said Fred Kennedy, director of DARPA’s Tactical Technology Office (TTO). “The U.S. military has talked about the strategic importance of replacing ‘king’ and ‘queen’ pieces on the maritime chessboard with lots of ‘pawns,’ and ACTUV is a first step toward doing exactly that.”
+
+A key part of the project is ensuring that Sea Hunter is capable of performing a host of different missions with a variety of payloads. In 2016, for example, the ship participated in an airborne lift test, towing a ‘sensor mast’ packed with communications equipment from a parachute connected to vessel.
+
+Last year the ship underwent mine-countermeasure sea tests.
+
+More tests will be performed to automate payload and sensor data processing, develop the ship’s autonomous behavior and coordinate with other unmanned vehicles. Depending on the result of the tests, MDUSV could be used in U.S. Navy operations this year, according to DARPA.
+
+Follow James Rogers on Twitter @jamesjrogers

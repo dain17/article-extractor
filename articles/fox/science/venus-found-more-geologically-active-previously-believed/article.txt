@@ -1,0 +1,53 @@
+Planetary scientists have reportedly found that the crust of Venus is fragmented and that its surface shows evidence of tectonic motion.
+
+The findings could indicate that the second planet from the sun – sometimes called the Earth's "twin" – is still geologically active as well as potentially provide further insight into tectonic activity on exoplanets and at home.
+
+In a summary of the research, which was released Monday and has been published in the PNAS (Proceedings of the National Academy of Sciences), the international authors wrote that they had identified a pattern of tectonic deformation suggesting that many of the hellish planet's lowlands have fragmented into "discrete crustal blocks," which have moved relative to each other in the geologically recent past. 
+
+"These motions may be the result of mantle convection and, if so, constitute a style of interior–surface coupling not seen elsewhere in the inner Solar System except for continental interiors on Earth," they said. "Venus’ fragmented, mobile lithosphere may offer a framework for understanding how tectonics on Earth operated in the Archean."
+
+The Archean Eon is the earlier of two divisions of Precambrian time and the period when life first formed on Earth about 4 billion years ago.
+
+The lithosphere is the rigid outer layer of the Earth, including the crust and solid outermost layer of the upper mantle, and it is broken into separate rigid blocks or plates.
+
+While Venus had long been presumed to possess a "globally continuous" lithosphere, the planet's surface has been extensively deformed. The extent and scale of its tectonic expression had remained unclear.
+
+"While we can use high-resolution cameras to study objects like Mars or the moon, the geology of Venus is difficult to study because of its thick, opaque clouds. Instead, we need to use radar, which has much lower resolution (Magellan radar had a resolution of hundreds of meters)," study co-author and Baylor University planetary physicist Peter James said in a Tuesday email to Fox News.
+
+James provided calculations of the various mechanisms that could be responsible for the force driving the geologic activity, using data from NASA's Magellan mission regarding Venus' gravity field to demonstrate that viscous mantle flow is strongly coupled to the crust – something that hadn't been demonstrated on a global scale previously, according to a Baylor news release.
+
+The team studied radar images from Magellan to map the planet's lowlands and modeled the deformation to reach their conclusions.
+
+Study lead and co-corresponding author Paul Byrne, an associate professor of planetary science at North Carolina State University, told Fox News in an interview on Tuesday that he believes a lot of people are moving away from the idea that the planet sits under a solid shell and there had been "tantalizing bits of evidence of volcanic activity." 
+
+In examining the ridges and grooves on Venus that outline these blocks, and the whole edge of a block, Byrne said the blocks appear to have "shimmied" and rotated. 
+
+The scientist compared tectonics on Venus to pack ice that shifts laterally relative to one another
+
+Additionally, some deformation on the planet's surface looks "super" geologically young.
+
+"The idea is some of these fractures are new. Some of this jostling has recently happened, so why isn't it happening today?" he said. "And, that's where things like VERITAS can come in and EnVision." 
+
+In May, at NASA Administrator Bill Nelson's first State of NASA address, the agency announced two groundbreaking missions to Venus after decades of focusing efforts elsewhere. 
+
+VERITAS (Venus Emissivity, Radio Science, InSAR, Topography and Spectroscopy) will examine the surface in the hopes of determining why the planet "developed so differently than Earth," while DAVINCI+ (Deep Atmosphere Venus Investigation of Noble gases, Chemistry and Imaging) will study the planet’s atmosphere, which could shed light on whether Venus once had an ocean.
+
+Last week, the European Space Agency (ESA) announced it had selected the EnVision Venus orbiter with a similar goal.
+
+Byrne said comparing new data with previous research like what was acquired in the decades-old Magellan mission would help build on the "overall picture" that indicates "Venus is probably alive and its heart is beating today." 
+
+"If we're right – and I think we are – I want other people to go and … there's still something to pull out of Magellan but we need new data, both high resolution and the kind of data we'll get from Magellan or from Mission VERITAS is going to show us stuff we didn't even think to look for," he added. "I mean, it's going to be amazing." 
+
+"Imagine if you had to study the geology of Earth from satellite imagery, but each pixel was the size of a football stadium. That’s roughly the resolution of radar images that we currently have at Venus. You would have a hard time seeing even some major fault lines like the San Andreas," James said. 
+
+"VERITAS will give us new imagery with house-sized pixels, about 10 times better than what we currently have. This is exciting because we will almost certainly find new faults to refine our understanding of Venus’ tectonics," he remarked.
+
+Byrne highlighted that seeing things under new resolution and with fresh eyes after so many years would be extremely important to understanding more, noting that bands of structures and belts on the planet with side-to-side motion had yet to have been recognized and that his team had run mantle computer models in order to approximate how strong Venus' crust is.
+
+In doing so, he said that – like Earth's plates shift due to interior motion – Venus' fragments were shifting but with a different style.
+
+"But the actual process was, we were a group already working on projects together and we would spend time looking at these images going, 'Well, that's weird,'" joked Byrne.
+
+The next steps, according to Byrne, are to continue detailed mapping of particular locations and even more extensive computer modeling. 
+
+But, he said, the most important thing is to devise a set of questions to address the new mission data.

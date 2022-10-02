@@ -1,0 +1,36 @@
+Imagine thousands of “talking” drones, able to act as one to perform high-level rescue missions in the face of imminent danger. Sounds like a scene straight out of a Hollywood movie, but in a University of Pennsylvania lab, engineers have produced just that.
+
+“Swarm” drones, which can navigate on their own and coordinate with one another using sophisticated metric technology, could become the next fleet of emergency responders.
+
+These devices can function as a rescue unit to investigate an active crime scene or natural disaster – capturing images and other data that could help law enforcement plan next steps from a safe distance, said Penn researcher and team member Giuseppe Loianno.
+
+“Imagine in the case of a fire, the drones can be sent,” said Loianno. “The firefighter can remain in a safe area and in real-time receive multiple images in order to plan the team’s next step.”
+
+The drones, which range in size from less than a pound to four pounds, have internal applications that guide them in search-and-rescue missions.
+
+“We should really look at these machines as vehicles that can help humans [in emergencies],” Loianno said, “They can locate injured and identify critical points.”
+
+While many commercial drones rely on satellite signals and can only function outdoors, these drones use algorithms that allow them to perceive their surroundings by means of onboard cameras and inertial measurement units (IMU) — the same technology used in smartphones to tell when the screen orientation is changed.
+
+“It’s like they have eyes,” said Loianno.
+
+Lioanno held the small device in his palm and demonstrated how the two cameras worked together as eyes to explore the environment around them— showing the four tiny propellers that could ascend the drone high into the air and the brain which use sensors to predict and feel the next movements.
+
+IMUs or "smartphone" technology developed by Qualcomm is installed in each drone, allowing a GPS receiver to work when GPS-signals are unavailable, such as in tunnels, inside buildings, or when electronic interference is present.
+
+Loianno calls this research is unprecedented. They are now testing 12 drones but he said the swarm drones could soon cluster in numbers much higher
+
+Testing is not complete and some features are still in development. But Loianno said he is confident these drones can serve as advance emergency companions for law enforcement.
+
+As technology is quickly becoming cheaper and more sophisticated, the interest in using drones for police investigations have skyrocketed across the country. But their use has raised concerns among civil liberty experts who feel that the growing use of drones among government agencies is a gross invasion of privacy. A 2011 report by the American Civil Liberties Union suggested that if a drone intrudes on “privacy expectations,” a warrant should be required.
+
+“Rules must be put in place to ensure that we can enjoy the benefits of this new technology without bringing us closer to a ‘surveillance society,’” the ACLU said in its report, “in which our move is Experts also say that if placed in the wrong hands, the technology can be dangerous.
+
+“One of the problems with how items progress from research to commercial use is that hostile governments will try to steal intellectual property during this stage and use it for their own programs,” said Stratfor Security Analyst Scott Stewart. “This presents a threat to national security.”
+
+The university will not control how or who uses the technology in the future but have noted that the devices have received attention from NASA, along with funding from the Pentagon and the National Science Foundation. Although it’s unclear how much the device will cost, some say they may sell for about $1,000.
+
+“There are a lot of life safety issues that can be enhanced or resolved from the use of this technology,” said Stewart. “This device has two applications one role is to survey and collect intelligence, and the other is to act as responder [or weapon].”
+He said American law enforcement officials could use this sort of technology in the very near future.
+
+“Any technology can be used by the good guys or the bad guys,” said Stewart. “Drones are merely tools and cannot circumvent the planning process so security analyst will still have the ability to foresee and prevent threats.”

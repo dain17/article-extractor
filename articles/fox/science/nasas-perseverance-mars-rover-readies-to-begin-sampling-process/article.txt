@@ -1,0 +1,33 @@
+NASA's Perseverance Mars rover is preparing to collect its first-ever sample. 
+
+The agency's Southern California-based Jet Propulsion Laboratory (JPL) said that the rover was searching for a scientifically interesting rock target in Jezero Crater's "Cratered Floor Fractured Rough."
+
+The "Cratered Floor Fractured Rough" is one of the deepest, and potentially oldest, accessible geologic units in the crater.
+
+The sampling is expected to occur within the next two weeks as the team searches for hints regarding the existence of ancient microbial life. 
+
+"When Neil Armstrong took the first sample from the Sea of Tranquility 52 years ago, he began a process that would rewrite what humanity knew about the moon," Thomas Zurbuchen, associate administrator for science at NASA Headquarters, said in the statement. "I have every expectation that Perseverance’s first sample from Jezero Crater, and those that come after, will do the same for Mars. We are on the threshold of a new era of planetary science and discovery."
+
+The process begins with the rover's 7-foot-long robotic arm.
+
+The arm will set up the necessary tools within reach and then perform an imagery survey in order for scientists on Earth to determine the exact target location for the first sample in addition to a second site in the same area for "proximity science."
+
+Next, five of Perseverance's science instruments will work together to "enable unprecedented analysis of geological materials at the worksite."
+
+The SuperCam and Mastcam-Z will participate with the rover's SHERLOC (Scanning Habitable Environments with Raman & Luminescence for Organics & Chemicals), PIXL (Planetary Instrument for X-ray Lithochemistry), and the WATSON (Wide Angle Topographic Sensor for Operations and eNgineering) camera to provide a mineral and chemical analysis of the target, capture high-resolution imagery, collect data and spectroscopically measure the resulting plume from the SuperCam's laser.
+
+After pre-coring, the JPL members working on Perseverance will limit its tasks for a sol, or a Martian day. 
+
+The rest will allow the rover to fully charge its battery.
+
+On sampling day, the sampling arm within the Adaptive Caching Assembly will retrieve a sample tube, heat it and insert it into a coring bit before the bit carousel takes the tube and bit to a rotary-percussive drill on Perseverance's robotic arm. 
+
+The arm will then drill the untouched geologic "twin" of the rock and fill the tube with a core sample that's only a couple of inches in length. 
+
+Lastly, the robotic arm will move the bit-and-tube combination back into bit carousel and Adaptive Caching Assembly where the sample will be photographed, measured for volume, hermetically sealed and stored. 
+
+Perseverance will require around 11 days to complete its first sampling, according to the agency. 
+
+Perseverance landed on Mars on Feb. 18 and began its science phase on June 1.
+
+In the future, the rock and regolith samples the rover collects and caches will be returned in joint missions with the ESA (European Space Agency).

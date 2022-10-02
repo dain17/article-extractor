@@ -1,0 +1,27 @@
+New research methods using satellite data may be able to detect volcanic eruptions years in advance. 
+
+In a recent study published in the journal Nature Geoscience, researchers from NASA's Jet Propulsion Laboratory (JPL) and the University of Alaska, Fairbanks said that large-scale thermal unrest measured using a statistical analysis of satellite-based long-wavelength infrared data revealed that the last magmatic and steam eruptions of five different volcanoes were preceded by years-long, though subtle, large-scale increases in their "radiant heat flux."
+
+Although there are already recognizable signals that a volcano is likely to erupt, including seismic activity, changes in gas emissions and sudden ground deformation, accurate predictions are tricky. 
+
+In addition, no two volcanoes are exactly alike and few of the world's active volcanoes have proper monitoring capability. 
+
+"Volcanoes are like a box of mixed chocolates: They may look similar, but inside there is a lot of variety between them and, sometimes, even within the same one," JPL's Paul Lundgren, the study's co-author, said in a Tuesday release from the space agency. "On top of that, only a few volcanoes are well monitored, and some of the most potentially hazardous volcanoes are the least frequently eruptive, which means you can’t rely strictly on historical records."
+
+Seismologists were able to instruct St. Vincent residents to evacuate the "red zone" around the island's La Soufriere volcano due to increased seismic activity just hours before its eruption on Friday. 
+
+The University of the West Indies (UWI) Seismic Research Centre Director Erouscilla Joseph told Fox News that the team had begun to see the first seismic tremor in the area early Thursday morning.
+
+NASA explained that the team of scientists had analyzed more than 16 years of radiant heat data from the Moderate Resolution Imaging Spectroradiometers (MODIS) instruments aboard NASA’s Terra and Aqua satellites.
+
+The release also noted that despite the differences in the types of volcanic eruptions under scrutiny, the researchers' conclusions were uniform. 
+
+"In the years leading up to an eruption, the radiant surface temperature over much of the volcano increased by around 1 degree Celsius from its normal state. It decreased after each eruption," the agency wrote, adding later that the scientists theorize the heat increase may result from the interaction between magma reservoirs and hydrothermal systems.
+
+"We attribute large-scale thermal unrest to the enhancement of underground hydrothermal activity, and suggest that such analysis of satellite-based infrared observations can improve constraints on the thermal budget of volcanoes, early detection of pre-eruptive conditions and assessments of volcanic alert levels," the paper's abstract concluded.
+
+Now, the scientists will test their method on more volcanoes.
+
+Fine-tuning their method and using what they've learned to supplement existing tools could potentially save lives.
+
+"One of the goals is to one day have a tool that can be used in near real-time to check for volcanic activity in volcanic areas," lead author Társilo Girona told NASA. "Even for small eruptions, there is evidence of thermal unrest before the initiation of the eruption event, so the new method helps bring us a little closer to that goal."

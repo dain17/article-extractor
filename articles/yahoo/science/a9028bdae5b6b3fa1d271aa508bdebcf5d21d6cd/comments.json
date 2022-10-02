@@ -1,0 +1,28 @@
+[
+    {
+        "user_name": "Samurai",
+        "user_url": "https://news.yahoo.co.jp/profile/id/vlVY3gWff2ID4d4ZQ34K/comments",
+        "time": null,
+        "context": "334.0億光年かなたにある、134.8億年前の宇宙に存在する天体、\n\n距離と存在年代は一緒じゃないのですね？？\n3億光年かなたにあれば、3億光年前に存在する、ではないのですね？？\n\nピンときません汗",
+        "good": 13,
+        "bad": 2,
+        "replies": [
+            {
+                "user_name": "mok*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/bJQZ86CVZXvWFQ.yIt6hTy5LnRBz/comments",
+                "time": null,
+                "context": "134.8億年前は138.4億光年の位置に合った天体が、宇宙が膨張していることで134.8億年かけて334.0億光年の位置に移動(移動と言うか宇宙が膨張しているため地球との距離が広がっている)という解釈ですね。\n\n基本的に過去の光が今に届いている形なので、3億光年先の天体を今観測できても予想の距離は出せるけど、今も存在しているかどうかというのは別の話です。",
+                "good": 13,
+                "bad": 4
+            },
+            {
+                "user_name": "Samurai",
+                "user_url": "https://news.yahoo.co.jp/profile/id/vlVY3gWff2ID4d4ZQ34K/comments",
+                "time": null,
+                "context": "ご丁寧かつ端的で分かりやすいご説明、\n誠にありがとうございました！\n勉強になりましたmm",
+                "good": 2,
+                "bad": 0
+            }
+        ]
+    }
+]

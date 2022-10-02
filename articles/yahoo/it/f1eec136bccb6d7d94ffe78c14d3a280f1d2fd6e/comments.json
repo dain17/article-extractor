@@ -1,0 +1,47 @@
+[
+    {
+        "user_name": "wsp*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/q..lijGPeWBZ.YWNGE91LUb4zQ--/comments",
+        "time": null,
+        "context": "誰かと対面で会話することのない状況に置かれるよりは、このロボットをそばに居させた方が良いだろうな。このロボットからは、訳分からん値上げをする企業からぼったくられないよう、自分や家族親戚のことを考えなさいというメッセージを受け取らせてもらいます。ありがたい。",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "out*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/L5GYy0GXf2TiRzWMEc4aGBo-/comments",
+        "time": null,
+        "context": "うーん、これに愛着湧くかなあ。幼稚な反応しかできないのに50万円…\nたまにメディアでみる愛好家の可愛がりようをみるとゾッとしてしまう。",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "o*******",
+        "user_url": "https://news.yahoo.co.jp/profile/id/zMrd8mqXZ3pPsbrqTvmzTUkl0ByBHA--/comments",
+        "time": null,
+        "context": "たっけぇ\n甘えた表情も悪意に感じてくるわ\nそのうち追加感情オプション別売りしだすぞ",
+        "good": 18,
+        "bad": 6,
+        "replies": []
+    },
+    {
+        "user_name": "jan*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/a712f0OSa34oUfH13ALDy5zbewyaJJ0-/comments",
+        "time": null,
+        "context": "この媚びた表情がだいっきらいだわ。広告もいつも非表示にするくらい不快です。",
+        "good": 15,
+        "bad": 9,
+        "replies": [
+            {
+                "user_name": "idm*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/HhtabZ6Rbn2W7pi7vbjF/comments",
+                "time": null,
+                "context": "ちっちゃ 笑",
+                "good": 5,
+                "bad": 2
+            }
+        ]
+    }
+]

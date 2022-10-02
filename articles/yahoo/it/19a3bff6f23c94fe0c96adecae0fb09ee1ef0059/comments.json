@@ -1,0 +1,132 @@
+[
+    {
+        "user_name": "r11*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/._a2U2.KOyEtG82Kzf5un1Y-/comments",
+        "time": null,
+        "context": "今朝ドコモSHOPに電話したら「3G(ガラケー)→４G(ガラケー)」への変更(機種?）は契約事務手数料3300円と言われた。ちなみにガラケー本体はいくらですかと尋ねたら１円(F-41C)との回答。2026年3月まで3Gを使う覚悟ができた。サブ機のスマホはOCNです。",
+        "good": 13,
+        "bad": 8,
+        "replies": []
+    },
+    {
+        "user_name": "puk*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/WGd.lDSIf3v5tJMH5bpCpC95yrY-/comments",
+        "time": null,
+        "context": "つい一週間前くらいにeSIMにしようとdocomoショップに行ったら、手数料3,300円かかりますって言われたけど、店舗によって違うのかな。",
+        "good": 3,
+        "bad": 2,
+        "replies": [
+            {
+                "user_name": "puk*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/WGd.lDSIf3v5tJMH5bpCpC95yrY-/comments",
+                "time": null,
+                "context": "7/27から変更になるのはSimって書いてありますよ。\nSimとeSimは手続きが違うみたいです",
+                "good": 1,
+                "bad": 0
+            },
+            {
+                "user_name": "sam*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/VWVEFQeLa30MvYzX5VoMDOArJFY-/comments",
+                "time": null,
+                "context": "7/27からと書いてありますよ",
+                "good": 3,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "r*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/j4d5HNyKa3mB0Qsl62Bs512jTA--/comments",
+        "time": null,
+        "context": "eSIMを店頭で手続きなんてカモだけを呼んでオプションウマウマ方策と思いきやオンライン手続き自体できないのか",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "new*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/IZSZeZKBa2ONLZjeVGaaq0bA/comments",
+        "time": null,
+        "context": "店頭手続きが必要なeSIMなんて、eSIMのメリットがすべて削がれてて意味がない。",
+        "good": 39,
+        "bad": 3,
+        "replies": []
+    },
+    {
+        "user_name": "mr******",
+        "user_url": "https://news.yahoo.co.jp/profile/id/9xpjUfOKeSQa1scgaTE_/comments",
+        "time": null,
+        "context": "SIMカード交換だけで通常2200円、オンラインなら1100円でも十分高いよ",
+        "good": 19,
+        "bad": 4,
+        "replies": []
+    },
+    {
+        "user_name": "sta*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/V_h0mY.LfnEO5o4TzXNneoZhlKVzDw--/comments",
+        "time": null,
+        "context": "アハモにしたら電波の受信が明らかに悪くなった\n公表してない不具合があるんじゃないか",
+        "good": 5,
+        "bad": 26,
+        "replies": [
+            {
+                "user_name": "緑",
+                "user_url": "https://news.yahoo.co.jp/profile/id/rHidQR6BZXg5Un.X2yvG3Ts9giE8RfAV/comments",
+                "time": null,
+                "context": "通信に優先度つけるのは冗長性の観点で当たり前にやられていることですよ。\n基地局の接続最大数の設定すら公表しないのだから回線ごとに優先度つけてても何ら不思議ではありません。",
+                "good": 3,
+                "bad": 3
+            },
+            {
+                "user_name": "mkw*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/jYrYrleVVWNhcyOzzA--/comments",
+                "time": null,
+                "context": "よくあるのは、ギガライト（4G）やギガホ（4G）で3Gで繋がってた方が、5Gギガライトや5Gギガホプレミア、ahamoにしたら繋がらないと言い出すパターンですね。",
+                "good": 0,
+                "bad": 1
+            },
+            {
+                "user_name": "mr******",
+                "user_url": "https://news.yahoo.co.jp/profile/id/9xpjUfOKeSQa1scgaTE_/comments",
+                "time": null,
+                "context": "ドコモからahamoに変えたら電波の入りが悪くなったという人が続出している\nバンド縛りがあるのかもしれない",
+                "good": 1,
+                "bad": 9
+            },
+            {
+                "user_name": "緑",
+                "user_url": "https://news.yahoo.co.jp/profile/id/rHidQR6BZXg5Un.X2yvG3Ts9giE8RfAV/comments",
+                "time": null,
+                "context": "アンテナに対する接続優先度はつけてるだろうね。",
+                "good": 6,
+                "bad": 2
+            },
+            {
+                "user_name": "dis*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/4FXxJIecY2P_OvocEvK6BdM-/comments",
+                "time": null,
+                "context": "んな訳無いでしょ。\n電波強度なんてその日の状況にもよるし、こんなクレーマーが世の中に溢れてるなんて\n日本が日本じゃない様だ。\n文句があるならさっさと出ていけば良いのに。",
+                "good": 6,
+                "bad": 2
+            }
+        ]
+    },
+    {
+        "user_name": "dky*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/tm3uXkucYWnRUmnmFUJtp7zbdQ--/comments",
+        "time": null,
+        "context": "楽天モバイルを見習ってほしい。",
+        "good": 11,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "gum*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/ujeJmhaff338IC5YdZP5w3ugrA--/comments",
+        "time": null,
+        "context": "楽天は何回交換しても0円だが？",
+        "good": 5,
+        "bad": 0,
+        "replies": []
+    }
+]

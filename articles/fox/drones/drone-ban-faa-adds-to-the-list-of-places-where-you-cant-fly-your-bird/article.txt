@@ -1,0 +1,25 @@
+While it seems unlikely that everyday drone hobbyists would want to make a beeline for their nearest nuclear facility to grab some aerial shots, the Federal Aviation Administration (FAA) has nevertheless announced a ban on drone flights over such locations in the U.S., namely:
+
+• Hanford Site, Franklin County, WA
+• Pantex Site, Panhandle, TX
+• Los Alamos National Laboratory, Los Alamos, NM
+• Idaho National Laboratory, Idaho Falls, ID
+• Savannah River National Laboratory, Aiken, SC
+• Y-12 National Security Site, Oak Ridge, TN
+• Oak Ridge National Laboratory, Oak Ridge, TN
+
+As you can see, they’re mainly labs, while the Hanford Site, for example, is a mostly decommissioned nuclear production complex. Another of those listed, the Pantex Site, is an active nuclear weapons assembly and dismantlement plant. The restrictions, which come into force on December 29, have been put in place “to address concerns about unauthorized drone operations over seven Department of Energy (DOE) facilities,” the FAA confirmed on its website.
+
+It added that “operators who violate the airspace restrictions may be subject to enforcement action, including potential civil penalties and criminal charges.”
+
+The FAA’s ban follows others that have been put in place over the last year as the government plays catch-up with a technology that has become hugely popular with consumers over the last couple of years.
+
+Following an FAA regulation earlier this year banning drone flights over 133 military facilities in the U.S., the Pentagon said over the summer that it would be OK for personnel at the facilities to destroy any drones flying into restricted areas if they were deemed a threat to security. In other words, they can shoot the flying machines down.
+
+Continuing to gradually broaden the restrictions, the FAA then issued flight bans around 10 famous tourist sites, among them the Statue of Liberty in New York City, Hoover Dam in Nevada, and Mount Rushmore National Memorial in South Dakota.
+
+Flights near locations such as airports, prisons, and sports stadiums are also off-limits for drone pilots.
+
+Millions of people are likely to be firing up their very first drone over the holiday season, and the FAA is encouraging them to download its B4UFLY mobile app (iOS and Android), which offers information on safe flying as well as areas that are out of bounds for drone flights. The FAA also has a comprehensive FAQ page on its website offering advice for new and current drone owners.
+
+Finally, if they haven’t already done so, drone owners need to register their details on a national database. The database has been in place for two years, but mandatory registration was paused in May over a legal issue. But since last week, it’s now necessary for anyone with a drone weighing between 0.55 pounds and 55 pounds to once again submit their details via the FAA’s registration page.

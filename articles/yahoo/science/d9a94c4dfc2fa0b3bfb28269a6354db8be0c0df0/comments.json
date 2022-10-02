@@ -1,0 +1,38 @@
+[
+    {
+        "user_name": "非常識な組織*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/JlhyuxKdbXhANhq_GTwFWARBog--/comments",
+        "time": null,
+        "context": "先ずは、この研究の被験者は健常者を対象として行われていると思う。\nしかし、呼吸器疾患を煩い、呼気に大きな問題がある方々への対応はどうなのか？\nまだまだ、大きな課題がありそうだ。",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/F7T3FqiAf2kUNacrPhf2r4XS7w--/comments",
+        "time": null,
+        "context": "> 20人の個人認証を97％以上の高精度で達成することができたというのだ。\n\nデータ量が少ないし、少ないのに97%\nうん、どうかなね",
+        "good": 10,
+        "bad": 2,
+        "replies": []
+    },
+    {
+        "user_name": "ー",
+        "user_url": "https://news.yahoo.co.jp/profile/id/QR6929GfeHWJxdX2EJ7bK23iRnFHtYipAG9Cl3OfUuGU/comments",
+        "time": null,
+        "context": "呼気でガンとか糖尿とかわかるんじゃないの。",
+        "good": 1,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "pad*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/WQIYeYuIa3SoByCOmVNTYT4bjA--/comments",
+        "time": null,
+        "context": "臭っさ！ この匂いはあいつだわ！",
+        "good": 10,
+        "bad": 0,
+        "replies": []
+    }
+]

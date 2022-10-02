@@ -1,0 +1,15 @@
+After more than two decades, scientists say they have finally mapped out the entire human genome, paving the way for deeper insights into evolution, cancer, and birth defects. 
+
+The results, years in the making, were published Thursday in the journal Science. Previous efforts fell short because DNA sequencing technology couldn’t read certain parts of the genome. For years, around 8% of the genetic sequence remained unfilled. 
+
+Scientists said this full picture of the genome will give humanity a greater understanding of human biology while opening the door to new medical discoveries. 
+
+The human genome comprises billions of DNA subunits known by the letters A, C, G and T. Genes are strings of these lettered pairs that contain instructions for making proteins. Humans have about 30,000 genes, organized in 23 groups called chromosomes found in the nucleus cells. 
+
+Reading genes requires cutting the strands of DNA into pieces hundreds to thousands of letters long. Sequencing machines read the letters in each piece and scientists try to put the pieces in the right order – an especially difficult task in areas where letters repeat.
+
+Scientists said some areas were illegible before improvements in gene sequencing machines that now allow them to, for example, accurately read a million letters of DNA at a time. That allows scientists to see genes with repeated areas as longer strings instead of snippets that they had to later piece together.
+
+"It took 20-plus years, but we finally got it done," said Evan Eichler, a University of Washington researcher who participated in the project. "This is the beginning of something really fantastic for the field of human genetics."  
+
+The Associated Press contributed to this report. 

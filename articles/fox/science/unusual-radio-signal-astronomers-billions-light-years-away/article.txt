@@ -1,0 +1,31 @@
+Astronomers at the Massachusetts Institute of Technology (MIT) and universities in Canada and the U.S. say they have detected a radio signal from a far-away galaxy that is flashing repetitively. 
+
+In research published in the Journal Nature, authored by members of the Canadian Hydrogen Intensity Mapping Experiment (CHIME)/FRB Collaboration, the scientists said a fast radio burst (FRB) has been located several billion light-years from Earth. 
+
+CHIME is an interferometric radio telescope at the Dominion Radio Astrophysical Observatory in British Columbia, Canada. It is designed to detect radio waves emitted by hydrogen in the earliest stages of the universe, and it has detected hundreds of FRBs.
+
+FRBs are millisecond-duration flashes of radio waves that are visible at distances of billions of light-years. The first FRB was discovered 15 years ago; hundreds of similar radio flashes have been detected, although the majority of observed FRBs have been one-offs.
+
+Exactly what the source of the FRB is, labeled FRB 20191221A, remains a mystery. 
+
+Astronomers theorize that the repeating signal could be coming from either a magnetar or radio pulsar – types of neutron stars – "on steroids." Neutron stars are dense, spinning collapsed cores of giant stars.
+
+However, it's the duration of FRB 20191221A that's most notable. 
+
+The radio signal, which was picked up in December 2019, lasts for up to three seconds, or about 1,000 times longer than the average FRB. 
+
+"It was unusual," Daniele Michilli, a postdoc in MIT’s Kavli Institute for Astrophysics and Space Research, recalled in a statement. "Not only was it very long, lasting about three seconds, but there were periodic peaks that were remarkably precise, emitting every fraction of a second — boom, boom, boom — like a heartbeat. This is the first time the signal itself is periodic."
+
+It is currently the longest-persisting FRB with the clearest periodic pattern thus far and the team detected bursts of radio waves that repeat every 0.2 seconds in a clear pattern.
+
+"The long (roughly [3-second]) duration and nine or more components forming the pulse profile make this source an outlier in the FRB population. Such short periodicity provides strong evidence for a neutron-star origin of the event. Moreover, our detection favors emission arising from the neutron-star magnetosphere, as opposed to emission regions located further away from the star, as predicted by some models," the group wrote.
+
+In addition, FRB 20191221A appears to be more than a million times brighter than radio emissions from our own galactic pulsars and magnetars. 
+
+"CHIME has now detected many FRBs with different properties," Michilli noted. "We’ve seen some that live inside clouds that are very turbulent, while others look like they’re in clean environments. From the properties of this new signal, we can say that around this source, there’s a cloud of plasma that must be extremely turbulent."
+
+The team aims to detect more signals from this source, which MIT said in a release could be used as an "astrophysical clock" – perhaps even measuring the rate at which the universe is expanding. 
+
+Michilli said future telescopes promise to discover thousands of FRBs a month, which could lead to the detection of "many more of these periodic signals." 
+
+This announcement follows the release of the first images from the James Webb Space Telescope, which peers back billions of years ago.

@@ -1,0 +1,47 @@
+[
+    {
+        "user_name": "tom*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/WrL65ZqMZX1v6Id72ne6E.Ip8Xxn/comments",
+        "time": null,
+        "context": "「アップル、コロナ禍でも「iPhone」需要は衰えず」\nって、見出し意味不明。\nコロナとどういう関係が・・・\n逆にリモートで需要が増えるのでは。",
+        "good": 2,
+        "bad": 3,
+        "replies": []
+    },
+    {
+        "user_name": "per*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/pekeU0yIb2JmMIGZjY9_QGAEMYMG_6c-/comments",
+        "time": null,
+        "context": "今、iphone se2を使ってるけど次もiphoneを絶対購入したいとは思わないな\n今、iphone se2から買い替えるんだとしたらpixel 6aを買う",
+        "good": 0,
+        "bad": 20,
+        "replies": []
+    },
+    {
+        "user_name": "緑",
+        "user_url": "https://news.yahoo.co.jp/profile/id/rHidQR6BZXg5Un.X2yvG3Ts9giE8RfAV/comments",
+        "time": null,
+        "context": "まあ確かにAndroid端末も視野に入ってくるよね。\nハイエンドはAndroidも高いけどね…",
+        "good": 3,
+        "bad": 2,
+        "replies": []
+    },
+    {
+        "user_name": "lot*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/ihrg3nWUZWSoqcCRVlDrmN9fY_g-/comments",
+        "time": null,
+        "context": "これだけ高くなればさすがに日本でも買えない、買おうとしない層は出てきます。",
+        "good": 7,
+        "bad": 3,
+        "replies": [
+            {
+                "user_name": "tog*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/rc80K9qMZXfJ3DzEIXURrX.rG.Vp8Hh5/comments",
+                "time": null,
+                "context": "見栄で買う人もいますね",
+                "good": 3,
+                "bad": 0
+            }
+        ]
+    }
+]

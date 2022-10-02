@@ -1,0 +1,29 @@
+Astronomers have discovered the presence of a disk around a planet beyond our solar system for the first time.
+
+By using the high-resolution Atacama Large Millimeter/submillimeter Array (ALMA), of which the European Southern Observatory (ESO) is an international partner, the scientists uncovered the circumplanetary disk which surrounds the exoplanet PDS 70c.
+
+PDS 70c is one of two giant, "Jupiter-like" planets orbiting a star almost 400 light-years away, according to a statement released by ESO on Thursday. 
+
+PDS70c and PDS 70b were discovered in 2019 and 2019, respectively, using ESO's Very Large Telescope (VLT). PDS 70b does not show "clear evidence" of a circumplanetary disk.
+
+While there had been signs of such a "moon-forming" region around the exoplanet before, the researchers could not differentiate the disk from its environment. 
+
+"Our work presents a clear detection of a disc in which satellites could be forming," the University of Grenoble and University of Chile's Myriam Benisty, who led the research published in The Astrophysical Journal Letters, said. "Our ALMA observations were obtained at such exquisite resolution that we could clearly identify that the disc is associated with the planet and we are able to constrain its size for the first time."
+
+Benisty and her colleagues found that the disk has approximately the same diameter as the distance from our sun to the Earth, or around 94 million miles. 
+
+Additionally, the disk has enough mass to make up to three satellites the size of the moon, which has a radius of about 1,080 miles.
+
+The findings will help to also understand when, where and how planets and moons form in young stellar systems.
+
+Planets are believed to begin as grains of dust smaller than the width of human hair before emerging from disks of gas and dust that circle young stars before gravity causes material within the disk to collide gently and fuse before dust particles combine to form minute planets or "planetesimals."
+
+The planetesimals orbit their star, clearing material from their path as the star takes in nearby gas and pushes distant material out. before forming new worlds billions of years later.
+
+Gas giants were believed to have been created where the disk was colder – and gas molecules would slow down enough – and water could freeze, with ice fragments and dust eventually forming giant planetary cores. 
+
+The warmer areas of the disk aided in the formation of rocky planets tens of millions of years after the birth of the star and following the formation of icy giants, though details regarding where planets form in disks is still an area of research, according to NASA.
+
+The ESO notes that as planets take shape around young stars, they can potentially acquire their own circumplanetary disk which has gas and dust that can form progressively larger bodies through collisions that lead to the formation of moons.
+
+In the future, the observatory intends to use its Extremely Large Telescope (ELT)'s Mid-infrared ELT Imager and Spectrograph (METIS) to better understand the planetary systems, or sets of gravitationally bound objects that orbit a star.

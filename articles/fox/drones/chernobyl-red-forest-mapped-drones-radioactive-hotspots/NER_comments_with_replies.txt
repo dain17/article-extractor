@@ -1,0 +1,162 @@
+[[PERSON]] is worse
+the generators that were to provide coolant pumps their power in an emergency were fed by fuel tanks that floated and were damaged during the tsunami . that was accounted for in the hazard analysis when developing their hazard controls for a flooding event . the [[NORP]] system was flawed to the " core " . their designs , construction , commissioning , operations and maintenance were not robust . they also did n't share lessons learned from past events and accidents ( which there were many ) for fear of public or international scrutiny of their nuclear program . as a result , they did n't learn and adapt to prevent the same or worse accidents . google : [[ORG]] .
+always remember though to keep that catastrophe in perspective . number of people killed by the [[GPE]] : [[CARDINAL]] number of people killed by radiation leak at fukashuma : [[CARDINAL]]
+the top [[CARDINAL]] execs at [[GPE]] were charged with crimes that led to the deaths of many people . so [[NORP]] prosecutors claim that the reactor meltdown killed people .
+you 're right , and the worst part about [[PERSON]] is that unlike [[GPE]] , the failure was n't caused by design and engineering incompetence . instead , it serves as a reminder that no matter how well - conceived a nuclear plant design may be , nature can cause it to fail .
+again , the response is typical [[PERSON]] hindsight that ' happens because when something horrible happens , there has to be a scapegoat . as someone pointed out , the tsunami took out the generators , which kept the coolant from circulating properly . the [[NORP]] government and other investigative bodies long ago concluded that the [[PERSON]] nuclear accident was caused by the tsunami , and the resulting loss of seawater pumps and all electrical power , not reactor design . [[ORG]] certified that the generators , reactors and turbines were working properly at the time of the event . this is like looking a [[CARDINAL]] and blaming the airlines for not putting re enforced cockpit doors in the airplanes . tepco was virtually strong armed into making an admission of guilt . no reasonable person would have foreseen an earthquake followed by a tsunami . and that 's the problem with nuclear power . there 's another unforeseen disaster waiting out there , and when it happens , the scapegoating process will begin all over again .
+nope .
+perhaps smaller , naval application style , reactors is a better idea . [[DATE]] , in the aftermath of a hurricane in [[GPE]] , the [[ORG]] pulled a sub to the pier and powered the island . where seismically possible give large to medium - sized cities such a plant to power their electrical needs . harden the grid as a whole and shunt excess energy onward to those who need , or simply isolate each city grid fm the next . in seismically active areas , use [[EVENT]] tech of " rumble rooms " to protect the plant fm loss of coolant due to earthquake . nuclear energy is clean and efficient when well designed and properly run / managed . it can not be done " on the cheap . "
+you are quite simply wrong . [[PERSON]] had a melt down due to a lack of coolant . a lack of coolant that was due to a poor placement of the emergency power generators . had the generators not been taken out by the tsunami the reactors may well have survived .
+tell me then , how do you place generators that are tsunami proof ? in a sealed room with a [[CARDINAL]] ft snorkel ? i ’d like to know
+most nuclear plants house emergency condensers above the reactor , with valves that fail open with a loss of power . this enables a natural pump that does n't need electricity to operate to cycle out the steam , condense it , and lower the temperature and pressure inside the reactor ( good old gravity ) . gravitational recirculation ( steam flowing up to condensers , condensed water flowing back down into reactor ) inside the reactor keeps it safe until you are able to get auxiliary power to the safety systems that rely on electricity to operate . at [[PERSON]] , these emergency condensers were fed by electric pumps , which are usually powered by the emergency diesel generators . these generators were the ones that were housed in the rooms that flooded and were inoperable . the decay heat in the reactor ( the fission chain reaction was stopped by the control rods ) was unchecked , the water reacted with the zirconium in the fuel rod casing and produced [[GPE]] , and the hydrogen ignited causing the explosions . so no , you can not make tsunami proof generators if you house them in the lower levels of the plant , but you can utilize passive safety systems that do not rely on those generators to stop an explosion .
+not in the basement , lol
+that 's a bit of an oversimplification . the design had numerous flaws , all pointed out [[DATE]] before the disaster . additionally , massive human errors enabled [[PERSON]] : the plant manager was n't allowed to flood the reactors - tepco was trying to salvage the plant for future use . eventually the manager simply disobeyed and flooded them anyways , but that was too late .
+[[NORP]] nuclear plant regulation is exceptionally stringent , and the design flaws only became apparent after the event , or they would have been exposed and corrected . [[GPE]] is not some corrupt [[ORDINAL]] - world country where something that would endanger the public could be swept under the table . in essence , an earthquake followed by a tsunami was not a realistic scenario that anyone could have foreseen . [[ORG]] engineers certified that plant as operationally sound numerous times . tepco did n't flood the reactor because they were legitimately afraid of an explosion and further release of radioactive gas into the atmosphere .
+impressive response . thanks for the info and explanation .
+and , " regulatory failure : the [[ORG]] nuclear plant crisis is exposing the extent to which [[GPE]] ’s powerful nuclear industry has been subject to lax oversight , or worse . for starters , the effectiveness of the regulator comes into question in light of [[LOC]] ’s history of deceit . in assessing governance in the industry , it would be unfair to single out [[CARDINAL]] company , when the entire industry was not subject to proper oversight . in [[DATE]] , [[GPE]] ’s government and power industry were warned that plants like [[PERSON]] were not built to withstand major earthquakes . [[DATE]] , atomic power plants in [[GPE]] , shika , kashiwazaki - kariwa and [[GPE]] were affected by tremors beyond those which they were built to withstand . since [[DATE]] , safety inspectors at [[ORG]] ( [[ORG]] ) have warned that [[ORG]] reactors , the type employed in [[PERSON]] , were vulnerable to explosions and radiation release if a meltdown occurred . yet to date , no actions had been taken by the [[NORP]] government to modify nuclear plant standards . lax oversight of existing regulations is also to blame . in [[DATE]] , [[CARDINAL]] workers were killed at a nuclear plant when superheated steam punctured a pipe . it was later discovered that the pipe had not been inspected in [[DATE]] . in [[DATE]] , [[EVENT]] ( [[ORG]] ) forced companies to reveal unreported safety breaches . ultimately , [[CARDINAL]] out of [[CARDINAL]] public utilities admitted to falsifying
+here are some quotes for you : " it is a matter of record that in [[DATE]] admitted to falsifying the results of safety tests on reactor one ’s containment vessel . in [[DATE]] , the company had doctored reactor shroud safety records . in [[DATE]] , tepco prohibited inspectors from visiting reactors and later acknowledged that it systematically covered - up inspection data that showed cracks in reactors . following a relatively small earthquake in [[DATE]] , a fire ensued at another nuclear plant , and [[PERSON]] masked the fact that [[QUANTITY]] of radioactive water leaked out . "
+the reactor was deemed to have engineering flaws [[DATE]] before the disaster . engineers were arguing to stop building reactors like this , shut these ones down and build safer ones . and , yeah , [[GPE]] 's not a [[ORDINAL]] world country , but it has a lot of corruption at the highest levels . tepco is [[CARDINAL]] of the worst offenders : they release radioactive water they 're supposed to be storing whenever it storms near the reactors , claiming it leaked out , and releasing false data , pretending the leaks are small - only for details to emerge later than massive tons of radioactive water was released . tepco refused to flood the chambers because saltwater would irrevocably damage them . the plant manager was practically begging them to let him - thankfully , he went ahead and flooded them regardless , but sadly too late . after the disaster , the governor of [[GPE]] stormed the hq of tepco and yelled at the ceo for [[TIME]] . the company has subsequently been nationalized , removing it from the hands of corrupt investors . so , yeah , it was partially a manmade disaster and [[ORG]] executives bear the blame .
+[[GPE]] is plenty safe place for the proponents of nuclear power to live . they should n't take any women as the children might not be normal .
+i bet you believe that climate change is caused by not enough [[NORP]] running the country too !
+i 'm a proponent of nuclear power . its the cleanest energy on earth . [[GPE]] was about the worst application of nuclear power ever designed . you should not blame proven science for bad engineering .
+since you believe that nuclear power is safe , can they store the spent rods in your back yard . you could save money on electricity for your [[TIME]] lights .
+what power generation method do you recommend ? we 're just learning about the tangential effects of wind , solar , etc .
+spent rods housed in concrete will expose you to less radiation than walking your dog on [[DATE]] .
+why waste money on concrete , and storing them in caves , when you can store them in the garage of a nuclear power fanatic . most supporters , and nuclear plant engineers , refuse to live , with their families , outside the front gate of a plant . on [[DATE]] , three mile island received a [[CARDINAL]] of [[CARDINAL]] . did you celebrate or cuss the engineers ? .
+i am one of the engineers and i lived right next to the plant i worked at . in fact , [[CARDINAL]] others who worked there lived there too , and a thriving community of people who had cheap electricity and clean air , along with a boosted economy thanks to the plant . and i 'd love for you to lecture me on [[LOC]] . do tell me what you know about pressurized water reactors and their various safety systems , and why they failed [[DATE]] . and while you 're at it can you explain the safety systems that did n't fail and contained the melted reactor core inside of the vessel and helped contribute to the astronomical number of [[CARDINAL]] deaths or injuries ?
+were you an engineer that designed and built the nuclear power plant or did just take someone else 's word that every weld was perfect and move in . you can build in back up security systems but not back up welds ? inadequate training and human factors led to mechanical failure at [[LOC]] . nature finally got to the [[PERSON]] plant . plant water is still flowing into ocean and killing , or mutating all that it touches after [[DATE]] . fukushima plant has a long list of incidents and accidents as well as lying about them . and then there was [[GPE]] . all the humans could n't control theirs and the mechanical failures . along with , [[PERSON]] , [[GPE]] was a level [[CARDINAL]] event . would you like to attend one of these events ? there were people who died to be there .
+[[ORG]] . why in the hell do you show videos that play themselves with load narration that do n't pertain to the article sometimes and when they do pertain to the article you put the caption in front of the video so you ca n't see it ? so what is the sense in having videos ?
+is [[ORG]] , under new management , trying to chase away clientele ? trying to make people think less of a news worthy platform ? i wonder .
+i know all of the radiation hotspots . i played that call of duty 4 mission a [[CARDINAL]] times .
+there was a lack of feedback of operating experience and the inadequacy of communication between designers , engineers , manufacturers , constructors , operators and regulators . these deficiencies , coupled with a lack of clear lines of responsibility , were critical factors in the events leading up to the [[GPE]] accident .
+in fairness to the workers at the nuclear facility , the [[GPE]] was basically run by [[PERSON]] and [[ORG]] for [[DATE]] . competence was virtually nonexistent .
+the lack of nightmarish man - eating mutant creatures emerging from [[GPE]] is a grave disappointment .
+so . much . this .
+third trumpet in [[GPE]] ? [[GPE]] 's direct translation from [[WORK_OF_ART]] . star = nuclear , poisoned the waters .. etc etc .. makes sense to me . there is also a memorial there of an angel blowing a trumpet called the star of wormwood memorial .. seems the whole world aknowledges this reality ..
+only a willfully ignorant troll would respond to my post like that . everything i stated was complete fact , yet you mock .. the bible talks about people like you .. good luck with that my friend ..
+yes , the world is going to end in your lifetime ! forget all the other [[NORP]] who thought the same thing every generation - you are the one to finally experience it ! quick , sell all your stuff and live pure !
+ah those fun loving [[NORP]] such a great asset to this world .
+the fruits of communism .
+that is what [[ORG]] and company wants for the [[GPE]]
+nuclear power plants are extremely clean . the only reason that this plant fail was because the workers were not paid enough to care . that 's communism for you .
+not clean really . what do you do with spent fuel rods ? that ’s my issue . still got hot fuel rods and heavy water .
+we already know what to do with spent fuel rods . even if no legislation is ever passed for reprocessing the fuel or a permanent storage location , they can sit in the lots on plants in their concrete housing and pose [[CARDINAL]] risk to anyone at all . and there is essentially [[CARDINAL]] heavy water , considering almost every plant in the [[GPE]] is a light water reactor .
+and this was just [[CARDINAL]] nuclear reactor . political party affiliation does n't matter here . mankind better wake the up . hope i 'm not here when the hits the fan .
+oh no . political party affiliation does [[PERSON]] . these were life long [[NORP]] that were responsible for this disaster .
+missed my point . no big deal
+[[CARDINAL]] nuclear reactor built with shoddy [[NORP]] technology and " safety " protocols .
+when the big world wide quake occurs safety protocols will not matter
+that ’s only if a asteroid hit earth and generated a [[CARDINAL]] magnitude earthquake .
+solar panels at the site ? wth ?
+who went and tied them in to the grid , those guys have to glow
+make it the new congressional chamber .
+when [[GPE]] is down by natural disasters , [[GPE]] will nuke [[GPE]] [[GPE]] [[GPE]] and [[GPE]] accept jesus repent forgive
+now that is a great place for solar panels .
+no the panels are reverse so it catching the [[PERSON]] 's from the radiation 😉
+when asked for comment about this [[ORG]] replied .... "yes i think [[PERSON]] is very noble and a good [[NORP]] too "
+nonsense ! nuclear energy is the safe alternative to fossil fuels . we need to concern ourselves with cow farts , skyscrapers and plastic straws if we 're going to save the world .
+whatta mess ...... ever seen those weird looking creatures living there now ?
+perfect place to house our illegal immigrants while they wait [[DATE]] for their asylum cases to be heard
+you win [[LAW]] the year !
+no kidding .
+read the survey , basically they found that the current levels of contamination are not " evenly distributed . " most areas are totally fit for human habitation , though " elevated above that of most natural sites . " the most contaminated area is an old spent fuel warehouse where " exposure for [[TIME]] would dose a person with as much radiation as is normally absorbed over [[DATE]] . " the average [[DATE]] exposure for a person from natural sources is [[QUANTITY]] , so the site maxes out at [[QUANTITY]] per hour . the maximum dose allowed by our government is 5 rem ( [[QUANTITY]] ) per year , which is so low there is no detectable risk , so one could tour the most contaminated parts of the area for over 24 hours without risk . interesting study .
+i will past thanks though not on my bucket list .
+build more nuclear plants in [[GPE]] , [[GPE]] and [[GPE]] .
+yes , it is . in terms of total [[DATE]] co2 emissions , [[GPE]] is # [[MONEY]] , the [[GPE]] is # [[MONEY]] , and [[GPE]] is # [[MONEY]] .
+and [[GPE]]
+👍 🏿
+i believe they should replace coal power plants as long as they retrain and utilize the coal plant operators to do it . coal miners would suffer , but maybe a retrain and relocation plan to uranium mines would work , [[ORG]] . nuclear is far more effective and much less hazardous when managed responsibly than any other means . all of these " eco - friendly " methods look green but the production behind them is disastrous .
+i have no problem with coal at all . all these green people trying to limit the [[GPE]] do n’t realize that we are not the problem . the problem is [[GPE]] and [[GPE]] and the like . if you were in [[GPE]] in the late 70s you know how bad the air can be , look at it now and there is no comparison . stop punishing the [[GPE]] .
+the [[GPE]] is part of the problem along with [[GPE]] and [[GPE]] .
+no its not .
+i personally do not have an issue with coal . i am simply stating that nuclear is more cost effective , efficient , and safer than any other current means of energy production . i enjoy spending my money elsewhere .
+👍 🏿
+no problem .. but then , while not [[PERCENT]] safe , the ones in the [[GPE]] are a bit safer . and could be made to even higher standards . done correctly , they work well and last a long time . the real issue is the spent fuel rods . nimby . ca n't say as i would blame anyone for fee;ing that way . so , need to figure that out [[ORDINAL]] ... just do n't mix them in with cat litter ....
+there is still unused fuel in the spent rods . there is no reason i know of other than policy they can not be re - processed to recover unspent fuel and make new rods . we hava a place in [[GPE]] mountain for long term storage of high level waste . use it .
+they do re - process spent rods for fuel . this is a large part of the waste management program for nuclear fuel . they also account for the cost of waste management and take [[PERCENT]] responsibility for it . no other energy production fields do this . nuclear is the most effective and least hazardous means of producing the energy needed by [[DATE]] 's society . and yes , deep underground storage is the most effective and safest means of disposal .
+thank you for correcting me on the spent fuel . yes , i have no issue with nuclear power .
+use them to build a wall on the southern border .
+lots of room in the desert away from people .
+welcome to our future .
+that ’s a very large oof
+seems like the perfect vacation spot for the [[NORP]] .
+[[PERSON]] would have never let this happen . [[PERSON]] !
+this would be a great place for pelosi to mix up her evil brews for president [[PERSON]] .
+or the makeup to make her look young .
+as long as she applies it with a belt sander
+[[CARDINAL]] coarse might work ?
+it 's those [[CARDINAL]] ft squirrels you really have to watch our for .
+not to mention [[PERSON]] .
+loved that movie . but hated how it made us drive in teenagers look . deputy " there is a herd of [[ORG]] rabbits heading this way " teenagers " ok deputy "
+he 'll do you !
+it will bite your head off man .
+man - bear - pig
+a wookalar !
+[[PERSON]] told [[ORG]] was fake news , [[ORG]] says he believes him .
+the gullible calling others gullible . amusing .
+[[PERSON]] invented radiation
+send all our [[NORP]] there .
+comments like that are what liberals look for and exploit .
+and my comment was not funny either .... just accurate .
+now that was n't funny . sorry .
+just build a land bridge and put the word out that there is free everything there and they will all walk there on their own .
+hell tell them all that the exclusion zone is a " sanctuary nation "
+if they choose to go on their own then that is on them .
+it 's only a matter of time before a rave festival happens here ... if it has n't already ...
+look at the bright side , they wo n't need lights . everything will already have a green glow ....
+there are people that refused to evacuate from [[GPE]] and are still living there . mostly old women now .
+no telling what they are chem trailing us with now .
+this was such a great tragedy in world history . so many people died and this area destroyed . i hope we learned from this great mistake and never let it happen again .
+[[ORG]] documentary included a field trip into [[GPE]] zone , and details on after effects . nothing like the wild horror stories . other reactors at the site kept on operating for [[DATE]] .
+[[PERSON]] blames trump for [[GPE]]
+[[PERSON]] middle name is " [[GPE]] "
+i watched that [[GPE]] movie . it 's all good now . just do n't eat the fish and you wo n't glow in the dark .
+i know a teacher there after the blast who was ordered to clean the desks with soap and water , without protective gear and she ended up with thyroid cancer . soap and water
+soap and water does remove surface contaminants . what did they do with the soapy water afterwards ?
+i was stationed in [[GPE]] at the time . we were told ' not to go out in the rain . '
+also , told not to buy /order [[PERSON]] at the time , because with winds were blowing in that direction . at that time vodka was generally made from potatoes
+[[PERSON]] is worse than [[GPE]] . [[PERSON]] is still dumping radiated water into the [[LOC]] . we wo n't know the extent of this damage for [[DATE]] to come . humans need to develop other power sources than nuclear . nuclear power is not the way to go .
+the sun is dumping massive radiation into the ocean : solar power is not the way to go .... we know the damage of fossil fuel use very well now . [[ORG]] , next generation nuclear is the way to go .
+put one in your back yard next to where your kids play . then we will talk .
+grew up [[QUANTITY]] from nuclear power station . been boating and swimming in the lake created to cool it . it is the best and most efficient source of powering our demanding electrical grid . still live [[QUANTITY]] from the same plant that was built in the 80 's . i have 10 fingers and [[CARDINAL]] toes .
+between articles like this and the new " [[GPE]] " miniseries on [[ORG]] , i am beginning to wonder if the environmental lobby is trying to stifle the renewed interest in nuclear power .
+the [[ORG]] series about the disaster began [[TIME]] ... for the younger people , it would be a good idea to watch how [[NORP]] work .
+most youngsters have already seen and learned about [[GPE]] through the modern invention known as ; the internet . no need to waste your money on [[ORG]] .
+[[GPE]] ’s final weather forecast : “ overcast and [[QUANTITY]] . “
+what is up with including a ' slideshow ' of the same exact wording in the story below it ? i can understand embedding video that supports the story .... but to click play only to see a ' powerpoint ' presentation with music and the same wording from the story is a waste of time .
+oh , i can certainly think . in fact , i happen to know that a video lacking audio ( or having text replace it ) is still another way of sharing the information . as i said before , you are simply being too selective . your lack of ability to accept these minute differences is a problem you will need to work on if you ever hope to grow as a person . my point is , stop complaining . go elsewhere if you do n't like how the news is being presented .
+i get videos that do nt even correspond to the story .
+some people assimilate information in a different way than you do . do n't complain about it .
+so do real journalism and make a verbal report . all they are doing is clipping and pasting text into a clip with ooh and awe sounds .
+how you define real journalism is very selective and , quite frankly , too specific . let them present the news the way they want to present the news . if you do n't like it , move along to the other news networks . all i care about is the facts . i make up my mind on its accuracy .
+how about you contradict yourself even more ? if you want to see a clip , at least have audio . do nt argue out of both sides of your mouth and then deny it at the same time .
+what are you going on about ? what contradiction ? you do n't get to dictate how the news is delivered .
+wow ! can you think for yourself at all ? all rkarins is saying is if you 're going to have a video clip , then at least have audio , so that you can " assimilate the information " in different manner . pasting the same text in a video clip does nothing different than just reading it in the base article .
+soon to be call [[GPE]] . yes . let us all keep ruining the only planet to sustain human life . as long as ego and greed rule the world ...
+drones ? why did n't they just ask the people who still live there to do the survey ? [[CARDINAL]] former residents returned shortly after the accident , [[CARDINAL]] still live there [[DATE]] .
+i doubt many of them have the education to do a proper survey .
+relocate [[ORG]] headquarters there please
+you mean another location ? who else would try to distract attention away from their own [[NORP]] involvment ( i.e. [[ORG]] ) that one who is guilt themselves ? me thinkith you protest too much ! ! !
+despite all the bad press and the couple of rare accidents , it still seems that nuclear is the most efficient form of clean energy . true , the rare accident is quite deadly but so is a plane crash .
+nuclear waste and it 's impact on the environment is still an issue .
+the nuclear industry has developed – and implemented – most of the necessary technologies required for the final disposal of all of the waste it produces . the remaining issue is one of public acceptance , and not of technological feasibility . the amount of waste produced by the nuclear power industry is small relative to other industrial activities .
+the remnants of a plane crash do n't cause illness long after the plane has crashed .
+except for the dead people
+nuclear is tough . the rewards are as great as the risk . personally , i think the reward makes it worth it so long as they 're built smartly .
+it is a beautiful place now , no people just nature and animals retaking the planet .
+" but living more now than they did then" .... not a zoologist , but apparently you did stay at a holiday [[ORG]] [[TIME]] ..... [[PERSON]] just made that up now did n't ya ?
+go there i have n't been but would love too , you pay i go , now watch the real thing yes some have a problem but do so everybody in life .
+weird thing to say ...
+studies have shown even the insects are struggling so i 'm not sure what you are referring to . unless you read the article that was debunked . the " scientists " who reported that nature was thriving never even went there .
+ya mutant animals
+no they are actually not , do they have poison in their blood yes , but living more now than they did then .
+you 're way off . do some research . lots of mutations and oddities from the fallout . the animals are far from doing well and " retaking " the planet ( whatever that 's supposed to mean ) .
+please do site references for said ' research ' ...
+the left should be happy they hate [[GPE]]
+[[GPE]] was part of [[GPE]] / [[GPE]] at the time , but [[GPE]] is no longer under [[NORP]] control ( [[ORG]] , aside ... of course )
+yeah ok there dictator is living large in [[GPE]] as the world sat back and did nothing . and still have [[NORP]] troops there . sad those people won the uprise then [[GPE]] stepped in [[GPE]] did nothing . sad
+who are the poor workers that are going to install the solar panels in that area ! crazy !
+have n’t heard much about [[PERSON]] . that ’s a pretty bad one too .
+[[ORG]] should go visit the location to see if there is anything she can do to help
+aoc just discovered a sink garbage disposal . baby steps .
+i would be curious to know about the boar in [[GPE]] . it seems strange that his levels were so high . it makes me wonder how often countries cover their own nuclear blunders by blaming [[GPE]] . i ’m not that well educated on radiation exposure , so i may be off base , but i would think that if the boar had radiation levels that high , then many other creatures in the region should too . it should n’t be rare . perhaps he came in contact with something more contained and a bit closer to home ?

@@ -1,0 +1,17 @@
+Flying a drone into the flying rocks and ash of an erupting volcano seems like a guaranteed way of ensuring you'll never see it again, but a team of researchers from the Universities of Bristol and Cambridge have so far benefited in a big way from such missions.
+
+They've been using several bespoke fixed-wing unmanned aerial vehicles (UAVs) to help them learn more about how and why volcanos erupt. Sending its sensor-laden flying machine over a highly active volcano in Guatemala recently, the team has been able to take accurate temperature, humidity, and thermal measurements from within the ash cloud itself.
+
+Most spectacular, however, is the footage (above) captured by the drone's camera as it soars high above the volcano and flies directly through the mass of material ejected into the sky above.
+
+The remotely controlled aircraft was flown successfully beyond the line of sight at distances of up to 5 miles (8 km) away, and at 10,000 feet above the launch site.
+
+"Drones offer an invaluable solution to the challenges of in-situ sampling and routine monitoring of volcanic emissions, particularly those where the near-vent region is prohibitively hazardous or inaccessible," Dr Emma Liu, a volcanologist from the Department of Earth Sciences at Cambridge, said in a release. "These sensors not only help to understand emissions from volcanoes, they could also be used in the future to help alert local communities of impending eruptions -- particularly if the flights can be automated."
+
+Liu says in the video that the team flew the UAVs a number of times across several days over the summit of Volcn de Fuego to "observe and measure rapid changes in the shape of the summit crater and in the style of the explosions in the run up to an eruption."
+
+In the next stage of the project, the drones will carry additional sensors to measure the volcanic gases being released from Fuego.
+
+"By analysing the chemistry of these gases, and of lava, and building 3D models of the volcano's shape and how this changes over time, we hope to improve our understanding of what is happening deep beneath the volcano, improving our ability to forecast when and how big the next eruption may be," Liu said.
+
+The researcher added that using drones to study volcanoes has enabled them to observe eruptions "closer than ever before, and take measurements that would otherwise never have been possible."

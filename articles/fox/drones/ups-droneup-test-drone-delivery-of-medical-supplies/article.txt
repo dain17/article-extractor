@@ -1,0 +1,39 @@
+With healthcare workers waging a life or death battle against the coronavirus crisis, many other industries, companies and individuals are seeking innovative new ways to support the life-saving efforts of those on the front lines.
+
+Drone-assisted deliveries have often been thought of as the future, but a recent partnership between United Parcel Service (UPS), Workhorse Group, DroneUp and the Virginia Center for Innovative Technology has proven that future is now.
+
+Virginia Beach-based drone solutions company DroneUp created a three-day simulation with its partners to collect data and evaluate the drone industry’s ability to use unmanned aerial systems to deliver testing or treatment as part of the U.S. coronavirus response. The simulation lasted from April 7th to April 9th.
+
+Tom Walker, founder and CEO of DroneUp, said the pandemic has brought the issue of drone delivery to the top of the industry's collective mind. “The use of drones, specifically by commercial operators, in response to crisis events has been a point of discussion for some time,” he told Fox News about “Operation Last Mile” and the success of the simulation. “COVID-19 brought the topic to the forefront.”
+
+“While many in the industry offered ideas or theories, no exercise had ever [been] conducted using commercial operators and readily available drone platforms with actual and actionable data,” added Walker, a former Navy Lieutenant Commander. “That was our mission. We conducted delivery of supplies at scale in a challenging, real-world environment throughout multiple days AND nights.”
+
+For the duration of the simulation, the abandoned campus of Saint Pauls College in Lawrenceville, Va. “provided an ideal facility," allowing a team of 45 people involved in the operation to test drone delivery in the same conditions as an urban setting.
+
+Participants wore masks, had their temperatures taken and a nurse was also on hand. Eight Federal Aviation Administration certified drone pilots were selected out of a pool of 32 applicants, and all flew the commercially available DJI Inspire 2 unmanned aircraft.
+
+Each delivery tested included a payload of 20.4 ounces and a drop mechanism that released a tether holding the payload bag, when the pilot raised the landing gear on the drone. For the sample deliveries, the payload bag included a small bag of sand, a medicine bottle and a small cardboard box. The goal for each test was to deliver the bag along with the tether at each drop site.
+
+The Brunswick County Sheriff’s Department provided security and ensured that no one came onto the campus who wasn’t involved in the aerial operation. In order to be compliant under the FAA’s Part 107 rules for commercial drone operations, much coordination was required to maintain safety, when the drone was outside of the line of sight of the Pilot in Command.
+
+Communication was key. According to DroneUp, all beyond-line-of-site operations included multiple Visual Observers, stationed along the path of each mission, with radios in order to ensure that the drone was never out of sight. The exercise included 19 delivery locations that were planned and mapped out in advance. Pilots and teams were given real-world obstacles to avoid during both manual and pre-programmed autonomous flight, such as trees, buildings, light poles, power lines and elevation changes.
+
+Nearly all -- 80 out of 81 packages -- were successfully delivered within a 10-foot diameter circle for a success rate of 98.8 percent and no safety incidents were reported. The only aborted mission involved high winds, where the pilot and his team decided to interrupt a pre-programmed flight as a result of the weather challenge.
+
+Walker’s company offers end-to-end drone data services to its clients and has had previous contracts with state and local governments. “DroneUp was perfectly positioned to pioneer this project because we combine a vetted drone network with an experienced R&D department that has been a leader in developing new uses of drone technology,” he explained.
+
+“I am encouraged to see so many private sector partners stepping up and thinking innovatively as we work together to combat COVID-19,” said Virginia Governor Ralph Northam in a statement. “Drones can be an important way to deliver medical supplies while people stay home to adhere to our social distancing guidelines. Virginia is well-positioned to be a leader in the unmanned system industry, and we are pleased to be part of this initiative.”
+
+In 2019, UPS became the first commercial drone delivery service company in the U.S., when the FAA awarded a certification that allows for drone delivery on medical campuses.
+
+“We’ve proven through ongoing commercial drone delivery programs that effective drone delivery of medical products is faster than conventional ground-based transportation,” Scott Price, UPS chief strategy and transformation officer, added in the statement. “Drones offer a low-touch option for delivery of lab specimens and medical products that could make a significant impact in an urgent response application.”
+
+Walker said the data has been crucial for understanding what the next steps may be. DroneUp, UPS and the Center for Innovative Technology have prepared a 30-page document, which they will present to federal and state authorities.
+
+“This test was about determining what is possible today,” Walker explained. “Safety precautions, communications, payloads, capacity, and more. We now know what we can do today and we are prepared to do so when called upon.
+
+“However, we also gathered a ground-breaking amount of data and other information that will ensure we are even better prepared, with new capabilities, in the near future.”
+
+Joe Fuller, CIO of DroneUp, told Fox News, “Our delivery testing proves that drones can be used to safely deliver critical items to a quarantine area. Experienced drone pilots could be quickly dispatched to hot zones to provide real assistance in pandemic response.”
+
+Walker, an FAA-certified drone pilot himself, said, “The data collected will have significant positive impacts on our industry and, hopefully, our communities for years to come.”

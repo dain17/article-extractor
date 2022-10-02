@@ -1,0 +1,15 @@
+Humanity is getting a peek into the future with a new bipedal robot named "Cassie," which ran a 5K recently in 53 minutes and only took two tumbles along the way. 
+
+Agility Robotics, a company launched at Oregon State University, developed Cassie through a $1 million grant from the Defense Advanced Research Projects Agency. 
+
+Four-legged robots have a big advantage over bipedal robots when it comes to stability and maneuverability, but researchers at OSU are using a "deep reinforcement learning algorithm" to make Cassie's ostrich-like legs run smoothly. 
+
+"Deep reinforcement learning is a powerful method in AI that opens up skills like running, skipping and walking up and down stairs," Yesh Godse, an undergraduate in the lab, explained in a statement.
+
+Jonathan Hurst, a robotics professor at OSU, said that robots like Cassie will deliver packages and even help people in their homes. 
+
+"In the not very distant future, everyone will see and interact with robots in many places in their everyday lives, robots that work alongside us and improve our quality of life," Hurst said. 
+
+Cassie finished the 5k in 53 minutes and 3 seconds and fell twice along the way due to an overheated computer and trying to take a turn too sharply. 
+
+Earlier this year, OSU taught Cassie how to navigate steep terrain and walk up and down stairs as well. 

@@ -1,0 +1,23 @@
+What makes humans unique? Scientists have taken another step toward solving an enduring mystery with a new tool that may allow for more precise comparisons between the DNA of modern humans and that of our extinct ancestors.
+
+Just 7% of our genome is uniquely shared with other humans, and not shared by other early ancestors, according to a study published Friday in the journal Science Advances.
+
+"That's a pretty small percentage," said Nathan Schaefer, a University of California computational biologist and co-author of the new paper. "This kind of finding is why scientists are turning away from thinking that we humans are so vastly different from Neanderthals."
+
+The research draws upon DNA extracted from fossil remains of now-extinct Neanderthals and Denisovans dating back to around 40,000 or 50,000 years ago, as well as from 279 modern people from around the world.
+
+Scientists already know that modern people share some DNA with Neanderthals, but different people share different parts of the genome. One goal of the new research was to identify the genes that are exclusive to modern humans.
+
+It's a difficult statistical problem, and the researchers "developed a valuable tool that takes account of missing data in the ancient genomes," said John Hawks, a paleoanthropologist at the University of Wisconsin, Madison, who was not involved in the research.
+
+The researchers also found that an even smaller fraction of our genome — just 1.5% — is both unique to our species and shared among all people alive today. Those slivers of DNA may hold the most significant clues as to what truly distinguishes modern human beings.
+
+"We can tell those regions of the genome are highly enriched for genes that have to do with neural development and brain function," said University of California, Santa Cruz computational biologist Richard Green, a co-author of the paper.
+
+In 2010, Green helped produce the first draft sequence of a Neanderthal genome. Four years later, geneticist Joshua Akey co-authored a paper showing that modern humans carry some remnants of Neanderthal DNA. Since then, scientists have continued to refine techniques to extract and analyze genetic material from fossils.
+
+"Better tools allow us to ask increasingly more detailed questions about human history and evolution," said Akey, who is now at Princeton and was not involved in the new research. He praised the methodology of the new study.
+
+However, Alan Templeton, a population geneticist at Washington University in St Louis, questioned the authors' assumption that changes in the human genome are randomly distributed, rather than clustered around certain hotspots within the genome.
+
+The findings underscore "that we’re actually a very young species," said Akey. "Not that long ago, we shared the planet with other human lineages."

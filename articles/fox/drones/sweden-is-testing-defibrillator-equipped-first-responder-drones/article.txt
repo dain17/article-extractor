@@ -1,0 +1,11 @@
+While most drones aredesigned for recreational purposes, researchers at the Karolinska Institute in Sweden areadding a welcome dose of medical functionality to their list of uses. In a recently-launched pilot program, the researchers tested a drone equipped with a defibrillator to provide more immediate aid to people who experience cardiac arrest.
+
+More than six million people die annually as a result of cardiac arrest, making it the leading cause of death worldwide. Only one one in ten people survive a cardiac arrest outside of a hospital, and time is key to increasing these odds. In fact, each minute a cardiac arrest goes untreated without CPR or defibrillation, it decreases an individual's chance of survival by 10 percent. With this is mind, researchers are coming up with clever waysto decrease the time it takes to treat cardiac arrest victims.
+
+Jacob Hollenberg and his colleagues at the Karolinska Institute analyzed cardiac arrest recordsfor areasoutside of Stockholm lacking adequate nearby emergency medical resources. Analysis of this data determinedthat the median response time for the area was nearly 30 minutes, with a survival rate of zero.
+
+The team then tested the amount of time it would take for adrone carrying a defibrillator to reach these areas compared to an ambulance. To do this, they dispatched a prototypedefibrillator drone to locations in the area where cardiac arrests had recently occurred. During 18trial flights, the drone arrived at the scene about five minutes after itwas launched. It took the ambulances an average of 22 minutes to arrive at the same locations. The defibrillator hasa speaker to relay instructions for using the device to individuals at the scene allowing for faster medical treatment.
+
+If we can decrease the time in cardiac arrest from collapse to defibrillation by a few minutes, hundreds of lives would be saved each year, explainedHollenberg
+
+Hollenberg and his team are currently working with local emergency services to optimize this defibrillator drone program and hopes the system will be ready to implementwithin the next two years.

@@ -1,0 +1,27 @@
+NASA's Ingenuity Mars Helicopter has cleared its initial hurdle before the first-ever attempt at powered and controlled flight of an aircraft on another planet.
+
+On Monday, the agency reported that the helicopter had survived its first frigid night outside of the Perseverance Mars rover atop the red planet's rocky surface. 
+
+In Jezero Crater, where Perseverance landed almost two months ago, evening temperatures can drop as low as minus 130 degrees Fahrenheit.
+
+At that temperature, unprotected electrical components could have frozen or cracked and solar-powered batteries required for the planned test flights could have been damaged in the process.
+
+NASA announced last week that the first of its maximum of five historic flights -- within a time limit of 30 Martian days -- will be attempted by the four-pound helicopter no earlier than April 11.
+
+While Ingenuity initially received its charge from Perseverance, the autonomous rotorcraft will now rely on the sun to power up.
+
+Unlike Perseverance, Ingenuity carries no scienctific instruments.
+
+Perseverance, which has multiple cameras and microphones for imaging and taking audio and video, will observe Ingenuity's flight characteristics from the "Van Zyl Overlook" -- named for longtime NASA's Jet Propulsion Laboratory (JPL) mentor and colleague Jakob van Zyl, who passed away unexpectedly in August 2020.
+
+Until then, Ingenuity will gather data regarding the performance of its thermal-control and power systems in order to ensure the vehicle is able to survive each night during the length of the flight experiment period.
+
+On Wednesday, restraints that have secured its rotor blades will be released and the following days will involve more testing of the blades and the helicopter's motor.
+
+In addition, the team at JPL will have to monitor Ingenuity's onboard computers, solar array power and six lithium-ion batteries and its inertial measurement unit: an electronic device that measures a body’s orientation and angular rate.
+
+Then, the helicopter will be ready to lift off in its 33-by-33-foot "airfield."
+
+"This is the first time that Ingenuity has been on its own on the surface of Mars," MiMi Aung, Ingenuity project manager at JPL, said in the Monday release. "But we now have confirmation that we have the right insulation, the right heaters, and enough energy in its battery to survive the cold night, which is a big win for the team."
+
+"We’re excited to continue to prepare Ingenuity for its first flight test," she said.

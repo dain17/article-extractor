@@ -1,0 +1,23 @@
+U.S. wildfires have left a trail of devastation behind them in recent months. According to the National Interagency Fire Center, from Jan. 1 through Oct. 6, 2017 there were 50, 283 wildfires in the United States– up from 46,618 last year. Acres lost numbered about 3.7 million more than 2016 as well, with 8.5 million acres of forestland going up in smoke. It’s not just a problem in the US–wildfire numbers are going up worldwide, and it’s only going to get worse.
+
+“As air temperatures continue to increase over time, there will be more days during which wildfires can be ignited and burn, so there will be more fires,” Research Forester David L. Peterson told Fox News. “More extreme temperatures will allow some fires to burn more intensely and spread faster, making them more difficult to suppress.”
+
+Now, U.K.–based startup BioCarbon Engineering hopes to reverse some of the damage with drone technology. Reportedly, their drones can plant up to 100,000 trees in one day.
+
+“The current state-of-the-art is the hand–planting of saplings,” former NASA engineer and BioCarbon CEO Lauren Fletcher said. “The goal of our technology is to make the current planters more effective at what they do.”
+
+According to Fletcher, his drones can plant trees 60 times faster than hand-planting. First, a group of drones perform a 3D aerial survey of the land for topography and soil quality data. After a seeding pattern is planned, the drones are loaded with seed pods. These pods are pressurized canisters that burst upon impact and are filled with germinated seeds soaked in a nutrient–rich gel. The drones then set out over the mapped terrain, hovering up to 6 feet and firing their pods (about ten per minute) into the ground. The seedlings are then monitored for growth.
+
+“We have designed our system so that two pilots will run multiple drones simultaneously, allowing for a daily planting rate of 100,000 trees per day,” Fletcher told Fox News. “Just 60 teams will allow us to plant 1 billion trees a year, with the potential to scale to 10's of billions of trees every year.”
+
+Another advantage drones have over human planters is that they’re able to plant in difficult-to-reach areas, such as mountainsides or mangroves.
+
+BioCarbon is currently looking to have its drones replanting forests in the U.S. by April 2018 at the latest, just in time for the spring planting season. The startup hopes to replant in areas devastated by Hurricane Katrina as well as out west where forests have been decimated by bark beetle infestations and wildfires.
+
+“The next phase for us is to continue to work in larger scale and to upgrade the designs to make them more automated so that we can start distributing this technology to those people who are already planting trees,” Fletcher said. “The key to success is empowering governments and local communities with this emerging technology.”
+
+Drones, however, can pose challenges in emergency situations if their operators are not part of the emergency recovery effort. For example, drones capturing footage of the recent California wildfires were hindering firefighters’ efforts, according to officials.
+
+The technology, however, can be a great asset if it is in the right hands. Drones are being used to help ground crews monitor wildfire activity, and firefighters in New York have also used drones for fire monitoring. With technology advancing quickly, who knows what the future holds? For example, a prototype drone that will harness foam to fight fires recently went on display in Dubai.
+
+“Whether it’s seeding or firefighting or wildlife management or insect/disease scouting, the large land areas that must be managed means that drones will play an ever greater role in such forestry operations,” Dr. Daniel Schmoldt, an expert on high-tech applications in natural resources, told Fox News. “As autonomy-enabling technologies advance, flight times increase, and government regulations fully enable drone deployment, especially smart and autonomous ones, drones will be a game-changer for forest and environmental management.”

@@ -1,0 +1,23 @@
+NASA's Perseverance Mars rover is using its robotic arm to search for signs of ancient microbial life. 
+
+The rover, which landed in Jezero Crater in February, had been functioning largely as a communications base between the autonomous Ingenuity Mars helicopter and the agency's Jet Propulsion Laboratory (JPL) over the last couple of weeks, helping to document the rotorcraft's historic flights. 
+
+However, NASA scientists have continued to work in an effort to better understand the red planet's environmental history, aiming to create a timeline surrounding when the crater's lake formed and dried billions of years ago.
+
+In order to do so, the arm's WATSON (Wide Angle Topographic Sensor for Operations and Engineering) camera has captured detailed shots of Martian rocks and the Mastcam-Z cameras have reportedly also studied the rocky terrain.
+
+In March, NASA released audio recordings in which the SuperCam instrument's laser can be heard impacting or "zapping" rock targets to detect their chemistry.
+
+According to a Tuesday release, one of the questions researchers want to answer is whether the Mars rocks are sedimentary or have been formed by volcanic activity. 
+
+While igneous rocks are reportedly "more precise geological clocks" that will help to create an accurate timeline, sedimentary rocks are better at preserving biosignatures.
+
+Though harsh winds, sand and dust have complicated the process, NASA said the rover's arm can help to better understand rocks' histories by using an abrader to wear away a rock's surface and reveal its internal composition.
+
+Next, the team can gather more chemical and mineralogical data using instruments on the arm like the SHERLOC (Scanning Habitable Environments with Raman & Luminescence for Organics and Chemicals) spectrometer's ultraviolet laser and PIXL's (Planetary Instrument for X-ray Lithochemistry) fluorescence spectrometer and high-resolution imager.
+
+"When you look inside a rock, that’s where you see the story," Perseverance’s Project Scientist Ken Farley said a statement.
+
+As the scientists examine more rocks and sediment, Perseverance will collect and cache samples for further study.
+
+The best samples collected will be stored in special tubes and deposited on Mars before they can return to Earth during subsequent NASA and ESA (European Space Agency) missions.

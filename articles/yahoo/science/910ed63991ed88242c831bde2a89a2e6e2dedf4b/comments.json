@@ -1,0 +1,53 @@
+[
+    {
+        "user_name": "xcd*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/EmQ3E2GAaXT7mdVLqPafSA--/comments",
+        "time": null,
+        "context": "これ以上寿命を伸ばさなくて良い\nいや、むしろ短く着た方が良い",
+        "good": 1,
+        "bad": 28,
+        "replies": []
+    },
+    {
+        "user_name": "匿名希望",
+        "user_url": "https://news.yahoo.co.jp/profile/id/PwGf35CBaHKL4w1rGCHiOUi1VQ--/comments",
+        "time": null,
+        "context": "もう、ボケてもいいかな？",
+        "good": 24,
+        "bad": 9,
+        "replies": [
+            {
+                "user_name": "匿名希望",
+                "user_url": "https://news.yahoo.co.jp/profile/id/PwGf35CBaHKL4w1rGCHiOUi1VQ--/comments",
+                "time": null,
+                "context": "ありがとう",
+                "good": 1,
+                "bad": 0
+            },
+            {
+                "user_name": "fbt*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/xjoTZP6eaGRiY1VdldfqZg3Ehw--/comments",
+                "time": null,
+                "context": "まだ早いよー。\n\n私も物忘れが激しいのでもうそろそろ怪しいけれど。",
+                "good": 0,
+                "bad": 0
+            },
+            {
+                "user_name": "aen*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/jkBIT2WZb36bH2dLpFJmKPFj1g--/comments",
+                "time": null,
+                "context": "まだまだ。\nもうちょい待と。",
+                "good": 0,
+                "bad": 0
+            },
+            {
+                "user_name": "jud*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/thrDdw6Sf3TquSrB4rSfwis-/comments",
+                "time": null,
+                "context": "多分もうボケてますよそれ",
+                "good": 2,
+                "bad": 1
+            }
+        ]
+    }
+]

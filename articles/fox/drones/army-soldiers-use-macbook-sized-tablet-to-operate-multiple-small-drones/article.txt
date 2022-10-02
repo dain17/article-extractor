@@ -1,0 +1,43 @@
+The Army is refining new small drone combat tactics to accommodate emerging technologies such as AI-enabled command and control, higher resolution sensors, faster computer processing, multi-drone control “tablets” and streamlined multi-drone interoperability.
+
+An Army-developed “Macbook”-size computer tablet enabling ground soldiers to control multiple drones on a single system, for instance, is nearing formal production -- inspiring a tactical shift toward new drone attack strategies.
+
+Common technical standards, established protocol, smaller form factors and fast-improving processing speeds are enabling the Army to engineer this new hand-held device that can manage flight path, operations and sensor payloads for multiple drones on one system.
+
+The effort is aligned with the Army’s now-in-effect Small UAS Roadmap, which calls for increased interoperability, autonomy and command and control to expand the range and effectiveness of small attack drones.
+
+The introduction of a common operational infrastructure backbone for a range of different sensors introduces a sphere of new tactics, techniques and procedures (TTPs) for the Army, as soldiers can readily switch from one sensor view to another in a fast-moving combat environment.
+
+The Army owns the technical blueprint for the system, called a technical data package, and has been working with industry firms such as MAG Aerospace to engineer the new controller. Service plans call for the controller to reach formal production within the next year. MAG engineers have been supporting the Army by working on prototypes of the new controller and providing “initial qualification training” and logistical support.
+
+The new controller can operate a range of small drones to include the one-pound Wasp Micro Air Vehicle, four-pound Raven drone and 13-pound Puma, among others.
+
+MAG developers explained that the common controller could, among other things, perform squad-level reconnaissance in high-risk areas.
+
+“We could put an asset above a building to do a quick check, before fixed wing or multi-rotorcraft attack a target objective,” Pat Wells, MAG Program Manager for Small UAS, told Warrior Maven in an interview.
+
+The new system is engineered to enable faster exchange between sensor applications, and therefore generate improved sensor-to-shooter time for nearby ground units. There may also be combat circumstances wherein drone operators need to quickly shift from an Electro-Optical Sensor to Infrared thermal imaging should there be a need to track a heat signature. Infrared imaging can be of particular value in areas where there may be obscurants or weather conditions challenging standard electro-optical detection.
+
+Drawing upon faster processing speeds and improved levels of autonomy, a technically enhanced common controller could help drones share information with one another, all while networking with soldiers on the ground. For instance, if one small drone is tracking the course of an enemy armored vehicle, which then disappears into a wooded area on the other side of a ridge, a second nearby drone might be cued to use infrared sensors to track the heat signature coming from the engine of the otherwise undetectable vehicle operating beneath the trees.
+
+A 13-pound hand-launched Puma, for example, can operate its gimbaled camera up to ranges of 500-feet in the air; should an enemy target or object of interest travel over a ridge at an altitude higher than 500-feet, a ground-based operator might wish to quickly switch from one small drone to another in better position to track the target - a tactic which could be expedited by a new common controller enabling fast exchange between drones.
+
+“This controller is intended for small UAS systems. The Army has a roadmap for small UAS. Their intent is that whatever system they acquire will likely be operated by this common controller,” Wells added.
+
+The multi-faceted effort is consistent with the services’ ongoing Tactical Unmanned Aircraft Systems research and development initiative aimed at quickly harvesting and integrating new small drone technologies.
+
+Phase 1 of the effort, according to an Army statement, is focused on five main areas to include “take-off and landing, performance trade-offs, autonomy, all weather sensors and drone teaming.” Phase 2 will follow with extensive trade studies and analysis, according to an Army report.
+
+More seamless integration when it comes to operating small drones is being accelerated by major advances in autonomy, computer processing and applications of AI. A 2017 essay in the “United States Army Aviation Digest” points out that small drones, empowered by increased automation and AI, could function as function as defenses to incoming missiles. In this scenario, having an ability to transition from one drone, and drone payload, to another could greatly improve a commander’s decision cycle. Certainly when it comes to small drones, AI enhanced processing could easily function defensively by identifying the location and nature of incoming enemy attacks - and possibly cue interceptor systems.
+
+“Without an evolved operating concept for unmanned aircraft systems (UAS) that includes the role of artificial intelligence (AI) and autonomous weapon systems, the Army not only risks stumbling its way into its most capable future weapon system, but also potentially the future’s most powerful technology,” the essay, written by Col. Robert Ault, states.
+
+As part of its evolving long-range drone plan, the Army is also making progress with a new system giving in-flight helicopter crews an ability to view multiple drone feeds simultaneously, Army officials told Warrior.
+
+The move to engineer common standards and interfaces, such as those which enable the new controller, is also informing a new Army system called Supervisory Controller for Optimal Role Allocation for Cueing of Human Operators, or SCORCH. Army officials say SCORCH enables a single operator to control up to three drones at the same time.
+
+The most recent operational manned-unmanned teaming technology, called Level 4 LOI (Level of Interoperability 4), has been used with great success in Afghanistan by the 1-229th Attack Reconnaissance Battalion. Level 4 LOI MUM-T (manned-unmanned teaming) enables AH-64E Apaches and OH-58 Kiowas to control the flight path and sensor payload of Army Shadow and Gray Eagle drones.
+
+MUM-T uses Tactical Common Data Link Assembly for the AH-64E, providing fully integrated ranges exceeding 50 km.
+
+An Army official working on drone technological development told Warrior “MUM-T Operations are made possible by the introduction of a standardized interoperability protocol supporting video/data transmissions between ground-manned-unmanned platforms.”

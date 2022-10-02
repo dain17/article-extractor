@@ -1,0 +1,21 @@
+The James Webb Space Telescope hit another milestone this week; NASA announced that the $10 billion observatory's 18 hexagonal mirror segments and its secondary mirror have been fully deployed. 
+
+"Just in from the @NASAWebb team: All 18 primary mirror segments and the secondary mirror are now fully deployed!" NASA Administrator Bill Nelson wrote in a Wednesday tweet. "Congratulations to the teams that have been working tirelessly since launch to get to this point. Soon, Webb will arrive at its new home, L2!"
+
+The process began last week, with the team moving the segments individually from their launch positions. 
+
+In a blog update, Erin Wolf – the Webb program manager at Ball Aerospace – wrote that the motors had made over a million resolutions this week, controlled through 20 cryogenic electronics boxes on the telescope. 
+
+"The mirror deployment team incrementally moved all 132 actuators located on the back of the primary mirror segments and secondary mirror," she said. "The primary mirror segments were driven 12.5 millimeters away from the telescope structure. Using six motors that deploy each segment approximately half the length of a paper clip, these actuators clear the mirrors from their launch restraints and give each segment enough space to later be adjusted in other directions to the optical starting position for the upcoming wavefront alignment process." 
+
+The 18 radius of curvature (ROC) actuators were also moved from their launch position.
+
+"Even against beryllium’s strength, which is six times greater than that of steel, these ROC actuators individually shape the curvature of each mirror segment to set the initial parabolic shape of the primary mirror," she noted. 
+
+Next, Wolf said the team would be moving mirrors in the micron and nanometer ranges to reach the final optical positions for an aligned telescope. 
+
+The process of alignment will take approximately three months.
+
+The telescope, which has been in space for nearly a full month and is a joint venture with the European Space Agency and the Canadian Space Agency, also has to complete a trajectory burn that will send the observatory into orbit around a spot called the Earth-sun Lagrange point 2, or L2.
+
+The agency's timeline has this set for Jan. 23. 

@@ -1,0 +1,23 @@
+National Aeronautics and Space Administration's (NASA) Hubble Space Telescope is in safe mode yet again.
+
+A release from the agency explained it was continuing to look into why the iconic space-based observatory, named in honor of the trailblazing astronomer Edwin Hubble, recently went into the configuration and suspended science operations. 
+
+At 1:46 a.m. EDT on Oct. 23, the telescope's science instruments issued error codes that indicated the loss of a specific synchronization message. 
+
+The message provides timing information the instruments use to accurately respond to commands and data requests. 
+
+The mission team reset the instruments and resumed operations the following morning. 
+
+However, at 2:38 a.m. EDT two days later, the science instruments again issued error codes indicating multiple losses of synchronization messages. 
+
+"As a result, the science instruments autonomously entered safe mode states as programmed," NASA wrote. 
+
+The instruments are healthy and will remain in safe mode as the mission team's investigation into the matter continues. The rest of the spacecraft is operating as per usual.
+
+"Mission team members are evaluating spacecraft data and system diagrams to better understand the synchronization issue and how to address it. They also are developing and testing procedures to collect additional data from the spacecraft. These activities are expected to take at least one week," NASA added.
+
+The Hubble Space Telescope was launched and deployed by the space shuttle Discovery in 1990.
+
+Over the course of its lifetime, it has made more than 1.4 million observations and more than 18,000 peer-reviewed science papers have been published on its discoveries.
+
+The telescope was previously in safe mode in March.

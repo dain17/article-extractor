@@ -1,0 +1,13 @@
+「Windows 10 バージョン 22H2」がRelease Previewチャネルで公開された
+Microsoftは7月28日（現地時間）、2022年後半に一般提供が予定されている「Windows 10 22H2」をWindows InsiderのRelease Previewチャネルで公開した。一般提供に先立ち、「Windows Insider Program for Business」の参加者が組織内のデバイスで検証できるようにすることを目的としている。
+
+【写真】新しいプレビューを告知する公式ページ
+
+　本バージョンはWindows 10 Build 19045.1865 (KB5015878)となり、「Windows Insider Program for Business」または「Windows Update for Business」のポリシーでRelease Previewチャネルに設定された商用デバイスでは、オプションアップデートとしてWindows 10 22H2が自動的に提供される。
+
+　ここで言う商用デバイスとは、Windows 10 Homeが動作しておらず、Microsoft Endpoint Managerやその他の管理ソリューションを通じて管理されているデバイス、またはボリュームライセンスキー／コマーシャルIDを持っているか、ドメインに参加しているデバイスを指す。
+
+　Windows 10 22H2の具体的な変更内容などのリストは公開されておらず、Windows情報に詳しい海外テックサイトWindows Latestは、マイナーアップデートであり、大きな更新を伴わないイネーブルメントパッケージで展開されると予想している。
+
+　なお、商用デバイス以外にも、Windows Updateの「シーカー」エクスペリエンスを通じて、Release Previewチャネルにいる一般のWindows Insiderにも提供される。こちらはWindows Updateを手動でチェックし、リンクを押した場合にアップグレードされる。
+ITmedia PC USER

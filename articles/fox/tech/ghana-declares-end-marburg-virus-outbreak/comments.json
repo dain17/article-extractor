@@ -1,0 +1,52 @@
+[
+    {
+        "user_name": "smokeg",
+        "time": "20 September, 2022",
+        "context": "If you look closely, you will see Nancy and Chuck kneeling in that picture.",
+        "good": "1",
+        "bad": "0",
+        "replies": []
+    },
+    {
+        "user_name": "RobertdB",
+        "time": "20 September, 2022",
+        "context": "Ghanaians are great people, many friends there/from-there.  I remember when the alphabet crowd tried to go after them (boycott tourism) because they weren't going along with their agenda.  Their president simply said, \"we don't need them.\"",
+        "good": "0",
+        "bad": "0",
+        "replies": []
+    },
+    {
+        "user_name": "bochanghan",
+        "time": "19 September, 2022",
+        "context": "Better get China and Fauci away from it.",
+        "good": "3",
+        "bad": "0",
+        "replies": [
+            {
+                "user_name": "mmmmmmbad",
+                "time": "19 September, 2022",
+                "context": "They were \"testing\" with Ghana.....Didn't meet their \"Death Numbers\", so they'll move on to the next one.... :-/",
+                "good": "0",
+                "bad": "0",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "user_name": "my10screennames",
+        "time": "20 September, 2022",
+        "context": "Biden declared the pandemic over even though he used emergency virus powers to try to wipe out $500 billion in student debt, last month.",
+        "good": "2",
+        "bad": "0",
+        "replies": [
+            {
+                "user_name": "bigroowa",
+                "time": "20 September, 2022",
+                "context": "That's what con men do.",
+                "good": "0",
+                "bad": "0",
+                "replies": []
+            }
+        ]
+    }
+]

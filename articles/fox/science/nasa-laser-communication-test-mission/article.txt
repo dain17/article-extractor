@@ -1,0 +1,41 @@
+NASA's next laser communications mission will launch early Sunday morning. 
+
+The Laser Communications Relay Demonstration (LCRD) will lift off on a United Launch Alliance Atlas V rocket during a two-hour window scheduled from 4:04 to 6:04 a.m. EST from Cape Canaveral Space Force Station in Florida. 
+
+LCRD, a hosted payload on STPSat-6 spacecraft led by NASA's Maryland-based Goddard Space Flight Center, is part of the U.S. Space Force Space Systems Command’s Space Test Program 3 (STP-3) mission.
+
+The mission, NASA says, will continue the agency's exploration of laser communications to support future missions to the moon and throughout the solar system and is a "giant step towards making operational laser, or optical, communications a reality."
+
+NASA has used radio frequency systems to communicate with astronauts and spacecraft since the dawn of space exploration. 
+
+As space missions generate and collect more data, laser communications offer data rates higher than traditional radio frequency systems, allowing more data per transmission and bandwidth increases of 10 to 100 times more than radio frequency systems. 
+
+"Using infrared lasers, LCRD will send data to Earth from geosynchronous orbit at 1.2 gigabits-per-second (Gbps). At this speed and distance, you could download a movie in under a minute," NASA explained in a Nov. 15 post. 
+
+Additionally, optical communications using infrared lasers provides reduced size, weight and power requirements, meaning a less expensive launch and not as much drain on the spacecraft's batteries.
+
+With the experimental mission operating for at least two years, once in orbit about 22,000 miles above the Earth's surface, LCRD will begin by "talking" with optical ground stations in California and Hawaii to test the invisible, near-infrared lasers. 
+
+The sites were chosen for their clear weather conditions and remote, high-altitude locations.
+
+A team of engineers in Las Cruces, N.M. will start the activation process by turning the payload on.
+
+The payload has two optical modules, or telescopes, for receiving and transmitting laser signals.
+
+Until the first LCRD user is launched – the Integrated LCRD Low-Earth Orbit User Modem and Amplifier Terminal (ILLUMA-T) payload, hosted on the International Space Station (ISS) – test data will be sent up through radio frequency signals from the mission operations center. The test data will include spacecraft health data, tracking, telemetry, and command data and sample user data.
+
+Data will beam to and from the satellite in order for engineers to study and enhance the technology’s performance for an operational mission. 
+
+LCRD will also test laser functionality with experiments from NASA, other government agencies, academia and commercial companies, including a study of atmospheric disturbances on laser signals.
+
+"Missions in space will send their data to LCRD, which will then relay the data down to designated ground stations on Earth," NASA said. 
+
+Later in the mission, LCRD will receive high-resolution science data from the ILLUMA-T payload on the ISS that will be transmitted to a ground station.
+
+Other missions in development will demonstrate and test additional laser communications capabilities, including the Terabyte Infrared Delivery (TBIRD) CubeSat payload, the Orion Artemis II Optical Communications System (O2O) terminal and the Psyche mission's Deep Space Optical Communication (DSOC) payload.
+
+"All of these missions will help the aerospace community standardize laser communications for implementation on future missions. With lasers lighting the way, NASA can glean more information from space than ever before," NASA said. 
+
+LCRD is funded through NASA’s Technology Demonstration Missions program.
+
+Live coverage of the launch is scheduled to air on NASA Television, the agency's website, and the NASA App beginning at 3:30 a.m. EST.

@@ -1,0 +1,29 @@
+[
+    {
+        "user_name": "r",
+        "user_url": "https://news.yahoo.co.jp/profile/id/oQsb7nyReXMSR274WVr2hac-/comments",
+        "time": null,
+        "context": "そもそも、「予測」ではなく、「発生する可能性が否定できない」といった趣旨に、位置づけを下げればいいのでは？",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "air*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/pMB6M1iZY2KT.TivLX72guLfxUQ-/comments",
+        "time": null,
+        "context": "空振りしても、やはり警報は必要です。\n間違った警報出されても、そういうこともあるだろうし、何より命に替えることはできません。",
+        "good": 7,
+        "bad": 8,
+        "replies": []
+    },
+    {
+        "user_name": "lah*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/Y84ZQ0OUa3jt.s9k1lWRKIzOXQ--/comments",
+        "time": null,
+        "context": "線状降水帯より顕著な大雨予報にしといたらあんまり文句言われないだろうに",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    }
+]

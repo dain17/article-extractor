@@ -1,0 +1,831 @@
+[
+    {
+        "user_name": "sumokurt1",
+        "time": "31 August, 2022",
+        "context": "Looks like Van Gogh was onto something",
+        "good": "9",
+        "bad": "0",
+        "replies": []
+    },
+    {
+        "user_name": "tedman11954",
+        "time": "1 September, 2022",
+        "context": "Yes is really cool. Can't wait for more!",
+        "good": "10",
+        "bad": "0",
+        "replies": [
+            {
+                "user_name": "docholliday085",
+                "time": "2 September, 2022",
+                "context": "32000000 light-years = 1.881 × 10^20 miles \nThe nearest large galaxy to us, Andromeda, is 2.5 million light-years away. So, we see Andromeda as it was 2.5 million years in the past!\n🤔🤯",
+                "good": "3",
+                "bad": "0",
+                "replies": [
+                    {
+                        "user_name": "beadgBass",
+                        "time": "2 September, 2022",
+                        "context": "If some intelligent being somewhere in Andromeda were looking at Earth right now, they'd see some of the early stages of human evolution.",
+                        "good": "0",
+                        "bad": "0",
+                        "replies": []
+                    },
+                    {
+                        "user_name": "foxisgreatamericannews",
+                        "time": "3 September, 2022",
+                        "context": "Almost how we view Biden or Pelosi?",
+                        "good": "0",
+                        "bad": "0",
+                        "replies": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user_name": "sender9999",
+        "time": "1 September, 2022",
+        "context": "Can NASA turn that telescope on the WH and prove once and for all there is no intelligent life?",
+        "good": "17",
+        "bad": "2",
+        "replies": [
+            {
+                "user_name": "DeplorableUltraMAGA",
+                "time": "2 September, 2022",
+                "context": "Don't have to.  I can answer that question for you.... No",
+                "good": "3",
+                "bad": "0",
+                "replies": []
+            },
+            {
+                "user_name": "gelli",
+                "time": "2 September, 2022",
+                "context": "Talk about a one track  mind!",
+                "good": "0",
+                "bad": "0",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "user_name": "rubiks6",
+        "time": "1 September, 2022",
+        "context": "Well, this ought to bring peace to all Mankind. Or maybe not.",
+        "good": "0",
+        "bad": "0",
+        "replies": []
+    },
+    {
+        "user_name": "standupandlive",
+        "time": "1 September, 2022",
+        "context": "They call it the Grand Design but believe in evolution.  Hilarious.",
+        "good": "5",
+        "bad": "4",
+        "replies": [
+            {
+                "user_name": "sciencerocks",
+                "time": "1 September, 2022",
+                "context": "Evolution is not a \"belief\". It is a scientific reality. Metaphorical \"designs\" can come from nature.\nIn my Christian view, evolution is one of the most beautiful manifestations of God.",
+                "good": "11",
+                "bad": "4",
+                "replies": [
+                    {
+                        "user_name": "nodakdave",
+                        "time": "2 September, 2022",
+                        "context": "So you have no problem of millions of years of death preceding Man's sin, totally rending Christ's sacrifice utterly worthless?  Not to mention the total lack of any evolutionary transitions in the fossil record, and the irreducible complexity of life that makes evolution utterly absurd?",
+                        "good": "1",
+                        "bad": "4",
+                        "replies": [
+                            {
+                                "user_name": "sciencerocks",
+                                "time": "2 September, 2022",
+                                "context": "Your first sentence is quite strange, as Christ's sacrifice would not be \"utterly worthless\" be it millions of years on a real timeline or 4000 years on your timeline.\nAll fossils in the fossil record are representative of transitional species, though most of them transitioned to terminal extinction. I've had the privilege of leading excavations of such fossils, and named a transitional species of cercopithecid.\nThe \"argument from design\"  and \"irreducible complexity\" were abandoned by science in the 1830s due to their utter meaninglessness. Try to keep up.",
+                                "good": "3",
+                                "bad": "0",
+                                "replies": [
+                                    {
+                                        "user_name": "nodakdave",
+                                        "time": "2 September, 2022",
+                                        "context": "Naming a bone fragment a new transitional species is a great way of gaining fame and funding, does not make it in any way true.  Are you seriously admitting to not knowing what irreducible complexity means?",
+                                        "good": "0",
+                                        "bad": "0",
+                                        "replies": [
+                                            {
+                                                "user_name": "sciencerocks",
+                                                "time": "2 September, 2022",
+                                                "context": "Naming a new species got me neither fame nor funding, and it was based upon multiple skulls plus a few postcranial bones. All I got was the satisfaction of making another scientific contribution.\nI know exactly what irreducible complexity is and have written about it and publicly debated about it many times.",
+                                                "good": "1",
+                                                "bad": "0",
+                                                "replies": [
+                                                    {
+                                                        "user_name": "nodakdave",
+                                                        "time": "2 September, 2022",
+                                                        "context": "Okay, let me make sure I understand, your referral to transitions between species is on a micro-evolutionary scale, like one species of ape to another, not transitions like reptiles to mammals on a macro-evolutionary scale.  And is because of God's designed information that makes life adaptable to different conditions rendering irreducible complexity irrelevant.  Do I have that right?",
+                                                        "good": "0",
+                                                        "bad": "2",
+                                                        "replies": [
+                                                            {
+                                                                "user_name": "sciencerocks",
+                                                                "time": "2 September, 2022",
+                                                                "context": "First let's get our definitions straight. Microevolution is simply the change of allele frequencies of a population through time. You creationists accept that. Macroevolution, in biology and palaeontology is speciation ... the origin of a new species. Something like reptiles to mammals, for which we have a very good fossil record, is what used to be called \"megaevolution\" or \"quantum evolution\" in the old literature, but we do not really use those terms any more for the origins of higher taxa.\nAfter reading your second sentence five or six times, I have no idea what you are trying to get at. Let me just say that irreducible complexity can evolve as biological systems in individuals and populations become more complex and interdependent.",
+                                                                "good": "2",
+                                                                "bad": "0",
+                                                                "replies": [
+                                                                    {
+                                                                        "user_name": "nodakdave",
+                                                                        "time": "2 September, 2022",
+                                                                        "context": "Okay, so in your terms, can you point me to one example of a fossil midway between reptile and mammal?\n\nThought you were claiming to be Christian, and thus a believer in God as creator?  Because dozens, if not hundreds or thousands of positive genetic mutations must occur simultaneously for the mega-evolutionary advancements to survive to reproduce?",
+                                                                        "good": "0",
+                                                                        "bad": "1",
+                                                                        "replies": [
+                                                                            {
+                                                                                "user_name": "sciencerocks",
+                                                                                "time": "3 September, 2022",
+                                                                                "context": "My specialty is human evolution and its fossil record, but having worked with South African palaeontologists, I know of, and have seen original fossils of a host of mammal-like reptiles of the Palaeozoic. These include pelycosarus, cynodonts, and others. They differentiate from other reptiles and dinosaurs by their types of homeothermy, and the first presence of canine teeth (i.e. the beginning of heterodonty, rather than all teeth being the same in reptiles.) \n\nI don't \"claim\" to be Christian, I AM Christian.\n\nEvolutionary changes usually happen incrementally. So, no, positive genetic mutations (or new gene combinations) do not need to occur simultaneously. That is why the fossil record is rich with transitional forms, such as the mammal-like reptiles and the early primates, coming from rodent-like creatures, through to us ... step by step.",
+                                                                                "good": "2",
+                                                                                "bad": "0",
+                                                                                "replies": [
+                                                                                    {
+                                                                                        "user_name": "nodakdave",
+                                                                                        "time": "3 September, 2022",
+                                                                                        "context": "Fascinating how they can tell a lizard has the ability to maintain body temp from just its fossil.  So if evolutionary changes occur incrementally, what's the best theory for the first multi-cellular creatures development:  did it develop the blood needed to nourish the inner cells first, or the heart needed to pump it around, or the vessels to care it?  Unless all three things are there none of them have relevance for survival that I can see. \n\nRegarding your faith, it really doesn't bother you taking Man's word over God's as to the origin of life?  Or that the death Man brought into the world had been occurring for millions of years before Man even evolved to Sin?  And that Jesus, who was supposedly spotless, blatantly lied when he referred to several Genesis events?",
+                                                                                        "good": "0",
+                                                                                        "bad": "1",
+                                                                                        "replies": [
+                                                                                            {
+                                                                                                "user_name": "sciencerocks",
+                                                                                                "time": "3 September, 2022",
+                                                                                                "context": "It is fascinating indeed how using basic principles of body structure and bone cell biology (histology) can lead to a greater understanding of these mammal-like reptiles.\n\nI honestly feel sorry for people who hold to their own misinterpretation of an otherwise meaningful parable. God's word is not just breathed into the Holy Bible, but is etched in stone in sedimentary layers and fossil sequences. I've been privileged to have been called by God to read and reveal parts of the magnificent story of how God got us here. I thank God in Christs name for that every single day.",
+                                                                                                "good": "1",
+                                                                                                "bad": "0",
+                                                                                                "replies": []
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "user_name": "Quanah1800",
+                        "time": "3 September, 2022",
+                        "context": "Evolution, creation, and all other explanations of origin cannot be proved or disproved in a scientific sense, and therefore it is not correct to say that evolution is a scientific reality.  In a broad sense, it is true that any historical event or sequence of events cannot be proved.  Simply put, you cannot prove history.  Even though a person may prefer a particular explanation of origin, it is best to be intellectually honest that his or her preferred theory of such is not provable.",
+                        "good": "0",
+                        "bad": "1",
+                        "replies": [
+                            {
+                                "user_name": "sciencerocks",
+                                "time": "3 September, 2022",
+                                "context": "Science, via the Popperian hypothetico-deductive method, never proves anything. It works by disproving or supporting hypotheses. Well-tested  and well supported hypotheses become theories, like the theory of gravity and the theory of evolution.",
+                                "good": "2",
+                                "bad": "0",
+                                "replies": [
+                                    {
+                                        "user_name": "Quanah1800",
+                                        "time": "3 September, 2022",
+                                        "context": "You're kinda wandering into the Popperian deep woods there.  I'm thinking of proofs in the sense of a repeatable event.  Like if you put a couple of substances into a test tube and they react in a specific repeatable way.  Or a closed form mathematical proof.  I think you are speaking more of a preponderance of evidence type of situation, which is never an absolute proof.  That's what typically happens in legal trials.",
+                                        "good": "0",
+                                        "bad": "0",
+                                        "replies": [
+                                            {
+                                                "user_name": "sciencerocks",
+                                                "time": "3 September, 2022",
+                                                "context": "It takes two lectures of my intro course to get freshman students to understand the scientific method as it applies to the fossil record, so I understand why it is difficult for a layman to understand. In science, if substances react in a repeatable way, that is evidence, not proof.",
+                                                "good": "0",
+                                                "bad": "0",
+                                                "replies": [
+                                                    {
+                                                        "user_name": "Quanah1800",
+                                                        "time": "4 September, 2022",
+                                                        "context": "Let's skip ahead here.  Is evolution important to you?  If so, why?",
+                                                        "good": "0",
+                                                        "bad": "0",
+                                                        "replies": [
+                                                            {
+                                                                "user_name": "sciencerocks",
+                                                                "time": "4 September, 2022",
+                                                                "context": "The important question isn't why evolution is important to me. Evolutionary science is my chosen career path, so obviously it is near and dear to my heart. What you should be is asking is why is it important to everybody, and here I can only give a thumbnail sketch of the vast number of reasons.\nEvolution is the cornerstone of all of modern biology. It is the lens through which we understand everything from anatomy and physiology of an organism to entire ecosystems. Its relevance is key modern medicine, in terms of how pathogens and their vectors are continuously evolving as well as for understanding the origins of many genetically-based conditions that arise during an individual's lifetime and finding the best ways to treat them. Evolution is the key to understanding fragile ecosystems and how we can help manage them as more and more species go extinct in the wake of our growing populations, as well as the key to understand why we need those ecosystems for a healthy planet to support human needs.\nFrom a religious rather than practical perspective such as those above, I find that an evolutionary lens broadens my appreciation of the wonders of God's universe. God didn't just magically pull a rabbit out of a had as a cheap trick, but used evolution as a wondrous and magnificent means of creation for each and every creature and plant. To employ an overused word, it is truly awesome!",
+                                                                "good": "1",
+                                                                "bad": "0",
+                                                                "replies": [
+                                                                    {
+                                                                        "user_name": "ArneSaknussem",
+                                                                        "time": "4 September, 2022",
+                                                                        "context": "Well stated for such a broad topic.  I would add in the importance of plant and animal evolution for agriculture, and how we can achieve natural pest resistance without so many damaging chemicals.",
+                                                                        "good": "1",
+                                                                        "bad": "0",
+                                                                        "replies": [
+                                                                            {
+                                                                                "user_name": "sciencerocks",
+                                                                                "time": "4 September, 2022",
+                                                                                "context": "Good point. There is so much more I could have added.\nNumber 1, given that I'm an anthropologist, should have been explaining human variability and its evolution within our subspecies or race. More people need to know that we are all more alike than different.",
+                                                                                "good": "1",
+                                                                                "bad": "0",
+                                                                                "replies": [
+                                                                                    {
+                                                                                        "user_name": "Quanah1800",
+                                                                                        "time": "4 September, 2022",
+                                                                                        "context": "I don't share your belief in evolution.  There is a question of origins that would not be answered even if evolution theory was correct.  It is where did the Universe come from.  Even if that is answered, there is the question of where did matter itself, the elements, come from.",
+                                                                                        "good": "0",
+                                                                                        "bad": "0",
+                                                                                        "replies": [
+                                                                                            {
+                                                                                                "user_name": "sciencerocks",
+                                                                                                "time": "5 September, 2022",
+                                                                                                "context": "I don't \"believe\" in evolution either. Please go back to my original point that started this thread, and go back through all of the times I have answered you, including why biological evolution is important. I note that you had no answer for that, or even a cogent question.\nThe origin of the Universe is a completely different topic from biological evolution. I am not a physicist, so I leave that question to my older son who is a physicist.",
+                                                                                                "good": "0",
+                                                                                                "bad": "0",
+                                                                                                "replies": [
+                                                                                                    {
+                                                                                                        "user_name": "Quanah1800",
+                                                                                                        "time": "5 September, 2022",
+                                                                                                        "context": "I don't get your distinctions about believing.  For example, if I clip my ammeter around a wire and it reads 2.5 amps, then I believe such a current is flowing in the wire, even though I cannot see or feel the electrons.  Also, I have been taught in many classes that there are such things as electrons, and I believe it.  I can design circuits based on such beliefs, and they appear to work as designed.  The issue of origin of life comes down to one point:  There was matter, the elements, and no life.  Then life arose.  I am really only focusing on that point in time.  I apologize I can't respond to all concerns here, it's space limited.",
+                                                                                                        "good": "0",
+                                                                                                        "bad": "0",
+                                                                                                        "replies": [
+                                                                                                            {
+                                                                                                                "user_name": "sciencerocks",
+                                                                                                                "time": "5 September, 2022",
+                                                                                                                "context": "It is really quite simple.\nI believe in God. That is a matter of faith, as I have no evidence, at least not in the scientific sense.\nI accept evolution as the one and only current scientific explanation for the diversity of life. It is not a belief or a matter of faith, because we have literally mountains of evidence from multiple scientific disciplines, and, if some evidence came along to disprove biological evolution, I'd have to accept that instead.\nThe origin of life is a separate question from that of evolution. It is more a question of biochemistry. We have many principles of how it could have happened, and it probably happened more than once. But it is a very vexing problem because we do not know when, where, or under what conditions it started.",
+                                                                                                                "good": "1",
+                                                                                                                "bad": "0",
+                                                                                                                "replies": [
+                                                                                                                    {
+                                                                                                                        "user_name": "ArneSaknussem",
+                                                                                                                        "time": "5 September, 2022",
+                                                                                                                        "context": "It is difficult for a non-scientist to compartmentalize things the way we do, and have to do, to conduct objective science.",
+                                                                                                                        "good": "1",
+                                                                                                                        "bad": "0",
+                                                                                                                        "replies": []
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                        "user_name": "Quanah1800",
+                                                                                                                        "time": "9 September, 2022",
+                                                                                                                        "context": "So you are saying evolution explains diversity of life, but not the origin of life.  ",
+                                                                                                                        "good": "0",
+                                                                                                                        "bad": "0",
+                                                                                                                        "replies": [
+                                                                                                                            {
+                                                                                                                                "user_name": "sciencerocks",
+                                                                                                                                "time": "9 September, 2022",
+                                                                                                                                "context": "That is correct, but it is not just me saying that. In the scientific world life origins and life's current diversity are two separate questions.",
+                                                                                                                                "good": "0",
+                                                                                                                                "bad": "0",
+                                                                                                                                "replies": []
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "user_name": "gelli",
+                "time": "2 September, 2022",
+                "context": "So how  are you with accepting that the  light  from this  galaxy has been travelling  towards the  Earth   for the past 32 million  years ? Many who have a problem with evolution also have a problem with an old  universe?",
+                "good": "0",
+                "bad": "1",
+                "replies": [
+                    {
+                        "user_name": "nodakdave",
+                        "time": "2 September, 2022",
+                        "context": "Actually there's several theories that explain that light-time paradox.  And old Earther's don't even address the major problems facing their big-bang models.",
+                        "good": "1",
+                        "bad": "3",
+                        "replies": [
+                            {
+                                "user_name": "gelli",
+                                "time": "2 September, 2022",
+                                "context": "So   you  do have a problem with this  galaxy being  32million   light years away? Do you think  it is  less  than 6000 light years away?",
+                                "good": "2",
+                                "bad": "0",
+                                "replies": [
+                                    {
+                                        "user_name": "nodakdave",
+                                        "time": "2 September, 2022",
+                                        "context": "No, not at all.  Just suggesting the time the light traveled to reach us isn't necessarily 32 million years.",
+                                        "good": "0",
+                                        "bad": "0",
+                                        "replies": []
+                                    }
+                                ]
+                            },
+                            {
+                                "user_name": "ArneSaknussem",
+                                "time": "2 September, 2022",
+                                "context": "One need not accept the big-bang model to accept an \"old Earth\" of 4.54 billion years. Those are two completely different sets of problems resolved by science.",
+                                "good": "1",
+                                "bad": "0",
+                                "replies": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "user_name": "Quanah1800",
+                "time": "3 September, 2022",
+                "context": "The world is full of ancient buildings and artifacts that are unimaginably bizarre and strange.  There are ancient constructions that could not be duplicated today.  Apps like Google Earth have brought a lot of this to the forefront and in some cases they were actually discovered by Google Earth users.  Ancient writings such as the Book of Job seem to describe a world totally foreign to us today.  All I can say for sure is that I believe we really have only a foggy understanding of Earth's history and human history.",
+                "good": "0",
+                "bad": "0",
+                "replies": []
+            },
+            {
+                "user_name": "ArneSaknussem",
+                "time": "4 September, 2022",
+                "context": "What is \"hilarious\" about that?",
+                "good": "1",
+                "bad": "0",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "user_name": "jcv1953",
+        "time": "1 September, 2022",
+        "context": "Now this is what NASA should be doing rather than manned missions.  Let the billionaires do those and let NASA do the fundamental science.",
+        "good": "5",
+        "bad": "1",
+        "replies": [
+            {
+                "user_name": "dan5047628",
+                "time": "1 September, 2022",
+                "context": "In theory I agree. But it cost 2 billion to put a rover on mars and 10 billion to put this telescope in space. However they estimate over 1 Trillion to get men on Mars over the next 25 years",
+                "good": "1",
+                "bad": "1",
+                "replies": [
+                    {
+                        "user_name": "jcv1953",
+                        "time": "1 September, 2022",
+                        "context": "Agreed. Is it worth it to send humans to Mars when most of the research can be done robotically?  Not to me as a taxpayer and I’m a true space geek. \nMaybe the billionaires will develop the technology to make manned space flight more affordable and we can look at it later, but for now I’m happy with this.",
+                        "good": "1",
+                        "bad": "0",
+                        "replies": [
+                            {
+                                "user_name": "8thabn245",
+                                "time": "1 September, 2022",
+                                "context": "Rather it will be the government, or it will be through private investments sooner or later we will have to get off of this rock. Man has moved from one place to another ever since man has walked across the face of the earth either to migrate or to explore. Going into space will be just a natural progression of our moving on. Let's just hope that we do not repeat our mistakes of the past in the future.",
+                                "good": "0",
+                                "bad": "1",
+                                "replies": [
+                                    {
+                                        "user_name": "jcv1953",
+                                        "time": "3 September, 2022",
+                                        "context": "I’m afraid we’ll have to evolve into a different species to get out of here.",
+                                        "good": "0",
+                                        "bad": "0",
+                                        "replies": [
+                                            {
+                                                "user_name": "8thabn245",
+                                                "time": "5 September, 2022",
+                                                "context": "In that case then we will not move on for at least another 10,000,000 years. ",
+                                                "good": "0",
+                                                "bad": "0",
+                                                "replies": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "user_name": "db3",
+                "time": "2 September, 2022",
+                "context": "Wow. You do know “the billionaires” are getting money from NASA for manned space flight, right?  Bezos and Musk aren’t shelling out as a hobby — they’re part of NASA’s budget and use NASA’s resources.",
+                "good": "2",
+                "bad": "0",
+                "replies": [
+                    {
+                        "user_name": "civilwarisinevitablenow",
+                        "time": "2 September, 2022",
+                        "context": "And?  They are doing a better job of if than NASA.  Its win win.",
+                        "good": "0",
+                        "bad": "0",
+                        "replies": [
+                            {
+                                "user_name": "db3",
+                                "time": "3 September, 2022",
+                                "context": "They are. My point is that NASA is doing manned missions — they’re just subcontracting it. It’s not like companies are launching people into space at their own expense.",
+                                "good": "0",
+                                "bad": "0",
+                                "replies": [
+                                    {
+                                        "user_name": "8thabn245",
+                                        "time": "5 September, 2022",
+                                        "context": "If it weren't for subcontracting none of the Government programs would get off the ground. Not to mention that under government supervision projects will usually go over budget and time. Just an example.\nIn 1910 the US Navy wanted battleships on par with Europe. The \"New York\" Class battleship was designed, and two ships were allocated for. The \"New York\" BB 34 was built in the Navy shipyard in New York City while the \"Texas\" BB 35 was built in the civilian shipyard in Newport News Virginia. But even though the \"New York was started first months before the \"Texas\" the \"Texas was launched before the \"New York\" and under budget. Federal interference cost both time and money and has both before and after. \nIn case you are wondering the \"Texas\" is still above water while the \"New York lies at the bottom of the Bikini Lagoon glowing in the dark.",
+                                        "good": "0",
+                                        "bad": "0",
+                                        "replies": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "user_name": "jcv1953",
+                        "time": "3 September, 2022",
+                        "context": "Of course they are.  The private entities are developing existing technologies into more practical, dependable and affordable systems.  NASA should be using them, why should the taxpayer pay more than necessary.  But private entities would never invest in a space telescope or probe to Pluto, nor should they. \nI just don’t think NASA should be messing with manned missions, they’ve already done that.  Jeff Bezos won’t send a lander to Titan, it wouldn’t make sense.",
+                        "good": "0",
+                        "bad": "0",
+                        "replies": []
+                    },
+                    {
+                        "user_name": "8thabn245",
+                        "time": "5 September, 2022",
+                        "context": "\"You do know “the billionaires” are getting money from NASA for manned space flight, right?\"\nOf course, they are getting money from Nasa. Like the post office, UPS and FedEx, they charge for delivery. ",
+                        "good": "0",
+                        "bad": "0",
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "user_name": "mccracker",
+                "time": "2 September, 2022",
+                "context": "The manned space flight brings us the most technological advancement. Launching robots is simple.",
+                "good": "1",
+                "bad": "1",
+                "replies": [
+                    {
+                        "user_name": "scottpm953",
+                        "time": "2 September, 2022",
+                        "context": "I wouldn't call it simple.",
+                        "good": "0",
+                        "bad": "0",
+                        "replies": [
+                            {
+                                "user_name": "mccracker",
+                                "time": "2 September, 2022",
+                                "context": "robots are pretty much immune to radiation, G force, temperatures, the vacuum of space. we learn almost nothing from sticking a robot in a rocket.",
+                                "good": "0",
+                                "bad": "0",
+                                "replies": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user_name": "LawrenceSch",
+        "time": "1 September, 2022",
+        "context": "Hopefully NASA is looking for life in the White House. And, veggies don’t count.",
+        "good": "4",
+        "bad": "3",
+        "replies": [
+            {
+                "user_name": "8thabn245",
+                "time": "1 September, 2022",
+                "context": "Veggies are not the only examples of brainless life forms. Jelly fish have no brains yet are self-propelled. I would say that will better describe the organisms in the Oval Office. Unless you would better decide of the virus.",
+                "good": "6",
+                "bad": "1",
+                "replies": []
+            },
+            {
+                "user_name": "cajunkraut",
+                "time": "2 September, 2022",
+                "context": "Good luck with that...",
+                "good": "0",
+                "bad": "0",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "user_name": "dan5047628",
+        "time": "31 August, 2022",
+        "context": "They added color. How authentic.\nHow much did that picture cost?",
+        "good": "0",
+        "bad": "14",
+        "replies": [
+            {
+                "user_name": "ArneSaknussem",
+                "time": "31 August, 2022",
+                "context": "You have no idea how science works.\nDid it ever occur to you that any kind of digital image adds colors, or do you still require film, which chemically does the same?",
+                "good": "10",
+                "bad": "0",
+                "replies": [
+                    {
+                        "user_name": "jcv1953",
+                        "time": "1 September, 2022",
+                        "context": "Ah, a Jules Verne aficionado.",
+                        "good": "3",
+                        "bad": "0",
+                        "replies": [
+                            {
+                                "user_name": "ArneSaknussem",
+                                "time": "1 September, 2022",
+                                "context": "You bet!",
+                                "good": "2",
+                                "bad": "0",
+                                "replies": []
+                            }
+                        ]
+                    },
+                    {
+                        "user_name": "dan5047628",
+                        "time": "1 September, 2022",
+                        "context": "I understand that they do it to make the picture more appealing. \nThat is Lying about what it really looks like, Why can't scientist just be honest about their work. If I am not honest about my work I would go broke and lose all my clients,  but with Tax payer (Government) funded scientist they can get away with anything.",
+                        "good": "0",
+                        "bad": "6",
+                        "replies": [
+                            {
+                                "user_name": "jcv1953",
+                                "time": "1 September, 2022",
+                                "context": "Define “look”. We can’t see infrared with our eyes. In fact we can very little of the electromagnetic spectrum.  Enormous amounts of information exists there that we must process in order to analyze. \nIs there some PR involved?  Sure, but it helps in getting grant support.  Pure science is cryptic to most of us but we need it.",
+                                "good": "3",
+                                "bad": "0",
+                                "replies": []
+                            },
+                            {
+                                "user_name": "ArneSaknussem",
+                                "time": "1 September, 2022",
+                                "context": "These are 100% what they look like withing a certain range of the spectrum that is understandable to the trichromatic human eye, and taking into account red-shift and other factors.\nTo a bird it would look different, as they have 4 types of cones in their eyes, butterflies even more, so they can see even more colors. So the data from the Webb telescope could be interpreted even more colorfully by birds and butterflies. NASA chose humans.\n\nThe light that comes into a human lens is refracted through the cornea and lens to go back to the retina upside down. The retina sends the 'data' via the optic tract back to the occipital lobe of the brain, which inverts the image so up is up and down is down in what we perceive. Is our brain lying to us by changing the orientation? Why can't our brains just be honest? \n\nAnd why can't you be honest and just say that you do not understand science and therefore hate it?",
+                                "good": "3",
+                                "bad": "0",
+                                "replies": []
+                            },
+                            {
+                                "user_name": "gelli",
+                                "time": "2 September, 2022",
+                                "context": "They don't add colour to make  the pictures 'pretty'!",
+                                "good": "0",
+                                "bad": "0",
+                                "replies": []
+                            },
+                            {
+                                "user_name": "464f5820697320666f72206c6f73657273",
+                                "time": "2 September, 2022",
+                                "context": "Its not hard to admit you are ignorant of the subject at hand, its actually commendable and leads to learning. These images are constructed using data collected in different wavelengths. Most of which are invisible to the human eye and need digital manipulation.",
+                                "good": "1",
+                                "bad": "0",
+                                "replies": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "user_name": "standupandlive",
+                "time": "1 September, 2022",
+                "context": "I think they were saying they now have color space images b/c of new tech.   I read that about a month ago.",
+                "good": "0",
+                "bad": "0",
+                "replies": []
+            },
+            {
+                "user_name": "quietsmith",
+                "time": "2 September, 2022",
+                "context": "One of the resident \"I hate science because I think it's a conspiracy against Jesus\" types chimes in.",
+                "good": "0",
+                "bad": "1",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "user_name": "jackson32",
+        "time": "31 August, 2022",
+        "context": "This galaxy is 35 million light years from earth  That means it took light 35 million years to get here but if you took a clock on put it on a beam of light from this galaxy  No time at all would pass",
+        "good": "0",
+        "bad": "0",
+        "replies": []
+    },
+    {
+        "user_name": "fakeitgoodnasa",
+        "time": "1 September, 2022",
+        "context": "Fake as a three dollar bill.",
+        "good": "1",
+        "bad": "8",
+        "replies": [
+            {
+                "user_name": "jcv1953",
+                "time": "1 September, 2022",
+                "context": "You mean that bill I gave change for is fake?  Dang, I should caught that when I saw Donald Trump’s picture on it.",
+                "good": "0",
+                "bad": "0",
+                "replies": []
+            },
+            {
+                "user_name": "standupandlive",
+                "time": "1 September, 2022",
+                "context": "Proof?",
+                "good": "1",
+                "bad": "0",
+                "replies": [
+                    {
+                        "user_name": "fakeitgoodnasa",
+                        "time": "3 September, 2022",
+                        "context": "Indeed.",
+                        "good": "0",
+                        "bad": "0",
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "user_name": "gelli",
+                "time": "2 September, 2022",
+                "context": "Why ?  Because we are seeing it as it was 32 million years ago , WAY before \"In the beginning.........\"",
+                "good": "1",
+                "bad": "0",
+                "replies": []
+            },
+            {
+                "user_name": "quietsmith",
+                "time": "2 September, 2022",
+                "context": "We know, but if you didn't have arguments that fake, what would you have?",
+                "good": "0",
+                "bad": "0",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "user_name": "openmymouth",
+        "time": "2 September, 2022",
+        "context": "The fine tuning of the Big Bang to make carbon based life (us) possible is an almost irrefutable proof that God is behind it all. The six basic forces had to be in such a fine balance right from the word go, the chances of this specific universe with us in it evolving were almost infinitely small. The only counter to the fine tuning argument is that there are an infinite number of less 'successful' universes (big bangs) the so called multiverse and we are just lucky to be in the right universe. How lucky I am! At this stage there is no proof that the multiverse exists and it is unlikely that there will ever be. What lies beyond the event horizon of the bang where the numbers of gravity, space and time breaks down, no one will ever know for sure. It cannot be observed by any conceive instrument. You were on God's mind before there was light and you better start believing it. God is not morally neutral and we are all sinners. Best advice, run for your life to the cross.",
+        "good": "0",
+        "bad": "2",
+        "replies": [
+            {
+                "user_name": "endymio",
+                "time": "3 September, 2022",
+                "context": "You're not too bright, are you?  No matter how \"infinitely small\" that possibility was, then if it didn't happen, we wouldn't be here to observe it.   There may have been a billion billion quadrillion past Big Bangs in universes that didn't develop life -- and with no one there to record the events, we'd never know.",
+                "good": "0",
+                "bad": "0",
+                "replies": [
+                    {
+                        "user_name": "firstnlast",
+                        "time": "6 September, 2022",
+                        "context": "you can always tell when someone isnt quite sure of their own beliefs.. they insult others for having their own beliefs..",
+                        "good": "0",
+                        "bad": "0",
+                        "replies": [
+                            {
+                                "user_name": "endymio",
+                                "time": "6 September, 2022",
+                                "context": "You can always tell when someone has no logical rebuttal, they instead focus on their opponent's character.",
+                                "good": "0",
+                                "bad": "0",
+                                "replies": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user_name": "464f5820697320666f72206c6f73657273",
+        "time": "2 September, 2022",
+        "context": "Can't wait to see what an ultra long wavelength telescope on the dark side of the moon will be capable of. Hopefully it doesn't take 20 more years.",
+        "good": "0",
+        "bad": "0",
+        "replies": []
+    },
+    {
+        "user_name": "glidingbuzzard680",
+        "time": "2 September, 2022",
+        "context": "Looks like an outer space spider web.",
+        "good": "0",
+        "bad": "0",
+        "replies": []
+    },
+    {
+        "user_name": "fakeitgoodnasa",
+        "time": "3 September, 2022",
+        "context": "Nice color scheme on this one Nasa. This abstract ‘space art’ will fool most folks..",
+        "good": "0",
+        "bad": "0",
+        "replies": [
+            {
+                "user_name": "endymio",
+                "time": "3 September, 2022",
+                "context": "Stick to your comic books, Cletus.",
+                "good": "0",
+                "bad": "0",
+                "replies": [
+                    {
+                        "user_name": "fakeitgoodnasa",
+                        "time": "4 September, 2022",
+                        "context": "I frequent NASA’s website for the comics.",
+                        "good": "0",
+                        "bad": "0",
+                        "replies": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user_name": "UnpatrioticDeplorableSemi-Fascist",
+        "time": "2 September, 2022",
+        "context": "So much beauty in the Universe!  Some people think it's just caused by random atoms colliding over the past few billion years.  No greater intelligence exists. How can these people not believe in a greater power.  GOD is real!",
+        "good": "0",
+        "bad": "0",
+        "replies": [
+            {
+                "user_name": "thisiswhatweget",
+                "time": "2 September, 2022",
+                "context": "I don't mind if people look at the beauty of the universe and attribute it to \"a greater power\". Personally, I look at it and say \"I don't know how this came to be\" Isn't \"I don't know\" a more honest answer? Not to mention, \"I don't know\" can be argued to be a better position since I am not aware of anyone who goes around telling others who they can and can't sleep with, or own other people as property, or fly planes into buildings, etc. because it says so in the book of \"I don't know\"",
+                "good": "0",
+                "bad": "0",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "user_name": "hoochiecoochieman",
+        "time": "2 September, 2022",
+        "context": "The NFL has already granted the new planet with an expansion team.  Go Greys!",
+        "good": "0",
+        "bad": "0",
+        "replies": []
+    },
+    {
+        "user_name": "edd911",
+        "time": "2 September, 2022",
+        "context": "Starry Night",
+        "good": "1",
+        "bad": "0",
+        "replies": []
+    },
+    {
+        "user_name": "beeblebrox077",
+        "time": "2 September, 2022",
+        "context": "It's just mind boggling to be going about your mundane business of toasting a piece of bread or whatever, and then you're reminded of how totally ridiculous the universe is.",
+        "good": "5",
+        "bad": "0",
+        "replies": []
+    },
+    {
+        "user_name": "LastFirst",
+        "time": "3 September, 2022",
+        "context": "There is a possibility that light traveled faster in the past than currently measured today.",
+        "good": "1",
+        "bad": "0",
+        "replies": []
+    },
+    {
+        "user_name": "IndependentExRepublican",
+        "time": "3 September, 2022",
+        "context": "That’s some nice pictures.",
+        "good": "0",
+        "bad": "0",
+        "replies": []
+    },
+    {
+        "user_name": "brylcreamboomer",
+        "time": "5 September, 2022",
+        "context": "Are we selling this data to China or are they stealing it for free?",
+        "good": "0",
+        "bad": "0",
+        "replies": []
+    },
+    {
+        "user_name": "rightseroding",
+        "time": "2 September, 2022",
+        "context": "More of the same, just further and more resolution",
+        "good": "0",
+        "bad": "0",
+        "replies": []
+    }
+]

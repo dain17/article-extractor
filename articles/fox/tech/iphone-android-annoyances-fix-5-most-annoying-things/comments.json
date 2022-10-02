@@ -1,0 +1,118 @@
+[
+    {
+        "user_name": "Cytherian",
+        "time": "16 September, 2022",
+        "context": "Soon the Programmable Piezoelectric synaptic transceiver Bio-Chip implants will be complete and none of this will matter.",
+        "good": "0",
+        "bad": "0",
+        "replies": []
+    },
+    {
+        "user_name": "tractorbeamdream",
+        "time": "17 September, 2022",
+        "context": "How about having a feature that allowed us to restrict all calls, emails, and texts to only those in our contacts.",
+        "good": "2",
+        "bad": "0",
+        "replies": [
+            {
+                "user_name": "stick2thefacts951",
+                "time": "19 September, 2022",
+                "context": "For Iphone: Go to settings, then phone, then set the \"Silence Unknown Callers\" to \"On\". That at least silences all the spam callers.",
+                "good": "1",
+                "bad": "0",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "user_name": "haroldhofmann",
+        "time": "17 September, 2022",
+        "context": "The thing that drives me crazy with my Samsung Android phone is this:\nTHE SCREEN TURNS OFF WHILE I AM USING THE PHONE AND I CANNOT KEEP IT ON. Even when it is plugged in, it turns off. Makes the phone unusable when it is needed most. NOTHING works to stop this turnoff behavior.",
+        "good": "1",
+        "bad": "1",
+        "replies": [
+            {
+                "user_name": "SacMagic",
+                "time": "17 September, 2022",
+                "context": "....there is a adjustment to keep the screen on as long as you choose.....",
+                "good": "1",
+                "bad": "0",
+                "replies": [
+                    {
+                        "user_name": "haroldhofmann",
+                        "time": "18 September, 2022",
+                        "context": "DOESN'T WORKING",
+                        "good": "0",
+                        "bad": "0",
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "user_name": "electricmonkey",
+                "time": "17 September, 2022",
+                "context": "User error.",
+                "good": "0",
+                "bad": "0",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "user_name": "bogwombler252",
+        "time": "16 September, 2022",
+        "context": "Nothing but click bait.",
+        "good": "3",
+        "bad": "0",
+        "replies": []
+    },
+    {
+        "user_name": "redmama19",
+        "time": "17 September, 2022",
+        "context": "\"3. You don’t want the bloatware.\"  \nThis senior citizen is not tech savvy enough to know what apps are essential and what are not.  We need an article that goes in to detail about what they are and if they are absolutely necessary.  ",
+        "good": "2",
+        "bad": "2",
+        "replies": [
+            {
+                "user_name": "electricmonkey",
+                "time": "17 September, 2022",
+                "context": "No, these articles are already targeting  extremely basic users....you'll just have to figure it out.",
+                "good": "1",
+                "bad": "2",
+                "replies": []
+            },
+            {
+                "user_name": "texgeekdude",
+                "time": "18 September, 2022",
+                "context": "Ask your grand kids or a neighbor you trust to help you.",
+                "good": "1",
+                "bad": "0",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "user_name": "*Overwatch*",
+        "time": "16 September, 2022",
+        "context": "Hmm, I couldn't seem to find the setting to block 'Kim Komando'...Oh well, I'll keep looking...",
+        "good": "2",
+        "bad": "0",
+        "replies": []
+    },
+    {
+        "user_name": "rockfishhiker",
+        "time": "16 September, 2022",
+        "context": "Fox please stop allowing these utterly worthless articles and stop paying Kim for content that helps no one.",
+        "good": "8",
+        "bad": "1",
+        "replies": []
+    },
+    {
+        "user_name": "Crotchety_Old_Dude",
+        "time": "17 September, 2022",
+        "context": "Samsung phones come with Samsung bloatware you are not allowed to remove.",
+        "good": "0",
+        "bad": "0",
+        "replies": []
+    }
+]

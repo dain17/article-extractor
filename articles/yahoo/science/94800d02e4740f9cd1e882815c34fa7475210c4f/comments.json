@@ -1,0 +1,272 @@
+[
+    {
+        "user_name": "tig*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/i2UXu5CMY3ehacsjarlmpA8o/comments",
+        "time": null,
+        "context": "回転するってことは遠心力で重力を作り出す構想なんだろうね\n\n前に大林組で宇宙エレベーター構想の展示があったけど、あれもすごかった。本当に実現するかどうかよりも、それを目指すことでいろいろな技術が発展するんだろうなって思った\n\nいや、本当に実現するのかもしれないけれど。でも自分が生きてるうちは無理かなあ",
+        "good": 5,
+        "bad": 5,
+        "replies": []
+    },
+    {
+        "user_name": "get*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/kwE8xrifb2TLzuYbjGFkKYCb3MD5CALxOZ2Zsd71/comments",
+        "time": null,
+        "context": "人工重力が生み出せると言うことは、重力はすなわち空間の歪みの事だから人工的に空間を曲げられると言うことにはならないのだろうか？ワームホールを作り出せるとか。ナミュール大学のアンドレフースファ氏が重力制御に成功したと何年か前のニュースであったが、このルナグラスレベルのはまだ難しいと言う感じだったかと思うけど、このように実現を語るレベルまで来てると言うことですから。",
+        "good": 7,
+        "bad": 47,
+        "replies": [
+            {
+                "user_name": "९९३३*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/.v5xDYyPa3vspORBPMkbcq1_sg--/comments",
+                "time": null,
+                "context": "「空間が曲がる」とは、普通は「リーマン曲率テンソルがゼロでない」。\n数学的には「時空」も「空間」だが、少なくとも一般相対性理論では「時空」と「空間」を区別するのは、「時間的」と「空間的」という概念があることからも、わかると思う。\nだから、「空間が曲がる」のと「時空が曲がる」のとは区別したほうが良い。\n\nそれで、例えば、重力のない、つまり、曲がっていない「平坦な」時空は回転座標系でも平坦だ。\nただし、その回転座標系で時刻が一定の「（3次元）空間」は「曲がっている」。だからといって、「回転で空間が曲がる」と言うのは、時空と空間が混同されている状況では、適切ではないと思われる。\n\nでは、回転によって発生する慣性力を重力と言ってはいけないのか、というと、これも微妙。\nなぜなら、等価原理は局所的に慣性力と重力を同一視するから。ただし、この場合の座標系の運動は直線的な加速度運動を想定している。",
+                "good": 1,
+                "bad": 1
+            },
+            {
+                "user_name": "kuk*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/8FR9IAmTf3ssX5tVfYL4FYf04g--/comments",
+                "time": null,
+                "context": "ｗｗｗｗ人工的に空間を曲げられるｗｗもうちょっと調べなよ。質量のあるものが存在すること自体が空間を曲げてるんだよ。ものがあればわずかに空間は曲がる。\n遠心力ってのは円運動するときに常に速度が変化（速度ってのはベクトルね）するからその変化をもたらす原因が加速度であって、その加速度をもたらす原因が向心力で、その反作用が遠心力なのよ。だから重力とは何の関係もない。",
+                "good": 1,
+                "bad": 0
+            },
+            {
+                "user_name": "pnz*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/2Fa9d8uIZGoq.eoR4JJTAfs-/comments",
+                "time": null,
+                "context": "これは円運動による遠心力を重力と同じ大きさにして、地球表面の状況を再現するコンセプトですから、重力ポテンシャルで空間を曲げているわけではないかと思われます。しかし、重力制御には夢がありますね！",
+                "good": 14,
+                "bad": 1
+            },
+            {
+                "user_name": "ohc*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/GlZOLs.VbH7jGxumBupX6w--/comments",
+                "time": null,
+                "context": "コメ主、記事読んだ？\nコーンを回転させて、遠心力と引力の合力で\nコーンの内側の斜めの面に地球の引力と同程度の\n重力を疑似的に発生させるんだよ\n合力って、理科で習ったでしょ？\n高校行けば数学でベクトルもやるから、\n概念的には理解できるよね？",
+                "good": 2,
+                "bad": 0
+            },
+            {
+                "user_name": "嫌がらせは「過去コメにNOポチ」でどうぞ",
+                "user_url": "https://news.yahoo.co.jp/profile/id/3xD4ozSQa3LriKbl49be0a_me217vhVF/comments",
+                "time": null,
+                "context": "時空を曲げるのはエネルギー（質量はエネルギーの一形態）だから光も時空を曲げるし、\n重力とは関係ないという人は、等価原理から復習しなおしましょうね。",
+                "good": 0,
+                "bad": 0
+            },
+            {
+                "user_name": "これでいいのだ",
+                "user_url": "https://news.yahoo.co.jp/profile/id/j3njaSSLe2WwaSzdriunBhkKEA--/comments",
+                "time": null,
+                "context": "その理論が正しいとしても重力以上の磁力が発生するから血液が逆流したりするんじゃないの？",
+                "good": 1,
+                "bad": 1
+            }
+        ]
+    },
+    {
+        "user_name": "har*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/MP3tEPyQa2JedjrWHyRKwuVlHg--/comments",
+        "time": null,
+        "context": "元記事の動画を見ると、ドームよ中が水で覆われている。これってグラス全体を安定させるために入れてるのかな？\n外部との連絡手段もああいった徐々に離れていく仕組みになっているのは、回転のブレを水で徐々に吸収する仕組みなのかな。",
+        "good": 0,
+        "bad": 6,
+        "replies": [
+            {
+                "user_name": "これでいいのだ",
+                "user_url": "https://news.yahoo.co.jp/profile/id/j3njaSSLe2WwaSzdriunBhkKEA--/comments",
+                "time": null,
+                "context": "有害な放射能とか除去するんじゃないの？\n地球の生命は磁力線で守ってるけど、建物の中だけなら水で守る方がコストが安いから",
+                "good": 0,
+                "bad": 1
+            }
+        ]
+    },
+    {
+        "user_name": "キジムナー",
+        "user_url": "https://news.yahoo.co.jp/profile/id/8P..yFmNb2kNLIAUOkN4w1V9_Q--/comments",
+        "time": null,
+        "context": "構造上から見て、遠心力と星の重力を合わせたベクトルの応用？\n納得のいく形状ではあるが、その回転場に入っていくにはかなり苦労しそうだ。",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "mok*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/VgHF4hyVZXtVneCdg3s4k0I-/comments",
+        "time": null,
+        "context": "いやー、どうなんだろ\nもちろん夢があっていいけどねぇ\n地球の話だけど今までだって高さ数Kmに及ぶ壮大な都市計画とかあったけど夢物語で終わってるからね\n他にも宇宙エレベーターとかの構想もあるけど実現するかはかなり怪しいような気がする・・・",
+        "good": 3,
+        "bad": 10,
+        "replies": [
+            {
+                "user_name": "s_b*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/NFBDo.WLVXKvRG__9UcrfQ--/comments",
+                "time": null,
+                "context": "というか、最初から夢物語を書くのが目的だから。こういうのは技術開発じゃなくて広報活動。人類が月に普通に行ける時代になったら、ダイソン球の建設計画を書いてると思うよ。",
+                "good": 5,
+                "bad": 1
+            },
+            {
+                "user_name": "wtx*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/3VPK9myPfmjsBhUW8rbioQG6nQ--/comments",
+                "time": null,
+                "context": "特に日本人の語る夢は実行力を伴わない事が多く、単なる企業のイメージアップだったりして散々裏切られて来たからあまり信用はしてない",
+                "good": 3,
+                "bad": 3
+            }
+        ]
+    },
+    {
+        "user_name": "ひとこと",
+        "user_url": "https://news.yahoo.co.jp/profile/id/GtEZw46WZWIHVHHl5Z2q8w--/comments",
+        "time": null,
+        "context": "遠心力による押し付け力と、本物の重力でのひっぱり力と、どちらも生物には全く同じように作用するんだろうか？",
+        "good": 3,
+        "bad": 1,
+        "replies": [
+            {
+                "user_name": "opt****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/CA8xCQaQY3Q0cXE6GCZpt5E-/comments",
+                "time": null,
+                "context": "まったく同じです。遠心力も重力も加速度の一種で、物質に働く力は同じ。「押しつけ力」とか「ひっぱり力」という違いはありません。",
+                "good": 0,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "千口",
+        "user_url": "https://news.yahoo.co.jp/profile/id/EEyBX7CKc2VKV0_jelMTwm4bQG6qHeKN/comments",
+        "time": null,
+        "context": "この方式だと重力を作るのにエネルギー沢山消費しそうだね。鉄みたいな強磁性体を含んだ繊維で出来た服を着せて、地場で引力を作った方が簡単じゃないの？",
+        "good": 0,
+        "bad": 1,
+        "replies": [
+            {
+                "user_name": "wal*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/CjU.XW2Pa3wZsntxYawA9Fo-/comments",
+                "time": null,
+                "context": "それだと足が地面にくっついているだけで，地球上の当たり前である重力の恩恵を充分に受けられないんだよね．\n体全体に偏りなく１G（そして気圧も関係するけど）がかかっていないと血流の配分やら骨への刺激などが地上とは異なり体調に大きな悪影響が出る．\n\n骨は重力下の負荷がないと極端に弱くなることが知られているし，筋肉や体の血管などの構造も重力の影響に適応している．",
+                "good": 0,
+                "bad": 0
+            },
+            {
+                "user_name": "千口",
+                "user_url": "https://news.yahoo.co.jp/profile/id/EEyBX7CKc2VKV0_jelMTwm4bQG6qHeKN/comments",
+                "time": null,
+                "context": "靴だけが磁気により引力を受ける訳じゃなですよ。服全体で引力を受ける訳で。後、人の姿勢とかの状態を検知して、微妙に磁力をコントロールすれば、引力の均一化もある程度出来るんじゃないかな？",
+                "good": 0,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "sma*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/1Y9C7WKLZ3F21dVm62zeUEkQBRc-/comments",
+        "time": null,
+        "context": "宇宙は放射線が強く防御壁の事を考えていますか？\n国際宇宙ステーションに数か月滞在すると、どの位被ばくするのでしょう？",
+        "good": 0,
+        "bad": 7,
+        "replies": []
+    },
+    {
+        "user_name": "las*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/VcbemQ6Ua2NnXB7aYbFlKTXLNeM-/comments",
+        "time": null,
+        "context": "バブルの頃にも　大林組とかが月面居住地構想みたいの発表してたな。\nこれ、少子化のリクルート対策？株価対策？",
+        "good": 6,
+        "bad": 6,
+        "replies": [
+            {
+                "user_name": "mok*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/VgHF4hyVZXtVneCdg3s4k0I-/comments",
+                "time": null,
+                "context": "もちろん構想を悪いなんて決して思わないけど\nまぁ、そうとも取れちゃうよねぇ",
+                "good": 3,
+                "bad": 1
+            },
+            {
+                "user_name": "s_b*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/NFBDo.WLVXKvRG__9UcrfQ--/comments",
+                "time": null,
+                "context": "寄付講座を使った企業の広報活動だよ。",
+                "good": 3,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "kan*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/z5CmMyiTa34wy0BNGY7UF4lPaRE3/comments",
+        "time": null,
+        "context": "遠心機みたいなものか。\nその場合、ジャンプして空中にいる時には重力は感じなくなるのであろうか？",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "ugr*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/hr96HviNbWJvhOtf9rglgpY4bw--/comments",
+        "time": null,
+        "context": "重力を生み出す仕組みがわからないんだけど、遠心力を使うって事？",
+        "good": 3,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "dai*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/Uk19V9.ca3k4KAfvzaaF3GvECA--/comments",
+        "time": null,
+        "context": "一般の人が宇宙開発に興味を持つための話題作りって感じですかね。宇宙エレベータと同じレベルの話ですね。",
+        "good": 3,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "iga*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/LcdM78mRbXE1xTmT3rnsm6e3JA--/comments",
+        "time": null,
+        "context": "遠心力でしょ、これ。\n遠心力の一言もないのが現代なのかｗ",
+        "good": 5,
+        "bad": 4,
+        "replies": [
+            {
+                "user_name": "iga*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/LcdM78mRbXE1xTmT3rnsm6e3JA--/comments",
+                "time": null,
+                "context": "現代の科学の成果が、”人工重力”なる怪しい言葉にすげ替えるという事なのかｗ",
+                "good": 3,
+                "bad": 0
+            },
+            {
+                "user_name": "これでいいのだ",
+                "user_url": "https://news.yahoo.co.jp/profile/id/j3njaSSLe2WwaSzdriunBhkKEA--/comments",
+                "time": null,
+                "context": "18世紀の科学ですね",
+                "good": 3,
+                "bad": 1
+            }
+        ]
+    },
+    {
+        "user_name": "aw*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/ew4Xc7SZfXFz0pEwIOekKFP9/comments",
+        "time": null,
+        "context": "構想出来ても、実現は絶対無理。10000...0000....0000%無理\n人類全員殺すことしても、無理。\n冷静に頭の中で、これを作る思考実験すればすぐ分かること。\n\nそれより、地球の地上で、皆、安全に幸せに生活出来ること考えてくれ。",
+        "good": 0,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "k*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/iVm87UOTZ2LM_F85DsOacQ--/comments",
+        "time": null,
+        "context": "やれるものならやってみるといい",
+        "good": 2,
+        "bad": 1,
+        "replies": []
+    }
+]

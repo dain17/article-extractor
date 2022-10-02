@@ -1,0 +1,21 @@
+The Chinese Army is preparing to deploy small, new, tracked war-robots armed with machine guns, night vision, missile loaders, and camera sensors to conduct attacks while leaving manned systems at safer stand-off distances.
+
+Citing a China Central Television segment on the robots, People’s Online Daily reports that the “thigh-high robot looks like a small assault vehicle. Target practice results showed the robot has acceptable accuracy.”
+
+While the report stresses that the robot will be controlled or operated by human decision-makers, it is not clear if the robot is merely remote-controlled or if it operates with some measure of autonomy. As a small tracked vehicle, the robot is built to traverse rugged or uneven terrain and operate as a forward-positioned weapons “node” for ground attacks.
+
+The U.S. military has long-been operating combat robots, ranging from teleoperated sensors and IED-detonators to small, semi-autonomous unmanned systems programmed to respond to specific cues or sensor input. At the same time, the U.S. Army’s drones are increasingly capable of much greater levels of autonomy and, according to its current technological modernization strategy, expects to operate most of its combat formations with robotic systems functioning alongside or in tandem with manned platforms. Deploying forward-positioned command and control nodes, weapons and supply transporters, reconnaissance-oriented robots, and even armed attack unmanned platforms are all part of the Army’s modernization calculus.
+
+While current Pentagon doctrine stipulates that a human must always be “in the loop” when it comes to decisions about the use of deadly force, many U.S. military leaders have expressed concern that there is little or no assurance that potential enemies will follow a similar path. This is of particular relevance now because the technical ability to engineer a robot able to navigate, surveil, track, target, and destroy an enemy is basically here, given rapid advances in algorithms enabling autonomy.
+
+The apparent Chinese intention for the robots appears somewhat analogous to the U.S. posture, meaning that they will be deployed for reconnaissance and potential attack missions.
+
+A war-prospect such as this invites an interesting discussion regarding what types of defensive tactics the U.S. might be assessing in response to the threat of a Chinese robotic attack.
+
+Naturally, it highlights the importance of U.S. efforts to deploy its own unmanned systems to identify and potentially take out approaching armed robots. It also underscores the significance of the U.S. Army’s current focus on command and control, air-ground drone networking, and emerging concepts of multi-domain battle. Concentrations of small armed robots, moving well ahead of an armored formation, could in theory be easy to detect with air or even ground sensors, cameras, and surveillance technology. Overhead Ground Moving Target Indicator (GMTI) sensors operating on drones or fixed-wing surveillance planes would likely detect the movement or robots, and air-based thermal imaging might pick up a heat signature from the small engines propelling the robots - especially if groups of them were concentrated in a certain area.
+
+Should armed air support not be available for any given land-war mission, U.S. ground forces might be well suited to fire some of its now-emerging long-range precision weaponry, such as laser-guided artillery or land-launched “area” rockets used to explode the robots or at least disrupt their movements. U.S. robotic vehicles could, in this instance, provide forward-placed targeting guidance or laser designation for attacking precision weapons.
+
+Finally, of course, Army developers are likely looking at various EW (Electronic Warfare) “jamming” techniques intended to both find the electromagnetic signature emitted from the robots and, if possible, “jam, thwart or disable” their targeting, communications or networking systems. In short, the arrival of armed Chinese war-robots introduces the potential of some kind of robot-to-robot warfare, a scenario likely to be capturing Pentagon attention at the moment.
+
+-- Kris Osborn is the Managing Editor of Warrior Maven and The Defense Editor of The National Interest --

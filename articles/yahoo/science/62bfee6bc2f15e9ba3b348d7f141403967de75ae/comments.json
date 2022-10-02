@@ -1,0 +1,249 @@
+[
+    {
+        "user_name": "heqsi",
+        "user_url": "https://news.yahoo.co.jp/profile/id/VfERP3qbPCLvNx5_xtDhvZ_kfQ--/comments",
+        "time": null,
+        "context": "スペースコロニーのような遠心力を使った人口重力下で回転の直径が小さい場合、回転方向に向かって移動する場合は違和感がないけど、回転に対して斜めに移動すると三半規管に誤差が出て乗り物酔いしたようになるとか聞いたことがある。\n他にも、高速で移動する物体は質量が増すという理論を使って、超高速回転するディスクをたくさん地面に埋め込んで重力を作るなんて話しも聞いたことがある。",
+        "good": 28,
+        "bad": 9,
+        "replies": []
+    },
+    {
+        "user_name": "ydf*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/G3LnCamBbnZydpraSVICYg--/comments",
+        "time": null,
+        "context": "興味深い記事でしたが一点、\n\n>>しかし、月や火星などの低重力問題まで検討されてきたかというと、あまり聞いたことがない。\n\n　これはちょっと。\n　低重力の天体の表面にすり鉢状の構造物を埋め込んで回転させ、内壁に１Gかそれに近い環境を作る構想は何年も前に読んだ記憶があります。「重港」と命名されていました。\n　記事で紹介された研究が模倣だと言っているわけではありません。回転により疑似重力を作るというアイディアは当然、天体上にも当てはめられてあちこちで誕生しているわけです。\n　宇宙で長期、または世代を超えて生存するために必要な重力の問題が避けられているわけがないのです。これまではその他の重要課題の方が優先されていた、というのが本当でしょう。",
+        "good": 19,
+        "bad": 7,
+        "replies": []
+    },
+    {
+        "user_name": "ilr*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/Aud6RLWRZmL_hZIrCtXFqv3CAg--/comments",
+        "time": null,
+        "context": "重力は重力化惑星系の最大の不安定要素であり、最大級のエネルギー源でもある。\n残念ながら地球上での電力供給の主力とする事は、今後とも無いと思うが、惑星移住先に重力さえあれば、電力供給の主力となるだろう。\n無酸素や暗闇でも発電し続ける健気な装置も頼もしく見えるだろう。",
+        "good": 2,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "gys*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/M2lnA3Sfc2M2hgxEOTchTx0-/comments",
+        "time": null,
+        "context": "宇宙ステーションなどの居住区域全体を高速回転させ、遠心力によって疑似的に重力を再現するというアイデア自体は1950年代から存在しますが、未だ実現しないのには理由があります。\n\n洗濯機と同じで、回転物体は重心に偏りがあるとガタガタと揺れ始めるからです。\n動き回る人々を乗せながら重さを均等に保つというのはかなり難しい問題になります。\n例えば食事時になれば皆さん食堂に集まってきますし、精神衛生上たまにはイベントやレクリエーションだって必要でしょう。\nガタガタ揺れるということはその分構造部品の消耗が早まるということでもあります。\n万が一宇宙空間や他の星の環境で建造物が崩壊でもしようものなら大惨事です。高頻度で部品の交換が必要になりますが、回転を保ちながら回転中の物体をメンテナンスするのは難しい作業となります。\n結局のところ、あまりにもリスクが高すぎてSFの域を出ないのが現状です。",
+        "good": 25,
+        "bad": 11,
+        "replies": [
+            {
+                "user_name": "嫌がらせは「過去コメにNOポチ」でどうぞ",
+                "user_url": "https://news.yahoo.co.jp/profile/id/3xD4ozSQa3LriKbl49be0a_me217vhVF/comments",
+                "time": null,
+                "context": "ワイなら、リニアモーターカーみたいに、超電導磁石で浮かべるけどなあ。\n非接触だから消耗は遥かに遅いだろうし、揺れないだろうし。\n\n地面にすり鉢状の穴を掘り、壁面に磁石設置用の骨組みを建造する。\nメンテナンスは磁石の交換くらいだから、回転しながらでも、骨組みの外側から容易に可能だ。回転体の方も同様にね。\n\n問題はランニングコスト＝電気代の上昇だけど、\nそっちは些末な問題でしょ、本質的な問題ではない。",
+                "good": 10,
+                "bad": 5
+            },
+            {
+                "user_name": "嫌がらせは「過去コメにNOポチ」でどうぞ",
+                "user_url": "https://news.yahoo.co.jp/profile/id/3xD4ozSQa3LriKbl49be0a_me217vhVF/comments",
+                "time": null,
+                "context": "それこそ考えが浅いな。\n\n超伝導体に流す電流を調整したり、超伝導体の温度を調整（超電導状態をON/OFF）したり、あるいは単純に磁石の向きを変えたりすれば、\n1個ずつの超電導磁石による有効磁力を変えられるやん。\n\n磁石を取り付けてある骨組みに圧力センサーなりを付けておいて、\n回転に歪みが生じたら磁力の調整で修正すればええ。\nあるいはリニアでカーブを曲がるときの仕組みでもいけるかもしれんな。\n\n20秒で1回転程度やねんから、これくらいのフィードバック機構なんて簡単やろ。\nそもそもこの仕組みがないと、磁石を取り外して交換なんてできひんわ。",
+                "good": 6,
+                "bad": 3
+            },
+            {
+                "user_name": "gys*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/M2lnA3Sfc2M2hgxEOTchTx0-/comments",
+                "time": null,
+                "context": "> ワイなら、リニアモーターカーみたいに、超電導磁石で浮かべるけどなあ。\n> 非接触だから消耗は遥かに遅いだろうし、揺れないだろうし。\n\n非接触なら揺れないというのは根本的に物理を勘違いしています。\n固定軸による支えがない分、宙に浮く回転体はより僅かな重心の偏りで大きく振動するようになります。\n摩耗による部品寿命の低下は回避できる一方、今度は回転体の振動が大きくなって外周部分に接触＆破損したり、最悪外れてしまって落下といった問題が発生します。",
+                "good": 12,
+                "bad": 4
+            },
+            {
+                "user_name": "zep*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/aMCmX66Cb2CfL88A.cw_GRR5C3EEof608xbMYd0-/comments",
+                "time": null,
+                "context": "液体の移動による重心調整技術が登場するかと思われ、(もしくは、宇宙船自体の質量を大きくして人間レベルなら誤差でしかないようにするか)",
+                "good": 7,
+                "bad": 0
+            },
+            {
+                "user_name": "tam*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/6muGzGqMa32qiwuMcSEfQ7XqHNo-/comments",
+                "time": null,
+                "context": "その回転型商業宇宙ステーションを計画している会社、2025年から建設を開始するとかぶち上げてますね。さてどうなりますか。",
+                "good": 2,
+                "bad": 0
+            },
+            {
+                "user_name": "you*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/KfGS3KWBZWVFANJk5MPjiMLr/comments",
+                "time": null,
+                "context": "人類も馬鹿じゃないですから、液体を使った重心制御技術などを試みるでしょう",
+                "good": 8,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "2499",
+        "user_url": "https://news.yahoo.co.jp/profile/id/zqCVVqCQa2RHVeiyExEslqs-/comments",
+        "time": null,
+        "context": "地上に対して斜め方向の重力か〜。原理を聞いてしまえば既存のものの応用だけど、不可能と思われていた課題を解決しようと試み続けたのすごいな。それが科学研究ということなんでしょうが。\n暮らす人の心理の問題など、課題は色々あるんだろうけど、こうやって一里塚を積み上げていくのが大事なんだと思う。",
+        "good": 12,
+        "bad": 3,
+        "replies": []
+    },
+    {
+        "user_name": "nnb*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/LLyTM2iWZHIFK7slbYBObYAUMQ--/comments",
+        "time": null,
+        "context": "故障で回転が止まると落下する恐怖を感じながら生活するのか。\n落下防止の避難場所が10ｍおきぐらいにないと怖い。\nでも小川とか同しようもないし、建築物は止まったときの強度まで計算して建てる必要がある。\nはたして1/6の重力ならどこまで大丈夫なのか。",
+        "good": 7,
+        "bad": 2,
+        "replies": []
+    },
+    {
+        "user_name": "ern*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/bMYQw0KdeH6dpTSITrOdhq11Hg--/comments",
+        "time": null,
+        "context": "「月では重力が1/6G、遠心力が5/6Gとなるので、合算して1Gとする」\n\n遠心力が5/6Gでは√26/6Gにしかならない。1Gとなる遠心力は√35/6G。",
+        "good": 22,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "\"\"\"iiill\"",
+        "user_url": "https://news.yahoo.co.jp/profile/id/sZcXELGeZWJxzbK7dd7G/comments",
+        "time": null,
+        "context": "回転体が無音なわけはなく、\n低音〜低周波画像発生することをお忘れなく。\nかなりストレスになるのよ。\n音により精神的にやられてしまう事もある。\n\n火星や月に降り立って生活するよりその天体の軌道上で人工的重力で生活する方が理にかなっている。\n\nなんで「降り立って地表」で生活なのか？？\n原始的過ぎる。",
+        "good": 1,
+        "bad": 17,
+        "replies": []
+    },
+    {
+        "user_name": "ひとこと",
+        "user_url": "https://news.yahoo.co.jp/profile/id/GtEZw46WZWIHVHHl5Z2q8w--/comments",
+        "time": null,
+        "context": "本物の重力のように引っ張られる力と、擬似重力で押しつけられる力と、\n生体に同じように作用するのかは、実際にできてからのお楽しみ、いや研究結果待ちだね。",
+        "good": 3,
+        "bad": 4,
+        "replies": []
+    },
+    {
+        "user_name": "u_t*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/aA4c8deNVWQgIBMv4Xn_/comments",
+        "time": null,
+        "context": "ただでさえ重力が地球よりも強い星にこの施設を作って生活し続けたら、ドラゴンボールZのギニュー特戦隊にいたバータさんと同じ理屈でものすごく動きの素早い人間になって地球に帰って来るのかな？",
+        "good": 5,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "caw***",
+        "user_url": "https://news.yahoo.co.jp/profile/id/.jWtfpeba2c9.RA.xoyYXA--/comments",
+        "time": null,
+        "context": "記者はもっと勉強しなければならない。科学の世界でオリジナリティーよりも尊重されるものはない。重力発生に遠心力を使うのが京大と鹿島のオリジナルのような記事は誤報。京大も異議を唱えないと同罪にされる可能性がある。",
+        "good": 3,
+        "bad": 9,
+        "replies": []
+    },
+    {
+        "user_name": "abu*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/4jOsw.CZaGUWAJf5asss/comments",
+        "time": null,
+        "context": "でかい建造物をグルグル回すのは大変。環状にレールを引いて高速で電車\nを走らせたらどうだろうと想像したりする。\n無重力状態の国際宇宙ステーションでプラレールで実験してくれんかな。",
+        "good": 0,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "xeo*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/qwc3eVyAb38nAqEo.IWb5FCcZg--/comments",
+        "time": null,
+        "context": "この形では1Gの場所は狭い帯状の部分だけなので非常に無駄が多くなります。現実的ではないように思われます。",
+        "good": 0,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "夜風",
+        "user_url": "https://news.yahoo.co.jp/profile/id/XXK1w9KIZnHxvFcYTfAHCJ1N5Yk-/comments",
+        "time": null,
+        "context": ">月では重力が1/6G、遠心力が5/6Gとなるので、合算して1Gとすると\n\n鉛直に1/6G、水平に5/6Gだと合成された力って1Gじゃなくて0.85Gじゃないですか？",
+        "good": 9,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "rcg*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/73QVe2yKaXdQD2I8l3y0Dg--/comments",
+        "time": null,
+        "context": "宇宙開発の最大の障壁って\n放射線と低重力だよな\nこれがクリアできただけでも\n急激に開発が進む",
+        "good": 5,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "**dav**60",
+        "user_url": "https://news.yahoo.co.jp/profile/id/OJumOu.cY2Y3c6nW.kcY/comments",
+        "time": null,
+        "context": "面倒くさい！\nそんなタワーみたいな建造物を作り回転させるなんてしなくても\n重力子調整素子を床に敷き詰めればいいだけじゃん",
+        "good": 1,
+        "bad": 14,
+        "replies": []
+    },
+    {
+        "user_name": "GAIJI",
+        "user_url": "https://news.yahoo.co.jp/profile/id/Vowexf2eYWfOeID50MnJja8-/comments",
+        "time": null,
+        "context": "体を鍛えるために400Gで頼む！",
+        "good": 0,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "aey*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/py08pdyZb2nj5apMUgtTVPKmFQ--/comments",
+        "time": null,
+        "context": "いよいよ超重力の間も現実になるのかな？",
+        "good": 1,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "Mike2020",
+        "user_url": "https://news.yahoo.co.jp/profile/id/BG0pXF6LYnlS7a6e_EHdg8dWvvixgNA-/comments",
+        "time": null,
+        "context": "藤虎さんの出番ですね笑",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "aw*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/ew4Xc7SZfXFz0pEwIOekKFP9/comments",
+        "time": null,
+        "context": "思考実験は、誰でも出来る。\nでも、こんなの１億％以上、無理。\nそんなの、思考実験すれば誰でも感づく。\n\nそんなことより、地球に住む、\"覚悟と責任\"を持て。",
+        "good": 3,
+        "bad": 27,
+        "replies": []
+    },
+    {
+        "user_name": "hal*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/kvYaTfCQa3wE10xt44oj6A--/comments",
+        "time": null,
+        "context": "ようは閉じ込められるわけね",
+        "good": 1,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "！",
+        "user_url": "https://news.yahoo.co.jp/profile/id/GGfwmEiaZXrIMt5NxzBulw--/comments",
+        "time": null,
+        "context": "長すぎて読む気が失せらあ！",
+        "good": 1,
+        "bad": 6,
+        "replies": []
+    }
+]

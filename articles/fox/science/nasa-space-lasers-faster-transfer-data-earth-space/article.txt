@@ -1,0 +1,13 @@
+NASA is planning to unveil a new laser communications system next month that will allow data to be transmitted between Earth and space at an accelerated rate. 
+
+Slated for launch on June 23, NASA’s Laser Communications Relay Demonstrations (LCRD) replaces radio frequency communications, which NASA has used since the beginning of spaceflight in the 1950s. 
+
+Missions to space have frequently required capturing high-definition data like 4K video. With radio frequency systems, it would take roughly nine weeks to transmit a complete map of Mars back to Earth; with laser, it would take about nine days, according to NASA. 
+
+Laser communications will allow 10 to 100 times more data transmitted back to Earth and open the doors to new discoveries. Additionally, they will require less volume, weight and power, giving more for science instruments, and pose less of a drain on spacecraft power systems. 
+
+"LCRD will demonstrate all of the advantages of using laser systems and allow us to learn how to use them best operationally," said Principal Investigator David Israel at NASA’s Goddard Space Flight Center in a statement. "With this capability further proven, we can start to implement laser communications on more missions, making it a standardized way to send and receive data." 
+
+LCRD’s initial simulation will occur at ground stations in California and Hawaii, allowing NASA to study atmospheric disturbances on lasers. The technology will then be used to support real space missions. 
+
+NASA’s Integrated Low-Earth Orbit User Modem and Amplifier Terminal (ILLUMA-T), set to launch to the International Space Station in 2022, will be the first in-space user of LCRD. 

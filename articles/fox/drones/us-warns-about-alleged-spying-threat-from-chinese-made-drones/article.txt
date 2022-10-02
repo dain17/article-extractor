@@ -1,0 +1,17 @@
+The US government is warning businesses about the risks of using Chinese-made aerial drones on claims they may pose a spying threat.
+
+On Monday, the Department of Homeland Security issued an industry alert over the alleged spying dangers, according to CNN. The alert doesn't name a specific company, but one of the biggest drone manufacturers in the world is DJI, which is based in Shenzhen, China.
+
+The department is worried the drone technologies can collect information and secretly send it back to their manufacturers in China. If this occurs, the Chinese government has the power to compel the manufacturer to hand over all the acquired data.
+
+"Be cautious when purchasing [drone] technology from Chinese manufacturers as they can contain components that can compromise your data and share your information on a server accessed beyond the company itself," the alert says, according to CyberScoop.
+
+"Manufacturers and vendors can build in malware or collect data from your UAS (unmanned aircraft system) device without your knowledge," the alert reportedly adds.
+
+The department issued the warning as the US has also been concerned about 5G networking technology from Chinese vendor Huawei. US officials have argued Huawei's networking gear poses a similar spying risk because the company itself is under the jurisdiction of the Chinese government.
+
+Huawei has repeatedly denied it poses a spying danger. Nevertheless, President Trump last week signed an executive order that empowers the US government to ban technology sales from any vendor it views as a national security threat. So far, no companies have been named, but the executive order will almost certainly target Chinese tech vendors in the US.
+
+DJI has yet to comment on Monday's industry alert. But it isn't the first time the company has faced claims about spying dangers. In 2017, US custom officials circulated a memo claiming that DJI drones had likely been supplying data on US critical infrastructure and law enforcement back to the Chinese government. However, DJI adamantly denied the allegations.
+
+This article originally appeared on PCMag.com.

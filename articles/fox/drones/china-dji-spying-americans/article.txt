@@ -1,0 +1,63 @@
+Drones being used around the country to enforce coronavirus lockdowns were donated by a company with ties to the Chinese government, raising concerns that the nation many blame for allowing the virus to become a pandemic has sneaked a powerful espionage tool into the skies above its economic rival.
+
+Drones from Da Jiang Innovations (DJI) have gone to 43 law enforcement agencies in 22 states to help ensure social distancing rules. In New Jersey, for example, the Chinese-made drones are being used to spy on citizens where patrol cars can't reach.
+
+"Should people be concerned? Yes. Everyone should always be concerned," Brett Velicovich, former Army intelligence worker and author of "Drone Warrior," told Fox News. "You can never trust China."
+
+The company denies any ulterior motives, but others, including drone experts, lawmakers and watchdog groups, say it's a slippery slope and that the bad outweighs the good in this case.
+
+Adam Lisberg, a spokesman for DJI Technology, disagrees.
+
+"Some people are trying to score ideological points by discouraging the use of important equipment and tools that save lives and protect American first responders," he told Fox News on Monday.
+
+Headquartered in Shenzhen, China's version of Silicon Valley, DJI is the world's largest and best-known drone maker.
+
+In 2006, founder Frank Wang started running DJI out of his dorm room at Hong Kong University of Science & Technology. It took DJI less than a decade to rise to global domination. The company made close to $2 billion in 2017 and employs more than 14,000 people. Part of its success comes from its quality of drones, which experts told Fox News is unparalleled. Its price point is also a plus and puts DJI ahead of the game. The company obliterates its closest competitors: Hubsan, also located in Shenzhen, Paris-based Parrot, and San Mateo, Calif.'s GoPro.
+
+Velicovich puts DJI's market share between 87 and 90 percent.
+
+By law, because the company is so profitable and employs so many people, it automatically falls under the Chinese government's eye.
+
+DJI has pushed back on claims its drones are used to spy on Americans and said that users can prevent their devices from transmitting data.
+
+"All DJI customers have complete control over any photos, vidoes and flight logs they generate during their operations," Lisberg said. "None of this data is ever transferred to DJI or anyone else unless they deliberately choose to do so."
+
+While that may be, an expert with deep ties to the intelligence community told Fox News that no one at DJI would even know if the data was being collected or used, except Wang and the Chinese government — and neither of them are talking.
+
+What is known is that pre-coronavirus, U.S. intelligence officials were worried enough about DJI drones to ground its entire fleet. The rise of COVID-19 has cracked the door and allowed DJI drones to once again fly over America's skies.
+
+It's not sitting well with some.
+
+"It's about China's long-term goal, not COVID," drone flyer and Virginia resident Barry Bryer told Fox News. "People will give away their right to privacy because of the coronavirus, but do they know what they are signing up for?"
+
+In early February, the Interior Department issued a no-fly order many thought was aimed at China. The directive, which followed a temporary one issued in 2019, grounded all of the department's drone fleet following concerns that the devices could be used for government and commercial espionage. Interior officials told The Wall Street Journal that all of the department's 800 drones had either been manufactured in China or made with Chinese parts.
+
+Interior Secretary David Bernhardt said while the government would make some exceptions for drones – search-and-rescue operations as well as those involving emergencies where human lives are in danger – he directed U.S. officials to favor domestically made ones out of concern that data collected by aerial drones could be "valuable to foreign entities, organizations and governments."
+
+Sen. Rick Scott, R-Fla., told Fox he had multiple conversations with the DOI and strongly supported the department's decision. In fact, he wants the China drone ban widened.
+
+"It's time to extend this policy to all federal agencies, as well as local law enforcement agencies that use federal grants," he said in a written statement.
+
+Last year, the Department of Homeland Security sent an alert about how drones made by Chinese companies could pose security risks and that the data they gathered could be easily hacked or stolen. The May 20 missive, coupled with a video on its website, warned that drones pose multiple threats including their "potential use for terrorism, mass casualty incidents, interference with air traffic, as well as corporate espionage and invasions of privacy."
+
+The narrator in the video claimed, "We're not being paranoid."
+
+In the DHS notice headlined "Chinese Manufactured Unmanned Aircraft Systems," the department warned that U.S. officials have "strong concern about any technology product that takes American data into the territory of an authoritarian state that permits its intelligence services to have unfettered access to that data or otherwise abuses that access."
+
+Velicovich told Fox News that if there are warnings coming from the intelligence community, they should be heeded.
+
+"I can tell you that U.S. intelligence knows the impact of their reports and if they are saying that this is going back to the Chinese, then there is something there," he said. "They do not have a political bias, they are not Republican or Democrat. They are straight down the middle and do not have an agenda."
+
+Critics, on the other hand, claim that drones provide a safer option than sending helicopters into hazardous conditions. For example, in May 2018, the Interior Department sent out several drones to track lava flows at Hawaii's Kilauea volcano. The dozens of lava fissures surrounding rural communities on the Big Island shook the area and led to the state's strongest earthquake in 43 years. Within a day of a lava fissure appearing in the volcano's rift zone, a team of scientists had a drone in the air which fed crucial information back to emergency response teams.
+
+Drones have also become a widely used tool for oil companies that fly them over pipelines to inspect infrastructure in hard-to-reach places that had put people at risk.
+
+Lisberg told Fox there are plenty of people in Washington trying to discredit China but cautioned against "using fear and a bunch of hypotheticals" to take a tool that could save lives and turn it into something sinister.
+
+While not directly addressing drones, some lawmakers like Sen. Mark Warner, D-Va., have introduced legislation that would prohibit large cities from buying Chinese-made subway cars due to safety concerns.
+
+"A rail car might have a whole host of sensors (and) communication tools, and when that equipment is manufactured in China... and when that equipment sometimes can be upgraded on a remote basis in terms of a software upgrade, there are national security implications," he said.
+
+The takeaway is that there's an issue with technology from any Chinese company.
+
+"The Communist Party of China now has in their law the availability to interfere and take information from virtually every Chinese company," Warner warned. "As long as that exists, that provides a whole set of vulnerabilities I think American business has to consider on a going-forward basis."

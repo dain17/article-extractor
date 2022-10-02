@@ -1,0 +1,38 @@
+[
+    {
+        "user_name": "ydf*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/G3LnCamBbnZydpraSVICYg--/comments",
+        "time": null,
+        "context": "半径15ｍのミニカプセルの場合、身長1.5mの人でも頭部と足の裏でそれなりの重力の差が発生しそうだけど、気にならないのかな。\n　無重量状態には天井や壁面も区別なく使えるメリットがあり、巨大な乗り物全体を回転させて疑似重力を発生させるより、実験を重ねて無重量状態が健康に害を及ぼさないレベルを見極めて、たとえば睡眠スペースや運動スペースだけ疑似重力を発生させた方が効率的に思える。\n\n　本記事とは関係ないけれど、回転による疑似重力下で球技をやるとコリオリ力と回転軸からの距離で、投げたボールが地球上とは全く違う奇妙な動きをするんだよね。スペースコロニー魔球とかちょっと見てみたい。",
+        "good": 7,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "abc*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/4TZFYS2ZaHOE7.ZIjlESSeIN/comments",
+        "time": null,
+        "context": "人間が暮らす上で不快にならない人工重力の最小半径、回転数はいろいろ研究があったはずなので一端地球低軌道で実証実験してみて欲しいな。ISSでそれが実現できなかったのは痛い",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "tako_jun3",
+        "user_url": "https://news.yahoo.co.jp/profile/id/5mo2hXmMa3uNttHwTol5VagNSg6M/comments",
+        "time": null,
+        "context": "直径にして60m、おおよそ大きめの観覧車程度の大きさの円周上を毎分5.5回転の速さで回るとなると、人間の大きさでもコリオリの力の影響で酔ってしまいそうな気がするけど、その辺は大丈夫なのだろうか",
+        "good": 3,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "y_t*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/v7Thsp.BVWSu9f8bDhKIi2i93w--/comments",
+        "time": null,
+        "context": "ドーナツや円筒を回転させるよりいいのかなあ。",
+        "good": 0,
+        "bad": 1,
+        "replies": []
+    }
+]

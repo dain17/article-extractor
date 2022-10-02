@@ -1,0 +1,25 @@
+NASA's Chandra X-ray Observatory has released two new sonifications of well-known black holes.
+
+The first came from a black hole at the center of the Perseus galaxy cluster, which was made well-known due to sound waves detected around it by Chandra in astronomers 2003. 
+
+In a release, the observatory wrote that scientists discovered pressure waves from the black hole caused ripples in the cluster's hot gas that could be translated into a note some 57 octaves below middle C. 
+
+NASA notes that the sonification is unique because it revisits the actual sound waves discovered in Chandra's data. 
+
+The sound waves were extracted outwards from the center and the signals were then resynthesized into the range of human hearing by scaling them upward by 57 and 58 octaves above their true pitch. 
+
+"The popular misconception that there is no sound in space originates with the fact that most of space is essentially a vacuum, providing no medium for sound waves to propagate through," Chandra wrote. "A galaxy cluster, on the other hand, has copious amounts of gas that envelop the hundreds or even thousands of galaxies within it, providing a medium for the sound waves to travel."
+
+In the visual image of these data blue and purple both show X-ray data captured by Chandra and the radar-like scan allows people to hear waves emitted in different directions.
+
+For the black hole at the center of Galaxy M87, or Messier 87, the sonification does not feature the data from the Event Horizon Telescope (EHT) project – which made it famous in 2019 – but looks at data from other telescopes that observed M87 on much wider scales at roughly the same time. 
+
+Listeners can hear representations of three different wavelengths of light, including X-rays from Chandra, optical light from NASA's Hubble Space Telescope and radio waves from the Atacama Large Millimeter Array in Chile. 
+
+In the corresponding image, the brightest region on the left is where the black hole is found and the structure to the right is a jet produced by the black hole. 
+
+The sonification scans across the image from left to right, with each wavelength mapped to a different range of audible tones. 
+
+Radio waves are mapped to the lowest tones, optical data to medium tones and X-rays to the highest tones. 
+
+The brightest part of the image corresponds to the loudest portion of the sonification.

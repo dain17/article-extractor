@@ -1,0 +1,28 @@
+[
+    {
+        "user_name": "key*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/8Rqz13qTb2nkjbgC3fMj6no-/comments",
+        "time": null,
+        "context": "サムスンが真似しそう",
+        "good": 0,
+        "bad": 5,
+        "replies": [
+            {
+                "user_name": "fu",
+                "user_url": "https://news.yahoo.co.jp/profile/id/79EONc2ef2TqnfTJxB1d7Q2Cx9Zg/comments",
+                "time": null,
+                "context": "サムスンはイスラエルに進出済みだろ",
+                "good": 1,
+                "bad": 0
+            },
+            {
+                "user_name": "mas*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/SgzQ2OWVa2Npa0y0VnQhtHGBEA--/comments",
+                "time": null,
+                "context": "イスラエルに開発拠点、Intelの真似ですか？",
+                "good": 3,
+                "bad": 0
+            }
+        ]
+    }
+]

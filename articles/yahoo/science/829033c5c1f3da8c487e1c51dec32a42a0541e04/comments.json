@@ -1,0 +1,73 @@
+[
+    {
+        "user_name": "amam",
+        "user_url": "https://news.yahoo.co.jp/profile/id/hSx8ZV6feHVHeQ6wmRbd21rR_g--/comments",
+        "time": null,
+        "context": "最近の様々な国どうしの関係悪化を説明するのにものすごく役立ちそうな気がする。\n社会現象としてとしてとらえるだけでなく、生物の機能の面から捉えることで、戦争に至る過程を正確に説明できるようになるのではないか。\n第二次世界大戦に至った過程も明確に説明できるようになるのかもしれない。",
+        "good": 3,
+        "bad": 0,
+        "replies": [
+            {
+                "user_name": "mulla",
+                "user_url": "https://news.yahoo.co.jp/profile/id/rWNHSY6cfnPpL981k5vVlg--/comments",
+                "time": null,
+                "context": "確かに、生物学的考察は必要かもしれませんね。\n\n人は人間である以前に「生物」なのですから。",
+                "good": 1,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "mkx*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/OfLEVS.VYWguGzbziZLef8ycDw--/comments",
+        "time": null,
+        "context": "挑発されると脳の3部位が働き、攻撃性が高まると……\n今の社会で挑発に乗って、その場で怒ってしまうと、コンプラ的に個人のコミュニケーションの問題にされてしまう会社も多いので、先ずは適切な対応をして、一旦その場から離れるのが吉だと思います。\nいくら理不尽な事があっても瞬間的に怒ってしまうと、後々損をする事になるので、一旦離れて落ち着いてから上司に報告、相談するのが一番良いです。",
+        "good": 1,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "ggg*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/rvEOkZSfbXfi2SZ5JoPRWTUvCw--/comments",
+        "time": null,
+        "context": "逆に抑制すると、挑発を受けても攻撃が通常攻撃と変わらない程度にとどまった。\n\n抑制したら通常攻撃よりも減るか全く攻撃することがなくならないと意味ないでしょ。実験が不十分か、結論の出し方が今一つだね。",
+        "good": 0,
+        "bad": 6,
+        "replies": []
+    },
+    {
+        "user_name": "非常識な組織*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/JlhyuxKdbXhANhq_GTwFWARBog--/comments",
+        "time": null,
+        "context": "挑発すると攻撃性が高まる？　\nマウスによる動物実験段階ね。この研究、わざわざ研究費を費やさなくても当然の事のようにも思えるが。\n特に、我が国日本人の場合は大きく該当する国民ではないのだろうか？",
+        "good": 6,
+        "bad": 19,
+        "replies": [
+            {
+                "user_name": "e4t*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/uiqoZXedPmS3CS7EwOoq6g--/comments",
+                "time": null,
+                "context": "\"当たり前\"がなぜ当たり前かを説明する研究ですよ",
+                "good": 3,
+                "bad": 0
+            },
+            {
+                "user_name": "優しい神様",
+                "user_url": "https://news.yahoo.co.jp/profile/id/GoUWRGiKc2UMnsh64F40/comments",
+                "time": null,
+                "context": "さすが、我が国の研究は世界一だ。",
+                "good": 1,
+                "bad": 1
+            }
+        ]
+    },
+    {
+        "user_name": "npa*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/F7cK5OyWenHuwOw6M0jrACTatg--/comments",
+        "time": null,
+        "context": "怒りの理路整然",
+        "good": 1,
+        "bad": 0,
+        "replies": []
+    }
+]

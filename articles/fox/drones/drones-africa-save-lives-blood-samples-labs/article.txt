@@ -1,0 +1,55 @@
+It is understandable that when people think of drones in Africa, their mind immediately goes to the unmanned aerial vehicles used by the U.S. to track down and kill Islamic militants in Somalia, or those flown by fighters in Libya.
+
+With the U.N., there are drones on the continent that keep the peace, rather than make war. Such experience is now also being applied in the U.S.
+
+The U.N. is using what they call Unmanned Aircraft Systems or UAS to support military peacekeeping operations and security services in the Democratic Republic of Congo, Mali and the Central African Republic of Congo.
+
+A peacekeeping spokesperson told Fox News drones "significantly contribute to force protection", offering aerial security for camps, escorting convoys, identifying, tracking and monitoring armed groups, and providing search capabilities in support of rescue operations.
+
+The U.N. claims drones are an essential and integral part of mission operations: "In hazardous scenarios, a few minutes can differentiate between life and death, so every second counts. UAVs allow us to quickly assess the security of landing zones immediately after our convoys are attacked by Improvised Explosive Devices (IED), for example. With this real-time visibility, we know whether it is safe or not to proceed with casualty evacuation (CASEVAC) helicopter operations in that location."
+
+In many African countries, at the best of times, rough dirt roads can make it difficult to get to blood samples before they expire, or to get emergency medical supplies to patients in time.
+
+In Southern African countries this year, flooding caused by Cyclone Idai cut off large areas. In Malawi, one of the affected countries, “drones can really save lives”, UNICEF’s Drone Co-ordinator Tautvydas Juskauskas told Fox News.
+
+The organization administers a mostly humanitarian, 3,000-square-mile, air corridor 75 miles north of the capital, Lilongwe, with 13 different entities using drones for a wide range of uses – from medical deliveries to aerial and even wildlife mapping. Drones have also been used to survey stagnant water in order to identify malarial mosquito breeding sites.
+
+Drones are being used here to rush blood samples from newborn babies, testing for HIV, to laboratories – and the results are flown back fast. A speedy diagnosis is very important for newborns’ survival, Juskauskas said.
+
+In Northern Malawi, access to blood tests was limited for residents of a remote island in Lake Malawi because there was only a ferry to the lakeshore once a week. But a drone service funded by USAID now gets a diagnosis within hours.
+
+Virginia Tech has been so successful in implementing drone internships for five Malawians that they’ve been taken on full-time by USAID.
+
+And now UNICEF Malawi is working on establishing the African Drone and Data Academy. Most drone pilots working on humanitarian missions in Africa have been Americans, or from other continents.
+
+A U.S. company has had by far the biggest positive drone impact in Africa.
+
+Zipline developed and tested its proprietary fixed-wing drones in its native California, and has made more than 16,000 medical deliveries, flying one million miles, since it started operations in Rwanda in 2016. Drones are launched from aircraft carrier-like ramps from two centers, which cover almost the entire country.
+
+The UAVs fly at 60 mph below 400 feet over and around Rwanda’s rugged hills on pre-plotted flight plans to remote clinics up to 50 miles away.
+
+The software system automatically sends WhatsApp or SMS messages to the clinic when the drone is five minutes out, alerting the recipient to go outside. Upon arrival, the drone drops to around 30 feet,  ejects the delivery in a box, and it floats to the ground by parachute. The electric UAV then returns to the base, where it is caught with wires and retrieved.
+
+"We are currently supplying blood, and emergency vaccines such as anti-venom needed for snake bites,” Israel Bimpe, Zipline’s head of national implementation for Rwanda, told Fox News. “It has led to emotional testimonies."
+
+Before the drones, it could take 11 hours or more to get medication because of bad roads and bureaucracy. Now, a flight can take off within ten minutes of a call, and the medication normally is delivered in under an hour.
+
+South Africa has the 10th biggest paved road network in the world, and therefore drones are not needed for emergency supply distribution. But the country also has more disposable income than most on the continent. So it’s not surprising that using drones for recreation has become popular.
+
+Fishing by drone has really taken off, and the U.S. has become the biggest market for the equipment developed on South Africa’s South coast.
+
+UAVs are being used to enable people to go deep-sea fishing – while standing on the beach. Ardent fisherman Jacques Venter has had great international success with his Gannet accessory. A line, hook or equivalent, and bait can be attached with it to most drones, and flown up to 1,640 feet offshore, before pressing a button on the drone’s remote control or phone app releases the line. When the person fishing gets a bite, they just reel in the fish in the normal way.
+
+“Instead of casting into the breakers, you can catch deep-sea fish. Normally at 500 meters [1,640 feet] from the shore, you would need a boat," Venter said.
+
+Venter claims to sell 30 of these bait release systems a day, with the majority being exported to the US. Drone fishermen land up to 1,300-pound sharks – and the system enables even those in wheelchairs to go fishing.
+
+Whether it’s for sport or, more usually, for delivering medical supplies to hard-to-reach clinics, drone use is rapidly spreading throughout the African continent. Right now, medical aid test flights are also being carried out in Kenya, Uganda and Tanzania, and full-scale operations are underway in Ghana.
+
+In the U.S., drones are often viewed as a nuisance. But overwhelmingly, drones are welcome here. In Rwanda and Malawi, for instance, large curious crowds gather when people learn a drone is coming to their clinic.
+
+And in somewhat of a role reversal, drones developed and tested in Africa are coming to America.
+
+Zipline has used its African experience to gain FAA approval to start drone operations delivering medical supplies and home deliveries in North Carolina.
+
+“It will make a difference for just-in-time deliveries,” Zipline’s Bimpe said. Parts of North Carolina, he noted, are almost as remote as Rwanda, and “here it has saved lives on numerous occasions.”

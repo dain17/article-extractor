@@ -1,0 +1,57 @@
+One town in North Carolina is thinking outside the box to help residents stay safe at home but still receive groceries or meal deliveries, on demand, during the coronavirus crisis.
+
+A pilot program is being launched in Holly Springs to use drones to deliver daily essentials from a local shopping center to homes in the area. The delivery method can save customers’ time so they're not waiting in lines or driving to and from the Holly Springs Towne Center, but the no-contact service also allows customers to stay in their homes, avoiding crowded locations or unnecessary contact with delivery drivers.
+
+The town of Holly Springs partnered with drone delivery company Flytrex and the North Carolina Department of Transportation to earn a spot in the Federal Aviation Administration’s highly selective UAS Integration Pilot Program.
+
+Flytrex has successfully launched drone delivery programs in North Dakota, Israel and Iceland, demonstrating its ability to quickly transport meals and other consumer goods to hard to reach places.
+
+Wes Shover, Flytrex’s head of U.S. operations, spoke with Fox News about the constantly evolving landscape of drone deliveries. “As lessons are learned, technology needs to change, and we are working with our customers, adjusting our product as we scale,” Shover explained.
+
+“When shelter-in-place orders were established, immediately people were wondering how they were going to go about day-to-day life,” Shover said. “People, especially during COVID, still can receive goods and items like food that they need, without undue exposure to COVID.”
+
+Flytrex is able to reach about 120 homes in Grand Forks, North Dakota, where customers are able to use the app Flytrex Eats to order items from Walmart or Dairy Queen. Thanks, in part, to the flat landscape, Grand Forks was an ideal location for Flytrex to begin carrying out U.S. drone deliveries. The low population density and very rare air traffic also allowed for a low-risk environment.
+
+All current operations are compliant under FAA Part 107 rules, and the unmanned drones never leave the sight of the remote pilots in command. The routes are all pre-programmed and the drone operates autonomously using GPS.
+
+“Right now, in Grand Forks, you have to wait two weeks to get curbside pickup,” Shover said. “Now, with drone delivery, not only do customers keep themselves from risk, but they can receive same-day, on-demand delivery.” Instead of getting in the car, driving to the store and waiting in line, “we’ll do it for you, and we’ll do it safer than 120 residents all going into Walmart and posing a risk to your family.”
+
+Flytrex Eats customers receive an introductory video that walks users through the process from ordering to delivery, along with many reminders not to stand beneath the drone or try to touch it in any way. The app also allows users to track the drone flight using a live map of the delivery route. The drone hovers at 65 feet and then lowers the delivery using a cable, so the unmanned aircraft never needs to land during the direct-to-home delivery.
+
+Shover said most customers like to watch the delivery from their windows or doorways the first few times, but eventually the novelty wears off. “That’s a win,” he said, “they treat it as a normal thing.”
+
+In North Dakota, Flytrex and its partner EASE Drones are flying a modified version of a DJI Matrice 600 unmanned aircraft to make the deliveries to customers. The drone can hold up to 6.6 pounds of groceries or meals, and Shover said Flytrex simply makes multiple trips when the order exceeds the weight limit.
+
+Already in operation in Iceland and Israel, Flytrex delivers to customers using its own FTX 600 aircraft, instead of the DJI Matrice. Shover said they hope to get the Flytrex craft type certified, meaning formally approved for flight by the FAA, as soon as possible.
+
+Holly Springs was the perfect next stop for Flytrex’s food delivery, according to Aaron Levitt, the assistant director of engineering for Holly Springs. Levitt told Fox News that the “young and growing town” has expanded from a population of 1,000 up to 40,000 in the past 20 years. “We got to where we are by having a good vision of the future,” he explained. The quiet community is “not afraid to try something innovative,” which added to the appeal of the Raleigh suburb as a Flytrex food delivery site.
+
+North Carolina, the “First in Flight” state, is known for its rich aviation history, dating back to the pioneering Wright brothers’ first flight in 1903.
+
+Fox News spoke with Basil Yap, the Unmanned Aircraft Systems program manager for the North Carolina Department of Transportation, about the state’s involvement in new drone initiatives including the Flytrex program, as well as critical medical deliveries and supplies in both Charlotte and Raleigh.
+
+Yap explained that prior to package delivery pilot programs, the NCDOT and others already used drones for various purposes in North Carolina, including not just bridge inspections and agriculture, but in the aftermath of hurricanes. He explained that not only are drone operation much less expensive than using helicopters, but they can be more accurate and “leave no trace behind,” which lessens the environmental impact.
+
+Levitt said that Holly Springs, specifically, was “ahead of the curve instead of following the crowd.” The town has used drones to monitor traffic, he explained, and observe heavy traffic at local school carpool times. Holly Springs also was able to use drones to create video tours of large plots of land or construction sites, Levitt said, working remotely with new businesses interested in relocating.
+
+Whether in Grand Forks, North Dakota, or Holly Springs, North Carolina, many people living there are concerned not only about drone safety, but also about privacy.
+
+North Carolina has required commercial and government drone pilots to take a specific knowledge exam, on top of the FAA’s national Part 107 Unmanned Aircraft General Knowledge Test. The state exam “looks at state-specific laws and is focused on the privacy and safety of residents in North Carolina,” Yap said.
+
+According to Flytrex’s Shover, the drones used for meal deliveries don’t carry any cameras at all, so residents are not seen or recorded by the drone.
+
+The delivery drones fly below 400 feet, and partnering up with Causey Aviation in North Carolina, a remote pilot operator would be able to operate up to five automated drone delivery routes at a time, according to Shover.
+
+Prior to the stay-at-home orders in North Carolina, Flytrex had been FAA approved to fly a trial route from the Holly Springs Towne Center to Ting Park, a popular local outdoor sports complex that hosts large events and youth games. The orders would have been loaded at Flytrex’ distribution center, housed in the shopping center, and then flown directly to customers ordering from nearby Ting Park.
+
+“Instead of leaving the field, driving over and getting take-out, which is about a 25-minute round trip drive,” NCDOT’s Yap said, the drone delivery gets it “down to a three-minute flight.”
+
+But after coronavirus spread led to social distancing regulations, the park closed, and the team in North Carolina pivoted to prioritize at-home deliveries.
+
+Shover said he spoke with more than a dozen businesses in the Holly Springs Towne Center, and all of the general managers were interested in participating in a drone delivery program. When up and running, customers would be able to order from local restaurants like Mason Jar Tavern, or chains like Starbucks or Panera Bread.
+
+“But, deliveries don’t need to be limited to food,” explained Holly Springs’ Levitt, “retailers like Target, Dicks Sporting Goods and others are located there as well.” Once social distancing restrictions loosen, Levitt hopes “tech tourists” might even come to take a peek.
+
+Currently, the drone operator must have the drone in view during the flight or use a designated Visual Observer who takes on that responsibility. In order to expand to other towns and cities, Flytrex hopes to eventually get FAA approval to fly automated drone routes “beyond visual line of sight,” using existing technology to keep the drone safe in the skies, all while dealing with obstacles like tall trees and changing topography.
+
+Flytrex has anticipated being able to serve the Holly Springs community as early as June.

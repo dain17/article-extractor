@@ -1,0 +1,23 @@
+MARBLEHEAD, Mass. – One of the world's largest package delivery companies is stepping up efforts to integrate drones into its system.
+
+UPS has partnered with robot-maker CyPhy Works to test the use of drones to make commercial deliveries to remote or difficult-to-access locations.
+
+The companies began testing the drones on Thursday, when they launched one from the seaside town of Marblehead. The drone flew on a programmed route for 3 miles over the Atlantic Ocean to deliver an inhaler at Children's Island.
+
+The successful landing was greeted by jubilant shouts from CyPhy Works and UPS employees on the island to witness the test.
+
+"I thought it was fantastic," said John Dodero, UPS vice president for industrial engineering.
+
+CyPhy Works founder Helen Greiner, who previously co-founded robot-maker iRobot, said the drone tests with UPS allow her company to gather engineering and cost information and then work with UPS to look at where drones can add the most value to UPS' extensive network.
+
+Still, the robot-maker doesn't see drones replacing delivery trucks, bikes, buggies or gondolas anytime soon.
+
+"Drones aren't going to take the place of all delivery, but there are places where you have inaccessible location, an emergency situation where the infrastructure is down, you want or need the package quickly — these are the areas where drones will be the best way to get a package to a location," Greiner said.
+
+It's not all clear skies for drones, though.
+
+Newly revised federal aviation regulations don't permit commercial drones to fly over people not involved in their operations and require them to remain within line of sight of their operators at all times, effectively rendering commercial deliveries impossible. But those restrictions aren't keeping drone-makers and their partners from racing to develop technology suitable for commercial deliveries while they work with regulators to tweak existing rules.
+
+United Parcel Service Inc., based in Atlanta, isn't the only company testing drones. Wal-Mart is testing drones it says will help it manage its warehouse inventory more efficiently, and Amazon.com is testing them for home delivery.
+
+CyPhy Works Inc., based in Danvers, manufactures tethered surveillance drones capable of remaining airborne for hours while streaming reconnaissance data that can't be intercepted, jammed or spoofed.

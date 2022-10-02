@@ -1,0 +1,734 @@
+[
+    {
+        "user_name": "tko*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/WJA_zzCMYX8HT2_hnc8G/comments",
+        "time": null,
+        "context": "現状人材が余っている博士号取得者を研究専任とその他に分け、その他の人に研究以外に必要な業務に充たってもらうようにすれば良いという内容と理解した。確かに民間でない研究者としてまず思いつく大学教員は研究以外の業務が多く、記事にあるような分担があればもっと研究が捗るのは明白だと思う。\n\n一方で博士号取得者はキャリアごく初期から大学教員ないしはそれに準ずる職に就くことを目標にしていることもあり、その意識改革は一筋縄ではいかないだろうなとも思う。\n\nいずれにしても研究費の効用を最適化するために研究者や研究を支える人たちへの人件費をもっとかけるべきだというのはその通りだと思う。",
+        "good": 95,
+        "bad": 5,
+        "replies": [
+            {
+                "user_name": "cjr*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/RWH2SYubYGJ2Ox9eMcbzDg--/comments",
+                "time": null,
+                "context": "＞アメリカで最もポピュラーな研究費であるR01(5年で約2億円)を例にとって考えてみよう。,,,,,,,,,,,,,すなわち日本でいう基盤Aくらいの規模にあたる。\n\n＞そんなR01の採択率が10~14％ほどだ。駆け出しのAssistant Professorから歴戦のProfessorまで皆R01を狙う。\n\nこれは無いですね。駆け出しのAssistant Professorが（一応助教か講師として）、基盤Aを狙うなんて普通やんないです。やっても無駄ですから。だいたい、学会内のヒエラルキーでもらえる候補者は決まっているように見えます。つまり、相当名前の知れた40後半から50くらいの人が多いんでしょう（恥ずかしながら縁がなかったので、よく知らないです）。若手が大きなお金を貰えないという側面はありますね。",
+                "good": 10,
+                "bad": 3
+            }
+        ]
+    },
+    {
+        "user_name": "msn*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/OckIOTmVeX7ijmt1TxB8y8xxpQ--/comments",
+        "time": null,
+        "context": "現在の日本では説明のうまさを過大に評価している、ということがあるのではないですかね。\n説明のうまさとその他の能力、研究開発とかものを作り出す能力とかは必ずしも一致しない。\n説明のうまさが評価され過ぎるのは、成果主義になって評価する側に分かりやすいものばかりが評価されるようになったのが原因の一つだと思う。\n説明が上手いのは良い事だが、評価の基準はバランスが必要なんだと思う。",
+        "good": 101,
+        "bad": 10,
+        "replies": [
+            {
+                "user_name": "suno*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/0xXfEb2TZXLorAptI1VjwGBS/comments",
+                "time": null,
+                "context": "元々「日本人は仕事の内容に比して説明が下手」から「もっとプレゼン力強化が必要、日本人が思っている以上にプレゼン力は大事」という流れでプレゼン力が重視されてきた経緯があったと思います。今元々の前提「日本人は仕事の内容に比して」はどうなってるんですかね。",
+                "good": 19,
+                "bad": 2
+            },
+            {
+                "user_name": "msn*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/OckIOTmVeX7ijmt1TxB8y8xxpQ--/comments",
+                "time": null,
+                "context": "どうも日本では何か反省点があると極端に行き過ぎるきらいがある。\nプレゼン力が重要なのは異論がないが、プレゼン力だけが大切なわけではない。\nかっていた職人気質な研究者などは不遇をかこっているのだろう。",
+                "good": 19,
+                "bad": 4
+            }
+        ]
+    },
+    {
+        "user_name": "ten*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/LGuO9WWMb34q4abgDPewtQoB/comments",
+        "time": null,
+        "context": "科学技術研究費と一括りにしているが、その殆どが民間の研究開発費。日本は、研究所や大学などの公的部門の科学技術研究開発費の割合が他国より低いという視点が抜けている。公的部門の支出が十分でないため上に、偏っているので、大学の研究室間の格差がひどく大きく、一部の研究室にだけ有り余る金がばらまかれて全体最適になっていない。むしろ限界効用逓減の法則で非効率になっている。研究所や大学の公的部門の支出金額を増やして、偏りを減らして全体の効率を上げるべき。",
+        "good": 27,
+        "bad": 3,
+        "replies": []
+    },
+    {
+        "user_name": "yam",
+        "user_url": "https://news.yahoo.co.jp/profile/id/Jvb5PDSBa30q3_.vbe.pJqE_b54-/comments",
+        "time": null,
+        "context": "圧倒的に豊富な軍事研究費がベースにある米国と、30年前から貧困化政策をとっている日本を表面的に比べても本質まではたどり着かないのかもと思います。\n大学法人化や働き方改革を行い、研究開発環境を圧倒的に劣化させてきた30年間の成果が素直に出ているだけだと思います。そして、表面上の思い付きレベルの改革という名の政策を小手先でやっているだけでは難しいと思います。\n企業においても、消費税導入、非正規研究者への転換をはじめとして、国内の研究開発企業に対しても劣化のための政策が次々と打たれてきています。\nまずは、ベースとなる国の政策（最初は緊縮財政政策からの脱却）が変わらない限り難しいのではないかと思います。",
+        "good": 113,
+        "bad": 20,
+        "replies": []
+    },
+    {
+        "user_name": "mk_*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/aK8Y9CeVYU9ta3.NvTCyWh0AMA--/comments",
+        "time": null,
+        "context": "この記事では日本の研究者への予算は従来と大きな変化はないと言っているのに研究論文数は激減していると在る。\n研究者の活用が生かされていから収入も少なく海外へ流出する人が増えるのだと感じます。\n有能な研究者への報酬や処遇の見直しも必要でしょう、日本学術会議の軍事開発に利用されるからと軍事産業への非協力的な姿勢は如何なものかと感じます、そうした中、日本学術会議のメンバーは高給で中国の軍事産業で利用できる技術支援をしているとの報道も見受けられ、矛盾した行動に怒りを覚えました。\n日本の軍事産業は海外への輸出もままならず、自衛隊にしか納入できずコストも高くなって国民負担は増える。\n隣国は海外輸出で性能向上と国民負担軽減を図り好循環の体制を執っている、日本も見直すべきでしょうね。",
+        "good": 36,
+        "bad": 52,
+        "replies": [
+            {
+                "user_name": "kv_*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/qXxduwWTfE.PjpaFyns-/comments",
+                "time": null,
+                "context": "物価が上がってますから，今までと同じ金額ということは，物価上昇分が実質減額されてるのと同じことです。自民党が物価を上げたいと言ってるのは，年金額をステルス減額できるからという目的もあります。額が同じでも，物価が上がれば，実質減額されてるのと同じこと。でも高齢者は金額が変わらなければ，ステルス減額されてることに気づかないという。",
+                "good": 12,
+                "bad": 3
+            },
+            {
+                "user_name": "vlr*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/KzPIn7uOZmKrmEW4SHJN0UFNKw--/comments",
+                "time": null,
+                "context": "貴方、HANADAやWILLの雑誌、読んでない？\n学術会議の改革は必要だと思ってますが、一度学術会議の報告書を読んでみたら？　ホームページで公開されているので、Googleで検索できますよ。",
+                "good": 17,
+                "bad": 5
+            }
+        ]
+    },
+    {
+        "user_name": "tak*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/7YJ2.W2Ma3s9fFpRVbI3cJrQIQ--/comments",
+        "time": null,
+        "context": "国立大学の教員をしています。筆者の考えには概ね同意であり、大学内の業務の適切な分担が必要です。ただ、そのために必要なのは大学内、特に教員の意識改革です。現状は教員がリソースと権限に集中しており、それに伴って業務も集中するという構図です。研究に専念したいのであれば、業務と合わせてリソースや権限を他に移譲すれば良いのにそれをしない。教員以外は低い給与で丁稚のごとく働かせておいて、主体性がないだの能力が低いだの不満しか言わない。大学の経営陣や教員は研究者以外の専門性を認め、伸ばすためにも、適切な報酬と権限を与えるべきです。",
+        "good": 6,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "smw*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/AFhGJgaLZ2ft91xNrpLmPz3IGQ--/comments",
+        "time": null,
+        "context": "任期制の非正規職であるポスドクもしかり、縁の下の力持ちである研究支援関連職等、日本では生活を保証された正規職とは見なされてないと思う。博士号取得者の研究支援職等人材が必要な所がたくさんあると思いますが、ただお金を出したくないだけで出来るだけ安くあげようとしているから（だから小手先ばかり対応でその技術だけは長けている）いつまで経っても科学後進国から抜け出せないのだと思います。生活が保証されてからの研究成果だと思う。",
+        "good": 44,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "mas*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/k6OPnFKVa2P363rHpWU5XotK/comments",
+        "time": null,
+        "context": "研究に費やす時間が減少したというのは間違いない。私自身、研究者をしているが、昔と比べて資料作りに割く時間が急増した。研究所の予算削減でサポート員がいなくなったこと、安全優先を理由に点検ばかりやらされていること、競争的資金ばかりが多くて予算獲得に時間が割かれていること、研究費の不正利用などの不祥事が起こるたびに余計な調査や手続きが増えるなど、さまざまな問題が急増した。もう日本では研究できないだろう。",
+        "good": 176,
+        "bad": 10,
+        "replies": [
+            {
+                "user_name": "mmn*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/RNebXdOVY34TYenb2wA-/comments",
+                "time": null,
+                "context": "疎かにするとは言ってないと思います。\n疎かにできないから時間がない。\nそのような事をやる人員が取れればいいけど\nそんな予算もないし、取れても一時的で継続して取れるか不透明すぎる。\n何もかもを不安定な研究費で賄う事が無理だと思う。\n所属施設が固定費を持って(本来そのための間接経費のはずだけども、これも獲得できなければ絵に描いた餅)、研究費は研究だけにある程度の自由度を持って使えないと、このままダメダメ一直線ではないかと。",
+                "good": 35,
+                "bad": 3
+            },
+            {
+                "user_name": "mas*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/k6OPnFKVa2P363rHpWU5XotK/comments",
+                "time": null,
+                "context": "煩雑な手続きや事務処理に忙殺されることはしょうがない、当たり前だ、というのであれば、やはり日本で研究したいと思う人は減ると思います。",
+                "good": 48,
+                "bad": 1
+            },
+            {
+                "user_name": "s99*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/Rmc.K9mLMykLUys9uh9BQw--/comments",
+                "time": null,
+                "context": ">安全優先を理由に点検ばかりやらされていること\n\n当たり前のことでしょう。大変なことも多いとは思いますが、これを疎かにされるのはどうかと思います。",
+                "good": 6,
+                "bad": 89
+            },
+            {
+                "user_name": "gat*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/4MWFpTWfa2QTZttYwqrgF0pG.OcCG.yz/comments",
+                "time": null,
+                "context": ">当たり前のことでしょう。大変なことも多いとは思いますが、これを疎かにされるのはどうかと思います。\n\n\n無駄に点検させられてるって話です。",
+                "good": 56,
+                "bad": 2
+            }
+        ]
+    },
+    {
+        "user_name": "ぺっと",
+        "user_url": "https://news.yahoo.co.jp/profile/id/Vd.BPHeIb2S1g2jBiP0UJw--/comments",
+        "time": null,
+        "context": "大学が影響力を持ち過ぎているのも問題かと。\n私自身、大学での研究に限界を感じて退職し、民間企業で他の業務の合間に研究を行っていますが、論文発表を禁じられたり、学会から締め出されたり、大学からの強い圧力を受けています。\n大学と民間との協力が進むのが理想だと思うのですが、大学にとっては民間との競争が脅威なのかもしれません。",
+        "good": 15,
+        "bad": 25,
+        "replies": []
+    },
+    {
+        "user_name": "1＊＊＊＊＊＊＊",
+        "user_url": "https://news.yahoo.co.jp/profile/id/_UQJ7AKBf2O_WpvwiqE0bAQ-/comments",
+        "time": null,
+        "context": "結局のところアメリカが、アメリカがと言っている間は安泰だろう。\n\n世界で一番発展している国と比較して劣るのは当然。日本は日本であり、必ずしもアメリカを見習うのが正しいというわけではない。\n\n数が正義だというのなら、実際に多くの特許を取得し先端技術を独占している日本は低迷とは無縁の立ち位置にある。\n\nもちろん日本の研究機関には課題は多くあるだろうが、アメリカが必ずしも正しいという論調は理解出来ない。\n\nアメリカは恵まれているというが、実際には研究者たちは自ら死に物狂いで仕事を得て、それを給料や研究費に用いている。\nだからこそ企業は投資として大学や研究者に金を払い、仕事を与える。\n逆にいえばこれが出来ない研究者は能力があろうと消えていく。\n\n日本の研究者や学生にその気概があるだろうか。そもそも海外に進出することを悪と捉える姿勢自体がおかしい。\n\nたかが1億人の島で学べるものには限度がある。",
+        "good": 8,
+        "bad": 36,
+        "replies": []
+    },
+    {
+        "user_name": "qmn*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/xlVbwhuJZ34Iz1loz8QGfy2sng--/comments",
+        "time": null,
+        "context": "米国大手薬品会社に勤めてる知人から聞いた話(本人も米国人)。コロナ禍で日本にあった研究所をたたんでシンガポールに移設することを決めた、その理由のひとつが日本の社会に科学関連のデマが多く、それを国として訂正する自浄作用がない、ということだった。PCRの精度7割とか、GoToは感染拡大の要因になってないとか、そういうデマ。\nもうひとつ、日本が今まで後進国に位置付けされていたアジア諸国がその国際的な信頼度や技術力で日本をすでに超えようとしていて、研究者はそちらに流れる。待遇もいいから。",
+        "good": 85,
+        "bad": 12,
+        "replies": [
+            {
+                "user_name": "p*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/GqrRAjiSZXuRyyWNIQx5dA--/comments",
+                "time": null,
+                "context": "あなたのコメントのほうが科学的に実証されていないことを含んでいますよ‥",
+                "good": 4,
+                "bad": 5
+            }
+        ]
+    },
+    {
+        "user_name": "aaa",
+        "user_url": "https://news.yahoo.co.jp/profile/id/xNTqxsqQY2I_81f6KsXxshWrAjg-/comments",
+        "time": null,
+        "context": "大学に予算を付けるときに、単にバラ撒かずに何かのプロジェクトに応募させる形にするので、応募の書類書きの手間が発生。さらに、最近ではプロジェクトに通っても、財源の一部は強制的に大学の校費から出さなければならない仕組みを文科省が設定したので、応募すればするほど学内で使える予算の自由度は減っていく。プロジェクトが終わったら独自財源で活動を続けるように促され、さらに自由に使える校費は減っていく。現状、国立大学法人だと教員一人当たり年間予算は20万円程度しかない。科研費は出しても必ず貰えるわけじゃない。これで研究が進むと思っている方が頭おかしい。法人化前に予算配分を戻し、プロジェクトに応募を促すという無駄を排し、毒饅頭を大学に食わせるのをやめるべきでしょう。",
+        "good": 43,
+        "bad": 3,
+        "replies": []
+    },
+    {
+        "user_name": "nim*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/bOTTT..WY31_1nmFTwSNJFxY/comments",
+        "time": null,
+        "context": "民間企業で大学のTLOなどURAの方とお話しする機会がありますが、外部資金を獲得するマインドが欧米より低いと思います。賃金的なこともあり企業の定年後での方などが多く、この記事にあるように博士号取得者が30代/40代でつけるような仕組みが進めば、好循環が生まれるのではないでしょうか？",
+        "good": 4,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "toy****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/9Pv5v.yMZWl2KkEMO5EGlrCQ_2dkU3lwgHovZw--/comments",
+        "time": null,
+        "context": "日本で博士号をとった人たちの言い分は、「博士号は足の裏にくっついた飯粒」だそうです。なんとなく分かりますが・・・\n　選択と集中の弊害かも知れません。テーマを、すぐ出る成果に絞らなければ、毎年論文を出し続けること、などとても無理な話です。成果主義の弊害でしょうか。長期の視点に立って、将来の展望が開けるような研究テーマが少なくなってきているように思えます。今日の糧に力を注ぎ過ぎて、明日の糧を失い、日本の研究が「サン・セット・ジャパン」とならないことを願うばかりです。\n　そして、明日の糧を求めて、苦悩するのが博士号を取った人たちの責務だと思います（修士卒）。",
+        "good": 6,
+        "bad": 0,
+        "replies": [
+            {
+                "user_name": "toy****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/9Pv5v.yMZWl2KkEMO5EGlrCQ_2dkU3lwgHovZw--/comments",
+                "time": null,
+                "context": "紙と鉛筆でノーベル賞は取れる？？\n昔の事だとお思いでしょう。\n今では、\n難解でハードルの高いと思われていた微分方程式でさえ、エクセル（表計算ソフト）を使いこなすと、「正解」ではなく「近似値」を簡単に求めることができます。\n（これ、一神教vs多神教、必ずしも答えは一つだけではない）\nそして、本当の生物の動態を観察すること。\n教科書にない体験を、感性の鋭い人こそ身に着けています。\n経験値こそ、研究者に求められる評価基準ではないでしょうか。",
+                "good": 0,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "thk*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/TUXExDCMYnt1s9jgiGM-/comments",
+        "time": null,
+        "context": "日本に限らずどこの国でも優秀な人材はいる。その国の実力とはそういう優秀な人材の見極めと研究体制を含めたマネジメント力だと思う。日本には大勢のノーベル賞受賞者がいると書いてあるが、これは誤解だ。受賞者数の対GDP比と対人口比を見よ。未だに欧米先進国との格差は歴然だ。",
+        "good": 15,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "ya5*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/NN3J9MiBayVemFq6iMQ.LXGnDDA-/comments",
+        "time": null,
+        "context": "これは日本の教育現場の全てに当てはまる。保育が専門の保育士が、保育する暇もなく部屋の消毒で手一杯だったり、中学校の教員が教育準備をする間も無く、土日が訳のわからん部活の引率だったり。で本来分担する人にあてがうべき予算は、訳のわからん箱物支援とかに当てられ、未消化に終わり、現場が疲弊したまま、未消化予算は削減される。一度日本は崩壊しないとどうにもなりません。",
+        "good": 27,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "n*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/AnFnR_.Wb2XlYNDSZiV8r77urrqpog--/comments",
+        "time": null,
+        "context": "日本はね、国家予算として科学研究費めちゃめちゃ少ないからね。まずここが根本的にアウト。そして予算の割り振りをしている方々が、いわゆる権力者で、いったん握った権力を手放さない既得権益欲丸出しのおじーさんばかり。なので、大型の研究費は、似たような題材ばかり採択される。審査は出来レースですよ。\n\n権力おじーさん方は決して辞めないので、下はいくつになっても、延々とポストは開かず出世はできない。量産される万年講師。超保守的社会。これが日本の科学業界の真の姿です。若い人に言いたいのは、絶対にこの業界に足を踏み入れてはいけません。",
+        "good": 59,
+        "bad": 7,
+        "replies": []
+    },
+    {
+        "user_name": "hyd*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/o32lq2WQc3QVJ6KEUChPUYNcFwV3t2S4/comments",
+        "time": null,
+        "context": "日本は、正規雇用の人は身分が高い、短期雇用や派遣労働の人は身分が低い、という階級制社会。っということは、研究者の多くを短期雇用にすることは研究者の身分を下げること。\n　こんな単純なことも分からない人が研究関係の仕事における短期雇用の割合を増やしたわけだから日本の研究が衰退しつつあるのは当然。",
+        "good": 116,
+        "bad": 8,
+        "replies": [
+            {
+                "user_name": "sat*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/kUIQ.JKLa2ToM8NrJsK94TI-/comments",
+                "time": null,
+                "context": "同意します。日本の雇用はメンバーシップ形が定着してますからね。今でもジョブ型採用している企業はごく一部\nアカデミックは、ポストを任期付ポジションにした時点で、本記事にあるようなURAや教育専門職員など博士号取得者の雇用先を沢山作っておくべきだった。受け皿が少なすぎるんですよ。",
+                "good": 25,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "ケロぴょん",
+        "user_url": "https://news.yahoo.co.jp/profile/id/xNThvKSMZHEF8I2H7AwGs5gOkQ--/comments",
+        "time": null,
+        "context": "「人材が活用されていない」と言っているだけで具体的な施策案がないんだよなあ。「予算増やせば解決」と言っている他論と同じ。\n\n人材活用に言及するなら、人材が活用されていない状況の制度的背景・原因を述べて、具体的な施策案を提案してはどうだろうか？",
+        "good": 3,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "pad*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/WH3HpoqIa3TrRjEmEnRcV9bH1yw8O8VkNTUCdw--/comments",
+        "time": null,
+        "context": "そもそも研究者をリスペクトしたり成果を上げた研究者の待遇を良くする事をしてきましたかね。\n\n滅私奉公的なやり方で成果を上げた時代もあったでしょうが、研究者の地位が上がった印象は無いですね。\n\nシステムも悪いと思いますが、それ以前に日本的なる立場主義思考から脱却しないと何やっても穴の空いたバケツ。\n\n研究者の立場はかなり下で当たり前という。",
+        "good": 31,
+        "bad": 2,
+        "replies": []
+    },
+    {
+        "user_name": "vlr*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/KzPIn7uOZmKrmEW4SHJN0UFNKw--/comments",
+        "time": null,
+        "context": "ノーベル賞受賞者も多いアメリカの有名大学には国立の大学がない。ハーバード大学、イェール大学、ペンシルバニア大学、プリンストン大学、コロンビア大学、ブラウン大学、ダートマス大学、マサチューセッツ工科大学、ボストン大学のすべては私学。あと、州立がカリフォルニア大学ぐらい。\n日本とは全く異なるが、授業料は非常にお高い。\n金のない日本が国立大学を主体とする戦略でいくとしても、加計学園獣医学部のように獣医師一人輩出していない大学に巨額の資金を投入している現状は、なんとかならないものでしょうかね。それとも戦略ゼロで、出たとこ勝負なんでしょうか、あるいは成り行き任せ？　国の政策は。",
+        "good": 24,
+        "bad": 6,
+        "replies": [
+            {
+                "user_name": "vlr*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/KzPIn7uOZmKrmEW4SHJN0UFNKw--/comments",
+                "time": null,
+                "context": "日本でも、防衛大学にもっと予算を付けることが出来れば、学術会議云々という話だって、無かったのかも知れませんね。",
+                "good": 1,
+                "bad": 3
+            },
+            {
+                "user_name": "thk*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/TUXExDCMYnt1s9jgiGM-/comments",
+                "time": null,
+                "context": "アメリカは軍事関係の大学だけが国立ですね。そもそも学問の独立は国家から切り離すべきという考えが根強く、アングロサクソンは日本人とはモノの考え方の根本が全く違う。",
+                "good": 6,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/QaGB0AaaY2qwZSykrTol/comments",
+        "time": null,
+        "context": "かっての日本は、最優秀な人材は揃って工学部に入学していたが　今や文系優位の社会になり行くものがいなくなり、日本の工業力は破綻してしまった。\n事務次官より年俸の高い裁判官が３５０人以上いるし、自衛隊TOPの幕僚長より給与が高い裁判官が３５０人もいる驚愕すべき事実がある。だから日本は裁判官と医師の給与を２分の１にしないと工業力は再生できないと同時に、アメリカ軍の作成した現憲法を破棄しない事には荒廃した国家体制を再建できず長期の没落に陥るだろう。",
+        "good": 35,
+        "bad": 67,
+        "replies": [
+            {
+                "user_name": "bkn*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/EXrWhP.Rfn8RpNvfWzeMNrg-/comments",
+                "time": null,
+                "context": "前半に対しては同意しますね。しかしながら、裁判官と医師の給与を半分にするって、訳が分かりません。事務次官は天下りするから問題ないとして、優秀な開発者、技術者の待遇を世界基準にすればいいだけのことだと思うのですが。\n　10年以上前ノーベル化学賞を取られた民間サラリーマンの年収が1000万もなかったのが、日本の未来を暗示していたように感じますね。",
+                "good": 20,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "haj*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/CCukAhKQa3oUm28WZTheeHQImQ--/comments",
+        "time": null,
+        "context": "知人が2年前からアメリカの研究所に留学しています。アメリカ留学から帰国する同僚のために大学のポストを開けるため、留学を上司から勧められだそうです。もちろん本人も留学の意思が有ったから、コロナ禍にもかかわらず、自分で留学先を探して留学しています。そして2年が過ぎましたが帰国後の事は全く未定のままだそうです。この方を見ても不安定な状況下で研究を続けられていますので、少し日本の将来が不安になります。",
+        "good": 12,
+        "bad": 2,
+        "replies": []
+    },
+    {
+        "user_name": "kag*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/bmNfwAmTa3f.p_KMalAXJR80/comments",
+        "time": null,
+        "context": "＞冒頭で述べたように、日本が費やす研究費の総額は、他国に比べて遜色ない。\n＞研究補助者や、コアファシリティや、研究事務の人員を増やし、研究者を研究に専念させてはどうか。\n\n辻褄が合わなくないですか。予算は同程度のはずなのに、補助者が雇えない。\nやっぱり予算規模が違うんじゃないの。それともそんなに日本は予算の使い方が下手ということなのか。\nというか、なぜそうなっているのか、どう改善すればいいのかということがこの話の肝なのに、この文書はそのことについては他人事のようにスルーしている。意味ないじゃん。竜頭蛇尾。",
+        "good": 9,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "dor*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/f8x6D8OcZWLzdeShDgXDBc3vJg--/comments",
+        "time": null,
+        "context": "アメリカでは、アメリカでは、という話ばかり。ここは日本。\n日本では、大企業や都道府県、国の研究所が理系大学院の役目を果たしていた。ノーベル賞とった博士号無しの田中紘一さんが、その典型例。\n　　で、文化が大事だ、英語をやるまえに日本語やれ、とかいう人が増えてきて理系が迫害され給料面でも評価されず、リストラもされて、工場も海外にいって。　それで、大学院重視だ、博士大事だ、、、とか上の人が言い出して。そしたら中国人、韓国人の院生が増えて、日本人の博士は教授に無理やり進められて進学したものの、博士とったら、はい勝手にやってね。\n　いちおう非常勤講師（無給）の肩書あげるから、、てのが私を含めた\n　私の半径５ｍ以内の状況。",
+        "good": 31,
+        "bad": 11,
+        "replies": []
+    },
+    {
+        "user_name": "kik*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/.vqrd1eTY3s1n3E_AK4U2I1wRPzm/comments",
+        "time": null,
+        "context": "大学教員の応募資格に博士号取得（および見込み）者とする大学は多い。\nでは、博士号を持っていれば、能力があるのかといえば実はそうではない。\n博士論文は書けたが、その先に単著の無い好事家（理系はどうか分からないが、文系で単著が無いものは研究者とは呼べない）が多すぎる。\n一時期、40（or45）歳定年論が物議を醸したが、40～45歳くらいになっても単著が無い大学教員は、事務職員や教科担当者に転職させ、研究できる大学教員のサポートに廻れば、もっと研究できるようになるだろう。",
+        "good": 4,
+        "bad": 2,
+        "replies": [
+            {
+                "user_name": "goi*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/OAisxW.fZXmQP9s_9e0JMJNRKHE-/comments",
+                "time": null,
+                "context": "単著があっても単なるメディア文化人みたいなのもいます。\n「阪大を去るにあたって: 社会学の危機と希望」\nで検索してみてください。",
+                "good": 1,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "l66*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/dFiJu2OUPCZjd1J_KudfqA--/comments",
+        "time": null,
+        "context": "昨今流行りの乳酸菌。\n知人が研究していたそうだが、安定的に効能を出すにも、何世代もの引き継ぎが必要であり、\nしかもそれでも失敗する可能性はゼロではない。\n\n簡単に結果を出せるのなら、苦労はしないよなぁ。",
+        "good": 14,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "oba*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/YMLsRfqXaHEMKu36gbsMRGo-/comments",
+        "time": null,
+        "context": "研究に専念できる環境にないことはよく言われるがもっと根本的な問題だろう。\nアメリカは高校までの教育が滅茶苦茶だから4年間基礎をみっちりやるが、日本は知識を付けたら後は自分の問題だからと何も教えない。研究室で輪読とかしたところでグーグル翻訳読み上げて終わり、そういうもんだと思って卒業してく学生が山ほどいる。\n博士行くのがみんな天才じゃないんだから高等教育を見直さないとダメだよ。",
+        "good": 13,
+        "bad": 2,
+        "replies": []
+    },
+    {
+        "user_name": "hoh*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/H7K2xqWQZXi296zdevrEPqxHnLm4/comments",
+        "time": null,
+        "context": "「そんな日本の研究力はなぜ衰退してきたのか」\nまず、この設問が正しいのか研究する必要があると思う。\n人目を引くために設定した可能性もあるから。",
+        "good": 3,
+        "bad": 22,
+        "replies": [
+            {
+                "user_name": "zeu*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/a.yYVHaCb2XVeneBTkP4v4U-/comments",
+                "time": null,
+                "context": "スポーツや体育会系部活偏重型学校教育のせいじゃ無い？学力優秀な子供も日本には飛び級制度が無く、いつのまにか知的好奇心も平準化される。",
+                "good": 8,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "par*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/3cXIPAKIa2KdTRSh6ql_vg63/comments",
+        "time": null,
+        "context": "日本は研究費が十分だと言いつつGDP比の公的研究費や、人口あたり政府支出大学研究費の話が出ていませんね。アメリカの総額やGDP比公的研究費は全く出ておらず、日本の金額が断片的に出て、これだけ多いのだから十分だという話ばかり。\n豊田長康「科学立国の危機」図表1-12によれば人口あたり政府支出大学研究費は相当下位でチェコやギリシャと同等程度です。\nR01について、5年で2億で、採択率10％。日本であれば本当に超一流の教授しか狙えないでしょう。しかし、アメリカではAssistant processorも狙うとのことで調べてみたら、\"success rate of R01 equivalent grant application\"によれば、採択は6000件程度。一件年4000万円としてこれだけで2400億円出していますが。\nつまり総量が少ないのです。時間と金を掛け直すところから再開すべきです。",
+        "good": 56,
+        "bad": 6,
+        "replies": []
+    },
+    {
+        "user_name": "hil*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/mg7q.MeQY3xMzpRBv7kMMG4.UN8GrQ--/comments",
+        "time": null,
+        "context": "動物やヒト検体を使った生命科学研究だと一つの成果をまとめるのに上手くいっても5,6年かかるから、それだけの時間と金を投下できる環境は限られるよね。\n2,3年で論文出せる時代が羨ましいわ。",
+        "good": 9,
+        "bad": 1,
+        "replies": [
+            {
+                "user_name": "mic*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/vcLmfpmVY3NTMy1Kej7OAWpQI0u_Ng--/comments",
+                "time": null,
+                "context": "そこで5,6年かけない金太郎飴研究が横行するわけですね。成果って言っても、結局お金を再配分するのを妨げない程度で十分なものに堕してる分野も散見する。論文といっても、余裕で毎年かける作業的なのもあるしね。研究費分配サークルにさえ入ってさえいれば。",
+                "good": 0,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "sak*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/BguEbgqLa3vEcRNpp.gFrvI645A-/comments",
+        "time": null,
+        "context": "この記事に書かれている内容以外に、自分が日本にとって致命的だと思っているのは、「自分の専門分野以外のことに関する教養の無さ」。\n国公立大学で5教科受験していない受験生は、自分の得意教科以外は高校レベルですら身についていない。\nそこをクリアしている学生ですら、大学1~2年レベルや大学院の全学共通科目レベルの教養を身に着けていない。\nそんなことだから、学者を支える一般市民の教養がグダグダ。\n「全部できなきゃ高学歴とは言えないんだよ」ということをわかっていないのが日本、というか・・・",
+        "good": 14,
+        "bad": 7,
+        "replies": []
+    },
+    {
+        "user_name": "f59*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/wNK6NUGePymU.s.9VdZF/comments",
+        "time": null,
+        "context": "個人的には、若い人への配分額の問題と、適切なドロップアウト（選別）の仕組み、ドロップアウトした後の受け皿のなさからくる挑戦者の少なさだと思う。",
+        "good": 12,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "jo_*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/_FZDkT.SZU8FnEhlmFSLgBggVscH2A--/comments",
+        "time": null,
+        "context": ">各大学に運営交付金を支給している政府にしっかりと予算を組んでいただきたいところだ。\n\nこれが全て。\n費用対効果、選択と集中、成長戦略、大学の法人化等々、財務省の行き過ぎた緊縮政策の結果、国家滅亡計画が達成されようとしている。",
+        "good": 14,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "Gko",
+        "user_url": "https://news.yahoo.co.jp/profile/id/HjcU5N6TeHPlIKZdzWcuYw--/comments",
+        "time": null,
+        "context": "ノーベル賞を受賞した山中教授の研究でさえ補助金が少ないため寄付活動をしないと資金が足りないと嘆いている状態なのに期待しても無理\nIPS細胞の未来は夢の世界なのに\nそれなのに助成を躊躇っている事自体\n日本は終わっている",
+        "good": 21,
+        "bad": 3,
+        "replies": [
+            {
+                "user_name": "Ｈｅｄｏ",
+                "user_url": "https://news.yahoo.co.jp/profile/id/Vk68BmKLfmVUZWf2uS61alw-/comments",
+                "time": null,
+                "context": "彼も今は京大で研究しているが、いずれ定年で退官したら研究室があるＵＣＳＦに行くのだろうな。",
+                "good": 2,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "kht*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/jlvHoNWTYmSGXICQ653Rug--/comments",
+        "time": null,
+        "context": "こんなに読みにくい文書を書く研究者を育ててる時点で、研究の内容や質以前の問題だということがよく分かります。研究したいこと、知りたいことを追求する前に客観的に自分を見つめるべきでしょう。",
+        "good": 7,
+        "bad": 37,
+        "replies": [
+            {
+                "user_name": "Ｈｅｄｏ",
+                "user_url": "https://news.yahoo.co.jp/profile/id/Vk68BmKLfmVUZWf2uS61alw-/comments",
+                "time": null,
+                "context": "それは単なる本人の読解力が足りないだけだとは思わないのかな？結局何もかも人のせいとして生きてきたのかな。",
+                "good": 13,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "iti*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/h9G0a0qRfnmpP_s9IFw0CXuKCMz7/comments",
+        "time": null,
+        "context": "安倍、下村の負のレガシー。\n学費補助の無さ（私学も含め国が負担の先進国多し）、理系、しかも特定研究のみへの偏重、マスター、ドクターへの待遇の低さ、エンジニアの軽視（低待遇）、大学の就職実績のみへのこだわり、初等教育環境の正常化への遅れ、、等々。",
+        "good": 26,
+        "bad": 5,
+        "replies": []
+    },
+    {
+        "user_name": "*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/vgIOJQyMb34Qe4H.W6mMWvKC.BKdDoQsnQ--/comments",
+        "time": null,
+        "context": "これ企業もそうだけど、能力の高い人に雑用やらせすぎ。\n京大にいた時、ゴミ捨てに行ったら量子力学の世界的権威の教授にプラごみが分別できてるか確認させる当番やらせてたときはめまいしそうでしたよ。",
+        "good": 64,
+        "bad": 2,
+        "replies": []
+    },
+    {
+        "user_name": "nod*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/PJig0D2WZXTAbKIipWXXBQ--/comments",
+        "time": null,
+        "context": "日本がダメになったというよりも、ITの発展で他国が凄くなったんじゃないかな。特に英語圏だと検索掛けると簡単に膨大な量の知識やデータに接することができるようになっている反面、日本語だとろくな知識やデータがなかったりする。",
+        "good": 8,
+        "bad": 7,
+        "replies": []
+    },
+    {
+        "user_name": "tot*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/Cpq.qoiMZWQc9r.gSl7X52CL/comments",
+        "time": null,
+        "context": "日本では国益に反する学者や教授が多い。\n学者等と選別して研究費の配分等を再検討した方が良い。",
+        "good": 2,
+        "bad": 39,
+        "replies": [
+            {
+                "user_name": "Ｈｅｄｏ",
+                "user_url": "https://news.yahoo.co.jp/profile/id/Vk68BmKLfmVUZWf2uS61alw-/comments",
+                "time": null,
+                "context": "国益て一体なんでしょうか？そんなには政権が変わるたびに変わるからね。",
+                "good": 5,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "******",
+        "user_url": "https://news.yahoo.co.jp/profile/id/NMr0wrSXZXm.CffC7DeCwg--/comments",
+        "time": null,
+        "context": "この国は研究よりも利権が全てですから。\nそもそも何を研究するか、どこに研究させるかも全て利権関係で決まるだろうしね。",
+        "good": 3,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "異見変見",
+        "user_url": "https://news.yahoo.co.jp/profile/id/K6invkycb35PBZRrp8bEUd7F/comments",
+        "time": null,
+        "context": "中国に渡った研究者をまるで売国奴扱いするような記事がかなり流れていたが、中国に限らず外国に人材が流出するのは日本自身の問題であり、他責思考でいる限り問題は改善できない",
+        "good": 41,
+        "bad": 2,
+        "replies": []
+    },
+    {
+        "user_name": "anego",
+        "user_url": "https://news.yahoo.co.jp/profile/id/5lRl2BKKYSXL6ji2yH8-/comments",
+        "time": null,
+        "context": "海外に投資をして国内産業をダメにする売国政治家が国益を減らして所得を減らし増税し庶民にしわ寄せする政治家はもう要らない。",
+        "good": 6,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "ヤフコメ住人１号",
+        "user_url": "https://news.yahoo.co.jp/profile/id/yGHfUmacZXsFOZA0GWFNnQ--/comments",
+        "time": null,
+        "context": "1番の問題は収入や研究費などのお金ですよね",
+        "good": 9,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "@驚為五労",
+        "user_url": "https://news.yahoo.co.jp/profile/id/Woc1aJ6NbWn0CpiasmFppd8-/comments",
+        "time": null,
+        "context": "中国にも日本の研究者は取られてますね\n\n全部、日本学術会議が原因ですよ",
+        "good": 0,
+        "bad": 4,
+        "replies": []
+    },
+    {
+        "user_name": "ザオラルジャパン",
+        "user_url": "https://news.yahoo.co.jp/profile/id/Ng94LfGOb2Gh.4YV9pLxBZ7hRg--/comments",
+        "time": null,
+        "context": "老人クラブ｢日本｣\n若くて優秀な人が出ていくのは当然のことでは？",
+        "good": 11,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "exa*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/A7Gb9cWdcnEBctl_X_UVmrY7Qw--/comments",
+        "time": null,
+        "context": "早い話が現場を知らない国(文科省)が駄目という事？\n大学なんて文部官僚の天下り先にしか考えて無いから！",
+        "good": 34,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "sil*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/_hdtV52LY3xYkudS_qBJJ0bnFw--/comments",
+        "time": null,
+        "context": "お金出さなければ、ダメだよね。",
+        "good": 9,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "kun*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/d5dPvaKTf34PivXmQZgOma4-/comments",
+        "time": null,
+        "context": "もう今後はひたすら低減していくと思う。\nこの国が国民や研究者、高度学歴者を軽んじ過ぎているし、外国の人間を異常に重用するので。渡航費・学費・生活費を出すのだから。\nそれに日本はアメリカの犬、属国。もっと言えば糞。\n根本的に駄目なんです。評価される事はアメリカの研究に適っているかどうかで、本当に実用的で意味のある研究は日米両国から潰されたり奪われてる。\nこの国がまともと信じてる時点で駄目で、有能な人は必ず上記の現実に直面し、そうでない人は永遠に何か違和感だけ感じながら欧米だけを比較して子供が大人の仕事や社会を論じるような事を続けて行くだけ。\n\n日本が駄目なのでなく、日本が売り渡し、アメリカが仕切る以上、本当に駄目だと言うこと。\n７３１部隊や原爆は影で日本の方が開発していた。それを奪った事で今日の米国の地位は築かれた。製薬会社や農薬、添加物、核開発競争はその土台があるから。現実を言いたいだけ",
+        "good": 6,
+        "bad": 2,
+        "replies": []
+    },
+    {
+        "user_name": "men*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/7JZJ5aCVb36Pfr.mqBPgGTbJs7g-/comments",
+        "time": null,
+        "context": "問題の根本原因は、カネが足らない事。第２次安倍政権以前の２０年間、歴代政府が経済成長政策を　全放棄して来たし、経済成長政策を発動した安倍政権も、GDPが増えた分を、２度の消費増税で罪務省に根こそぎ奪い取られている。結果、過去３０年間GDPは粗変わらず、国自体に富が蓄積されてないんだから、研究力UPに回すカネが増える訳無い。根本原因は歴代政府の無知無能傲慢怠慢。日本人は怒りを爆発させるべきだと思います。",
+        "good": 5,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "par*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/OfegAfiIa2KIKoZjWNS3noFBgw--/comments",
+        "time": null,
+        "context": "国立の研究室での無駄をさんざ見てきたよ。税金で買った高額機器がホコリをかぶっている。研究費を食い物にしてきた教授たち。小保方さんらの出張三昧、お忘れか?　評価、総括、査定がない職業は、人間が腐る。研究は、お金を出す側次第です。つまり、国。投資。目利きはいるか。",
+        "good": 2,
+        "bad": 11,
+        "replies": []
+    },
+    {
+        "user_name": "s98*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/VwiszN6LMygEWuuJFFo-/comments",
+        "time": null,
+        "context": "今の状況は、財務省ががんばってと文科省がいいなりになった成果なんですよ。負の成果のほうです。\nこうしなければもっと酷くなっていたと、彼らは頑なに認めませんが。\n選択と集中をやりたがるのは詐欺師か馬鹿だと思います。",
+        "good": 23,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "aw*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/ew4Xc7SZfXFz0pEwIOekKFP9/comments",
+        "time": null,
+        "context": "学問不足。学問の楽しさを忘れた国民の大量発生。\nそれよりも、民放のバラエティ番組が、見るのが忙しい。\n\n金の問題より、国民の質の低下が加速されているようで\n将来が怖い。\n\nそれに気づいている人々は、皆、日本を捨てて、脱出してしまいそうで将来が怖い。\n\nまだ、間に合う、この国の教育システムを根本から変えないと悲惨な結果になる。\n\nいまでしょ〜なんて言っている、芸人教育者は放っておけ。",
+        "good": 11,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "omi*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/f9NHRhiXZ3np.ZSfxAG9XR5Nhg--/comments",
+        "time": null,
+        "context": "論文書かなくても研究している。特許や論文で中国人に情報を与える必要は無い。逆に彼らから情報を得ても良い。言いたいのは論文数での評価しかできないことが日本の問題。また科学技術に携わる人へのインセンティブも低い。若者は楽して大金を得るために、うわべだけの仕事を選ぶ。",
+        "good": 7,
+        "bad": 7,
+        "replies": []
+    },
+    {
+        "user_name": "pan*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/grh8_2GIa358qe6wN_t7Jf1Fm7cY9Q4-/comments",
+        "time": null,
+        "context": "日本はどう見ても詰んでますから、どうしようもないです。金持ちに生まれてなかったら、博士には行かない方がいいです。どうしても行きたかったら、日本を脱出した方が割がいいです。\nあんまり夢を見れなくなってしまった国なんですよね。",
+        "good": 5,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "m_t*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/j7alYBqVVWQZBNffHjHpiXw-/comments",
+        "time": null,
+        "context": "日本の終身雇用の教授は、准教授、助教に全て任せて考えない。あぐらかいているアホ多し。また、文科省もキャッチーな分野に金つける。審査員も勉強しないアホ教授たちだから、内容を見抜けていない。日本人は自分の分野以外、何もしらないアホ多し。",
+        "good": 2,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "tam*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/CoieJ9WMa337Nd77OzoexsuN/comments",
+        "time": null,
+        "context": "日本は国の邪魔する勢力がいるのに\n排除とかする気ないような感じだし\n先々暗い。",
+        "good": 3,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "sam*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/hNlZWbeLa33BxQtRLmKrQ1aSE.Oqk10-/comments",
+        "time": null,
+        "context": "スパイに対して国で取り組め。全部持っていかれる。",
+        "good": 8,
+        "bad": 4,
+        "replies": []
+    },
+    {
+        "user_name": "oy******",
+        "user_url": "https://news.yahoo.co.jp/profile/id/EObp26ybc3MoQ4vHa4gCDGC_uf34/comments",
+        "time": null,
+        "context": "アジアに偉大な指導者現れる。その名は文鮮明。\nこんなこと言ってる政治家たちに国家運営を任せてきたツケ。",
+        "good": 18,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "chi*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/x6OMOZCbYnnTUFWq4r14Z7M9/comments",
+        "time": null,
+        "context": "上から目線だからじゃないのか",
+        "good": 2,
+        "bad": 2,
+        "replies": []
+    },
+    {
+        "user_name": "いちご",
+        "user_url": "https://news.yahoo.co.jp/profile/id/It2SHlKQa3HP44rSYggf1KZeYw--/comments",
+        "time": null,
+        "context": "マジで給料が低すぎる",
+        "good": 5,
+        "bad": 0,
+        "replies": []
+    }
+]

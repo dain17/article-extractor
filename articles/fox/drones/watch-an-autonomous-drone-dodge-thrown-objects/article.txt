@@ -1,0 +1,11 @@
+Drones are nimble little flyers, but one strike and their fragile structures come tumbling to the ground. So a team of researchers decided to create a drone capable of dodging dynamic obstacles autonomously.
+
+As The Verge reports, researchers at the University of Zurich wanted to study the perception latency of a drone and the effect it has on the maximum speed a robot can reach in order to "safely navigate through an unknown cluttered environment." The desired end result is the ability to give the drone a destination and then allow it to travel through an environment full of unknown objects at the maximum speed possible while still guaranteeing no collisions.
+
+Testing their research involved throwing a ball at a hovering drone and seeing if it could react in time:
+
+As you'd expect, the speed at which the drone can travel depends on the range of its sensors and the top speed/acceleration it's capable of reaching. The optimal setup is a sensor range allowing the top speed of the drone to be utilized when obstacle avoidance is necessary. The research team believes this is the first time maximum acceleration has been taken into account when considering robot performance for high-speed navigation.
+
+Dodging dynamic objects is not something commercial drones are capable of today, and I'm sure many would agree that's actually a good thing. If a drone could dodge autonomously, it would be much harder to take them down by law enforcement when, say, they enter the air space of an airport. It also doesn't bode well when the robots inevitably attempt to take control and we are left trying to shoot thousands of drones out of the sky with little success.
+
+This article originally appeared on PCMag.com.

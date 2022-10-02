@@ -1,0 +1,55 @@
+Drones are putting lives at risk, say first responders.
+
+There are some limited rules that govern where hobbyist drones can fly, but firefighters and local law enforcement officers tell Fox News the requirements don’t go far enough because they are unenforceable in the middle of real-time operations. They say negligent operators cannot be discerned from criminals and potential terrorists, giving those with malicious motives an upper hand against those responsible for protecting the public.
+
+This month, the Department of Homeland Security released an updated terrorism advisory bulletin stating that terrorists are pursuing the use of drones as weapons. According to Sgt. Randy Sterett, a Bomb Squad Commander in California’s Orange County, this threat is real.
+
+“Some of these drones can fly anywhere from one to 15 pounds of explosives,” he said, “which is a huge, huge amount of explosives.”
+
+Firefighters and local law enforcement officers tell Fox News an even more immediate problem is drones showing up on their turf, in the middle of operations.
+
+“There's been the SWAT operation going on and a UAV [drone] driving—flying—right into the front yard and watching as they're approaching the house, putting their safety and the safety of those who are in the community at risk,” Sterett said.
+
+Some first responders have even had to shut down operations because of an unauthorized drone getting in the way.
+
+“Just a single drone can do significant damage or even take one of our aircraft out of the air,” said Ronald Walls, assistant chief for the San Bernardino Fire Department.
+
+According to the Department of the Interior, in 2016 there were over 40 reported drone incidents near wildfires. In 2015, California's “North Fire” torched nearly two dozen vehicles on a major highway in San Bernardino County. Walls says that probably would not have happened if it weren’t for interloping drones.
+
+“We had drone operations that had actually forced us to shut down all of our air operations,” Walls said. “I don't believe we would have seen nearly hardly [sic] any vehicles be damaged if we'd had the ability to bring in aircraft and redirect the fire.”
+
+With drones posing a larger risk, some companies are creating technology to stop them.
+
+IXI Technology, based in Irvine, California, recently demonstrated its “Drone Killer,” a device that looks like a large plastic gun, and sends radio signals that force drones to go back to where they took off from. If that doesn't work, the instrument can jam the drone's GPS signal and force it to land.
+
+With the push of a button, the Drone Killer displays a red light on the device.
+
+“That red light means I am now disrupting all of the drones that are in about a 30-degree arc in front of my unit,” said Dan Hyman, a staff engineer with IXI Technology.
+
+Sterett, the police sergeant, said there is a need for local law enforcement to be able to use this type of equipment. But federal regulations forbid that type of equipment without special authorization. 
+
+“It's so unfair that a citizen, a criminal or a terrorist can use UAV technology, but we cannot use technology against them,” Sterett said.
+
+Sen. Mike Lee, R-Utah, and other lawmakers have introduced a bipartisan bill called the Drone Federalism Act Of 2017, which would give local governments the power to regulate drones flying below 200 feet.
+
+For example, the proposal would allow states and cities to pass laws that make flying drones below 200 feet on private property a trespassing offense.
+
+“I want to make sure that, at least within 200 feet of the surface, state and local law enforcement officers, state and local governments, have authority to protect public safety and to protect the privacy of members of the public from any invasion that might come as a result of drones,” Lee said.
+
+According to the FAA, recreational drones are allowed to fly up to 400 feet above the surface. The proposed law would still leave the space between 200 and 400 feet above the ground unregulated locally.
+
+Federal regulations would still prevent local law enforcement from using technology like IXI’s ‘Drone Killer’ to take down drones without a waiver.
+
+And even if this technology was legal, only three states have laws that allow first responders to disable drones - and they mostly apply to fighting fires.
+
+Law enforcement also encounter another issue with drones – it’s almost impossible to track down their owners. Unlike manned aircraft, which must register a tail number, hobbyist drones have no such requirement. In 2015, the Federal Aviation Administration (FAA) attempted to require drone owners to register but courts rejected the effort, calling drones “model aircraft.”
+
+Sterett says he’s seen several examples of the need for accountability.
+
+“We’ve even had people thinking that they are being funny by dropping water balloons on a high school track meet, which obviously could injure somebody,” he said. “We’ve had (drones) surveilling police headquarters, and breaching security at local jails.”
+
+Sterett said he believes most hobbyist drone operators are “good flyers” and he does not want to see them penalized.
+
+But he said first responders need the tools to counter the ones that aren’t.
+
+“We need the state and local and the federal governments,” he said, “to get together and give us the ability to safely protect the public without violating any laws ourselves.”

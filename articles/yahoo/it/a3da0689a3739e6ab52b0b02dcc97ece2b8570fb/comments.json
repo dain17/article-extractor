@@ -1,0 +1,20 @@
+[
+    {
+        "user_name": "eri*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/tTHMAiWdeHk7GrOd0EEmHr_p9xTO.vWYI9c-/comments",
+        "time": null,
+        "context": "ここではユーザーの安全とか謳ってるけど\nアプリが取得する権限を\nユーザーがPlayストア上で見れないように改悪したりとか\n二枚舌が過ぎる",
+        "good": 0,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "key*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/8Rqz13qTb2nkjbgC3fMj6no-/comments",
+        "time": null,
+        "context": "＞開発者向けのポリシー変更を発表した。\n\nAndroidの自由が無くなった\n結局Apple方式",
+        "good": 2,
+        "bad": 11,
+        "replies": []
+    }
+]

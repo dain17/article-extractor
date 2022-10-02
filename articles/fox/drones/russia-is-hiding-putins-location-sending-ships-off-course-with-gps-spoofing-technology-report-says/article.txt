@@ -1,0 +1,21 @@
+The Russian Federation used electronic warfare equipment almost 10,000 times to create false GPS signals that sent ships off-grid and hid the location of President Vladimir Putin, according to a new report from the Center for Advanced Defense (C4ADS).
+
+The think tank’s study outlined almost 10,000 instances in which Russian GPS spoofing technology manipulated satellite-based navigation systems on ships, at airports and in other locations outside of the country’s controlled territories.
+
+The C4ADS, a non-profit organization that analyzes global conflict and security issues, also reported "a close correlation between movements of the Russian head of state and GNSS spoofing event," suggesting the technology was used to hide Putin's location.
+
+GNSS – or global navigation satellite systems –  is an umbrella term used to describe all satellite-based navigation systems, including GPS, the Russian GLONASS, Europe's Galileo and China's Beidou, Wired explained.
+
+Russia’s spoofing technology manipulates GNSS into believing they are located elsewhere by flooding an area with radio signals, drowning out the actual data sent from space, BBC News reported.
+
+The C4ADS conducted an investigation that spanned 12 months, ending in November 2018, using publicly available data and commercial technologies, including information for the International Space Station, to uncover the 9,883 cases of Russian GNSS spoofing.
+
+At least 1,311 commercial ships in and around Russian waters suffered GPS spoofing since February 2016, but, because most ships have alternative methods of tracking location, they were able to correct their courses, the report said.
+
+"C4ADS detected at least 7,910 instances where victim vessels located outside of Russian territorial waters fell victim to GNSS spoofing activity, potentially posing a risk to maritime navigational safety," the report added.
+
+GPS spoofing techniques were also deployed in Syria and Crimea, and, in some cases, were used to deflect commercial drones from flying into sensitive airspace, according to the report.
+
+Most notably, the C4ADS revealed Russian GPS spoofing was used to obscure Putin’s location while he visited the Kerch Bridge, also called the Crimean Bridge, on May 15, 2018, and Sept. 15, 2018. NATO highly criticized the construction of this bridge linking Russia with Ukraine.
+
+The Russian Federation is “growing a comparative advantage in the targeted use and development of GNSS spoofing capabilities to achieve tactical and strategic objectives at home and abroad,” the report stated, causing many to question the possible impacts this electronic warfare could have if used on a more widespread basis around the world.

@@ -1,0 +1,25 @@
+NASA released a video this week giving viewers the chance to witness the Ingenuity Mars Helicopter's historic third flight in 3D.
+
+In a release on Wednesday, the agency said that the video was meant to approximate standing on the Martian planet and witnessing the action "firsthand."
+
+"When NASA’s Ingenuity Mars Helicopter took to the Martian skies on its third flight on April 25, the agency’s Perseverance rover was there to capture the historic moment. Now NASA engineers have rendered the flight in 3D, lending dramatic depth to the flight as the helicopter ascends, hovers, then zooms laterally off-screen before returning for a pinpoint landing," the agency said.
+
+The Perseverance Mars rover's zoomable dual-camera Mastcam-Z instrument produced the video and other images NASA says provide "key data" for navigation and aids in scientists' efforts to locate rocket targets – and potentially ancient microbial life.
+
+NASA also announced Tuesday that the rover's robotic arm had begun conducting science operations, including a close examination of the planet's terrain and environment. 
+
+The Mastcam-Z imager took shots of reddish-brown Martian rocks that the team at NASA’s Jet Propulsion Laboratory (JPL) in Southern California is trying to classify as sedimentary or igneous, or formed by volcanic activity. 
+
+JPL imaging scientist Justin Maki led the team that put together the video of the rotorcraft's flight, according to the release, which noted that frames of the video had been reprojected to optimize viewing in an anaglyph.
+
+The video was a first for Maki, who had reportedly been creating 3D imaging of Mars since his days as a graduate student. 
+
+"The Mastcam-Z video capability was inherited from the Mars Science Laboratory MARDI (Mars Descent Imager) camera," he said. "To be reusing this capability on a new mission by acquiring 3D video of a helicopter flying above the surface of Mars is just spectacular." 
+
+Perseverance's drivers and arm operators reportedly use a "more sophisticated" 3D system, but Maki's team members have also been reviewing still 3D images to map out rover drives.
+
+"A helicopter flying on Mars opens a new era for Mars exploration. It’s a great demonstration of a new technology for exploration," he said. "With each flight we open up more possibilities."
+
+Ingenuity's April 25 flight was one of five successful experimental endeavors – with one failed attempt.
+
+In April, NASA announced that the helicopter would enter a new operations demonstration phase, having already proven that powered, controlled flight is possible on the red planet.

@@ -1,0 +1,23 @@
+A drone delivered a kidney to be transplanted for the first time ever, according to the University of Maryland Medical Center (UMMC).
+
+The organ was successfully transplanted on April 19 to a 44-year-old woman from Baltimore who had been on dialysis for 8 years, according to the UMMC statement released Friday.
+
+“This whole thing is amazing,” the woman, who was discharged last Tuesday, said in the statement. “Years ago, this was not something that you would think about.”
+
+The drone, which researchers named the “Human Organ Monitoring and Quality Assurance Apparatus for Long-Distance Travel” (HOMAL), was custom built to manage and monitor the condition of the organ and to “ensure consistently reliable performance, even in the case of a possible component failure."
+
+The drone had to follow FAA regulations, but also be able to hold the weight of the organ and monitoring devices.
+
+In a video showing the successful delivery of the kidney, Dr. Joseph Scalea, assistant professor of surgery at the University of Maryland School of Medicine (UMSOM), one of the surgeons who performed the transplant at UMMC and the project lead, said the organ transfer via drone was a step in the right direction.
+
+“This is a major step towards reinventing the way that the current system of organs are moved. And I think we can help a lot of people this way. It might take a long time, but it’s a first step,” he said
+
+Transportation logistics for organs are some of the most complex aspects of organ transplants, so scientists at UMMC believe the success of the kidney delivery could transform organ transportation in the future.
+
+“There remains a woeful disparity between the number of recipients on the organ transplant waiting list and the total number of transplantable organs. This new technology has the potential to help widen the donor organ pool and access to transplantation,” Scalea said. “Delivering an organ from a donor to a patient is a sacred duty with many moving parts. It is critical that we find ways of doing this better.”
+
+Before the successful kidney delivery, the researchers were able to transport saline, blood tubes and a healthy, but nonviable kidney using a drone.
+
+Charlie Alexander, the CEO of the Living Legacy Foundation — a nonprofit focused on tissue and organ donation and one of the collaborators on the project — called UMMC’s work “incredibly important.”
+
+“If we can prove that this works, then we can look at much greater distances of unmanned organ transport. This would minimize the need for multiple pilots and flight time and address safety issues we have in our field,” Alexander said in a statement.

@@ -1,0 +1,89 @@
+[
+    {
+        "user_name": "KIX********",
+        "user_url": "https://news.yahoo.co.jp/profile/id/VjOMsJqTa2qVw6vVca7pamZjjzzF0Q--/comments",
+        "time": null,
+        "context": "可視光での観測は地上の大望遠鏡に任せるという事もあるでしょう。ハッブル宇宙望遠鏡を打ち上げた頃と違い補償光学の発達で可視光なら地上の望遠鏡でもハッブルに迫る解像度が得られる様になっています。そうなると物を言うのは口径ですからね。",
+        "good": 4,
+        "bad": 3,
+        "replies": [
+            {
+                "user_name": "ttq*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/VaACP7WMfmG_vwTidF_IHg--/comments",
+                "time": null,
+                "context": "ELTも、スゴイですよね！GMTやTMTは遅れていますが、その分ELTは工学的にも、天文学的にも、大変楽しみです。\n\nでもやっぱり、いつかは１００ｍを超える巨大望遠鏡が登場して欲しいのです！それを、見てみたいのです！",
+                "good": 1,
+                "bad": 0
+            },
+            {
+                "user_name": "ttq*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/VaACP7WMfmG_vwTidF_IHg--/comments",
+                "time": null,
+                "context": "するってぇと、地上の超巨大望遠鏡にも、まだまだ活躍の場はあるわけですね。\n\n１００mのOWL望遠鏡とか、造ってくれないかな！",
+                "good": 1,
+                "bad": 0
+            },
+            {
+                "user_name": "KIX********",
+                "user_url": "https://news.yahoo.co.jp/profile/id/VjOMsJqTa2qVw6vVca7pamZjjzzF0Q--/comments",
+                "time": null,
+                "context": "ＯＷＬ望遠鏡は計画中止されましたね。現在建設中なのは口径約２５メートル～４０メートルのＥＬＴですね。",
+                "good": 2,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "jpk*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/_DRCAQ2Senv64lhW6Bf1Zw--/comments",
+        "time": null,
+        "context": "ジェイムズ・ウェッブ宇宙望遠鏡が、なぜ赤外線の波長で天体を観測するのか？　がとても判りやすく説明されていますね。\nどんな画像が公開されるのか、とても楽しみです。\n\nこの宇宙望遠鏡が約2兆円、ウクライナ戦争の１日の戦費と言われています。もしも、人類の歴史の中に戦争と宗教が無かったら、人類はとっくに火星に行っているのでしょうね。",
+        "good": 6,
+        "bad": 7,
+        "replies": [
+            {
+                "user_name": "はしご81 救助3 ポンプ51 救急61",
+                "user_url": "https://news.yahoo.co.jp/profile/id/viPkcgCIZX7agdKYF25q5eQHlZk-/comments",
+                "time": null,
+                "context": "NHKコズミックフロントを観てる人じゃないと赤方偏移、ファーストスターと言われてもよく分からんと思う。\n\n映像で時間をかけて説明してくれるのと、限られた文字数の文章だけで説明するのは雲泥の差",
+                "good": 1,
+                "bad": 5
+            },
+            {
+                "user_name": "kimihirotanaka",
+                "user_url": "https://news.yahoo.co.jp/profile/id/NiSLi_eTY31LhWbt0nmQUsobhaU-/comments",
+                "time": null,
+                "context": "火星は無理にせよ。地球外生命体と会話しているかも",
+                "good": 1,
+                "bad": 1
+            }
+        ]
+    },
+    {
+        "user_name": "dol*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/ahJrpOCcZXyoHxUqTPUx7GYZnPGOGAyEAtW7/comments",
+        "time": null,
+        "context": "なんかよく分からんが、要するにこれで猫の惑星が見つかるっていうことだな？",
+        "good": 2,
+        "bad": 6,
+        "replies": [
+            {
+                "user_name": "はしご81 救助3 ポンプ51 救急61",
+                "user_url": "https://news.yahoo.co.jp/profile/id/viPkcgCIZX7agdKYF25q5eQHlZk-/comments",
+                "time": null,
+                "context": "宇宙誕生初期の星や銀河を見つけるって話です。\nどうやって銀河が進化したか、そこにダークマターはどうかかわってるかまで観測します。",
+                "good": 0,
+                "bad": 2
+            }
+        ]
+    },
+    {
+        "user_name": "r",
+        "user_url": "https://news.yahoo.co.jp/profile/id/oQsb7nyReXMSR274WVr2hac-/comments",
+        "time": null,
+        "context": "まだ実用化されていなかったのですね。",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    }
+]

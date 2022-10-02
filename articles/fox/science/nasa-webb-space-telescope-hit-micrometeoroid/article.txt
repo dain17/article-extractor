@@ -1,0 +1,25 @@
+The James Webb Space Telescope sustained a dust-sized micrometeoroid impact to a primary mirror segment. 
+
+The impact occurred between May 23 and 25.
+
+NASA assured that the $10 billion telescope is still performing at a level that exceeds all mission requirements, despite a "marginally detectable effect in the data."
+
+While further analysis and measurements are ongoing, the agency said the Webb team built and tested the mirror on the ground anticipating such events and that micrometeoroid strikes are "unavoidable" in space. 
+
+NASA said it expects that impacts will continue to occur throughout Webb's lifetime.
+
+"We always knew that Webb would have to weather the space environment, which includes harsh ultraviolet light and charged particles from the sun, cosmic rays from exotic sources in the galaxy and occasional strikes by micrometeoroids within our solar system," Paul Geithner, technical deputy project manager at NASA’s Goddard Space Flight Center, said in a statement. "We designed and built Webb with performance margin – optical, thermal, electrical, mechanical – to ensure it can perform its ambitious science mission even after many years in space."
+
+While being constructed, engineers used a mixture of simulations and actual test impacts on mirror samples to more clearly understand how to fortify the observatory for operation in orbit. 
+
+This impact was larger than modeled and beyond what could have been tested on the ground.
+
+NASA noted that the telescope's capability to sense and adjust mirror positions enables partial correction from impacts. 
+
+"By adjusting the position of the affected segment, engineers can cancel out a portion of the distortion. This minimizes the effect of any impact, although not all of the degradation can be cancelled out this way. Engineers have already performed a first such adjustment for the recently affected segment C3, and additional planned mirror adjustments will continue to fine-tune this correction," the agency wrote in a blog post. "These steps will be repeated when needed in response to future events as part of the monitoring and maintenance of the telescope throughout the mission."
+
+To protect Webb, flight teams can utilize protective maneuvers, turning the optics away from known meteor showers before they occur, but the recent hit was not a result of a meteor shower. 
+
+NASA said a special team of engineers has been formed to examine the "unavoidable chance event" and to determine ways to mitigate the effects of further micrometeoroid hits of this scale. 
+
+Since launch, there have been four smaller measurable micrometeoroid strikes that were consistent with expectations.

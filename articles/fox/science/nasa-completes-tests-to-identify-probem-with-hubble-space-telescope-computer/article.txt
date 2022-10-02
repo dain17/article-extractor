@@ -1,0 +1,29 @@
+NASA said Friday it had completed additional diagnostic testing in an effort to identify a problem with the Hubble Space Telescope's (HST) payload computer. 
+
+This announcement comes on the heels of additional testing on Wednesday and Thursday and after the spacecraft's payload computer "halted" on June 13 and it stopped collecting science data. 
+
+In a release, the agency noted that the HST – named for trailblazing astronomer Edwin Hubble – and its science instruments remain in "good health and are currently in a safe configuration."
+
+The telescope has two payload computers, one of which is a back, and they're located on the Science Instrument and Command and Data Handling (SI C&DH) unit. 
+
+The computers are comprised of a Central Processing Module (CPM), a Standard Interface (STINT), a communications bus and one active memory module, though there are three additional backup modules.
+
+The June 23 and June 24 tests involved turning on the backup computer for the first time in space and scientists found that numerous tests of both payload computers' hardware pieces resulted in the same error and " commands to write into or read from memory" were unsuccessful.
+
+Now, the agency has reportedly turned its attention to other hardware, including the Command Unit/Science Data Formatter (CU/SDF) on the SI C&DH unit. 
+
+According to the update, the CU formats and sends commands and data to "specific destinations" that include the science instruments and the SDF formats the science data from the science instruments to relay it to the Earth.
+
+The power regulator is also a potential culprit and NASA said the team would continue to assess hardware on the SI C&DH unit over the next week.
+
+"If the team determines the CU/SDF or the power regulator is the likely cause, they will recommend switching to the backup CU/SDF module and the backup power regulator," it said.
+
+This is not the first time this year that the HST has run into operating issues.
+
+In March, the telescope "went into safe mode due to an onboard software error." The issue was resolved just days later and science operations quickly resumed – though getting the Wide Field Camera 3 (WFC3) instrument up and functional proved a little more difficult.
+
+The HST was deployed by the space shuttle Discovery in 1990 and has been observing the universe for more than 31 years.
+
+The telescope's observation capabilities have "grown immensely" as new, cutting-edge scientific instruments were added over the course of five astronaut servicing missions.
+
+The HST has made more than 1.4 million observations over the course of its lifetime -- contributing to some of the most significant discoveries of the cosmos – and looked back into the universe's past to locations more than 13.4 billion light-years from Earth.

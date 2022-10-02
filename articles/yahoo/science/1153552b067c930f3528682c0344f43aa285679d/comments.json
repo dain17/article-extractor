@@ -1,0 +1,29 @@
+[
+    {
+        "user_name": "tat*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/.yxJPbyMa2Syi5T6C5aYK7UrCkx79RNK/comments",
+        "time": null,
+        "context": "熊本で2,700人て、人口比で考えたら凄く多いですよね！？",
+        "good": 28,
+        "bad": 8,
+        "replies": []
+    },
+    {
+        "user_name": "BEE",
+        "user_url": "https://news.yahoo.co.jp/profile/id/7RUxlBKceWrblIgDFgBRgvA-/comments",
+        "time": null,
+        "context": "これだけ異常発生してるのに、全て止めないの？すごいね熊本\nそれとも行政に金無いのか？",
+        "good": 18,
+        "bad": 22,
+        "replies": [
+            {
+                "user_name": "gathet_head",
+                "user_url": "https://news.yahoo.co.jp/profile/id/cCqxThGUa36lifDGvpm1YSVLBXdNrw--/comments",
+                "time": null,
+                "context": "国が宣言してくれないとカネは出ないですからね。重症者数や死亡者数が上がれば何かしら対策するでしょう。",
+                "good": 3,
+                "bad": 0
+            }
+        ]
+    }
+]

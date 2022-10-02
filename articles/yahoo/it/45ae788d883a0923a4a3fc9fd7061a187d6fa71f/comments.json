@@ -1,0 +1,397 @@
+[
+    {
+        "user_name": "ランダム",
+        "user_url": "https://news.yahoo.co.jp/profile/id/URcuRKGcb2R.kv46SVW4/comments",
+        "time": null,
+        "context": "使用できなかった日数分の日割り計算になるのか。\n月初めで解約しても一か月分丸々基本使用料取られた気がするが。\n「いつでも通話できる」という前提の基に基本使用料を払っていると思っていたが、考え方が違ったようだ。\n仮に20日間使えなくても、20日分引くだけか。\nしかしそうなると、通常時も使用した日数に応じて日割りの使用量にするべきだと思うが。\n\nKDDI関係のユーザーではないが、どういう対応になるか気になっていた。\n一番単純で、そして不満が多そうな対応なので驚いた。",
+        "good": 81,
+        "bad": 47,
+        "replies": [
+            {
+                "user_name": "aeu*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/Jg6Scs.Zb2XU8Ns5s3BP7_DCfg--/comments",
+                "time": null,
+                "context": "今の基本料金の考え方は、その料金プランの上限分まではその料金で使いたいだけ使えるというものです。\n\n仮に60ギガが上限であれば一日当たり2ギガでしようしてもいいし、１日で60ギガを使ってもそれはユーザーの勝手です。\n\n１日2ギガずつ使うユーザーにも１日で60ギガを使い切って通信障害の日にそもそもデータ通信容量が残っていないユーザにも一律で日割分を返金するのですから、とてもフェアな対応かと思います。\n\nそして通話に関しても、オプションでかけ放題ではない限り、いつかけても通話料は発生します。コメ主のおっしゃる通り、いつでも電話をできる前提で使用料を払っているのだから、その、いつでもを実現できなかった期間分を返金するのはとてもフェアじゃないですかね？\n\nそれがフェアではないのなら、高速道路で渋滞にはまってしまった時に高速度で走れなかったんだから返金しろって言えちゃう気がしますしね。",
+                "good": 14,
+                "bad": 10
+            }
+        ]
+    },
+    {
+        "user_name": "dok*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/iongqfqcZXsOhiNS8bfzaA--/comments",
+        "time": null,
+        "context": "この先サーバー攻撃とかの対策を国が実践してキャリアを指導しなければならない。\n通信網やられたら死活問題。\n今回の補償には納得出来ないが、今後の有事の勉強してほしい。\n国も対策をしてください。",
+        "good": 10,
+        "bad": 3,
+        "replies": []
+    },
+    {
+        "user_name": "kxm*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/ad_mZlaTcn3_Mu46BNltJg--/comments",
+        "time": null,
+        "context": "二度も三度も起こるでしょ。\n\nドコモで起きたら乗り換え、\nソフバンで起きたら乗り換え、\nＵＱで起きたら乗り換え、\nワイモバで起きたら乗り換え・・、それで良いと思う。\n\nそうやって、障害レベルから品質レベルまで目を向け企業努力を促していくものでしょう。",
+        "good": 15,
+        "bad": 3,
+        "replies": [
+            {
+                "user_name": "mac*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/S40_iHOVa3PJCYCZm5emc3T3wONtxL46CAVyF54-/comments",
+                "time": null,
+                "context": "ＵＱはａｕ回線、ワイモバはソフトバンク回線",
+                "good": 0,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "jap*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/aPbn8S.Sa2ALzgaF6gEsBBtN7cqWfmBf/comments",
+        "time": null,
+        "context": "補償もそうだが、\n一番はもう2度とこのような事を起こさない事だと思います。\nユーザーは、今回の補償以上に大変な思いをしましたよ。公衆電話を探したり、Wi-Fiのある場所を探したり。計りきれない思いをしています。",
+        "good": 17,
+        "bad": 4,
+        "replies": [
+            {
+                "user_name": "sfx*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/H62hcqWLbGgZDRpVQTu3bQ--/comments",
+                "time": null,
+                "context": "逆に言えばWi-Fi探したり公衆電話を探す手間を1日当たり200円程度でサービスを受けていたんですよ？大変と思うかもしれないがその手間は金額ベースで一日200円の価値しか無いって事です。",
+                "good": 2,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "酷使無双",
+        "user_url": "https://news.yahoo.co.jp/profile/id/UL3siciaZnGG2Me2FG2Gz7FbPUw-/comments",
+        "time": null,
+        "context": "まぁ使えなかった日数分の\n直接的な被害に関する補償としては\n妥当なとこなんじゃないの？\n電子チケットが使えなかったとか\nスマホ決済ができなかったとか\n仕事に支障あったとか\nそういう二次的被害までは補償できない\nそういう事でしょ",
+        "good": 58,
+        "bad": 6,
+        "replies": []
+    },
+    {
+        "user_name": "sin*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/72fPhZaLY37_jgRDCn_kKyHIS_m7Ag--/comments",
+        "time": null,
+        "context": "使えなかった日数だけ返金なら、基本料も日数払いにするべきでしょう？\n自分たちの都合の良いのを押し付けるのは、どうかと思う！\nそんなことより、設備投資するべきでしょう？",
+        "good": 21,
+        "bad": 32,
+        "replies": [
+            {
+                "user_name": "kin*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/jNM5zBmTY34p2coYMMeG_5KOMI1nxDvqykA-/comments",
+                "time": null,
+                "context": "それもまた自分らに都合の良い理屈。",
+                "good": 12,
+                "bad": 2
+            }
+        ]
+    },
+    {
+        "user_name": "mar*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/bkfKoSyVa2KSSXzNoLxNSSBV/comments",
+        "time": null,
+        "context": "私は楽天モバイルを使っているのですが、楽天モバイル使用者は対象外なんでしょうか？何の記事も発表もなく2日間使えなかった（パートナーエリアでの使用も含め）責任はだれがとってくれるのでしょうか？どこの通信会社も安かろう悪かろうになってしまったのでしょうか？",
+        "good": 2,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "tadanoossan",
+        "user_url": "https://news.yahoo.co.jp/profile/id/IxfIpxOTfn0uayZbBIVRcswaYnLIqQ--/comments",
+        "time": null,
+        "context": "固定電話を持たなくなった人もいるからなぁ\n丸二日電話を使えなかったというわけではないのかな？\nネットの回線と電話回線が別々なら2日分減算でも良いけど\n今はどうなってるんだろ？",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "tor*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/3hIIYSGMZWK1JzoLBcHaPeebGg--/comments",
+        "time": null,
+        "context": "たった200円でどうしろと。\n本気で困った人はもっと寄越せという思いだろうし、そんな金の使い方じゃかえって怒りを買うんじゃないか？\n再発防止や環境整備、エンジニアさんの待遇に金使ってくれた方がいいよ。",
+        "good": 62,
+        "bad": 49,
+        "replies": [
+            {
+                "user_name": "やふたろう",
+                "user_url": "https://news.yahoo.co.jp/profile/id/zWaSQ_GSe3XpFYO4EFj.a4cc3Q--/comments",
+                "time": null,
+                "context": "それは1日あたり200円しか払ってないからだよ。",
+                "good": 5,
+                "bad": 2
+            }
+        ]
+    },
+    {
+        "user_name": "uwa*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/Qnh3yKONfXH2mNzTxMnRPYJ3raM-/comments",
+        "time": null,
+        "context": "使えなかった分は補償する。と言う事は\n常に使える保証は必要ない。\nつまり、肝心な時には使い物にならない。\nそういう事だろ？",
+        "good": 4,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "nea*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/OshTjWOWb3Ep.xXm0vQ2xg--/comments",
+        "time": null,
+        "context": "最近の政府対応を見て慣らされてしまい、高額プランの人にだけ補償するのかと思っていたが、意外と平等に返金するのね。",
+        "good": 1,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "パテマ",
+        "user_url": "https://news.yahoo.co.jp/profile/id/7a9k8XaIYWL1XGNLisRN5w--/comments",
+        "time": null,
+        "context": "普通に考えて、その分しか料金払っていないのですから、妥当な金額です。\n後は個人、企業なり弁護士にご相談下さいね。\n契約書の規約どうりですので、仕方有りません。",
+        "good": 25,
+        "bad": 9,
+        "replies": []
+    },
+    {
+        "user_name": "k_m*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/nelHIPKTVX06QR_04vjX.Sg-/comments",
+        "time": null,
+        "context": "よし、docomoに変えよう。また同じ障害起きても200円払えば許されると思ってんでしょ。通信障害で通話が出来ず救急車を呼べずもしかしたら命を落としたって人もいるかもしれないじゃん？それでも200円なんでしょ。信用ならねーわ。",
+        "good": 2,
+        "bad": 3,
+        "replies": []
+    },
+    {
+        "user_name": "apr*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/7WZfP1CZemImGgGmHgH4Yw--/comments",
+        "time": null,
+        "context": "まぁ障害時間を考えたら真っ当な補償ではある。ただお詫びするだけではないので誠意ある対応と言えるでしょう。",
+        "good": 35,
+        "bad": 13,
+        "replies": []
+    },
+    {
+        "user_name": "ken*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/KgoEYvSTb35neCBCOSUeSJk-/comments",
+        "time": null,
+        "context": "お客に対しては都合のいいように手数料とか徴収するくせに、自分たちが不利になった途端ケチになるよね\nほんと、お客を舐めてるよね\nこれを機にau 解約しよかな\n冗談ではなく本気で",
+        "good": 2,
+        "bad": 6,
+        "replies": []
+    },
+    {
+        "user_name": "leg*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/WviSIbWUb3edWrB7EzPjOn_BNCs-/comments",
+        "time": null,
+        "context": "返金よりその資金でメンテナンス強化\nした方が今後の為でも有りウィンウィンな\n気もしますが。",
+        "good": 9,
+        "bad": 1,
+        "replies": [
+            {
+                "user_name": "wen*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/nIjUKTCPb36CMTGkQSmwGTiziA--/comments",
+                "time": null,
+                "context": "それを理解出来ないユーザーが沢山いるんだよ。",
+                "good": 2,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "che*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/Cjk7yhWbYnXW9ASLQ_GlpDeYWqM-/comments",
+        "time": null,
+        "context": "自分が271万人の中に該当するか否かはどこでわかるのでしょうか？私はほぼ60時間使えなかったのですが？",
+        "good": 6,
+        "bad": 8,
+        "replies": []
+    },
+    {
+        "user_name": "ubo*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/VQZWrWWNaH_3yP0PsEz9IxP2hRIE8WF_MwsfzIc-/comments",
+        "time": null,
+        "context": "基本使用料1ヶ月分くらい思い切ったことしろよ。\nなんだよ200円って。\n子どものお駄賃みたいな金額は。\n損して得とれよ！",
+        "good": 9,
+        "bad": 17,
+        "replies": []
+    },
+    {
+        "user_name": "nbt*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/eM0XlI2WaGQdQqcFpbWysqQ-/comments",
+        "time": null,
+        "context": "200円割引きするぐらいならPONTAポイント5000円分加算してくれた方がまし。",
+        "good": 3,
+        "bad": 6,
+        "replies": []
+    },
+    {
+        "user_name": "sat*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/FYtasCKLa2QDRx3RDo..lts-/comments",
+        "time": null,
+        "context": "これはauを別のところに乗り換えられるだろうな",
+        "good": 14,
+        "bad": 4,
+        "replies": []
+    },
+    {
+        "user_name": "amo*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/iZjIWC6ZZ3947esl2hwiG7s-/comments",
+        "time": null,
+        "context": "スマチケで、ネットに継らず、ライブに行けなかった人達は納得できないだろう!",
+        "good": 11,
+        "bad": 30,
+        "replies": [
+            {
+                "user_name": "hjk※※※",
+                "user_url": "https://news.yahoo.co.jp/profile/id/LyChi6SQYHsh5o1MdDFFZQ--/comments",
+                "time": null,
+                "context": "WiFi使えたら問題ないでしょ、",
+                "good": 11,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "MagicZ",
+        "user_url": "https://news.yahoo.co.jp/profile/id/T.ZqUliTfk97G8Zrt54-/comments",
+        "time": null,
+        "context": "そんなもんだろう？\n前に個人情報漏洩の時は500円だった様な気がする。",
+        "good": 0,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "明日はきっと･･･",
+        "user_url": "https://news.yahoo.co.jp/profile/id/ExbggIqSY3yE59E_IPOpgJVr/comments",
+        "time": null,
+        "context": "たった200円？2日分？\n3日間通話できなかったけど？\n\n会社単位で契約してる所って損害受けてると思うけど･･･",
+        "good": 10,
+        "bad": 25,
+        "replies": [
+            {
+                "user_name": "win*****",
+                "user_url": "https://news.yahoo.co.jp/profile/id/NwEvYJuPY34RhVPG2VFzCUzCE3SEYZ4-/comments",
+                "time": null,
+                "context": "本当に丸二日間\n通話できなかった人には\n基本料二日分減算すると\n書いてますよ",
+                "good": 10,
+                "bad": 0
+            },
+            {
+                "user_name": "やふたろう",
+                "user_url": "https://news.yahoo.co.jp/profile/id/zWaSQ_GSe3XpFYO4EFj.a4cc3Q--/comments",
+                "time": null,
+                "context": "そんなもんやて。嫌ならオラオラとネジこんでいったらよろし。",
+                "good": 0,
+                "bad": 0
+            }
+        ]
+    },
+    {
+        "user_name": "****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/uFhCueOLZH_pvNHQAnZDGPlS8w--/comments",
+        "time": null,
+        "context": "意外に高い額の補償でしたね。",
+        "good": 14,
+        "bad": 7,
+        "replies": []
+    },
+    {
+        "user_name": "aki*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/G6Ol5aWZYXmt1_HcL7ku862e/comments",
+        "time": null,
+        "context": "これってuqとか格安スマホも対象なのかな？",
+        "good": 2,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "usi****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/hXl0n1WRfn_MgJuUevoQENq1tZ9tgQk-/comments",
+        "time": null,
+        "context": "そんな金要らないからシステムの脆弱性改善に使ってくれ！",
+        "good": 37,
+        "bad": 5,
+        "replies": []
+    },
+    {
+        "user_name": "yy******",
+        "user_url": "https://news.yahoo.co.jp/profile/id/28AzeJaBc32IhGToa20-/comments",
+        "time": null,
+        "context": "どうせユーザーにAUポイント一律1000ポイント付与みたいなショボいお詫びで終わりかなと思ってたら\nそれより更に1/5しょぼいお詫びでわろた\nいらねーよ",
+        "good": 15,
+        "bad": 24,
+        "replies": []
+    },
+    {
+        "user_name": "kkn*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/vZ6d2iaCYX7PjFaD3FGnzyI-/comments",
+        "time": null,
+        "context": "200円か。\n総額いくらかも知りたい。",
+        "good": 0,
+        "bad": 0,
+        "replies": []
+    },
+    {
+        "user_name": "dio*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/FG.gK22cY38l4ARBer_fj0U-/comments",
+        "time": null,
+        "context": "なめてますなー\n1年間無料にしたらいいのに",
+        "good": 3,
+        "bad": 12,
+        "replies": []
+    },
+    {
+        "user_name": "tkm",
+        "user_url": "https://news.yahoo.co.jp/profile/id/i1cB8sKMa3svgtKUSeEBKbdnWso-/comments",
+        "time": null,
+        "context": "200円も︎\nありがとうございます。。。w",
+        "good": 31,
+        "bad": 3,
+        "replies": []
+    },
+    {
+        "user_name": "コロナ応援団",
+        "user_url": "https://news.yahoo.co.jp/profile/id/usZR5vaTZGa.JK1RhL8BrzxKLg--/comments",
+        "time": null,
+        "context": "ソフトバンクならごめんなさいで終わりだったな。",
+        "good": 6,
+        "bad": 4,
+        "replies": []
+    },
+    {
+        "user_name": "ate*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/KXPs5tSZfnUrsmqVl9lvA7c32Q--/comments",
+        "time": null,
+        "context": "笑笑\n使うの辞める人多いだろうね…",
+        "good": 12,
+        "bad": 11,
+        "replies": []
+    },
+    {
+        "user_name": "高みの見物人",
+        "user_url": "https://news.yahoo.co.jp/profile/id/hk9S9oyVPSMc77kEv34D/comments",
+        "time": null,
+        "context": ">>なんだよ200円って。子どものお駄賃みたいな金額は。\n\n古事記コメントがウザイ！",
+        "good": 3,
+        "bad": 2,
+        "replies": []
+    },
+    {
+        "user_name": "ぼっくりころころ",
+        "user_url": "https://news.yahoo.co.jp/profile/id/yiq873iaZWXm9ZOfJ6tHueD_Eg--/comments",
+        "time": null,
+        "context": "やった！\nこれで、お菓子買えるぞー！\nって、ばかにしてんのか？",
+        "good": 22,
+        "bad": 15,
+        "replies": []
+    },
+    {
+        "user_name": "if05j",
+        "user_url": "https://news.yahoo.co.jp/profile/id/UAG6V_aTOiHNx3OK1kU-/comments",
+        "time": null,
+        "context": "さすが太っ腹",
+        "good": 15,
+        "bad": 1,
+        "replies": []
+    }
+]

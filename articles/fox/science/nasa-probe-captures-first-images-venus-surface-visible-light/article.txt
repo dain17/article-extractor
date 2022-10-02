@@ -1,0 +1,35 @@
+NASA's Parker Solar Probe has captured its first visible light images of the surface of Venus.
+
+Using its Wide-Field Imager (WISPR) instrument, Parker imaged the entire nightside in wavelengths of the visible spectrum and extending into the near-infrared in two recent flybys.
+
+According to an agency release, the images show a faint glow, revealing distinctive features of the planet – as well as a halo of oxygen. 
+
+While clouds obstruct most of the visible light coming from the surface, the longest visible wavelengths make it through. 
+
+On the dayside, the red light gets lost amid sunshine, but WISPR cameras were able to detect the glow from the heat emanating from the surface. 
+
+The cameras picked up a range of wavelengths from 470 nanometers to 800 nanometers, some of which are in the visible range and some of which are near-infrared. 
+
+The first images were taken in July 2020 on Parker's third flyby, prompting scientists to turn the cameras on again during its fourth pass in February 2021.
+
+"Venus is the third brightest thing in the sky, but until recently we have not had much information on what the surface looked like because our view of it is blocked by a thick atmosphere," Brian Wood, lead author on the new study and physicist at the Naval Research Laboratory, said in a statement. "Now, we finally are seeing the surface in visible wavelengths for the first time from space."
+
+Wood explained that, even on the nightside, the surface of Venus is about 860 degrees. 
+
+"It's so hot that the rocky surface of Venus is visibly glowing, like a piece of iron pulled from a forge," he noted.
+
+The first glimpses of the surface were sent by the Venera 9 lander in 1975. 
+
+NASA's Magellan mission created the first maps of the surface in the 1990s using radar and the Japan Aerospace Exploration Agency (JAXA) Akatsuki spacecraft gathered infrared images in 2016. 
+
+The space agency says these new WISPR images add to previous findings by "extending the observations to red wavelengths at the edge of what we can see."
+
+In addition, the WISPR images will help to better understand the planet's geology and mineral composition and its evolution, including whether volcanism played a role in creating its dense atmosphere.
+
+While the next two flybys will likely not allow the probe to image the nightside, scientists will continue to use other instruments to study Venus' space environment. 
+
+Parker will have a final chance to image the surface in November 2024.
+
+NASA's DAVINCI and VERITAS missions are also headed to Venus at around the end of the decade, as well as ESA's EnVision mission.
+
+"By studying the surface and atmosphere of Venus, we hope the upcoming missions will help scientists understand the evolution of Venus and what was responsible for making Venus inhospitable today," Lori Glaze, director of the Planetary Science Division at NASA Headquarters, said. "While both DAVINCI and VERITAS will use primarily near-infrared imaging, Parker’s results have shown the value of imaging a wide range of wavelengths."

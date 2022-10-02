@@ -1,0 +1,61 @@
+This little drone captures and defeats rogue drones ‘Spiderman’-style.
+
+Just like how Spidey slings a web to capture bad guys, this little drone shoots a net to stop dangerous flying drones.
+
+Revealed this week at the Defence and Security Equipment International (DSEI) event, the world’s largest defense and security show held biennially in London, this smart drone is already drawing a lot of buzz.
+
+Made by Dutch company Delft Dynamics, the DroneCatcher project is supported by the Royal Netherlands Marechaussee (Military Police), the Dutch National Police and the Dutch Ministry of Safety and Justice.
+
+How does it work?
+
+The DroneCatcher is a multicopter – it has multiple blades and can shoot up vertically in the air, kind of like a tiny helicopter.
+
+Armed with its specially-designed netgun, it can pursue and target rogue drones.
+
+How can a small flying machine zero in and lasso the rogue drone?
+
+DroneCatcher can detect rogue drones a few ways. It can use radar to identify them. It can also use its “sight.” And it can even identify and locate other drones by “listening.” using acoustic detection.
+
+It has lots of advanced tech onboard to detect other drones, such as a camera, laser rangefinder and track and trace system.
+
+Once it has identified a threat, DroneCatcher can move quickly into action and since it has a multi-copter design, it can hover or nimbly track the threat if it tries to evade capture.
+
+The netgun locks onto the target using multiple onboard sensors.
+
+DroneCatcher's special track and trace tech ensures the drone is precisely hit and caught by the shooting net.
+
+The captured drone is surrounded by a net that is tethered to DroneCatcher so it can be towed and delivered somewhere safe. If the rogue drone is too heavy to tow, then a parachute is released to control the DroneCatcher’s descent to the ground, ensuring minimal impact.
+
+The operator can control all the DroneCatcher’s functions from a ground control station.
+
+PODCAST: Meet an Air Force Special Operations PJ who Saved Lives in the real Black Hawk Down event
+
+The Rogue Drone Threat
+
+Small drones, the kind that can be purchased in toy stores for example, are an ever-increasing security problem.
+
+How so? If you ever fly a commercial airplane, then this is a rising threat that could impact you.
+
+Hobby drones are cheap, easy to obtain and popular. Whether flown intentionally at aircraft or accidentally due to inexperience, these “hobby” drones  could be potentially catastrophic if they collide with an airplane.
+
+Many pilots have spoken out, warning about the rise of these hobby drones threatening commercial flights. In addition to American airports like Chicago and New York City, airports around the world have been disrupted by drones, such as Heathrow and Gatwick in the U.K. and Tel Aviv, Delhi and Dubai.
+
+Weaponized Terrorist Hobby Drone Threat
+
+These hobby-sized drones have also become an escalating terrorist threat, both in war zones overseas and on home soil for homeland security.
+
+ISIS has intensified the use of weaponized and surveillance hobby drones against the U.S. military. These hobby drones are readily available and cheap – would-be terrorists can easily find manuals online with instructions on how to weaponize the hobby drones with things like grenades.
+
+PODCAST: Hear this US Air Force Special Operations PJ take you inside dangerous, vital missions
+
+The concern is these tactics will be used against in the U.S. too.
+
+What can be done?
+
+It is important for law enforcement to be equipped with the solutions to stop armed drones. Currently, there are very few good counter-drone solutions available for this growing and serious problem.
+
+Blasting a drone threat out of the sky, for example, is not a good option since the shrapnel could be very dangerous to civilians below.
+
+With tech like DroneCatcher, law enforcement could more easily protect targets attractive to terrorists. This could be critical infrastructure, such as nuclear facilities or events such as the Super Bowl or New Year’s Eve at Times Square.
+
+Whether catching a rogue flying near an airplane or a terrorist weaponized drone heading for a crowd, the DroneCatcher system is one of the very few counter-drone systems that can capture the drone in a controlled safe way and remove it safely.

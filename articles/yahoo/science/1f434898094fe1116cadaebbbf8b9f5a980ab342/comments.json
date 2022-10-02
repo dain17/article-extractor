@@ -1,0 +1,74 @@
+[
+    {
+        "user_name": "dun*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/3DJfjGWcf36GOB3kVSZGFikw/comments",
+        "time": null,
+        "context": "高度25kmは世界初の成層圏到達者オーギュスト・ピカールが1932年に記録した最高点23kmより高い。\n客を乗せられる広さのゴンドラでそれができるというのだから、90年の進歩を感じます。\n無重量状態とは行かないけど、成層圏の夜明けとか見られるなら100万円は高くないかもしれない。",
+        "good": 14,
+        "bad": 2,
+        "replies": []
+    },
+    {
+        "user_name": "土ノ子",
+        "user_url": "https://news.yahoo.co.jp/profile/id/yrd9MYqfYHI1u6QcMYHpzY_KfQ--/comments",
+        "time": null,
+        "context": "宇宙から地表まで軌道エレベーターを\n建造するのは莫大な費用と期間が必要だが、\n途中まで気球が使えたら低コストで\n運用できるのでは？",
+        "good": 6,
+        "bad": 5,
+        "replies": []
+    },
+    {
+        "user_name": "sat*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/xYT0nE2La2Ta_wg_OFNp_gNJ/comments",
+        "time": null,
+        "context": "現実的ですが夢があります\n実現化を期待したいです",
+        "good": 9,
+        "bad": 2,
+        "replies": []
+    },
+    {
+        "user_name": "shi*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/4fWy5gyLYnn0oV8yz4RA3Ik-/comments",
+        "time": null,
+        "context": "昔1×8いこうよに出ていた方かな。\n夢を追い続けていて素晴らしいです。",
+        "good": 5,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "you*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/Pj8OtlCBZWWTtYNoRMxD2kTBQ1n4ZMY-/comments",
+        "time": null,
+        "context": "この様なビジネスを世界市場へ広報するのも大事だと思う。",
+        "good": 4,
+        "bad": 1,
+        "replies": []
+    },
+    {
+        "user_name": "kkk*****",
+        "user_url": "https://news.yahoo.co.jp/profile/id/lCONmjOTYXtGk3ZMOG1oqB0-/comments",
+        "time": null,
+        "context": "行ってみたい反面、リスクマネージメントはどうなってるか知りたい。",
+        "good": 7,
+        "bad": 2,
+        "replies": []
+    },
+    {
+        "user_name": "ロンゲ",
+        "user_url": "https://news.yahoo.co.jp/profile/id/aPC.mdSca3klBEMrPkXD0Sk-/comments",
+        "time": null,
+        "context": "ハムスターの次は岩谷代表？",
+        "good": 4,
+        "bad": 1,
+        "replies": [
+            {
+                "user_name": "caum…",
+                "user_url": "https://news.yahoo.co.jp/profile/id/oEo8BOKba30obsrCSdIpcwJUu6YgE.gH/comments",
+                "time": null,
+                "context": "ハムのスター、ビッグボスなら喜んで行くんじゃないかな。",
+                "good": 0,
+                "bad": 1
+            }
+        ]
+    }
+]

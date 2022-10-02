@@ -1,0 +1,19 @@
+Army researchers are working with the University of Illinois Chicago on unmanned technology for recharging drone swarms.
+
+The university has been awarded a four-year, $8 million cooperative agreement “to develop foundational science in two critical propulsion and power technology areas for powering future families of unmanned aircraft systems,” according to a statement released by the Army Research Laboratory.
+
+"This collaborative program will help small battery-powered drones autonomously return from military missions to unmanned ground vehicles for recharging,” the Army added. “The university is developing algorithms to enable route planning for multiple teams of small unmanned air and ground vehicles.”
+
+The military is looking to make the process of recharging vast drone swarms as efficiently as possible by using fast, recharging batteries and wireless power transfer technologies. This, researchers say, will let multiple drones to hover over an unmanned ground vehicle and recharge wirelessly.
+
+“Imagine in the future, the Army deploying a swarm of hundreds or thousands of unmanned aerial systems,” said Dr. Mike Kweon, program manager for the laboratory’s Versatile Tactical Power and Propulsion Essential Research Program, in the statement. “Each of these systems has only roughly 26 minutes with the current battery technologies to conduct a flight mission and return to their home before they lose battery power, which means all of them could conceivably return at the same time to have their batteries replaced.”
+
+"Soldiers would need to carry a few thousand batteries on missions to facilitate this, which is logistically overwhelming and overall, not conducive to a leading expeditionary military operation,” Kweon added. “With this research project, we’re operationalizing scientific endeavors to increase Soldier readiness on the battlefields of tomorrow.”
+
+The Army Research Laboratory is part of the U.S. Army Combat Capabilities Development Command.
+
+In another project, the U.S. Army has been working with Texas A&M University to develop drones that can change shape in mid-flight.
+
+Experts from the Army’s Research Laboratory presented their work on a new tool to develop the small shape-shifting drones at the American Institute of Aeronautics and Astronautics Aviation Forum and Exposition virtual event on June 16, 2020. Army researchers and Texas A&M University published the findings of a two-year study in fluid-structure interaction.
+
+Follow James Rogers on Twitter @jamesjrogers
