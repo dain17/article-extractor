@@ -26,7 +26,7 @@ class Fox(Domain):
     def extract_article_URLs(self, driver, old_urls):
         sleep(0.5)
         self.try_closing_advatisement(driver=driver)
-        articles = [a for a in query_selector_all(driver, 'article.article') if query_selector(a, '.eyebrow').get_attribute('innerText') != 'VIDEO']
+        articles = [a for a in query_selector_all(driver, '.collection-article-list article.article') if query_selector(a, '.eyebrow').get_attribute('innerText') != 'VIDEO']
         article_urls = [query_selector(a, 'div.m > a').get_attribute('href') for a in articles]
         return [('https://www.foxnews.com' if 'https://' not in url else '') + url for url in article_urls if url not in exclusive_url]
 
@@ -51,7 +51,7 @@ class Fox(Domain):
         print(datetime.datetime.now().strftime('%Y/%m/%d %H:%M:%S'), article_url)
         self.try_closing_advatisement(driver=driver)
 
-        if safed_query_selector(driver, 'article.article').exists():
+        if safed_query_selector(driver, '.collection-article-list article.article').exists():
             print(f'error: {article_url}')
             return {}, '', [], 1
 
