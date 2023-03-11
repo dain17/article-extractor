@@ -27,10 +27,11 @@ def main():
     # options.add_argument('--remote-debugging-port=9222')
     options.set_capability("loggingPrefs", {'performance': 'ALL'})
 
-    driver = webdriver.Remote(
-        command_executor='http://localhost:4444/wd/hub',
-        options=options,
-    )
+    # driver = webdriver.Remote(
+    #     command_executor='http://localhost:5555/wd/hub',
+    #     options=options,
+    # )
+    driver = webdriver.Chrome(options=options)
     atexit.register(lambda: driver.quit())
     driver.set_window_size(950, 800)
 

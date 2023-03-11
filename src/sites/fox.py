@@ -23,7 +23,24 @@ class Fox(Domain):
             'education': 'https://www.foxnews.com/category/us/education',
             'crime': 'https://www.foxnews.com/category/us/crime',
             'immigration': 'https://www.foxnews.com/category/us/immigration',
-            'terror': 'https://www.foxnews.com/category/us/terror'
+            'terror': 'https://www.foxnews.com/category/us/terror',
+            # world
+            'un': 'https://www.foxnews.com/category/world/united-nations',
+            'conflicts': 'https://www.foxnews.com/category/world/conflicts',
+            'terrorism': 'https://www.foxnews.com/category/world/terrorism',
+            'disasters': 'https://www.foxnews.com/category/world/disasters',
+            'global-economy': 'https://www.foxnews.com/category/world/global-economy',
+            'environment': 'https://www.foxnews.com/category/world/environment',
+            'religion': 'https://www.foxnews.com/category/world/religion',
+            'scandals': 'https://www.foxnews.com/category/world/scandals',
+            # health
+            'coronavirus': 'https://www.foxnews.com/category/health/infectious-disease/coronavirus',
+            'healthy-living': 'https://www.foxnews.com/category/health/healthy-living',
+            'medical-research': 'https://www.foxnews.com/category/health/medical-research',
+            'mental-health': 'https://www.foxnews.com/category/health/mental-health',
+            'cancer': 'https://www.foxnews.com/category/health/cancer',
+            'heart-health': 'https://www.foxnews.com/category/health/heart-health',
+            'childrens-health': 'https://www.foxnews.com/category/health/healthy-living/childrens-health'
         }[self.category]
 
         # document.querySelector('button.pf-widget-close').click()
