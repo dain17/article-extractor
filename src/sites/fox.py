@@ -18,7 +18,12 @@ class Fox(Domain):
             'science': 'https://www.foxnews.com/science',
             'drones': 'https://www.foxnews.com/category/tech/technologies/drones',
             'tech': 'https://www.foxnews.com/category/tech',
-            'economy': 'https://www.foxnews.com/category/us/economy'
+            'economy': 'https://www.foxnews.com/category/us/economy',
+            'military': 'https://www.foxnews.com/category/us/military',
+            'education': 'https://www.foxnews.com/category/us/education',
+            'crime': 'https://www.foxnews.com/category/us/crime',
+            'immigration': 'https://www.foxnews.com/category/us/immigration',
+            'terror': 'https://www.foxnews.com/category/us/terror'
         }[self.category]
 
         # document.querySelector('button.pf-widget-close').click()

@@ -9,8 +9,7 @@ from sites.perhaps import Perhaps
 
 class Kango(Domain):
     def __init__(self, category) -> None:
-        self.category = 'kakomon'
-        self.hub_id = '277'
+        self.hub_id = category or '101'
         self.article_id = 0
         self.main_page = 'https://www.kango-roo.com/kokushi/kako/' + self.hub_id
 
@@ -18,7 +17,7 @@ class Kango(Domain):
         return old_urls + [e.get_attribute('href') for e in query_selector_all(elem, '.questionList a')]
 
     def open_next_page(self, driver):
-        print('opne_next_page')
+        print('open_next_page')
         probrems = query_selector_all(driver, '.whiteBox li')
         optional_url = Perhaps([query_selector(e, 'a').get_attribute('href') for i, e in enumerate(probrems[1:]) if probrems[i].get_attribute('class') == 'current'])
         if optional_url.is_empty():
@@ -43,7 +42,7 @@ class Kango(Domain):
         information = self.extract_info_json(driver=driver)
         context = '\n\n'.join(information.values())
 
-        return information, context, []
+        return information, context, [], 0
 
     def extract_info_json(self, driver):
         text = ''
