@@ -29,8 +29,8 @@ python src/main.py -d yahoo -c science -n 10 -o ./articles/
 
 ### オプションについて
 |オプション名|非短縮系|説明|デフォルト|
-|-d|--domain|記事を抽出したドメインのキー（factory.pyにて定義）|
-'yahoo'|
+|-|-|-|-|
+|-d|--domain|記事を抽出したドメインのキー（factory.pyにて定義）|'yahoo'|
 |-c|--category|カテゴリのキー（yahoo.py等にて定義）||
 |-n|--num|記事の最大抽出数|10|
 |-o|--output|出力先のフォルダ|'./articles/'|
